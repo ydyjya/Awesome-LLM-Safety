@@ -36,6 +36,22 @@
 ## Introduction
 
 
+🥰🥰🥰**Welcome to our awesome-llm-safety-paper-list repository!** 🥰🥰🥰
+
+In this repo, you can retrieve the latest😋, comprehensive😎, safety papers on large language models. In addition, we will also do our best to update Talks, Presentations, Tutorials, Workshops, news and Articles🤗.
+
+😊In order to allow everyone to search for the paper they need more quickly, we will mark the paper with several keywords. 
+
+For example, 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
+
+If the paper touches on multiple subtopics under security, we will place it under each subtopic.
+
+> Like awesome-LLM-safety-paper-list will appear in Tutorials for each subtopic🤩!
+
+**Let’s start learning LLM Safety!**
+
 ---
 ## Security
 
@@ -47,8 +63,12 @@
 
 #### Tutorials & Workshops
 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 #### News & Articles
+
+
 ---
 ## Privacy
 
@@ -60,8 +80,12 @@
 
 #### Tutorials & Workshops
 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 ####  News & Articles
+
+
 ---
 ## Misinformation
 
@@ -73,8 +97,12 @@
 
 #### Tutorials & Workshops
 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 #### News & Articles
+
+
 ---
 ## Adversarial_attacks
 
@@ -86,8 +114,11 @@
 
 #### Tutorials & Workshops
 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 ####  News & Articles
+
 
 ---
 ## Defenses
@@ -100,7 +131,11 @@
 
 #### Tutorials & Workshops
 
+- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 ####  News & Articles
+
+
 ---
 ## Author
