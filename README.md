@@ -7,30 +7,30 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Security](#security)
-      - [Papers](#papers)
-      - [Talks \& Presentations](#talks--presentations)
-      - [Tutorials \& Workshops](#tutorials--workshops)
-      - [News \& Articles](#news--articles)
+      - [📑Papers📑](#papers)
+      - [💻Presentations \& Talks💻](#presentations--talks)
+      - [📖Tutorials \& Workshops📖](#tutorials--workshops)
+      - [📰News \& Articles📰](#news--articles)
   - [Privacy](#privacy)
-      - [Papers](#papers-1)
-      - [Talks \& Presentations](#talks--presentations-1)
-      - [Tutorials \& Workshops](#tutorials--workshops-1)
-      - [News \& Articles](#news--articles-1)
+      - [📑Papers📑](#papers-1)
+      - [💻Presentations \& Talks💻](#presentations--talks-1)
+      - [📖Tutorials \& Workshops📖](#tutorials--workshops-1)
+      - [📰News \& Articles📰](#news--articles-1)
   - [Misinformation](#misinformation)
-      - [Papers](#papers-2)
-      - [Talks \& Presentations](#talks--presentations-2)
-      - [Tutorials \& Workshops](#tutorials--workshops-2)
-      - [News \& Articles](#news--articles-2)
+      - [📑Papers📑](#papers-2)
+      - [💻Presentations \& Talks💻](#presentations--talks-2)
+      - [📖Tutorials \& Workshops📖](#tutorials--workshops-2)
+      - [📰News \& Articles📰](#news--articles-2)
   - [Adversarial\_attacks](#adversarial_attacks)
-      - [Papers](#papers-3)
-      - [Talks \& Presentations](#talks--presentations-3)
-      - [Tutorials \& Workshops](#tutorials--workshops-3)
-      - [News \& Articles](#news--articles-3)
+      - [📑Papers📑](#papers-3)
+      - [💻Presentations \& Talks💻](#presentations--talks-3)
+      - [📖Tutorials \& Workshops📖](#tutorials--workshops-3)
+      - [📰News \& Articles📰](#news--articles-3)
   - [Defenses](#defenses)
-      - [Papers](#papers-4)
-      - [Talks \& Presentations](#talks--presentations-4)
-      - [Tutorials \& Workshops](#tutorials--workshops-4)
-      - [News \& Articles](#news--articles-4)
+      - [📑Papers📑](#papers-4)
+      - [💻Presentations \& Talks💻](#presentations--talks-4)
+      - [📖Tutorials \& Workshops📖](#tutorials--workshops-4)
+      - [📰News \& Articles📰](#news--articles-4)
   - [Author](#author)
 
 ## Introduction
@@ -55,89 +55,93 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ---
 ## Security
 
-#### Papers
+#### 📑Papers📑
 
 
-#### Talks & Presentations
+#### 💻Presentations & Talks💻
 
 
-#### Tutorials & Workshops
+#### 📖Tutorials & Workshops📖
 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
-#### News & Articles
+#### 📰News & Articles📰
 
 
 ---
 ## Privacy
 
-#### Papers
+#### 📑Papers📑
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
   - **Jailbreak**
 
-#### Talks & Presentations
+#### 💻Presentations & Talks💻
 
 
-#### Tutorials & Workshops
+#### 📖Tutorials & Workshops📖
 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
-####  News & Articles
+#### 📰News & Articles📰
 
 
 ---
 ## Misinformation
 
-#### Papers
+#### 📑Papers📑
 
 
-#### Talks & Presentations
+#### 💻Presentations & Talks💻
 
 
-#### Tutorials & Workshops
+#### 📖Tutorials & Workshops📖
 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
-#### News & Articles
+#### 📰News & Articles📰
 
 
 ---
 ## Adversarial_attacks
 
-#### Papers
+#### 📑Papers📑
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
   - **Jailbreak**
 
-#### Talks & Presentations
+#### 💻Presentations & Talks💻
 
 
-#### Tutorials & Workshops
+#### 📖Tutorials & Workshops📖
 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
-####  News & Articles
+#### 📰News & Articles📰
 
 
 ---
 ## Defenses
 
-#### Papers
+#### 📑Papers📑
 
 
-#### Talks & Presentations
+#### 💻Presentations & Talks💻
 
 
-#### Tutorials & Workshops
+#### 📖Tutorials & Workshops📖
 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
-####  News & Articles
-
+#### 📰News & Articles📰
 
 ---
 ## Author
+
+
+**🤗If you have any questions, please contact our authors!🤗**
+
+✉️: [ydyjya](zhouzhenhong@bupt.edu.cn)
