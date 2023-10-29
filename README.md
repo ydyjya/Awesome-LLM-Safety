@@ -8,22 +8,27 @@
   - [Introduction](#introduction)
   - [Security](#security)
       - [Papers](#papers)
+      - [Talks \& Presentations](#talks--presentations)
       - [Tutorials \& Workshops](#tutorials--workshops)
       - [News \& Articles](#news--articles)
   - [Privacy](#privacy)
       - [Papers](#papers-1)
+      - [Talks \& Presentations](#talks--presentations-1)
       - [Tutorials \& Workshops](#tutorials--workshops-1)
       - [News \& Articles](#news--articles-1)
   - [Misinformation](#misinformation)
       - [Papers](#papers-2)
+      - [Talks \& Presentations](#talks--presentations-2)
       - [Tutorials \& Workshops](#tutorials--workshops-2)
       - [News \& Articles](#news--articles-2)
   - [Adversarial\_attacks](#adversarial_attacks)
       - [Papers](#papers-3)
+      - [Talks \& Presentations](#talks--presentations-3)
       - [Tutorials \& Workshops](#tutorials--workshops-3)
       - [News \& Articles](#news--articles-3)
   - [Defenses](#defenses)
       - [Papers](#papers-4)
+      - [Talks \& Presentations](#talks--presentations-4)
       - [Tutorials \& Workshops](#tutorials--workshops-4)
       - [News \& Articles](#news--articles-4)
   - [Author](#author)
@@ -37,20 +42,20 @@
 #### Papers
 
 
-####　Talks & Presentations
+#### Talks & Presentations
 
 
 #### Tutorials & Workshops
 
 
-####  News & Articles
+#### News & Articles
 ---
 ## Privacy
 
 #### Papers
 
 
-####　Talks & Presentations
+#### Talks & Presentations
 
 
 #### Tutorials & Workshops
@@ -63,20 +68,20 @@
 #### Papers
 
 
-####　Talks & Presentations
+#### Talks & Presentations
 
 
 #### Tutorials & Workshops
 
 
-####  News & Articles
+#### News & Articles
 ---
 ## Adversarial_attacks
 
 #### Papers
 
 
-####　Talks & Presentations
+#### Talks & Presentations
 
 
 #### Tutorials & Workshops
@@ -90,7 +95,7 @@
 #### Papers
 
 
-####　Talks & Presentations
+#### Talks & Presentations
 
 
 #### Tutorials & Workshops
