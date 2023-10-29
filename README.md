@@ -3,19 +3,99 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [LLM-SecurityPapers](#llm-securitypapers)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Security](#security)
+      - [Papers](#papers)
+      - [Tutorials \& Workshops](#tutorials--workshops)
+      - [News \& Articles](#news--articles)
+  - [Privacy](#privacy)
+      - [Papers](#papers-1)
+      - [Tutorials \& Workshops](#tutorials--workshops-1)
+      - [News \& Articles](#news--articles-1)
+  - [Misinformation](#misinformation)
+      - [Papers](#papers-2)
+      - [Tutorials \& Workshops](#tutorials--workshops-2)
+      - [News \& Articles](#news--articles-2)
+  - [Adversarial\_attacks](#adversarial_attacks)
+      - [Papers](#papers-3)
+      - [Tutorials \& Workshops](#tutorials--workshops-3)
+      - [News \& Articles](#news--articles-3)
+  - [Defenses](#defenses)
+      - [Papers](#papers-4)
+      - [Tutorials \& Workshops](#tutorials--workshops-4)
+      - [News \& Articles](#news--articles-4)
+  - [Author](#author)
+
+## Introduction
 
 
-- [Security](#security)
+---
+## Security
+
+#### Papers
 
 
-- [Privacy](#privacy)
+####　Talks & Presentations
 
 
-- [Misinformation](#misinformation)
+#### Tutorials & Workshops
 
 
-- [Adversarial_attacks](#adversarial_attacks)
+####  News & Articles
+---
+## Privacy
+
+#### Papers
 
 
-- [Defenses](defenses)
+####　Talks & Presentations
+
+
+#### Tutorials & Workshops
+
+
+####  News & Articles
+---
+## Misinformation
+
+#### Papers
+
+
+####　Talks & Presentations
+
+
+#### Tutorials & Workshops
+
+
+####  News & Articles
+---
+## Adversarial_attacks
+
+#### Papers
+
+
+####　Talks & Presentations
+
+
+#### Tutorials & Workshops
+
+
+####  News & Articles
+
+---
+## Defenses
+
+#### Papers
+
+
+####　Talks & Presentations
+
+
+#### Tutorials & Workshops
+
+
+####  News & Articles
+---
+## Author
