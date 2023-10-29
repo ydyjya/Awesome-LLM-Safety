@@ -74,6 +74,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### Papers
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+  - **Jailbreak**
 
 #### Talks & Presentations
 
@@ -108,6 +109,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### Papers
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+  - **Jailbreak**
 
 #### Talks & Presentations
 
