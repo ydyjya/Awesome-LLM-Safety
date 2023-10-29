@@ -44,7 +44,7 @@ In this repo, you can retrieve the latest😋, comprehensive😎, safety papers 
 
 For example, 
 - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
+  - **Repo&Tutorials**
 
 If the paper touches on multiple subtopics under security, we will place it under each subtopic.
 
@@ -144,4 +144,4 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 **🤗If you have any questions, please contact our authors!🤗**
 
-✉️: [ydyjya](https://github.com/ydyjya): zhouzhenhong@bupt.edu.cn
+✉️: [ydyjya](https://github.com/ydyjya) ➡️ zhouzhenhong@bupt.edu.cn
