@@ -1,0 +1,5 @@
+1. 23.07 - arxiv - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
+2. 23.07 - arxiv  - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+3. 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
+4. 20.09 - EMNLP2020(findings) - [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)
+5. 22.03 - ACL2022 -[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
