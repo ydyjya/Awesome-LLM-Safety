@@ -155,7 +155,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
   - **Toxicity**
 - 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
   - **Misinformation**&**Hallucination**
-- 22.03 - ACL2022 -[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
+- 22.03 - ACL2022 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
   - **Misinformation**&**Hallucination**
 #### 📚Resource📚
 - 20.09 - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
