@@ -46,8 +46,8 @@ In this repo, you can retrieve the latest😋, comprehensive😎, safety papers 
 😊In order to allow everyone to search for the paper they need more quickly, we will mark the paper with several keywords. 
 
 For example, 
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
+- 23.10(timestamp) - GitHub(publication information) - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo(keyword1)**&**Tutorials(keyword2)**
 
 If the paper touches on multiple subtopics under security, we will place it under each subtopic.
 
