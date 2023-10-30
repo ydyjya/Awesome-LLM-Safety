@@ -16,12 +16,12 @@
       - [💻Presentations \& Talks💻](#presentations--talks-1)
       - [📖Tutorials \& Workshops📖](#tutorials--workshops-1)
       - [📰News \& Articles📰](#news--articles-1)
-  - [Misinformation](#misinformation)
+  - [Misinformation \& Hallucination](#misinformation--hallucination)
       - [📑Papers📑](#papers-2)
       - [💻Presentations \& Talks💻](#presentations--talks-2)
       - [📖Tutorials \& Workshops📖](#tutorials--workshops-2)
       - [📰News \& Articles📰](#news--articles-2)
-  - [Adversarial\_attacks](#adversarial_attacks)
+  - [Adversarial Attacks](#adversarial-attacks)
       - [📑Papers📑](#papers-3)
       - [💻Presentations \& Talks💻](#presentations--talks-3)
       - [📖Tutorials \& Workshops📖](#tutorials--workshops-3)
@@ -31,6 +31,9 @@
       - [💻Presentations \& Talks💻](#presentations--talks-4)
       - [📖Tutorials \& Workshops📖](#tutorials--workshops-4)
       - [📰News \& Articles📰](#news--articles-4)
+  - [Dataset \& Benchmark](#dataset--benchmark)
+      - [📑Papers📑](#papers-5)
+      - [📚Resource📚](#resource)
   - [Author](#author)
 
 ## Introduction
@@ -57,13 +60,17 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📑Papers📑
 
+- 23.07 - arxiv - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
+  - **Jailbreak**&**Security**
+- 23.07 - arxiv  - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+  - **Jailbreak**
 
 #### 💻Presentations & Talks💻
 
 
 #### 📖Tutorials & Workshops📖
 
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
 #### 📰News & Articles📰
@@ -73,7 +80,44 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ## Privacy
 
 #### 📑Papers📑
-- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+
+
+#### 💻Presentations & Talks💻
+
+
+#### 📖Tutorials & Workshops📖
+
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
+
+#### 📰News & Articles📰
+
+
+---
+## Misinformation & Hallucination
+
+#### 📑Papers📑
+- 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
+  - **Misinformation**&**Hallucination**
+#### 💻Presentations & Talks💻
+
+
+#### 📖Tutorials & Workshops📖
+
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
+
+#### 📰News & Articles📰
+
+
+---
+## Adversarial Attacks
+
+#### 📑Papers📑
+
+- 23.06 - arixiv - [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)
+  - **Multimodal**&**Jailbreak**
+- 23.07 - arxiv - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
   - **Jailbreak**
 
 #### 💻Presentations & Talks💻
@@ -81,42 +125,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📖Tutorials & Workshops📖
 
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
-
-
----
-## Misinformation
-
-#### 📑Papers📑
-
-
-#### 💻Presentations & Talks💻
-
-
-#### 📖Tutorials & Workshops📖
-
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
-
-
----
-## Adversarial_attacks
-
-#### 📑Papers📑
-- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
-  - **Jailbreak**
-
-#### 💻Presentations & Talks💻
-
-
-#### 📖Tutorials & Workshops📖
-
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
 #### 📰News & Articles📰
@@ -133,10 +142,26 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📖Tutorials & Workshops📖
 
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
   - **Repo**&**Tutorials**
 
 #### 📰News & Articles📰
+
+---
+## Dataset & Benchmark
+
+#### 📑Papers📑
+- 20.09 - EMNLP2020(findings) - [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)
+  - **Toxicity**
+- 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
+  - **Misinformation**&**Hallucination**
+- 22.03 - ACL2022 -[ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
+  - **Misinformation**&**Hallucination**
+#### 📚Resource📚
+- 20.09 - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
+  - **Toxicity**
+- 21.09 - [TruthfulQA Dataset](https://github.com/sylinrl/TruthfulQA)
+  - **Misinformation**&**Hallucination**
 
 ---
 ## Author
