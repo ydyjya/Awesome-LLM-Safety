@@ -46,8 +46,8 @@ In this repo, you can retrieve the latest😋, comprehensive😎, safety papers 
 😊In order to allow everyone to search for the paper they need more quickly, we will mark the paper with several keywords. 
 
 For example, 
-- [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo&Tutorials**
+- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
+  - **Repo**&**Tutorials**
 
 If the paper touches on multiple subtopics under security, we will place it under each subtopic.
 
@@ -158,9 +158,9 @@ If the paper touches on multiple subtopics under security, we will place it unde
 - 22.03 - ACL2022 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
   - **Misinformation**&**Hallucination**
 #### 📚Resource📚
-- 20.09 - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
+- 20.09 - URL - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
   - **Toxicity**
-- 21.09 - [TruthfulQA Dataset](https://github.com/sylinrl/TruthfulQA)
+- 21.09 - URL - [TruthfulQA Dataset](https://github.com/sylinrl/TruthfulQA)
   - **Misinformation**&**Hallucination**
 
 ---
