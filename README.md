@@ -142,7 +142,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📑Papers📑
 
-- 22.06 - arixiv - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+- 22.04 - arixiv - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
   - **Helpful**&**Harmless** principle
 
 #### 💻Presentations & Talks💻
