@@ -147,6 +147,9 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ## Defenses
 
 #### 📑Papers📑
+
+- 22.04 - arxiv - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+  - **Helpful**&**Harmless Principle**
 - 23.09 - arxiv - [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)
   - **Safety Filter**&**Adversarial Prompts**
 - 23.10 - arxiv - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
