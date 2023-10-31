@@ -60,10 +60,12 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📑Papers📑
 
+- 20.10 - arxiv - [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)
+  - **Toxic Behavior**&**Open-domain**
 - 23.07 - arxiv - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
-  - **Jailbreak**&**Security**
+  - **Jailbreak**&**Competing Objectives**&**Mismatched Generalization**
 - 23.07 - arxiv  - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
-  - **Jailbreak**
+  - **Jailbreak**&**Transferable Attack**&**Adversarial Attack**
 
 #### 💻Presentations & Talks💻
 
@@ -81,7 +83,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 #### 📑Papers📑
 - 23.10 - arxiv - [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://arxiv.org/abs/2310.17884)
-  - **Benchmark**
+  - **Benchmark**&**Contextual Privacy**&**Chain-of-thought**
 
 #### 💻Presentations & Talks💻
 
@@ -95,15 +97,15 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 
 ---
-## Misinformation & Hallucination
+## Truthfulness
 
 #### 📑Papers📑
 - 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
-  - **Hallucination**
+  - **Benchmark**&**Truthfulness**
 - 23.10 - arxiv - [Lost in Translation -- Multilingual Misinformation and its Evolution](https://arxiv.org/abs/2310.18089)
-  - **Misinformation**
+  - **Misinformation**&**Multilingual**
 - 23.10 - arxiv - [Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
-  - **Truthfulness**
+  - **Truthfulness**&**Truthful Persona**
 
 #### 💻Presentations & Talks💻
 
@@ -117,14 +119,18 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 
 ---
-## Adversarial Attacks
+## Attacks
 
 #### 📑Papers📑
 
-- 23.06 - arixiv - [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)
+- 22.11 - NIPS2022(ML Safety Workshop) - [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)
+  - **Prompt Injection**&**Misaligned**
+- 23.02 - arxiv - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+  - **Adversarial Prompting**&**Indirect Prompt Injection**&**LLM-Integrated Applications**
+- 23.06 - arxiv - [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)
   - **Multimodal**&**Jailbreak**
 - 23.07 - arxiv - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
-  - **Jailbreak**
+  - **Jailbreak**&**Transferable Attack**&**Adversarial Attack**
 
 #### 💻Presentations & Talks💻
 
@@ -141,7 +147,10 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ## Defenses
 
 #### 📑Papers📑
-
+- 23.09 - arxiv - [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)
+  - **Safety Filter**&**Adversarial Prompts**
+- 23.10 - arxiv - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
+  - **Jailbreak**&**Adversarial Attack**&**Perturbation**
 
 #### 💻Presentations & Talks💻
 
@@ -160,14 +169,14 @@ If the paper touches on multiple subtopics under security, we will place it unde
 - 20.09 - EMNLP2020(findings) - [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)
   - **Toxicity**
 - 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
-  - **Hallucination**
+  - **Truthfulness**
 - 22.03 - ACL2022 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
   - **Toxicity**
 #### 📚Resource📚
 - 20.09 - URL - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
   - **Toxicity**
 - 21.09 - URL - [TruthfulQA Dataset](https://github.com/sylinrl/TruthfulQA)
-  - **Hallucination**
+  - **Truthfulness**
 
 ---
 ## Author

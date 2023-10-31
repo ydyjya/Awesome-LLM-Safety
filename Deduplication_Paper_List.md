@@ -6,4 +6,9 @@
 6. 23.10 - arxiv - [Lost in Translation -- Multilingual Misinformation and its Evolution](https://arxiv.org/abs/2310.18089)
 7. 23.10 - arxiv - [Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
 8. 23.10 - arxiv - [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://arxiv.org/abs/2310.17884)
-9. 
+9. 23.10 - arxiv - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
+10. 23.09 - arxiv - [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)
+11. 20.10 - arxiv - [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)
+12. 23.02 - arxiv - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+13. 22.11 - NIPS2022(ML Safety Workshop) - [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)
+14. 
