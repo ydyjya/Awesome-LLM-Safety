@@ -1,194 +1,200 @@
-# LLM-SecurityPapers
+# 🛡️Awesome LLM-Safety🛡️[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-## Table of Contents
+## 🤗Introduction
 
-- [LLM-SecurityPapers](#llm-securitypapers)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Security](#security)
-      - [📑Papers📑](#papers)
-      - [💻Presentations \& Talks💻](#presentations--talks)
-      - [📖Tutorials \& Workshops📖](#tutorials--workshops)
-      - [📰News \& Articles📰](#news--articles)
-  - [Privacy](#privacy)
-      - [📑Papers📑](#papers-1)
-      - [💻Presentations \& Talks💻](#presentations--talks-1)
-      - [📖Tutorials \& Workshops📖](#tutorials--workshops-1)
-      - [📰News \& Articles📰](#news--articles-1)
-  - [Truthfulness](#truthfulness)
-      - [📑Papers📑](#papers-2)
-      - [💻Presentations \& Talks💻](#presentations--talks-2)
-      - [📖Tutorials \& Workshops📖](#tutorials--workshops-2)
-      - [📰News \& Articles📰](#news--articles-2)
-  - [Attacks](#attacks)
-      - [📑Papers📑](#papers-3)
-      - [💻Presentations \& Talks💻](#presentations--talks-3)
-      - [📖Tutorials \& Workshops📖](#tutorials--workshops-3)
-      - [📰News \& Articles📰](#news--articles-3)
-  - [Defenses](#defenses)
-      - [📑Papers📑](#papers-4)
-      - [💻Presentations \& Talks💻](#presentations--talks-4)
-      - [📖Tutorials \& Workshops📖](#tutorials--workshops-4)
-      - [📰News \& Articles📰](#news--articles-4)
-  - [Dataset \& Benchmark](#dataset--benchmark)
-      - [📑Papers📑](#papers-5)
-      - [📚Resource📚](#resource)
-  - [Author](#author)
+<p align="center">
+<a href=""> <img src="https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub stars"></a>
+<a href=""> <img src="https://img.shields.io/github/forks/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub forks"></a>
+<a href=""> <img src="https://img.shields.io/github/issues/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub issues"></a>
+<a href=""> <img src="https://img.shields.io/github/last-commit/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 
-## Introduction
+</p>
 
-
-🥰🥰🥰**Welcome to our awesome-llm-safety-paper-list repository!** 🥰🥰🥰
+🥰🥰🥰**Welcome to our awesome-llm-safety repository!** 🥰🥰🥰
 
 In this repo, you can retrieve the latest😋, comprehensive😎, safety papers on large language models. In addition, we will also do our best to update Talks, Presentations, Tutorials, Workshops, news and Articles🤗.
 
-😊In order to allow everyone to search for the paper they need more quickly, we will mark the paper with several keywords. 
-
-For example, 
-- 23.10(**Timestamp**) - GitHub(**Publication Information**) - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo(keyword1)**&**Tutorials(keyword2)**
 
 If the paper touches on multiple subtopics under security, we will place it under each subtopic.
 
-> Like awesome-LLM-safety-paper-list will appear in Tutorials for each subtopic🤩!
+> Like Awesome-LLM-Safety will appear in Tutorials for each subtopic🤩!
 
-**Let’s start learning LLM Safety!**
-
----
-## Security
-
-#### 📑Papers📑
-
-- 20.10 - arxiv - [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)
-  - **Toxic Behavior**&**Open-domain**
-- 23.07 - arxiv - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
-  - **Jailbreak**&**Competing Objectives**&**Mismatched Generalization**
-- 23.07 - arxiv  - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
-  - **Jailbreak**&**Transferable Attack**&**Adversarial Attack**
-
-#### 💻Presentations & Talks💻
-
-
-#### 📖Tutorials & Workshops📖
-
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
-
+**Let’s start LLM Safety tutorial!**
 
 ---
-## Privacy
 
-#### 📑Papers📑
-- 23.10 - arxiv - [Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://arxiv.org/abs/2310.17884)
-  - **Benchmark**&**Contextual Privacy**&**Chain-of-thought**
-- 23.10 - arxiv - [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150)
-  - **Unlearning**&**Teacher-student Framework**&**Data Protection**
-- 23.10 - arxiv - [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)
-  - **Privacy Neuron Detection**&**Model Editing**&**Data Memorization**
+## 🚀Table of Contents
 
-#### 💻Presentations & Talks💻
+- [🛡️Awesome LLM-Safety🛡️](#️awesome-llm-safety️)
+  - [🤗Introduction](#introduction)
+  - [🚀Table of Contents](#table-of-contents)
+  - [🔐Security Tutorial](#security-tutorial)
+    - [📑Papers](#papers)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks)
+    - [Other](#other)
+  - [🔏Privacy Tutorial](#privacy-tutorial)
+    - [📑Papers](#papers-1)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-1)
+    - [Other](#other-1)
+  - [📰Truthfulness\&Misinformation Tutorial](#truthfulnessmisinformation-tutorial)
+    - [📑Papers](#papers-2)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-2)
+    - [Other](#other-2)
+  - [😈JailBreak \& Attacks Tutorial](#jailbreak--attacks-tutorial)
+    - [📑Papers](#papers-3)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
+    - [Other](#other-3)
+  - [🛡️Defenses Tutorial](#️defenses-tutorial)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
+    - [Other](#other-4)
+  - [💯datasets \& Benchmark Tutorial](#datasets--benchmark-tutorial)
+    - [📑Papers](#papers-4)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
+    - [Other](#other-5)
+    - [📚Resource📚](#resource)
+  - [🧑‍🎓Author](#author)
 
-
-#### 📖Tutorials & Workshops📖
-
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
 
 
 ---
-## Truthfulness
+## 🔐Security Tutorial
 
-#### 📑Papers📑
-- 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
-  - **Benchmark**&**Truthfulness**
-- 23.10 - arxiv - [Lost in Translation -- Multilingual Misinformation and its Evolution](https://arxiv.org/abs/2310.18089)
-  - **Misinformation**&**Multilingual**
-- 23.10 - arxiv - [Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
-  - **Truthfulness**&**Truthful Persona**
-
-#### 💻Presentations & Talks💻
+### 📑Papers
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
+|20.10|Facebook AI Research|arxiv|[Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)|
+|23.07|UC Berkeley|arxiv|[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)|
+|23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
 
 
-#### 📖Tutorials & Workshops📖
+### 📖Tutorials, Articles, Presentations and Talks
 
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
-
-
----
-## Attacks
-
-#### 📑Papers📑
-
-- 22.11 - NIPS2022(ML Safety Workshop) - [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)
-  - **Prompt Injection**&**Misaligned**
-- 23.02 - arxiv - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
-  - **Adversarial Prompting**&**Indirect Prompt Injection**&**LLM-Integrated Applications**
-- 23.06 - arxiv - [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)
-  - **Multimodal**&**Jailbreak**
-- 23.07 - arxiv - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
-  - **Jailbreak**&**Transferable Attack**&**Adversarial Attack**
-
-#### 💻Presentations & Talks💻
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
 
 
-#### 📖Tutorials & Workshops📖
+### Other
 
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
-
-#### 📰News & Articles📰
-
+👉[Latest&Comprehensive Security Paper](.//subtopic/Security.md)
 
 ---
-## Defenses
-
-#### 📑Papers📑
-
-- 22.04 - arxiv - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
-  - **Helpful**&**Harmless Principle**
-- 23.09 - arxiv - [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)
-  - **Safety Filter**&**Adversarial Prompts**
-- 23.10 - arxiv - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
-  - **Jailbreak**&**Adversarial Attack**&**Perturbation**
-
-#### 💻Presentations & Talks💻
+## 🔏Privacy Tutorial
 
 
-#### 📖Tutorials & Workshops📖
+### 📑Papers
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
 
-- 23.10 - GitHub - [awesome-LLM-safety-paper-list](https://github.com/ydyjya/awesome-LLM-safety-paper-list)
-  - **Repo**&**Tutorials**
 
-#### 📰News & Articles📰
 
----
-## Dataset & Benchmark
+### 📖Tutorials, Articles, Presentations and Talks
 
-#### 📑Papers📑
-- 20.09 - EMNLP2020(findings) - [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)
-  - **Toxicity**
-- 21.09 - ACL2022 - [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
-  - **Truthfulness**
-- 22.03 - ACL2022 - [ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)
-  - **Toxicity**
-#### 📚Resource📚
-- 20.09 - URL - [RealToxicityPrompts Dataset](https://toxicdegeneration.allenai.org/)
-  - **Toxicity**
-- 21.09 - URL - [TruthfulQA Dataset](https://github.com/sylinrl/TruthfulQA)
-  - **Truthfulness**
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+
+
+### Other
+
+👉[Latest&Comprehensive Privacy Paper](.//subtopic/Privacy.md)
 
 ---
-## Author
+## 📰Truthfulness&Misinformation Tutorial
+
+
+### 📑Papers
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
+|21.09|University of Oxford|ACL2022|[TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)|
+
+
+### 📖Tutorials, Articles, Presentations and Talks
+
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+
+### Other
+
+👉[Latest&Comprehensive Truthfulness&Misinformation Paper](./subtopic/Truthfulness&Misinformation.md)
+
+---
+## 😈JailBreak & Attacks Tutorial
+
+### 📑Papers
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
+|22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
+|23.06|Google|arxiv|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
+|23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
+
+### 📖Tutorials, Articles, Presentations and Talks
+
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+
+### Other
+
+👉[Latest&Comprehensive JailBreak & Attacks Paper](./subtopic/JailBreak&Attacks.md)
+
+---
+## 🛡️Defenses Tutorial
+
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
+|22.04|Anthropic|arxiv|[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)|
+
+
+
+### 📖Tutorials, Articles, Presentations and Talks
+
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+
+### Other
+
+👉[Latest&Comprehensive Defenses Paper](./subtopic/Defenses.md)
+
+
+--- 
+## 💯datasets & Benchmark Tutorial
+
+### 📑Papers
+|Date|Institute|Publication|Paper|
+|:-:|:-:|:-:|:-:|
+|20.09|University of Washington|EMNLP2020(findings)|[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)|
+|21.09|University of Oxford|ACL2022|[TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)|
+|22.03|MIT|ACL2022|[ToxiGen: A Large-Scale Machine-Generated datasets for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)|
+
+
+### 📖Tutorials, Articles, Presentations and Talks
+
+|Date|Type|Title|URL|
+|:-:|:-:|:-:|:-:|
+|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+
+### Other
+
+👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/datasets&Benchmark.md)
+
+
+### 📚Resource📚
+- Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
+- Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+
+---
+## 🧑‍🎓Author
 
 
 **🤗If you have any questions, please contact our authors!🤗**
 
 ✉️: [ydyjya](https://github.com/ydyjya) ➡️ zhouzhenhong@bupt.edu.cn
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
+
+**[⬆ Back to ToC](#table-of-contents)**
