@@ -61,11 +61,15 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ## 🔐Security Tutorial
 
 ### 📑Papers
-| Date  |      Institute       | Publication |                                                             Paper                                                             |
-|:-----:|:--------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-| 20.10 | Facebook AI Research |    arxiv    |                        [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                         |
-| 22.04 |      Anthropic       |    arxiv    | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) |
-| 23.07 |     UC Berkeley      |    arxiv    |                      [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)                       |
+| Date  |      Institute       | Publication |                                                                                            Paper                                                                                            |
+|:-----:|:--------------------:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.10 | Facebook AI Research |    arxiv    |                                                       [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                                                        |
+| 22.02 |       DeepMind       |  EMNLP2022  |                                              [Red Teaming Language Models with Language Model](https://aclanthology.org/2022.emnlp-main.225/)                                               |
+| 22.03 |        OpenAI        |  NIPS2022   | [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) |
+| 22.04 |      Anthropic       |    arxiv    |                                [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)                                |
+| 22.09 |      Anthropic       |    arxiv    |                              [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)                               |
+| 22.12 |      Anthropic       |    arxiv    |                                                    [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)                                                     |
+| 23.07 |     UC Berkeley      |    arxiv    |                                                     [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)                                                      |
 
 
 ### 📖Tutorials, Articles, Presentations and Talks
@@ -186,10 +190,10 @@ If the paper touches on multiple subtopics under security, we will place it unde
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
 
 ---
-## 🧑‍🎓Author
+## 🧑‍🎓Contributors
 
 
-**🤗If you have any questions, please contact our authors!🤗**
+**🤗contact our contributors!🤗**
 
 ✉️: [ydyjya](https://github.com/ydyjya) ➡️ zhouzhenhong@bupt.edu.cn
 
