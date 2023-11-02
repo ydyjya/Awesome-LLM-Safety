@@ -148,9 +148,9 @@ If the paper touches on multiple subtopics under security, we will place it unde
 ---
 ## 🛡️Defenses Tutorial
 
+### Papers
 | Date  | Institute | Publication |                                                             Paper                                                             |
 |:-----:|:---------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-
 
 
 ### 📖Tutorials, Articles, Presentations and Talks
@@ -181,14 +181,12 @@ If the paper touches on multiple subtopics under security, we will place it unde
 |:-----:|:---------:|:------------------:|:----------------------------------------------------:|
 | 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
 
-### Other
-
-👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/datasets&Benchmark.md)
-
-
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+
+### Other
+👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/datasets&Benchmark.md)
 
 ---
 ## 🧑‍🎓Contributors
