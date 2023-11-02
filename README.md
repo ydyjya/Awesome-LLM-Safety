@@ -109,9 +109,10 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 
 ### 📑Papers
-| Date  |      Institute       | Publication |                                            Paper                                            |
-|:-----:|:--------------------:|:-----------:|:-------------------------------------------------------------------------------------------:|
-| 21.09 | University of Oxford |   ACL2022   | [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958) |
+| Date  |          Institute           | Publication |                                            Paper                                            |
+|:-----:|:----------------------------:|:-----------:|:-------------------------------------------------------------------------------------------:|
+| 21.09 |     University of Oxford     |   ACL2022   | [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958) |
+| 23.11 | The University of Manchester |    arxiv    |     [Emotion Detection for Misinformation: A Review](https://arxiv.org/abs/2311.00671)      |
 
 
 ### 📖Tutorials, Articles, Presentations and Talks

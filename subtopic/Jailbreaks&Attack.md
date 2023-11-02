@@ -14,6 +14,8 @@
 | 23.02 | Saarland University |            arxiv             | [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) | **Adversarial Prompting**&**Indirect Prompt Injection**&**LLM-Integrated Applications** |
 | 23.06 |       Google        |            arxiv             |                                [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                                 |                              **Multimodal**&**Jailbreak**                               |
 | 23.07 |         CMU         |            arxiv             |                     [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)                     |              **Jailbreak**&**Transferable Attack**&**Adversarial Attack**               |
+| 23.11 |       MBZUAI        |            arxiv             |                [Robustness Tests for Automatic Machine Translation Metrics with Adversarial Attacks](https://arxiv.org/abs/2311.00508)                |        **Adversarially-synthesized Texts**&**Word-level Attacks**&**Evaluation**        |
+| 23.11 |  Palisade Research  |            arxiv             |                        [BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B](https://arxiv.org/abs/2311.00117)                        |                              **Remove Safety Fine-tuning**                              |
 
 
 ## 💻Presentations & Talks

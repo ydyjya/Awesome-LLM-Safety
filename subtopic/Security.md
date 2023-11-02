@@ -17,7 +17,8 @@
 | 22.09 |      Anthropic       |    arxiv    |                              [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)                               |               **Red Teaming**&**Harmless**&**Helpful**               |
 | 22.12 |      Anthropic       |    arxiv    |                                                    [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)                                                     |             **Harmless**&**Self-improvement**&**RLAIF**              |
 | 23.07 |     UC Berkeley      |    arxiv    |                                                     [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)                                                      | **Jailbreak**&**Competing Objectives**&**Mismatched Generalization** |
-| 23.09 |  Peking University   |    arxiv    |                                           [RAIN: Your Language Models Can Align Themselves without Finetuning](https://arxiv.org/abs/2309.07124)                                            |                   Self-boosting&Rewind Mechanisms                    |
+| 23.09 |  Peking University   |    arxiv    |                                           [RAIN: Your Language Models Can Align Themselves without Finetuning](https://arxiv.org/abs/2309.07124)                                            |               **Self-boosting**&**Rewind Mechanisms**                |
+| 23.11 |       KAIST AI       |    arxiv    |                                           [HARE: Explainable Hate Speech Detection with Step-by-Step Reasoning](https://arxiv.org/abs/2311.00321)                                           |                    **Hate Speech**&**Detection**                     |
 
 
 ## 💻Presentations & Talks
