@@ -137,7 +137,7 @@ If the paper touches on multiple subtopics under security, we will place it unde
 
 ### Other
 
-👉[Latest&Comprehensive JailBreak & Attacks Paper](./subtopic/JailBreak&Attacks.md)
+👉[Latest&Comprehensive JailBreak & Attacks Paper](./subtopic/Jailbreaks&Attack.md)
 
 ---
 ## 🛡️Defenses Tutorial
