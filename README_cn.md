@@ -30,19 +30,14 @@
 - 简略版：在README中，使用者可以找到按时间排列好的精选资讯，以及各种咨询的链接
 - 详细版：如果对某一子话题特别感兴趣，可以点开“subtopic”文件夹，进一步了解。里面有对每篇文章或者资讯的简略介绍，可以帮助研究者快速锁定内容。
 
- **👨‍👩‍👧‍👧加入我们！** 
- 如果你希望能与志同道合的人交流LLM Safety、快速更新信息的话，欢迎加入微信群！
-![加入我们吧!](./resource/wechat.png)
 <center>🥰🥰🥰让我们开始llm-safety学习之旅吧🥰🥰🥰</center>
 
-**让我们开始吧!**
 ---
 
 ## 🚀目录
 
 - [🛡️Awesome LLM-Safety🛡️](#️awesome-llm-safety️)
   - [🤗介绍](#介绍)
-  - [**让我们开始吧!**](#让我们开始吧)
   - [🚀目录](#目录)
   - [🔐模型安全（Security Tutorial）](#模型安全security-tutorial)
     - [📑论文](#论文)
@@ -206,9 +201,16 @@
 
 ✉️: [ydyjya](https://github.com/ydyjya) ➡️ zhouzhenhong@bupt.edu.cn
 
-💬: **也欢迎添加我的个人微信一起交流！**
-![ydyjya WeChat](./resource/ydyjya%20wechat.jpg)
+💬: **交流LLM Safety**
 
+<div align="center">
+
+<img src="./resource/ydyjya%20wechat.jpg" width="300"/>
+<img src="./resource/wechat.png" width="300", height="408"/>
+
+</div>
+
+---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
 

@@ -30,10 +30,6 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 - Quick Start: In the README, users can find a curated list of select information sorted by date, along with links to various consultations.
 - In-Depth Exploration: If you have a special interest in a particular subtopic, delve into the "subtopic" folder for more. Each item, be it an article or piece of news, comes with a brief introduction, allowing researchers to swiftly zero in on relevant content.
 
-**👨‍👩‍👧‍👧 Join Us** 
- If you're looking to exchange ideas on LLM Safety with like-minded individuals and stay updated swiftly, feel free to join our WeChat group!
-![Join Us](./resource/wechat.png)
-
 
 **Let’s start LLM Safety tutorial!**
 
@@ -208,6 +204,17 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ✉️: [ydyjya](https://github.com/ydyjya) ➡️ zhouzhenhong@bupt.edu.cn
 
+💬: **LLM Safety Discussion**
+
+<div align="center">
+
+<img src="./resource/ydyjya%20wechat.jpg" width="300"/>
+<img src="./resource/wechat.png" width="300", height="408"/>
+
+</div>
+
+
+---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
 
