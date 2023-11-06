@@ -15,14 +15,25 @@ English | [中文](README_cn.md)
 ## 🤗Introduction
 
 
-🥰🥰🥰**Welcome to our awesome-llm-safety repository!** 🥰🥰🥰
+**Welcome to our Awesome-llm-safety repository!** 🥰🥰🥰
 
-In this repo, you can retrieve the latest😋, comprehensive😎, safety papers on large language models. In addition, we will also do our best to update Talks, Presentations, Tutorials, Workshops, news and Articles🤗.
+**🧑‍💻 Our Mission**
+We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
+> If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
 
-If the paper touches on multiple subtopics under security, we will place it under each subtopic.
+**✔️ Perfect for Many**
+- For beginners curious about llm-safety, our repository serves as a compass for grasping the big picture and diving into the details. Classic or influential papers retained in the README provide a beginner-friendly navigation through interesting directions in the field;
+- For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. Our thorough compilation and careful selection are time-savers for you.
 
-> Like Awesome-LLM-Safety will appear in Tutorials for each subtopic🤩!
+**🧭 How to Use this Guide**
+- Quick Start: In the README, users can find a curated list of select information sorted by date, along with links to various consultations.
+- In-Depth Exploration: If you have a special interest in a particular subtopic, delve into the "subtopic" folder for more. Each item, be it an article or piece of news, comes with a brief introduction, allowing researchers to swiftly zero in on relevant content.
+
+**👨‍👩‍👧‍👧 Join Us** 
+ If you're looking to exchange ideas on LLM Safety with like-minded individuals and stay updated swiftly, feel free to join our WeChat group!
+![Join Us](./resource/wechat.png)
+
 
 **Let’s start LLM Safety tutorial!**
 
