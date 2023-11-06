@@ -7,11 +7,11 @@
 <a href=""> <img src="https://img.shields.io/github/last-commit/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 </p>
 
-<center>
+<div align="center">
 
 [English](README.md) | 中文
 
-</center>
+</div>
 
 
 
