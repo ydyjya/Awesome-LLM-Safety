@@ -18,11 +18,12 @@ English | [中文](README_cn.md)
 **Welcome to our Awesome-llm-safety repository!** 🥰🥰🥰
 
 **🧑‍💻 Our Mission**
+
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 > If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
 
-**✔️ Perfect for Many**
+**✔️ Perfect for Majority**
 - For beginners curious about llm-safety, our repository serves as a compass for grasping the big picture and diving into the details. Classic or influential papers retained in the README provide a beginner-friendly navigation through interesting directions in the field;
 - For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. Our thorough compilation and careful selection are time-savers for you.
 
