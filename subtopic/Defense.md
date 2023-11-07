@@ -9,12 +9,13 @@
 
 ## 📑Papers
 
-| Date  |            Institute            | Publication |                                                       Paper                                                       |                            Keywords                             |
-|:-----:|:-------------------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
-| 23.09 |     University of Maryland      |    arxiv    |              [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)              |            **Safety Filter**&**Adversarial Prompts**            |
-| 23.09 |     University of Maryland      |    arxiv    |   [BASELINE DEFENSES FOR ADVERSARIAL ATTACKS AGAINST ALIGNED LANGUAGE MODELS](https://arxiv.org/abs/2309.00614)   | **Perplexity**&**Input Preprocessing**&**Adversarial Training** |
-| 23.10 |   University of Pennsylvania    |    arxiv    |    [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)    |      **Jailbreak**&**Adversarial Attack**&**Perturbation**      |
-| 23.11 | University of California Irvine |    arxiv    | [Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield](https://arxiv.org/abs/2311.00172) |       **Adversarial Prompt Shield**&**Safety Classifier**       |
+| Date  |            Institute             | Publication |                                                       Paper                                                       |                            Keywords                             |
+|:-----:|:--------------------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 23.09 |      University of Maryland      |    arxiv    |              [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)              |            **Safety Filter**&**Adversarial Prompts**            |
+| 23.09 |      University of Maryland      |    arxiv    |   [BASELINE DEFENSES FOR ADVERSARIAL ATTACKS AGAINST ALIGNED LANGUAGE MODELS](https://arxiv.org/abs/2309.00614)   | **Perplexity**&**Input Preprocessing**&**Adversarial Training** |
+| 23.10 |    University of Pennsylvania    |    arxiv    |    [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)    |      **Jailbreak**&**Adversarial Attack**&**Perturbation**      |
+| 23.11 | University of California Irvine  |    arxiv    | [Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield](https://arxiv.org/abs/2311.00172) |       **Adversarial Prompt Shield**&**Safety Classifier**       |
+| 23.11 | Child Health Evaluative Sciences |    arxiv    |     [Pyclipse, a library for deidentification of free-text clinical notes](https://arxiv.org/abs/2311.02748)      |           **Clinical Text Data**&**Deidentification**           |
 
 
 

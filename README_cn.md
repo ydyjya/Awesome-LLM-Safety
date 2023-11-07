@@ -205,8 +205,11 @@
 
 <div align="center">
 
-<img src="./resource/ydyjya%20wechat.jpg" width="300"/>
-<img src="./resource/wechat.png" width="300", height="408"/>
+<div align="center">
+
+[Wechat Group](./resource/wechat.png) | [My Wechat](./resource/wechat.png)
+
+</div>
 
 </div>
 

@@ -20,6 +20,8 @@
 | 23.11 |    University of Washington Bothell     |    arxiv    |                                [Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI](https://arxiv.org/abs/2311.01463)                                |  **Healthcare**&**Trustworthiness**&**Hallucinations**   |
 | 23.11 |           Intuit AI Research            |  EMNLP2023  |            [SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency](https://arxiv.org/abs/2311.01740)             |     **Hallucination Detection**&**Trustworthiness**      |
 | 23.11 |      Shanghai Jiao Tong University      |    arxiv    |                 [Support or Refute: Analyzing the Stance of Evidence to Detect Out-of-Context Mis- and Disinformation](https://arxiv.org/abs/2311.01766)                  | **Misinformation**&**Disinformation**&**Out-of-Context** |
+| 23.11 |      Hamad Bin Khalifa University       |    arxiv    |                        [ArAIEval Shared Task: Persuasion Techniques and Disinformation Detection in Arabic Text](https://arxiv.org/abs/2311.03179)                        |            **Disinformation**&**Arabic Text**            |
+| 23.11 |             UNC-Chapel Hill             |    arxiv    |                         [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/abs/2311.03287)                         |      **Hallucination**&**Benchmark**&**Multimodal**      |
 
 ## 💻Presentations & Talks
 
