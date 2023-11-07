@@ -65,7 +65,6 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
     - [📚Resource📚](#resource)
     - [Other](#other-5)
-  - [👉Latest\&Comprehensive datasets \& Benchmark Paper](#latestcomprehensive-datasets--benchmark-paper)
   - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
   - [🧑‍🎓Author](#author)
 
@@ -202,6 +201,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
+
 ---
 ## 🧑‍🏫 Scholars 👩‍🏫 
 **In this section, we list some of the experts we consider to be experts in the field of LLM Safety!**
