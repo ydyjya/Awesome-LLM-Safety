@@ -63,6 +63,7 @@
     - [📖教程, 文章, 演示, 演讲](#教程-文章-演示-演讲-5)
     - [📚资源📚](#资源)
     - [其他](#其他-5)
+  - [🧑‍🏫 学者 👩‍🏫](#-学者-)
   - [🧑‍🎓作者信息](#作者信息)
 
 ---
@@ -94,6 +95,10 @@
 ### 📑论文
 |日期|机构|出版信息|论文&链接|
 |:-:|:-:|:-:|:-:|
+|19.12|Microsoft|CCS2020|[Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880)|
+|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
+|21.10|Stanford|ICLR2022|[Large language models can be strong differentially private learners](https://openreview.net/forum?id=bVuP3ltATMz)|
+|22.02|Google Research|ICLR2023|[Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)
 
 
 
@@ -134,6 +139,7 @@
 ### 📑论文
 |日期|机构|出版信息|论文&链接|
 |:-:|:-:|:-:|:-:|
+|20.12|Google|USENIX Security 2021|[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
 |22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
 |23.06|Google|arxiv|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
 |23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
@@ -153,6 +159,7 @@
 
 |日期|机构|出版信息|论文&链接|
 |:-:|:-:|:-:|:-:|
+|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
 |22.04|Anthropic|arxiv|[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)|
 
 
@@ -192,6 +199,19 @@
 ### 其他
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
 
+---
+## 🧑‍🏫 学者 👩‍🏫 
+**在这个部分，我们会列出一些我们觉得在LLM Safety领域很有建树的研究者!**
+
+|学者|主页&谷歌学术|关键词&兴趣|
+|:-:|:-:|:-:|
+|Nicholas Carlini|[主页](https://nicholas.carlini.com/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=q4qDvAoAAAAJ&view_op=list_works&sortby=pubdate)|**the intersection of machine learning and computer security**&**neural networks from an adversarial perspective**|
+|Daphne Ippolito|[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=COEsqLYAAAAJ&view_op=list_works&sortby=pubdate)|**Natural Language Processing**|
+|Chiyuan Zhang|[主页](https://pluskid.org/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=l_G2vr0AAAAJ&view_op=list_works&sortby=pubdate) |**Especially interested in understanding the generalization and memorization in machine and human learning, as well as implications in related areas like privacy**|
+|Katherine Lee|[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=bjdB4K8AAAAJ&view_op=list_works&sortby=pubdate)|**natural language processing**&**translation**&**machine learning**&**computational neuroscienceattention**|
+|Florian Tramèr|[主页](https://floriantramer.com/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=ijH0-a8AAAAJ)|**Computer Security**&**Machine Learning**&**Cryptography**&**the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users**|
+|Andy Zou|[主页](https://andyzoujm.github.io/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)|**ML Safety**&**AI Safety**|
+|Jie Huang|[主页](https://jeffhj.github.io/) \| [谷歌学术](https://scholar.google.com/citations?user=GIoPkMoAAAAJ&hl=zh-CN&oi=sra)|**Knowledge: Factuality, Hallucination,Retrieval-Augmentation**&**Reasoning: Complex Reasoning, Faithful Reasoning**&**Ethics: Privacy Leakage Analysis, Citation**|
 
 ---
 ## 🧑‍🎓作者信息

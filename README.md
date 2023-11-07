@@ -65,6 +65,8 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
     - [📚Resource📚](#resource)
     - [Other](#other-5)
+  - [👉Latest\&Comprehensive datasets \& Benchmark Paper](#latestcomprehensive-datasets--benchmark-paper)
+  - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
   - [🧑‍🎓Author](#author)
 
 
@@ -98,8 +100,11 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ### 📑Papers
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
-
-
+|19.12|Microsoft|CCS2020|[Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880)|
+|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
+|21.10|Stanford|ICLR2022|[Large language models can be strong differentially private learners](https://openreview.net/forum?id=bVuP3ltATMz)|
+|22.02|Google Research|ICLR2023|[Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)|
+|22.02|UNC Chapel Hill|ICML2022|[Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://proceedings.mlr.press/v162/kandpal22a.html)|
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
@@ -138,6 +143,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ### 📑Papers
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
+|20.12|Google|USENIX Security 2021|[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
 |22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
 |23.06|Google|arxiv|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
 |23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
@@ -157,6 +163,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
+|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
 |22.04|Anthropic|arxiv|[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)|
 
 
@@ -195,7 +202,19 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
+---
+## 🧑‍🏫 Scholars 👩‍🏫 
+**In this section, we list some of the experts we consider to be experts in the field of LLM Safety!**
 
+|Scholars|HomePage&Google Scholars|Keywords or Interested|
+|:-:|:-:|:-:|
+|Nicholas Carlini|[Homepage](https://nicholas.carlini.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=q4qDvAoAAAAJ&view_op=list_works&sortby=pubdate)|**the intersection of machine learning and computer security**&**neural networks from an adversarial perspective**|
+|Daphne Ippolito|[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=COEsqLYAAAAJ&view_op=list_works&sortby=pubdate)|**Natural Language Processing**|
+|Chiyuan Zhang|[Homepage](https://pluskid.org/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=l_G2vr0AAAAJ&view_op=list_works&sortby=pubdate) |**Especially interested in understanding the generalization and memorization in machine and human learning, as well as implications in related areas like privacy**|
+|Katherine Lee|[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bjdB4K8AAAAJ&view_op=list_works&sortby=pubdate)|**natural language processing**&**translation**&**machine learning**&**computational neuroscienceattention**|
+|Florian Tramèr|[Homepage](https://floriantramer.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ijH0-a8AAAAJ)|**Computer Security**&**Machine Learning**&**Cryptography**&**the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users**|
+|Andy Zou|[Homepage](https://andyzoujm.github.io/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)|**ML Safety**&**AI Safety**|
+|Jie Huang|[Homepage](https://jeffhj.github.io/) \| [Google Scholar](https://scholar.google.com/citations?user=GIoPkMoAAAAJ&hl=zh-CN&oi=sra)|**Knowledge: Factuality, Hallucination,Retrieval-Augmentation**&**Reasoning: Complex Reasoning, Faithful Reasoning**&**Ethics: Privacy Leakage Analysis, Citation**|
 
 ---
 ## 🧑‍🎓Author
