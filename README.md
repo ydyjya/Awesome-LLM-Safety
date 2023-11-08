@@ -141,7 +141,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📑Papers
 |Date|Institute|Publication|Paper|
-|:-:|:-:|::|:-:|
+|:-:|:-:|:-:|:-:|
 |20.12|Google|USENIX Security 2021|[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
 |22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
 |23.06|Google|NIPS2023|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
