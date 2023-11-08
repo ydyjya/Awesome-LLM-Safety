@@ -41,26 +41,26 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 - [🛡️Awesome LLM-Safety🛡️](#️awesome-llm-safety️)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
-  - [🔐Security Tutorial](#security-tutorial)
+  - [🔐Security](#security)
     - [📑Papers](#papers)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks)
     - [Other](#other)
-  - [🔏Privacy Tutorial](#privacy-tutorial)
+  - [🔏Privacy](#privacy)
     - [📑Papers](#papers-1)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-1)
     - [Other](#other-1)
-  - [📰Truthfulness\&Misinformation Tutorial](#truthfulnessmisinformation-tutorial)
+  - [📰Truthfulness \& Misinformation](#truthfulness--misinformation)
     - [📑Papers](#papers-2)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-2)
     - [Other](#other-2)
-  - [😈JailBreak \& Attacks Tutorial](#jailbreak--attacks-tutorial)
+  - [😈JailBreak \& Attacks](#jailbreak--attacks)
     - [📑Papers](#papers-3)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
     - [Other](#other-3)
-  - [🛡️Defenses Tutorial](#️defenses-tutorial)
+  - [🛡️Defenses](#️defenses)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
-  - [💯Datasets \& Benchmark Tutorial](#datasets--benchmark-tutorial)
+  - [💯Datasets \& Benchmark](#datasets--benchmark)
     - [📑Papers](#papers-4)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
     - [📚Resource📚](#resource)
@@ -71,7 +71,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 
 ---
-## 🔐Security Tutorial
+## 🔐Security 
 
 ### 📑Papers
 |Date|Institute|Publication|Paper|
@@ -93,7 +93,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 👉[Latest&Comprehensive Security Paper](.//subtopic/Security.md)
 
 ---
-## 🔏Privacy Tutorial
+## 🔏Privacy 
 
 
 ### 📑Papers
@@ -117,7 +117,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 👉[Latest&Comprehensive Privacy Paper](.//subtopic/Privacy.md)
 
 ---
-## 📰Truthfulness&Misinformation Tutorial
+## 📰Truthfulness & Misinformation 
 
 
 ### 📑Papers
@@ -137,14 +137,14 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 👉[Latest&Comprehensive Truthfulness&Misinformation Paper](./subtopic/Truthfulness&Misinformation.md)
 
 ---
-## 😈JailBreak & Attacks Tutorial
+## 😈JailBreak & Attacks 
 
 ### 📑Papers
 |Date|Institute|Publication|Paper|
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|::|:-:|
 |20.12|Google|USENIX Security 2021|[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
 |22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
-|23.06|Google|arxiv|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
+|23.06|Google|NIPS2023|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
 |23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
 
 ### 📖Tutorials, Articles, Presentations and Talks
@@ -158,7 +158,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 👉[Latest&Comprehensive JailBreak & Attacks Paper](./subtopic/Jailbreaks&Attack.md)
 
 ---
-## 🛡️Defenses Tutorial
+## 🛡️Defenses 
 
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
@@ -179,7 +179,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 
 --- 
-## 💯Datasets & Benchmark Tutorial
+## 💯Datasets & Benchmark
 
 ### 📑Papers
 |Date|Institute|Publication|Paper|
