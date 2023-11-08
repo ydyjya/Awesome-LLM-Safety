@@ -17,7 +17,7 @@ English | [中文](README_cn.md)
 
 **Welcome to our Awesome-llm-safety repository!** 🥰🥰🥰
 
-**🧑‍💻 Our Mission**
+**🧑‍💻 Our Work**
 
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
