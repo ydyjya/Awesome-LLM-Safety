@@ -12,6 +12,7 @@
 | 23.11 |                  UNC-Chapel Hill                   |          arxiv          |        [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/abs/2311.03287)         |            **Hallucination**&**Benchmark**&**Multimodal**             |
 | 23.11 |                  IBM Research AI                   | EMNLP2023(GEM workshop) |                      [Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)                       | **Adversarial Examples**&**Clustering**&**Automatically Identifying** |
 | 23.11 | The Hong Kong University of Science and Technology |          arxiv          |               [P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models](https://arxiv.org/abs/2311.04044)                |            **Differential Privacy**&**Privacy Evaluation**            |
+| 23.11 |                    UC Berkeley                     |          arxiv          |                                     [CAN LLMS FOLLOW SIMPLE RULES](https://arxiv.org/abs/2311.04235)                                     |                 **Evaluation**&**Attack Strategies**                  |
 
 
 

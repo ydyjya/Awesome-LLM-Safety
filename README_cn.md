@@ -70,11 +70,11 @@
 ## 🔐模型安全（Security）
 
 ### 📑论文
-|日期|机构|出版信息|论文&链接|
-|:-:|:-:|:-:|:-:|
-|20.10|Facebook AI Research|arxiv|[Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)|
-|23.07|UC Berkeley|arxiv|[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)|
-|23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
+|日期|机构|   出版信息   |论文&链接|
+|:-:|:-:|:--------:|:-:|
+|20.10|Facebook AI Research|  arxiv   |[Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)|
+|23.07|UC Berkeley| NIPS2023 |[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)|
+|23.07|CMU|  arxiv   |[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
 
 
 ### 📖教程, 文章, 演示, 演讲
@@ -137,12 +137,12 @@
 ## 😈越狱&攻击（JailBreak & Attacks）
 
 ### 📑论文
-|日期|机构|出版信息|论文&链接|
-|:-:|:-:|:-:|:-:|
-|20.12|Google|USENIX Security 2021|[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
-|22.11|AE Studio|NIPS2022(ML Safety Workshop)|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
-|23.06|Google|NIPS2023|[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
-|23.07|CMU|arxiv|[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
+|  日期   |    机构     |             出版信息             |                                                                   论文&链接                                                                   |
+|:-----:|:---------:|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.12 |  Google   |     USENIX Security 2021     | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) |
+| 22.11 | AE Studio | NIPS2022(ML Safety Workshop) |                     [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)                     |
+| 23.06 |  Google   |            arxiv             |                          [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                           |
+| 23.07 |    CMU    |            arxiv             |               [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)               |
 
 ### 📖教程, 文章, 演示, 演讲
 

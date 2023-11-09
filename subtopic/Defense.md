@@ -11,7 +11,7 @@
 
 | Date  |            Institute             | Publication |                                                       Paper                                                       |                            Keywords                             |
 |:-----:|:--------------------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
-|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|**Privacy Protected**&**Deduplication**&**Memorization**|
+| 21.07 |         Google Research          |   ACL2022   |      [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)      |    **Privacy Protected**&**Deduplication**&**Memorization**     |
 | 23.09 |      University of Maryland      |    arxiv    |              [Certifying LLM Safety against Adversarial Prompting](https://arxiv.org/abs/2309.02705)              |            **Safety Filter**&**Adversarial Prompts**            |
 | 23.09 |      University of Maryland      |    arxiv    |   [BASELINE DEFENSES FOR ADVERSARIAL ATTACKS AGAINST ALIGNED LANGUAGE MODELS](https://arxiv.org/abs/2309.00614)   | **Perplexity**&**Input Preprocessing**&**Adversarial Training** |
 | 23.10 |    University of Pennsylvania    |    arxiv    |    [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)    |      **Jailbreak**&**Adversarial Attack**&**Perturbation**      |
