@@ -35,4 +35,8 @@
 
 ## 📰News & Articles
 
+| Date  |   Type    |       Title        |                         URL                          |
+|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
+| 23.10 | Letter | Joint Statement on AI Safety and Openness | [link](https://open.mozilla.org/letter/) |
+
 ## 🧑‍🏫Scholars

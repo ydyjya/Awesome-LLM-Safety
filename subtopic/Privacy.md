@@ -40,5 +40,8 @@
 | 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
 
 ## 📰News & Articles
+| Date  |   Type    |       Title        |                         URL                          |
+|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
+| 23.11 | News |Wild: GPT-3.5 leaked a random dude's photo in the output. | [link](https://twitter.com/thealexker/status/1719896871009694057) |
 
 ## 🧑‍🏫Scholars
