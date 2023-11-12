@@ -21,7 +21,7 @@
 | 23.11 |               Palisade Research                |            arxiv             |                        [BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B](https://arxiv.org/abs/2311.00117)                        |                              **Remove Safety Fine-tuning**                              |
 | 23.11 |              University of Twente              |         ICNLSP 2023          |                         [Efficient Black-Box Adversarial Attacks on Neural Text Detectors](https://arxiv.org/abs/2311.01873)                          |                      **Misclassification**&**Adversarial attacks**                      |
 | 23.11 | PRISM AI&Harmony Intelligenc&Leap Laboratories |            arxiv             |            [Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation](https://arxiv.org/abs/2311.03348 )             |           **Persona-modulation Attacks**&**Jailbreaks**&**Automated Prompt**            |
-
+| 23.11 |              Tsinghua University               |            arxiv             |                     [Jailbreaking Large Vision-Language Models via Typographic Visual Prompts](https://arxiv.org/abs/2311.05608)                      |              **Typographic Attack**&**Multi-modal**&**Safety Evaluation**               |
 
 ## 💻Presentations & Talks
 

@@ -9,9 +9,10 @@
 
 ## 📑Papers
 
-| Date  |       Institute        | Publication |                                                 Paper                                                  |         Keywords         |
-|:-----:|:----------------------:|:-----------:|:------------------------------------------------------------------------------------------------------:|:------------------------:|
-| 23.11 | Allen Institute for AI |    arxiv    | [Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs](https://arxiv.org/abs/2311.04892) | **Bias**&**Stereotypes** |
+| Date  |       Institute        | Publication |                                                                Paper                                                                |         Keywords         |
+|:-----:|:----------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
+| 23.11 | Allen Institute for AI |    arxiv    |               [Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs](https://arxiv.org/abs/2311.04892)                | **Bias**&**Stereotypes** |
+| 23.11 |    Adobe Inc. India    |    arxiv    | [All Should Be Equal in the Eyes of Language Models: Counterfactually Aware Fair Text Generation](https://arxiv.org/abs/2311.05451) | **Fairness**&**Biases**  |
 
 
 
