@@ -175,7 +175,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### Other
 
-👉[Latest&Comprehensive Defenses Paper](./subtopic/Defenses.md)
+👉[Latest&Comprehensive Defenses Paper](./subtopic/Defense.md)
 
 
 --- 
