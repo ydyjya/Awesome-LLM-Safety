@@ -12,6 +12,7 @@
 | Date  |                Institute                 | Publication |                                                                             Paper                                                                              |              Keywords               |
 |:-----:|:----------------------------------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 20.10 |           Facebook AI Research           |    arxiv    |                                         [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                                         | **Toxic Behavior**&**Open-domain**  |
+|23.06|University of Illinois at Urbana-Champaign |arxiv|[DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)|**Robustness**&**Ethics**&**Privacy**&**Toxicity** |
 | 23.11 |      Pennsylvania State University       |    arxiv    | [A Taxonomy of Rater Disagreements: Surveying Challenges & Opportunities from the Perspective of Annotating Online Toxicity](https://arxiv.org/abs/2311.04345) |       **Toxicity**&**Survey**       |
 | 23.11 | University of Maryland, Baltimore County |    arxiv    |            [Determination of toxic comments and unintended model bias minimization using Deep learning approach](https://arxiv.org/abs/2311.04789)             | **Toxicity**&**Detection**&**Bias** |
 
