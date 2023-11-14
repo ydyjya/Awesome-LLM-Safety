@@ -9,13 +9,14 @@
 
 ## 📑Papers
 
-| Date  |                Institute                 | Publication |                                                                             Paper                                                                              |              Keywords               |
-|:-----:|:----------------------------------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
-| 20.10 |           Facebook AI Research           |    arxiv    |                                         [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                                         | **Toxic Behavior**&**Open-domain**  |
-|23.06|University of Illinois at Urbana-Champaign |arxiv|[DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)|**Robustness**&**Ethics**&**Privacy**&**Toxicity** |
-| 23.11 |      Pennsylvania State University       |    arxiv    | [A Taxonomy of Rater Disagreements: Surveying Challenges & Opportunities from the Perspective of Annotating Online Toxicity](https://arxiv.org/abs/2311.04345) |       **Toxicity**&**Survey**       |
-| 23.11 | University of Maryland, Baltimore County |    arxiv    |            [Determination of toxic comments and unintended model bias minimization using Deep learning approach](https://arxiv.org/abs/2311.04789)             | **Toxicity**&**Detection**&**Bias** |
-
+| Date  |                 Institute                  | Publication |                                                                             Paper                                                                              |                                    Keywords                                     |
+|:-----:|:------------------------------------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| 20.10 |            Facebook AI Research            |    arxiv    |                                         [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                                         |                       **Toxic Behavior**&**Open-domain**                        |
+| 23.06 | University of Illinois at Urbana-Champaign |    arxiv    |                         [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)                         |               **Robustness**&**Ethics**&**Privacy**&**Toxicity**                |
+| 23.11 |       Pennsylvania State University        |    arxiv    | [A Taxonomy of Rater Disagreements: Surveying Challenges & Opportunities from the Perspective of Annotating Online Toxicity](https://arxiv.org/abs/2311.04345) |                             **Toxicity**&**Survey**                             |
+| 23.11 |  University of Maryland, Baltimore County  |    arxiv    |            [Determination of toxic comments and unintended model bias minimization using Deep learning approach](https://arxiv.org/abs/2311.04789)             |                       **Toxicity**&**Detection**&**Bias**                       |
+| 23.11 |       University of Central Florida        |    arxiv    |                              [THOS: A Benchmark Dataset for Targeted Hate and Offensive Speech](https://arxiv.org/abs/2311.06446)                              |                **Hate Speech**&**Offensive Speech**&**Dataset**                 |
+| 23.11 |                 FAIR Meta                  |    arXiv    |             [Added Toxicity Mitigation at Inference Time for Multimodal and Massively Multilingual Translation](https://arxiv.org/abs/2311.06532)              | **Multimodal Translation**&**Multilingual Translation**&**Toxicity Mitigation** |
 
 
 ## 💻Presentations & Talks
