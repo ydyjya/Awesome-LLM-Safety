@@ -122,6 +122,7 @@
 |:-----:|:------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | 21.09 |      University of Oxford      | ACL2022 |                         [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)                          |
 | 23.11 | Harbin Institute of Technology |  arxiv  | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232) |
+| 23.11 |    Arizona State University    |  arxiv  |                      [Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey](https://arxiv.org/abs/2311.07914)                      |
 
 ### 📖教程, 文章, 演示, 演讲
 

@@ -15,6 +15,7 @@
 | 23.11 |           Allen Institute for AI           |    arxiv    |               [Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs](https://arxiv.org/abs/2311.04892)                |                     **Bias**&**Stereotypes**                      |
 | 23.11 |              Adobe Inc. India              |    arxiv    | [All Should Be Equal in the Eyes of Language Models: Counterfactually Aware Fair Text Generation](https://arxiv.org/abs/2311.05451) |                      **Fairness**&**Biases**                      |
 | 23.11 |    National Taiwan University, Meta AI     |    arXiv    |      [Step by Step to Fairness: Attributing Societal Bias in Task-oriented Dialogue Systems](https://arxiv.org/abs/2311.06513)      | **Task-oriented Dialogue Systems**&**Societal Bias**&**Fairness** |
+| 23.11 |     UNC Chapel Hill, IBM Research MIT      |    arxiv    |         [Fuse to Forget: Bias Reduction and Selective Memorization through Model Fusion](https://arxiv.org/abs/2311.07682)          |  **Model Fusion**&**Bias Reduction**&**Selective Memorization**   |
 
 
 

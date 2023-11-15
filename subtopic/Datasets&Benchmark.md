@@ -15,6 +15,7 @@
 | 23.11 |                               UC Berkeley                                |          arxiv          |                                     [CAN LLMS FOLLOW SIMPLE RULES](https://arxiv.org/abs/2311.04235)                                     |                 **Evaluation**&**Attack Strategies**                  |
 | 23.11 |                      University of Central Florida                       |          arxiv          |                   [THOS: A Benchmark Dataset for Targeted Hate and Offensive Speech](https://arxiv.org/abs/2311.06446)                   |           **Hate Speech**&**Offensive Speech**&**Dataset**            |
 | 23.11 | Beijing Jiaotong University; DAMO Academy, Alibaba Group, Peng Cheng Lab |          arXiv          |          [AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/abs/2311.07397)           |       Multi-modal Large Language Models&Hallucination&Benchmark       |
+| 23.11 |          Patronus AI, University of Oxford, Bocconi University           |          arxiv          |    [SIMPLESAFETYTESTS: a Test Suite for Identifying Critical Safety Risks in Large Language Models](https://arxiv.org/abs/2311.08370)    |            **Safety Risks**&**Test Suite**&**Evaluation**             |
 
 
 
