@@ -161,6 +161,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ---
 ## 🛡️Defenses 
 
+### 📑Papers
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
 |21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
@@ -170,9 +171,10 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |    Type    |         Title         |                              URL                              |
+|:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
+| 23.10 | Repository | LLM-Factuality-Survey | [link](https://github.com/wangcunxiang/LLM-Factuality-Survey) |
+| 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
 
 ### Other
 
