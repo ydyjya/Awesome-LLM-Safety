@@ -93,14 +93,12 @@
 
 
 ### 📑论文
-|日期|机构|出版信息|论文&链接|
-|:-:|:-:|:-:|:-:|
-|19.12|Microsoft|CCS2020|[Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880)|
-|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
-|21.10|Stanford|ICLR2022|[Large language models can be strong differentially private learners](https://openreview.net/forum?id=bVuP3ltATMz)|
-|22.02|Google Research|ICLR2023|[Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)
-
-
+|  日期   |       机构        |   出版信息   |                                                           论文&链接                                                           |
+|:-----:|:---------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| 19.12 |    Microsoft    | CCS2020  | [Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880) |
+| 21.07 | Google Research | ACL2022  |          [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)          |
+| 21.10 |    Stanford     | ICLR2022 |    [Large language models can be strong differentially private learners](https://openreview.net/forum?id=bVuP3ltATMz)     |
+| 22.02 | Google Research | ICLR2023 |           [Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)            |
 
 ### 📖教程, 文章, 演示, 演讲
 
