@@ -16,7 +16,9 @@
 | 23.11 |              Adobe Inc. India              |    arxiv    | [All Should Be Equal in the Eyes of Language Models: Counterfactually Aware Fair Text Generation](https://arxiv.org/abs/2311.05451) |                      **Fairness**&**Biases**                      |
 | 23.11 |    National Taiwan University, Meta AI     |    arXiv    |      [Step by Step to Fairness: Attributing Societal Bias in Task-oriented Dialogue Systems](https://arxiv.org/abs/2311.06513)      | **Task-oriented Dialogue Systems**&**Societal Bias**&**Fairness** |
 | 23.11 |     UNC Chapel Hill, IBM Research MIT      |    arxiv    |         [Fuse to Forget: Bias Reduction and Selective Memorization through Model Fusion](https://arxiv.org/abs/2311.07682)          |  **Model Fusion**&**Bias Reduction**&**Selective Memorization**   |
-
+| 23.11 | ETH Zürich | arxiv | [Navigating the Ocean of Biases: Political Bias Attribution in Language Models via Causal Structures](https://arxiv.org/abs/2311.08605) | **Political Debates**&**Bias Attribution**|
+| 23.11 | University of Pisa, University of Copenhagen | arxiv | [Social Bias Probing: Fairness Benchmarking for Language Models](https://arxiv.org/abs/2311.09090) | **Social Biases**&**Fairness Benchmarking**&**Identity Stereotypes** |
+| 23.11 | Tsinghua University | arxiv | [ALIGNMENT IS NOT SUFFICIENT TO PREVENT LARGE LANGUAGE MODELS FROM GENERATING HARMFUL INFORMATION: A PSYCHOANALYTIC PERSPECTIVE](https://arxiv.org/abs/2311.08487) | **Alignment**&**Psychoanalysis Theory**&**Ethics** |
 
 
 ## 💻Presentations & Talks

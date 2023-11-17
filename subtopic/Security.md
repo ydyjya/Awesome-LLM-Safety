@@ -24,6 +24,9 @@
 | 23.11 |                         UIUC                         |              arxiv               |                                                   [Removing RLHF Protections in GPT-4 via Fine-Tuning](https://arxiv.org/abs/2311.05553)                                                    |                **Remove Protection**&**Fine-Tuning**                 |
 | 23.11 | IT University of Copenhagen，University of Washington |              arxiv               |                                      [Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237)                                       |                           **Red Teaming**                            |
 | 23.11 |           Fudan University&Shanghai AI lab           |              arxiv               |                                                      [Fake Alignment: Are LLMs Really Aligned Well?](https://arxiv.org/abs/2311.05915)                                                      |             **Alignment Failure**&**Safety Evaluation**              |
+| 23.11 | University of Southern California | arxiv | [SAFER-INSTRUCT: Aligning Language Models with Automated Preference Data](https://arxiv.org/abs/2311.08685) | **RLHF**&**Safety** |
+| 23.11 | Google Research | arxiv | [AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications](https://arxiv.org/abs/2311.08592) | **Adversarial Testing**&**AI-Assisted Red Teaming**&**Application Safety** |
+| 23.11 | Tencent AI Lab | arxiv | [ADVERSARIAL PREFERENCE OPTIMIZATION](https://arxiv.org/abs/2311.08045) | **Human Preference Alignment**&**Adversarial Preference Optimization**&**Annotation Reduction** |
 
 
 

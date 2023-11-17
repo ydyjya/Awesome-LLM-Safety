@@ -161,6 +161,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ---
 ## 🛡️Defenses 
 
+### 📑Papers
 |Date|Institute|Publication|Paper|
 |:-:|:-:|:-:|:-:|
 |21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
@@ -170,9 +171,10 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |    Type    |         Title         |                              URL                              |
+|:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
+| 23.10 | Repository | LLM-Factuality-Survey | [link](https://github.com/wangcunxiang/LLM-Factuality-Survey) |
+| 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
 
 ### Other
 
@@ -214,6 +216,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 |Chiyuan Zhang|[Homepage](https://pluskid.org/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=l_G2vr0AAAAJ&view_op=list_works&sortby=pubdate) |**Especially interested in understanding the generalization and memorization in machine and human learning, as well as implications in related areas like privacy**|
 |Katherine Lee|[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bjdB4K8AAAAJ&view_op=list_works&sortby=pubdate)|**natural language processing**&**translation**&**machine learning**&**computational neuroscienceattention**|
 |Florian Tramèr|[Homepage](https://floriantramer.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ijH0-a8AAAAJ)|**Computer Security**&**Machine Learning**&**Cryptography**&**the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users**|
+|Jindong Wang| [Homepage](https://scholar.google.com/citations?hl=zh-CN&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) \| [Google Scholar](https://jd92.wang/) | **Large Language Models (LLMs) evaluation and robustness enhancement** 　|
 |Andy Zou|[Homepage](https://andyzoujm.github.io/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)|**ML Safety**&**AI Safety**|
 |Jie Huang|[Homepage](https://jeffhj.github.io/) \| [Google Scholar](https://scholar.google.com/citations?user=GIoPkMoAAAAJ&hl=zh-CN&oi=sra)|**Knowledge: Factuality, Hallucination,Retrieval-Augmentation**&**Reasoning: Complex Reasoning, Faithful Reasoning**&**Ethics: Privacy Leakage Analysis, Citation**|
 

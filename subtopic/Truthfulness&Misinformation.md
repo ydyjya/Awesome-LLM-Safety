@@ -30,6 +30,10 @@
 | 23.11 |              Stanford University, UNC Chapel Hill              |    arxiv    |                                              [Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401)                                               | **Factuality**&**Reference-Free Truthfulness**&**Direct Preference Optimization** |
 | 23.11 |           Corporate Data and Analytics Office (CDAO)           |    arxiv    |                            [Hallucination-minimized Data-to-answer Framework for Financial Decision-makers](https://arxiv.org/abs/2311.07592)                             |           **Financial Decision Making**&**Hallucination Minimization**            |
 | 23.11 |                    Arizona State University                    |    arxiv    |                                    [Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey](https://arxiv.org/abs/2311.07914)                                     |                **Knowledge Graphs**&**Hallucinations**&**Survey**                 |
+| 23.11 | Kempelen Institute of Intelligent Technologies; Brno University of Technology | arxiv | [Disinformation Capabilities of Large Language Models](https://arxiv.org/abs/2311.08838) | **Disinformation Generation**&**Safety Filters**&**Automated Evaluation** |
+| 23.11 | UNC-Chapel Hill, University of Washington | arxiv | [EVER: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification](https://arxiv.org/abs/2311.09114) | **Hallucination**&**Real-Time Verification**&**Rectification** |
+| 23.11 | Peking University, WeChat AI, Tencent Inc. | arXiv | [RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge](https://arxiv.org/abs/2311.08147) | **External Counterfactual Knowledge**&**Benchmarking**&**Robustness** |
+
 
 ## 💻Presentations & Talks
 

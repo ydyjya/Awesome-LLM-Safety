@@ -25,6 +25,10 @@
 | 23.11 | Huazhong University of Science and Technology, Tsinghua University |            arxiv             |    [Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration](https://arxiv.org/abs/2311.06062)    |                **Membership Inference Attacks**&**Privacy and Security**                |
 | 23.11 |                  Nanjing University, Meituan Inc                   |            arxiv             |      [A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://arxiv.org/abs/2311.08268)       |         **Jailbreak Prompts**&**Safety Alignment**&**Safeguard Effectiveness**          |
 | 23.11 |                          Google DeepMind                           |            arxiv             | [Frontier Language Models Are Not Robust to Adversarial Arithmetic or "What Do I Need To Say So You Agree 2+2=5?"](https://arxiv.org/abs/2311.07587)  |         **Adversarial Arithmetic**&**Model Robustness**&**Adversarial Attacks**         |
+| 23.11 | University of Illinois Chicago, Texas A&M University | arxiv | [DALA: A Distribution-Aware LoRA-Based Adversarial Attack against Pre-trained Language Models](https://arxiv.org/abs/2311.08598) | **Adversarial Attack**&**Distribution-Aware**&**LoRA-Based Attack** |
+| 23.11 | Tsinghua University | arxiv | [Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization](https://arxiv.org/abs/2311.09096) | **Jailbreaking Attacks**&**Goal Prioritization**&**Safety** |
+
+
 
 ## 💻Presentations & Talks
 

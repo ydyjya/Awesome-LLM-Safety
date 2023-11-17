@@ -93,12 +93,14 @@
 
 
 ### 📑论文
+
 |  日期   |       机构        |   出版信息   |                                                           论文&链接                                                           |
 |:-----:|:---------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------:|
 | 19.12 |    Microsoft    | CCS2020  | [Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880) |
 | 21.07 | Google Research | ACL2022  |          [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)          |
 | 21.10 |    Stanford     | ICLR2022 |    [Large language models can be strong differentially private learners](https://openreview.net/forum?id=bVuP3ltATMz)     |
 | 22.02 | Google Research | ICLR2023 |           [Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)            |
+
 
 ### 📖教程, 文章, 演示, 演讲
 
@@ -124,9 +126,10 @@
 
 ### 📖教程, 文章, 演示, 演讲
 
-|日期|分类|标题|链接地址|
-|:-:|:-:|:-:|:-:|
-|23.10|教程|Awesome-LLM-Safety|[链接](https://github.com/ydyjya/Awesome-LLM-Safety)|
+|  日期   | 分类 |          标题           |                            链接地址                             |
+|:-----:|:--:|:---------------------:|:-----------------------------------------------------------:|
+| 23.10 | 仓库 | LLM-Factuality-Survey | [链接](https://github.com/wangcunxiang/LLM-Factuality-Survey) |
+| 23.10 | 教程 |  Awesome-LLM-Safety   |     [链接](https://github.com/ydyjya/Awesome-LLM-Safety)      |
 
 ### 其他
 
@@ -156,6 +159,7 @@
 ---
 ## 🛡️防御措施（Defenses）
 
+### 📑论文
 |日期|机构|出版信息|论文&链接|
 |:-:|:-:|:-:|:-:|
 |21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
@@ -209,6 +213,7 @@
 |Chiyuan Zhang|[主页](https://pluskid.org/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=l_G2vr0AAAAJ&view_op=list_works&sortby=pubdate) |**Especially interested in understanding the generalization and memorization in machine and human learning, as well as implications in related areas like privacy**|
 |Katherine Lee|[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=bjdB4K8AAAAJ&view_op=list_works&sortby=pubdate)|**natural language processing**&**translation**&**machine learning**&**computational neuroscienceattention**|
 |Florian Tramèr|[主页](https://floriantramer.com/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=ijH0-a8AAAAJ)|**Computer Security**&**Machine Learning**&**Cryptography**&**the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users**|
+|Jindong Wang| [主页](https://scholar.google.com/citations?hl=zh-CN&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) \| [谷歌学术](https://jd92.wang/) | **Large Language Models (LLMs) evaluation and robustness enhancement** 　|
 |Andy Zou|[主页](https://andyzoujm.github.io/) \| [谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)|**ML Safety**&**AI Safety**|
 |Jie Huang|[主页](https://jeffhj.github.io/) \| [谷歌学术](https://scholar.google.com/citations?user=GIoPkMoAAAAJ&hl=zh-CN&oi=sra)|**Knowledge: Factuality, Hallucination,Retrieval-Augmentation**&**Reasoning: Complex Reasoning, Faithful Reasoning**&**Ethics: Privacy Leakage Analysis, Citation**|
 
