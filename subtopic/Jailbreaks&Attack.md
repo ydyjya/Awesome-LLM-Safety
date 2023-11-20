@@ -43,4 +43,9 @@
 
 ## 📰News & Articles
 
+| Date  |  Type   |            Title            |   Author    |                                  URL                                  |
+|:-----:|:-------:|:---------------------------:|:-----------:|:---------------------------------------------------------------------:|
+| 23.10 | Article | Adversarial Attacks on LLMs | Lilian Weng | [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
+
+
 ## 🧑‍🏫Scholars
