@@ -150,9 +150,10 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |   Type    |                      Title                       |                                  URL                                  |
+|:-----:|:---------:|:------------------------------------------------:|:---------------------------------------------------------------------:|
+| 23.10 | Tutorials |                Awesome-LLM-Safety                |         [link](https://github.com/ydyjya/Awesome-LLM-Safety)          |
+| 23.10 |  Article  | Adversarial Attacks on LLMs(Author: Lilian Weng) | [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
 
 ### Other
 

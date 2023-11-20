@@ -148,9 +148,10 @@
 
 ### 📖教程, 文章, 演示, 演讲
 
-|日期|分类|标题|链接地址|
-|:-:|:-:|:-:|:-:|
-|23.10|教程|Awesome-LLM-Safety|[链接](https://github.com/ydyjya/Awesome-LLM-Safety)|
+|  日期   | 分类 |                        标题                        |                                链接地址                                 |
+|:-----:|:--:|:------------------------------------------------:|:-------------------------------------------------------------------:|
+| 23.10 | 教程 |                Awesome-LLM-Safety                |         [链接](https://github.com/ydyjya/Awesome-LLM-Safety)          |
+| 23.10 | 博客 | Adversarial Attacks on LLMs(Author: Lilian Weng) | [链接](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
 
 ### 其他
 
