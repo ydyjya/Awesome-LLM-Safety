@@ -70,11 +70,11 @@
 ## 🔐模型安全（Security）
 
 ### 📑论文
-|日期|机构|   出版信息   |论文&链接|
-|:-:|:-:|:--------:|:-:|
-|20.10|Facebook AI Research|  arxiv   |[Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)|
-|23.07|UC Berkeley| NIPS2023 |[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)|
-|23.07|CMU|  arxiv   |[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
+|  日期   |          机构          |   出版信息   |                                                                                            论文&链接                                                                                            |
+|:-----:|:--------------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.10 | Facebook AI Research |  arxiv   |                                                       [Recipes for Safety in Open-domain Chatbots](https://arxiv.org/abs/2010.07079)                                                        |
+| 22.03 |        OpenAI        | NIPS2022 | [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) |
+| 23.07 |     UC Berkeley      | NIPS2023 |                                                     [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)                                                      |
 
 
 ### 📖教程, 文章, 演示, 演讲
