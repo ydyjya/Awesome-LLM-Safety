@@ -141,12 +141,12 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ## 😈JailBreak & Attacks 
 
 ### 📑Papers
-|Date|Institute|         Publication          |Paper|
-|:-:|:-:|:----------------------------:|:-:|
-|20.12|Google|     USENIX Security 2021     |[Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)|
-|22.11|AE Studio| NIPS2022(ML Safety Workshop) |[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)|
-|23.06|Google|            arxiv             |[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)|
-|23.07|CMU|            arxiv             |[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)|
+| Date  | Institute |         Publication          |                                                                   Paper                                                                   |
+|:-----:|:---------:|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.12 |  Google   |     USENIX Security 2021     | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) |
+| 22.11 | AE Studio | NIPS2022(ML Safety Workshop) |                     [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)                     |
+| 23.06 |  Google   |            arxiv             |                          [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                           |
+| 23.07 |    CMU    |            arxiv             |               [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)               |
 
 ### 📖Tutorials, Articles, Presentations and Talks
 

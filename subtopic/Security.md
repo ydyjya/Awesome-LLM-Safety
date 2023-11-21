@@ -27,6 +27,8 @@
 | 23.11 |          University of Southern California           |              arxiv               |                                         [SAFER-INSTRUCT: Aligning Language Models with Automated Preference Data](https://arxiv.org/abs/2311.08685)                                         |                                       **RLHF**&**Safety**                                       |
 | 23.11 |                   Google Research                    |              arxiv               |                               [AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications](https://arxiv.org/abs/2311.08592)                               |           **Adversarial Testing**&**AI-Assisted Red Teaming**&**Application Safety**            |
 | 23.11 |                    Tencent AI Lab                    |              arxiv               |                                                           [ADVERSARIAL PREFERENCE OPTIMIZATION](https://arxiv.org/abs/2311.08045)                                                           | **Human Preference Alignment**&**Adversarial Preference Optimization**&**Annotation Reduction** |
+| 23.11 |                       Docta.ai                       |              arxiv               |                          [Unmasking and Improving Data Credibility: A Study with Datasets for Training Harmless Language Models](https://arxiv.org/abs/2311.11202)                          |                            **Data Credibility**&**Safety alignment**                            |
+| 23.11 |                 CIIRC CTU in Prague                  |              arxiv               |                                                   [A Security Risk Taxonomy for Large Language Models](https://arxiv.org/abs/2311.11415)                                                    |                    **Security risks**&**Taxonomy**&**Prompt-based attacks**                     |
 
 
 
@@ -41,9 +43,10 @@
 
 ## 📰News & Articles
 
-| Date  |  Type  |                        Title                        |                   URL                    |
-|:-----:|:------:|:---------------------------------------------------:|:----------------------------------------:|
-| 23.06 | Report | “Dual-use dilemma” for GenAI Workshop Summarization | [link](https://arxiv.org/abs/2308.14840) |
-| 23.10 |  News  |      Joint Statement on AI Safety and Openness      | [link](https://open.mozilla.org/letter/) |
+| Date  |  Type  |                                Title                                 |                           URL                            |
+|:-----:|:------:|:--------------------------------------------------------------------:|:--------------------------------------------------------:|
+| 23.01 | video  | ChatGPT and InstructGPT: Aligning Language Models to Human Intention | [link](https://www.youtube.com/watch?v=RkFS6-GwCxE&t=6s) |
+| 23.06 | Report |         “Dual-use dilemma” for GenAI Workshop Summarization          |         [link](https://arxiv.org/abs/2308.14840)         |
+| 23.10 |  News  |              Joint Statement on AI Safety and Openness               |         [link](https://open.mozilla.org/letter/)         |
 
 ## 🧑‍🏫Scholars
