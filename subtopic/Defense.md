@@ -24,7 +24,7 @@
 
 
 
-## 💻Presentations & Talks
+## 💻Presentations & Talk
 
 
 ## 📖Tutorials & Workshops

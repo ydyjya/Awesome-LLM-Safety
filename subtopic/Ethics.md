@@ -24,6 +24,7 @@
 | 23.11 | Mila - Quebec AI Institute, Université du Québec à Montréal, Data & Society Research Institute, Mantium, IBM Research, University of California Riverside |    arxiv    |                             [Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset](https://arxiv.org/abs/2311.09443)                              |       **Subtle Misogyny**&B**iasly Dataset**&**Dataset Development**       |
 | 23.11 |                                     Illinois Institute of Technology, University of Illinois Chicago, Cisco Research                                      |    arxiv    |                        [Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models](https://arxiv.org/abs/2311.09428)                         |    **Fairness**&**Abusive Language Detection**&**Adversarial Attacks**     |
 
+
 ## 💻Presentations & Talks
 
 
