@@ -211,7 +211,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ---
 ## 🧑‍🏫 Scholars 👩‍🏫 
-**In this section, we list some of the experts we consider to be experts in the field of LLM Safety!**
+**In this section, we list some of the scholars we consider to be experts in the field of LLM Safety!**
 
 |     Scholars     |                                                                     HomePage&Google Scholars                                                                     |                                                                                                      Keywords or Interested                                                                                                       |
 |:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
