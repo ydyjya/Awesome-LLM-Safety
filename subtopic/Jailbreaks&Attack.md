@@ -19,6 +19,7 @@
 | 23.07 |                                       Nanyang Technological University                                        |           NDSS2023            |                   [MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)                    |                     **Jailbreak**&**Reverse-Engineering**&**Automatic Generation**                     |
 | 23.07 |                                 UNC Chapel Hill, Google DeepMind, ETH Zurich                                  | AdvML Frontiers Workshop 2023 |                           [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692)                           |                              **Backdoor Attacks**&**In-Context Learning**                              |
 | 23.10 |                    Princeton University, Virginia Tech, IBM Research, Stanford University                     |             arxiv             |             [FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY EVEN WHEN USERS DO NOT INTEND TO!](https://arxiv.org/abs/2310.03693)              |                        **Fine-tuning****Safety Risks**&**Adversarial Training**                        |
+| 23.10 |               University of California Santa Barbara, Fudan University, Shanghai AI Laboratory                |             arxiv             |                      [SHADOW ALIGNMENT: THE EASE OF SUBVERTING SAFELY-ALIGNED LANGUAGE MODELS](https://arxiv.org/abs/2310.02949)                      |                            **AI Safety**&**Malicious Use**&**Fine-tuning**                             |
 | 23.11 |                                                    MBZUAI                                                     |             arxiv             |                [Robustness Tests for Automatic Machine Translation Metrics with Adversarial Attacks](https://arxiv.org/abs/2311.00508)                |               **Adversarially-synthesized Texts**&**Word-level Attacks**&**Evaluation**                |
 | 23.11 |                                               Palisade Research                                               |             arxiv             |                        [BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B](https://arxiv.org/abs/2311.00117)                        |                                     **Remove Safety Fine-tuning**                                      |
 | 23.11 |                                             University of Twente                                              |          ICNLSP 2023          |                         [Efficient Black-Box Adversarial Attacks on Neural Text Detectors](https://arxiv.org/abs/2311.01873)                          |                             **Misclassification**&**Adversarial attacks**                              |
@@ -41,9 +42,11 @@
 
 ## 📖Tutorials & Workshops
 
-| Date  |   Type    |       Title        |                         URL                          |
-|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
-| 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
+| Date  |        Type        |         Title          |                         URL                          |
+|:-----:|:------------------:|:----------------------:|:----------------------------------------------------:|
+| 23.01 |     Community      | Reddit/ChatGPTJailbrek |  [link](https://www.reddit.com/r/ChatGPTJailbreak)   |
+| 23.02 | Resource&Tutorials |     Jailbreak Chat     |        [link](https://www.jailbreakchat.com/)        |
+| 23.10 |     Tutorials      |   Awesome-LLM-Safety   | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
 
 ## 📰News & Articles
 
