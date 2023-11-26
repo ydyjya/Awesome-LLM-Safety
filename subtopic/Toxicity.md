@@ -27,9 +27,10 @@
 
 ## 📖Tutorials & Workshops
 
-| Date  |   Type    |       Title        |                         URL                          |
-|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
-| 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
+| Date  |          Type          |       Title        |                                          URL                                          |
+|:-----:|:----------------------:|:------------------:|:-------------------------------------------------------------------------------------:|
+| 22.02 | Toxicity Detection API |  Perspective API   | [link](https://www.perspectiveapi.com/)<br/>[paper](https://arxiv.org/abs/2202.11176) |
+| 23.10 |       Tutorials        | Awesome-LLM-Safety |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 
 ## 📰News & Articles
 

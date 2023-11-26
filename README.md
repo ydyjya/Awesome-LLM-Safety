@@ -83,11 +83,11 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-| Date  |          Type          |                         Title                         |                         URL                          |
-|:-----:|:----------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
-| 22.02 | Toxicity Detection API | [link](https://www.perspectiveapi.com/)<br/>[paper](https://arxiv.org/abs/2202.11176) |
-| 23.07 |       Repository       |              Awesome LLM Security                                         |                       [link](https://github.com/corca-ai/awesome-llm-security)                       |
-| 23.10 |       Tutorials        |                  Awesome-LLM-Safety                   | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
+| Date  |          Type          |        Title         |                                          URL                                          |
+|:-----:|:----------------------:|:--------------------:|:-------------------------------------------------------------------------------------:|
+| 22.02 | Toxicity Detection API |   Perspective API    | [link](https://www.perspectiveapi.com/)<br/>[paper](https://arxiv.org/abs/2202.11176) |
+| 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
+| 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 
 
 ### Other

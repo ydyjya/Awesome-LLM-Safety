@@ -79,11 +79,11 @@
 
 ### 📖教程, 文章, 演示, 演讲
 
-|  日期   |   分类    |                                        标题                                        |                          链接地址                          |
-|:-----:|:-------:|:--------------------------------------------------------------------------------:|:------------------------------------------------------:|
-| 22.02 | 毒性检测API | [链接](https://www.perspectiveapi.com/)<br/>[论文](https://arxiv.org/abs/2202.11176) |
-| 23.07 |   仓库    |                               Awesome LLM Security                               | [链接](https://github.com/corca-ai/awesome-llm-security) |
-| 23.10 |   教程    |                                Awesome-LLM-Safety                                |   [链接](https://github.com/ydyjya/Awesome-LLM-Safety)   |
+|  日期   |   分类    |          标题          |                                      链接地址                                       |
+|:-----:|:-------:|:--------------------:|:-------------------------------------------------------------------------------:|
+| 22.02 | 毒性检测API |   Perspective API    | [链接](https://www.perspectiveapi.com/)<br/>[论文](https://arxiv.org/abs/2202.11176 |
+| 23.07 |   仓库    | Awesome LLM Security |             [链接](https://github.com/corca-ai/awesome-llm-security)              |
+| 23.10 |   教程    |  Awesome-LLM-Safety  |               [链接](https://github.com/ydyjya/Awesome-LLM-Safety)                |
 
 
 ### 其他
