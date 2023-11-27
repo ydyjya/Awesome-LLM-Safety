@@ -34,6 +34,7 @@
 | 23.10 |                           Tianjin University                           |        EMNLP2023         |                                      [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)                                       |         **Privacy Neuron Detection**&**Model Editing**&**Data Memorization**          |
 | 23.11 |                          Zhejiang University                           |          arxiv           |                                     [Input Reconstruction Attack against Vertical Federated Large Language Models](https://arxiv.org/abs/2311.07585)                                     |     **Vertical Federated Learning**&**Input Reconstruction**&**Privacy Concerns**     |
 | 23.11 |      Georgia Institute of Technology, Carnegie Mellon University       |          arxiv           |                                        [Reducing Privacy Risks in Online Self-Disclosures with Language Models](https://arxiv.org/abs/2311.09538)                                        |     **Online Self-Disclosure**&**Privacy Risks**&**Self-Disclosure Abstraction**      |
+| 23.11 |                               Ant Group                                |          arxiv           |                                                   [PrivateLoRA for Efficient Privacy Preserving LLM](https://arxiv.org/abs/2311.14030)                                                   |                            **Privacy Preserving**&**LoRA**                            |
 
 ## 💻Presentations & Talks
 
