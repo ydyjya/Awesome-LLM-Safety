@@ -79,10 +79,11 @@
 
 ### 📖教程, 文章, 演示, 演讲
 
-|日期|   分类    |                                        标题                                        |链接地址|
-|:-:|:-------:|:--------------------------------------------------------------------------------:|:-:|
-| 22.02 | 毒性检测API | [链接](https://www.perspectiveapi.com/)<br/>[论文](https://arxiv.org/abs/2202.11176) |
-|23.10|   教程    |                                Awesome-LLM-Safety                                |[链接](https://github.com/ydyjya/Awesome-LLM-Safety)|
+|  日期   |   分类    |          标题          |                                      链接地址                                       |
+|:-----:|:-------:|:--------------------:|:-------------------------------------------------------------------------------:|
+| 22.02 | 毒性检测API |   Perspective API    | [链接](https://www.perspectiveapi.com/)<br/>[论文](https://arxiv.org/abs/2202.11176 |
+| 23.07 |   仓库    | Awesome LLM Security |             [链接](https://github.com/corca-ai/awesome-llm-security)              |
+| 23.10 |   教程    |  Awesome-LLM-Safety  |               [链接](https://github.com/ydyjya/Awesome-LLM-Safety)                |
 
 
 ### 其他
@@ -155,6 +156,7 @@
 | 23.02 | 资源&教程 |                  Jailbreak Chat                  |                [链接](https://www.jailbreakchat.com/)                 |
 | 23.10 |  教程   |                Awesome-LLM-Safety                |         [链接](https://github.com/ydyjya/Awesome-LLM-Safety)          |
 | 23.10 |  博客   | Adversarial Attacks on LLMs(Author: Lilian Weng) | [链接](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
+| 23.11 |  视频   | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |         [中字链接](https://www.bilibili.com/video/BV1Hj41177fb)         |
 
 ### 其他
 
