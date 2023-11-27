@@ -43,12 +43,13 @@
 
 ## 📖Tutorials & Workshops
 
-| Date  |        Type        |                                       Title                                       |                         URL                          |
-|:-----:|:------------------:|:---------------------------------------------------------------------------------:|:----------------------------------------------------:|
-| 23.01 |     Community      |                              Reddit/ChatGPTJailbrek                               |  [link](https://www.reddit.com/r/ChatGPTJailbreak)   |
-| 23.02 | Resource&Tutorials |                                  Jailbreak Chat                                   |        [link](https://www.jailbreakchat.com/)        |
-| 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
-| 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) | [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)  |
+| Date  |        Type        |                                       Title                                       |                                  URL                                  |
+|:-----:|:------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+| 23.01 |     Community      |                              Reddit/ChatGPTJailbrek                               |           [link](https://www.reddit.com/r/ChatGPTJailbreak)           |
+| 23.02 | Resource&Tutorials |                                  Jailbreak Chat                                   |                [link](https://www.jailbreakchat.com/)                 |
+| 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 |         [link](https://github.com/ydyjya/Awesome-LLM-Safety)          |
+| 23.10 |      Article       |                 Adversarial Attacks on LLMs(Author: Lilian Weng)                  | [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
+| 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |          [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)          |
 
 ## 📰News & Articles
 
