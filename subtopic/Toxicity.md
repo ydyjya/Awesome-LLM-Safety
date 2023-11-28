@@ -20,6 +20,7 @@
 | 23.11 |                    University of Haifa, OriginAI, Braude College of Engineering                    |    arXiv    |                              [Generative AI for Hate Speech Detection: Evaluation and Findings](https://arxiv.org/abs/2311.09993)                              |       **Hate Speech Detection**&**Synthetic Data**&&**Data Augmentation**       |
 | 23.11 | Seoul National University, Chung-Ang University, NAVER AI Lab, NAVER Cloud, University of Richmond |    arxiv    |                                    [LifeTox: Unveiling Implicit Toxicity in Life Advice](https://arxiv.org/abs/2311.09585)                                     |      **LifeTox Dataset**&**Toxicity Detection**&**Social Media Analysis**       |
 | 23.11 |                                         Amazon Alexa AI-NU                                         |    arXiv    |                                  [JAB: Joint Adversarial Prompting and Belief Augmentation](https://arxiv.org/abs/2311.09473)                                  |         **Adversarial Prompting**&T**oxicity Reduction**&**Robustness**         |
+| 23.11 |                          CISPA Helmholtz Center for Information Security                           |    arxiv    |                                      [Comprehensive Assessment of Toxicity in ChatGPT](https://arxiv.org/abs/2311.14685)                                       |             **Toxicity Assessment**&**Instruction-tuning Datasets**             |
 
 
 ## 💻Presentations & Talks
