@@ -109,9 +109,9 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |   Type    |       Title        |                         URL                          |
+|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
+| 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
 
 
 ### Other
@@ -131,10 +131,11 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-| 23.10 | Repository | LLM-Factuality-Survey | [link](https://github.com/wangcunxiang/LLM-Factuality-Survey) |
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |    Type    |          Title           |                                URL                                |
+|:-----:|:----------:|:------------------------:|:-----------------------------------------------------------------:|
+| 23.07 | Repository | llm-hallucination-survey | [link](https://github.com/HillZhang1999/llm-hallucination-survey) |
+| 23.10 | Repository |  LLM-Factuality-Survey   |   [link](https://github.com/wangcunxiang/LLM-Factuality-Survey)   |
+| 23.10 | Tutorials  |    Awesome-LLM-Safety    |       [link](https://github.com/ydyjya/Awesome-LLM-Safety)        |
 
 ### Other
 
@@ -169,10 +170,10 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ## 🛡️Defenses 
 
 ### 📑Papers
-|Date|Institute|Publication|Paper|
-|:-:|:-:|:-:|:-:|
-|21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
-|22.04|Anthropic|arxiv|[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)|
+| Date  |    Institute    | Publication |                                                             Paper                                                             |
+|:-----:|:---------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| 21.07 | Google Research |   ACL2022   |            [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)            |
+| 22.04 |    Anthropic    |    arxiv    | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) |
 
 
 
@@ -191,18 +192,18 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ## 💯Datasets & Benchmark
 
 ### 📑Papers
-|Date|Institute|Publication|Paper|
-|:-:|:-:|:-:|:-:|
-|20.09|University of Washington|EMNLP2020(findings)|[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)|
-|21.09|University of Oxford|ACL2022|[TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)|
-|22.03|MIT|ACL2022|[ToxiGen: A Large-Scale Machine-Generated datasets for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)|
+| Date  |        Institute         |     Publication     |                                                                  Paper                                                                   |
+|:-----:|:------------------------:|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.09 | University of Washington | EMNLP2020(findings) |             [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)             |
+| 21.09 |   University of Oxford   |       ACL2022       |                       [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)                        |
+| 22.03 |           MIT            |       ACL2022       | [ToxiGen: A Large-Scale Machine-Generated datasets for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509) |
 
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-|Date|Type|Title|URL|
-|:-:|:-:|:-:|:-:|
-|23.10|Tutorials|Awesome-LLM-Safety|[link](https://github.com/ydyjya/Awesome-LLM-Safety)|
+| Date  |   Type    |       Title        |                         URL                          |
+|:-----:|:---------:|:------------------:|:----------------------------------------------------:|
+| 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
 
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)

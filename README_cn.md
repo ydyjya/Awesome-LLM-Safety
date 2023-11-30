@@ -128,10 +128,11 @@
 
 ### 📖教程, 文章, 演示, 演讲
 
-|  日期   | 分类 |          标题           |                            链接地址                             |
-|:-----:|:--:|:---------------------:|:-----------------------------------------------------------:|
-| 23.10 | 仓库 | LLM-Factuality-Survey | [链接](https://github.com/wangcunxiang/LLM-Factuality-Survey) |
-| 23.10 | 教程 |  Awesome-LLM-Safety   |     [链接](https://github.com/ydyjya/Awesome-LLM-Safety)      |
+|  日期   | 分类 |            标题            |                              链接地址                               |
+|:-----:|:--:|:------------------------:|:---------------------------------------------------------------:|
+| 23.07 | 仓库 | llm-hallucination-survey | [链接](https://github.com/HillZhang1999/llm-hallucination-survey) |
+| 23.10 | 仓库 |  LLM-Factuality-Survey   |   [链接](https://github.com/wangcunxiang/LLM-Factuality-Survey)   |
+| 23.10 | 教程 |    Awesome-LLM-Safety    |       [链接](https://github.com/ydyjya/Awesome-LLM-Safety)        |
 
 ### 其他
 

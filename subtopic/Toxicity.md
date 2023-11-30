@@ -21,7 +21,7 @@
 | 23.11 | Seoul National University, Chung-Ang University, NAVER AI Lab, NAVER Cloud, University of Richmond |    arxiv    |                                    [LifeTox: Unveiling Implicit Toxicity in Life Advice](https://arxiv.org/abs/2311.09585)                                     |      **LifeTox Dataset**&**Toxicity Detection**&**Social Media Analysis**       |
 | 23.11 |                                         Amazon Alexa AI-NU                                         |    arXiv    |                                  [JAB: Joint Adversarial Prompting and Belief Augmentation](https://arxiv.org/abs/2311.09473)                                  |         **Adversarial Prompting**&T**oxicity Reduction**&**Robustness**         |
 | 23.11 |                          CISPA Helmholtz Center for Information Security                           |    arxiv    |                                      [Comprehensive Assessment of Toxicity in ChatGPT](https://arxiv.org/abs/2311.14685)                                       |             **Toxicity Assessment**&**Instruction-tuning Datasets**             |
-
+| 23.11 |                              Tsinghua University, TAL Education Group                              |    arxiv    |                                  [Unveiling the Implicit Toxicity in Large Language Models](https://arxiv.org/abs/2311.17391)                                  |     **Implicit Toxicity**&**Toxicity Detection**&**Reinforcement Learning**     |
 
 ## 💻Presentations & Talks
 
