@@ -23,6 +23,7 @@
 | 23.11 |                          CISPA Helmholtz Center for Information Security                           |    arxiv    |                                      [Comprehensive Assessment of Toxicity in ChatGPT](https://arxiv.org/abs/2311.14685)                                       |             **Toxicity Assessment**&**Instruction-tuning Datasets**             |
 | 23.11 |                              Tsinghua University, TAL Education Group                              |    arxiv    |                                  [Unveiling the Implicit Toxicity in Large Language Models](https://arxiv.org/abs/2311.17391)                                  |     **Implicit Toxicity**&**Toxicity Detection**&**Reinforcement Learning**     |
 | 23.11 |                                                Meta                                                |  EMNLP2023  |                             [ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org/abs/2311.18140)                             |                  **Bias Evaluation**&**Fairness**&**Toxicity**                  |
+| 23.12 |                                             Anthropic                                              |    arxiv    |                            [Evaluating and Mitigating Discrimination in Language Model Decisions](https://arxiv.org/abs/2312.03689)                            |       **Discrimination**&**High-Stakes Decisions**&**Societal Decisions**       |
 
 
 ## 💻Presentations & Talks
