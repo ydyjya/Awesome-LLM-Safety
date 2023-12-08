@@ -50,6 +50,8 @@
 | 23.12 |                                               Drexel University                                               |             arXiv             |                   [A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly](https://arxiv.org/abs/2312.02003)                   |                                  **Security**&**Privacy**&**Attacks**                                  |
 | 23.12 |                                     Yale University, Robust Intelligence                                      |             arXiv             |                                   [Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://arxiv.org/abs/2312.02119)                                   |             **Tree of Attacks with Pruning (TAP)**&**Jailbreaking**&**Prompt Generation**              |
 | 23.12 |                                     Independent (Now at Google DeepMind)                                      |             arXiv             |                               [Scaling Laws for Adversarial Attacks on Language Model Activations](https://arxiv.org/abs/2312.02780)                               |                **Adversarial Attacks**&**Language Model Activations**&**Scaling Laws**                 |
+| 23.12 |                                        Harbin Institute of Technology                                         |             arxiv             |                   [Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak](https://arxiv.org/abs/2312.04127)                   |              **Jailbreak Attack**&**Inherent Response Tendency**&**Affirmation Tendency**              |
+
 
 ## 💻Presentations & Talks
 
