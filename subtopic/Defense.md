@@ -24,6 +24,7 @@
 | 23.11 | University of Southern California, Harvard University, University of California Davis, University of Wisconsin-Madison |    arxiv    | [Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/abs/2311.09763)  |      **Backdoor Attacks**&**Defensive Demonstrations**&**Test-Time Defense**      |
 | 23.11 |                                          University of Maryland College Park                                           |    arxiv    | [Token-Level Adversarial Prompt Detection Based on Perplexity Measures and Contextual Information](https://arxiv.org/abs/2311.11509) | **Adversarial Prompt Detection**&**Perplexity Measures**&**Token-level Analysis** |
 | 23.12 |                               Rensselaer Polytechnic Institute, Northeastern University                                |    arxiv    |           [Combating Adversarial Attacks through a Conscience-Based Alignment Framework](https://arxiv.org/abs/2312.00029)           |         **Adversarial Attacks**&**Conscience-Based Alignment**&**Safety**         |
+| 23.12 |                                   Azure Research, Microsoft Security Response Center                                   |    arXiv    |                [Maatphor: Automated Variant Analysis for Prompt Injection Attacks](https://arxiv.org/abs/2312.11513)                 |            **Prompt Injection Attacks**&**Automated Variant Analysis**            |
 
 
 

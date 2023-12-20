@@ -38,7 +38,7 @@
 | 23.12 |                    Eindhoven University of Technology, University of Liverpool, Griffith University, The Pennsylvania State University                    |        arXiv        |                        [GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315)                         |  **Bias Evaluation**&**Bias Attack Instructions**&**Intersectional Bias**  |
 | 23.12 |                                                                      IBM Research AI                                                                      |      AAAI2024       |                   [SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models](https://arxiv.org/abs/2312.07492)                    |               **Social Bias**&**Question-answering Dataset**               |
 | 23.12 |                                                         New York University, CUNY Queens College                                                          |        arxiv        |                     [Red AI? Inconsistent Responses from GPT Models on Political Issues in the US and China](https://arxiv.org/abs/2312.09917)                     |                           **Bias**&**Politics**                            |
-
+| 23.12 |                                                    University of California Los Angeles, Amazon Alexa                                                     |        arXiv        | [Are you talking to [‘xem’] or [‘x’ ‘em’]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity](https://arxiv.org/abs/2312.11779) |                              **Gender Bias**                               |
 
 ## 💻Presentations & Talks
 
