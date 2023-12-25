@@ -39,6 +39,8 @@
 | 23.12 |                                                                      IBM Research AI                                                                      |      AAAI2024       |                   [SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models](https://arxiv.org/abs/2312.07492)                    |               **Social Bias**&**Question-answering Dataset**               |
 | 23.12 |                                                         New York University, CUNY Queens College                                                          |        arxiv        |                     [Red AI? Inconsistent Responses from GPT Models on Political Issues in the US and China](https://arxiv.org/abs/2312.09917)                     |                           **Bias**&**Politics**                            |
 | 23.12 |                                                    University of California Los Angeles, Amazon Alexa                                                     |        arXiv        | [Are you talking to [‘xem’] or [‘x’ ‘em’]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity](https://arxiv.org/abs/2312.11779) |                              **Gender Bias**                               |
+| 23.12 |                                          University of Oxford, University Canada West, Amazon Web Services (AWS)                                          |        arxiv        |                                          [Large Language Model (LLM) Bias Index—LLMBI](https://arxiv.org/abs/2312.14769)                                           |                **Bias Quantification**&**Bias Mitigation**                 |
+
 
 ## 💻Presentations & Talks
 

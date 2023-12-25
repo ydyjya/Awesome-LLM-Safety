@@ -25,7 +25,7 @@
 | 23.11 | Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences; Baidu Inc. |          arxiv          |      [FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality Fairness Toxicity](https://arxiv.org/abs/2311.18580)       |                            **Harmlessness Evaluation**                            |
 | 23.12 |                                                                        Meta                                                                        |          arxiv          |                [Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models](https://arxiv.org/abs/2312.04724)                 |             **Safety**&**Cybersecurity**&**Code Security Benchmark**              |
 | 23.12 |          University of Illinois Chicago, Bosch Research North America & Bosch Center for Artificial Intelligence (BCAI), UNC Chapel-Hill           |          arxiv          |               [DELUCIONQA: Detecting Hallucinations in Domain-specific Question Answering](https://arxiv.org/abs/2312.05200)                |  **Hallucination Detection**&**Domain-specific QA**&**Retrieval-augmented LLMs**  |
-
+| 23.12 |                      University of Science and Technology of China, Hong Kong University of Science and Technology, Microsoft                      |          arxiv          |      [Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models](https://arxiv.org/abs/2312.14197)      |       **Indirect Prompt Injection Attacks**&**BIPIA Benchmark**&**Defense**       |
 
 ## 📚Resource
 
