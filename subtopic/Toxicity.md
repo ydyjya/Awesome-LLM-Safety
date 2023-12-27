@@ -27,6 +27,7 @@
 | 23.12 |                                          Ajou University                                           |    arXiv    |                               [GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org/abs/2312.06122)                                | **Toxicity Avoidance**&**Gated Toxicity Avoidance**&**Controllable Text Generation** |
 | 23.12 |          Hong Kong Baptist University; The Hong Kong University of Science and Technology          |    arXiv    |        [Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models](https://arxiv.org/abs/2312.05434)         |                         **Harmful**&**Multimodal Reasoning**                         |
 | 23.12 |                         University of Southern California, Amazon.com Inc.                         |    arxiv    |                  [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303)                   |      **Toxic Content Detection**&**Bootstrapping**&**Decision-Tree-of-Thought**      |
+| 23.12 |           University of Texas at San Antonio, University at Buffalo, Clemson University            |   S&P2024   |                [Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2312.15099)                |                    **Online Hate**&**Chain-of-Thought Reasoning**                    |
 
 
 ## 💻Presentations & Talks
