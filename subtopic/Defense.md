@@ -26,6 +26,7 @@
 | 23.12 |                               Rensselaer Polytechnic Institute, Northeastern University                                |    arxiv    |           [Combating Adversarial Attacks through a Conscience-Based Alignment Framework](https://arxiv.org/abs/2312.00029)           |         **Adversarial Attacks**&**Conscience-Based Alignment**&**Safety**         |
 | 23.12 |                                   Azure Research, Microsoft Security Response Center                                   |    arXiv    |                [Maatphor: Automated Variant Analysis for Prompt Injection Attacks](https://arxiv.org/abs/2312.11513)                 |            **Prompt Injection Attacks**&**Automated Variant Analysis**            |
 | 23.12 |       University of Massachusetts Amherst, Columbia University, Google, Stanford University, New York University       |    arxiv    |                 [Learning and Forgetting Unsafe Examples in Large Language Models](https://arxiv.org/abs/2312.12736)                 |          **Safety Issues**&**ForgetFilter Algorithm**&**Unsafe Content**          |
+| 23.12 |                              UC Berkeley, King Abdulaziz City for Science and Technology                               |    arXiv    |                   [Jatmo: Prompt Injection Defense by Task-Specific Finetuning](https://arxiv.org/abs/2312.17673)                    |                           Prompt Injection&LLM Security                           |
 
 
 
