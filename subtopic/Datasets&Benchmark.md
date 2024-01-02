@@ -26,6 +26,8 @@
 | 23.12 |                                                                        Meta                                                                        |          arxiv          |                [Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models](https://arxiv.org/abs/2312.04724)                 |             **Safety**&**Cybersecurity**&**Code Security Benchmark**              |
 | 23.12 |          University of Illinois Chicago, Bosch Research North America & Bosch Center for Artificial Intelligence (BCAI), UNC Chapel-Hill           |          arxiv          |               [DELUCIONQA: Detecting Hallucinations in Domain-specific Question Answering](https://arxiv.org/abs/2312.05200)                |  **Hallucination Detection**&**Domain-specific QA**&**Retrieval-augmented LLMs**  |
 | 23.12 |                      University of Science and Technology of China, Hong Kong University of Science and Technology, Microsoft                      |          arxiv          |      [Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models](https://arxiv.org/abs/2312.14197)      |       **Indirect Prompt Injection Attacks**&**BIPIA Benchmark**&**Defense**       |
+| 24.01 |                                                 NewsBreak, University of Illinois Urbana-Champaign                                                 |          arxiv          |     [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](https://arxiv.org/abs/2401.00396)     |    **Retrieval-Augmented Generation**&**Hallucination Detection**&**Dataset**     |
+
 
 ## 📚Resource
 
