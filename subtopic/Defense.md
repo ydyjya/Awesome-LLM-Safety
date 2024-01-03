@@ -28,6 +28,7 @@
 | 23.12 |       University of Massachusetts Amherst, Columbia University, Google, Stanford University, New York University       |    arxiv    |                           [Learning and Forgetting Unsafe Examples in Large Language Models](https://arxiv.org/abs/2312.12736)                            |          **Safety Issues**&**ForgetFilter Algorithm**&**Unsafe Content**          |
 | 23.12 |                              UC Berkeley, King Abdulaziz City for Science and Technology                               |    arXiv    |                              [Jatmo: Prompt Injection Defense by Task-Specific Finetuning](https://arxiv.org/abs/2312.17673)                              |                           Prompt Injection&LLM Security                           |
 | 24.01 |                                                Arizona State University                                                |    arxiv    | [The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness](https://arxiv.org/abs/2401.00287) |             **Safety**&**Over-Defensiveness**&**Defense Strategies**              |
+| 24.01 |                                 Logistic and Supply Chain MultiTech R&D Centre (LSCM)                                  |    arxiv    |          [Detection and Defense Against Prominent Attacks on Preconditioned LLM-Integrated Virtual Assistants](https://arxiv.org/abs/2401.00994)          |                      **Preconditioning**&**Cyber Security**                       |
 
 
 
