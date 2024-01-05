@@ -28,6 +28,7 @@
 | 23.12 |          Hong Kong Baptist University; The Hong Kong University of Science and Technology          |    arXiv    |        [Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models](https://arxiv.org/abs/2312.05434)         |                         **Harmful**&**Multimodal Reasoning**                         |
 | 23.12 |                         University of Southern California, Amazon.com Inc.                         |    arxiv    |                  [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303)                   |      **Toxic Content Detection**&**Bootstrapping**&**Decision-Tree-of-Thought**      |
 | 23.12 |           University of Texas at San Antonio, University at Buffalo, Clemson University            |   S&P2024   |                [Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2312.15099)                |                    **Online Hate**&**Chain-of-Thought Reasoning**                    |
+| 24.01 |             University of Michigan Ann Arbor, Harvard University, University of Sydney             |    arxiv    |                   [A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/abs/2401.01967)                    |    **Alignment Algorithms**&**Toxicity**&**Direct Preference Optimization (DPO)**    |
 
 
 ## 💻Presentations & Talks
