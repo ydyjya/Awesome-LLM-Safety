@@ -32,7 +32,7 @@
 | 24.01 |                                                       Arizona State University                                                       |    arxiv    | [The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness](https://arxiv.org/abs/2401.00287) |             **Safety**&**Over-Defensiveness**&**Defense Strategies**              |
 | 24.01 |                                        Logistic and Supply Chain MultiTech R&D Centre (LSCM)                                         |    arxiv    |          [Detection and Defense Against Prominent Attacks on Preconditioned LLM-Integrated Virtual Assistants](https://arxiv.org/abs/2401.00994)          |                      **Preconditioning**&**Cyber Security**                       |
 | 24.01 | The Hong Kong University of Science and Technology, University of Illinois at Urbana-Champaign, The Hong Kong Polytechnic University |    arxiv    |                          [MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)                           |   **Multimodal Large Language Models (MLLMs)**&**Safety**&**Malicious Attacks**   |
-
+| 24.01 |                                                      Carnegie Mellon University                                                      |    arxiv    |                                    [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)                                     |               **Data Privacy**&**Ethical Concerns**&**Unlearning**                |
 
 
 ## 💻Presentations & Talk
