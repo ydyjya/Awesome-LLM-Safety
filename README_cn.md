@@ -172,6 +172,7 @@
 |:-:|:-:|:-:|:-:|
 |21.07|Google Research|ACL2022|[Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)|
 |22.04|Anthropic|arxiv|[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)|
+|24.01|WHU|arxiv|[Intention Analysis Prompting Makes Large Language Models A Good Jailbreak Defender](https://arxiv.org/abs/2401.06561)|
 
 
 
