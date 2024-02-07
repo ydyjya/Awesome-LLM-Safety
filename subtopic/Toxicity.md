@@ -32,7 +32,7 @@
 | 24.01 |                                             Algorix Convergence Research Office, Centennial High School                                              |    arxiv    |                     [EFFICACY OF UTILIZING LARGE LANGUAGE MODELS TO DETECT PUBLIC THREAT POSTED ONLINE](https://arxiv.org/abs/2401.02974)                      |                       **Content Moderation**&**Public Threat**                       |
 | 24.01 | University at Buffalo, University of Texas at San Antonio, Union County Magnet High School, East Chapel Hill High School, Minhang Crosspoint Academy |  ICMLA2023  |                       [An Investigation of Large Language Models for Real-World Hate Speech Detection](https://arxiv.org/abs/2401.03346)                       |             **Hate Speech**&**Prompt Engineering**&**Few-shot Learning**             |
 | 24.01 |                                                 IRLab CITIC Research Centre, Universidade da Coruña                                                  |    arxiv    |                             [MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection](https://arxiv.org/abs/2401.06526)                              |                      **Hate Speech Detection**&**Social Media**                      |
-
+| 24.02 |                                                            University of Brighton, Ofgem                                                             |    arxiv    |                               [The Use of a Large Language Model for Cyberbullying Detection](https://arxiv.org/abs/2402.04088)                                |                      **Cyberbullying&**Social Media Analytics**                      |
 
 ## 💻Presentations & Talks
 
