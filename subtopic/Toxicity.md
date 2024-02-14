@@ -33,6 +33,8 @@
 | 24.01 | University at Buffalo, University of Texas at San Antonio, Union County Magnet High School, East Chapel Hill High School, Minhang Crosspoint Academy |  ICMLA2023  |                       [An Investigation of Large Language Models for Real-World Hate Speech Detection](https://arxiv.org/abs/2401.03346)                       |             **Hate Speech**&**Prompt Engineering**&**Few-shot Learning**             |
 | 24.01 |                                                 IRLab CITIC Research Centre, Universidade da Coruña                                                  |    arxiv    |                             [MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection](https://arxiv.org/abs/2401.06526)                              |                      **Hate Speech Detection**&**Social Media**                      |
 | 24.02 |                                                            University of Brighton, Ofgem                                                             |    arxiv    |                               [The Use of a Large Language Model for Cyberbullying Detection](https://arxiv.org/abs/2402.04088)                                |                      **Cyberbullying&**Social Media Analytics**                      |
+| 24.02 |                                                              Seoul National University                                                               |    arxiv    |             [Can LLMs Recognize Toxicity? Structured Toxicity Investigation Framework and Semantic-Based Metric](https://arxiv.org/abs/2402.06900)             |                    **Toxicity Detection**&**Semantic Evaluation**                    |
+
 
 ## 💻Presentations & Talks
 
