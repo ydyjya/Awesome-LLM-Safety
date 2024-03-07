@@ -37,7 +37,7 @@
 | 24.02 |                                    Shanghai Artificial Intelligence Laboratory, Harbin Institute of Technology, Beijing Institute of Technology, Chinese University of Hong Kong                                     |          arxiv          |        [SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models](https://arxiv.org/abs/2402.05044)         |        **Safety Benchmark**&Safety Evaluation**&**Hierarchical Taxonomy**         |
 | 24.02 | Middle East Technical University | arxiv | [HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs](https://arxiv.org/abs/2402.16211) | **Hallucination**&**Benchmarking Dataset** |
 | 24.02 | Indian Institute of Technology Kharagpur | arxiv | [How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries](https://arxiv.org/abs/2402.15302) | **Instruction-centric Responses**&**Ethical Vulnerabilities** |
-
+| 24.03 | East China Normal University | arxiv | [DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2403.00896) | **Dialogue-level Hallucination**&**Benchmarking**&**Human-machine Interaction** |
 
 ## 📚Resource
 

@@ -52,6 +52,8 @@
 | 24.02 |                           Sun Yat-sen University, Google Research                           |          arxiv           |                                          [Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)                                          |                             **Privacy Risks**&**Synthetic Instructions**                              |
 | 24.02 |                          National University of Defense Technology                          |          arxiv           |            [LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification](https://arxiv.org/abs/2402.16515)            |       **Privacy Data Augmentation**&**Knowledge Distillation**&**Medical Text Classification**        |
 | 24.02 |                            Michigan State University, Baidu Inc.                            |          arxiv           |                                [The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)                                |                         **Privacy**&**Retrieval-Augmented Generation (RAG)**                          |
+| 24.03 | Virginia Tech | arxiv | [Privacy-Aware Semantic Cache for Large Language Models](https://arxiv.org/abs/2403.02694) | **Federated Learning**&**Cache Hit**&**Privacy** |
+| 24.03 | Tsinghua University | arxiv | [CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/abs/2403.03129) | **Small Language Models**&**Privacy**&**Context-Aware Instruction Following** |
 
 
 ## 💻Presentations & Talks

@@ -50,6 +50,7 @@
 | 24.02 | University of California Santa Barbara | arxiv | [Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing](https://arxiv.org/abs/2402.16192) | **Semantic Smoothing**&**Jailbreak Attacks**|
 | 24.02 | University of Wisconsin-Madison | arxiv | [Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment](https://arxiv.org/abs/2402.14968) | **Fine-tuning Attack**&**Backdoor Alignment**&**Safety Examples** |
 | 24.02 | University of Exeter | arxiv | [Is the System Message Really Important to Jailbreaks in Large Language Models?](https://arxiv.org/abs/2402.14857) | **Jailbreak**&**System Messages** |
+| 24.03 | The Chinese University of Hong Kong, IBM Research | arxiv | [Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes](https://arxiv.org/abs/2403.00867) | **Jailbreak Attacks**&**Refusal Loss**&**Gradient Cuff** |
 
 
 
