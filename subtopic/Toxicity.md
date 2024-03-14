@@ -37,7 +37,7 @@
 | 24.02 |                                            University of Pisa&University of Edinburgh&Bocconi University                                             |    arxiv    |                                 [FAIRBELIEF – Assessing Harmful Beliefs in Language Models](https://arxiv.org/abs/2402.17389)                                  |                         **Beliefs Assessment**&**Fairness**                          |
 | 24.03 | Indian Institute of Technology (IIT) Jodhpur, Indraprastha Institute of Information Technology Delhi (IIIT-D), IBM Research India | demonstration track of AAAI-24 | [LLMGuard: Guarding against Unsafe LLM Behavior](https://arxiv.org/abs/2403.00826) | **Safety**&**Content Flagging**&**Detectors** |
 | 24.03 | Cohere for AI | arxiv | [From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models](https://arxiv.org/abs/2403.03893) | **Multilingual Toxicity Mitigation**&**Translated Data**&**Retrieval-Augmented Techniques** |
-
+| 24.03 | Arizona State University | arxiv | [Harnessing Artificial Intelligence to Combat Online Hate: Exploring the Challenges and Opportunities of Large Language Models in Hate Speech Detection](https://arxiv.org/abs/2403.08035) | **Hate Speech Detection**&**Text Classification** |
 
 ## 💻Presentations & Talks
 
