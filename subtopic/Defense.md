@@ -55,6 +55,7 @@
 | 24.03 |          Peking University, University of Wisconsin–Madison, International Digital Economy Academy, University of California Davis          |    arxiv    |  [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)   |         **Multimodal Large Language Models Safety**&**Defense Strategy**          |
 | 24.03 | Southern University of Science and Technology, Hong Kong University of Science and Technology, Huawei Noah’s Ark Lab, Peng Cheng Laboratory |    arxiv    |                  [Eyes Closed Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation](https://arxiv.org/abs/2403.09572)                   |                          **Multimodal LLMs**&**Safety**                           |
 | 24.03 |                            UIUC, Virginia Tech, Salesforce Research, University of California Berkeley, UChicago                            |    arxiv    |                  [RIGORLLM: RESILIENT GUARDRAILS FOR LARGE LANGUAGE MODELS AGAINST UNDESIRED CONTENT](https://arxiv.org/abs/2403.13031)                   |              **Biases**&**Harmful Content**&**Resilient Guardrails**              |
+| 24.03 | Microsoft | arxiv | [Defending Against Indirect Prompt Injection Attacks With Spotlighting](https://arxiv.org/abs/2403.14720) | **Indirect Prompt Injection**&**Spotlighting** |
 
 
 
