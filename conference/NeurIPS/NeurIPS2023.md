@@ -20,3 +20,20 @@ Spotlight
 2.  <details>
           <summary>ProPILE: Probing Privacy Leakage in Large Language Models</summary>
    </details>
+
+3. <details>
+          <summary>Django: Detecting Trojans in Object Detection Models via Gaussian Focus Calibration</summary>
+          Keywords: Backdoor
+   </details>
+
+4. <details>
+          <summary>Django: Label Poisoning is All You Need</summary>
+          Keywords: Backdoor
+   </details>
+
+5. <details>
+          <summary>**Are aligned neural networks adversarially aligned?**</summary>
+          TL;DR: We show "aligned" models that are normally harmless are not "adversarially aligned" and can be adversarially attacked to disregard their RLHF training and produce harmful output---especially when they are multimodal.
+   </details>
+
+6. 
