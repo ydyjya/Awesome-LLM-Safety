@@ -9,3 +9,10 @@ Oral
 2. <details>
           <summary>Jailbroken: How Does LLM Safety Training Fail?</summary>
    </details>
+
+Spotlight
+
+1. <details>
+          <summary>Honesty Is the Best Policy: Defining and Mitigating AI Deception</summary>
+          TL; DR: We formally define deception in the causal game framework and mitigate deception in reinforcement learning agents and language models.
+   </details>
