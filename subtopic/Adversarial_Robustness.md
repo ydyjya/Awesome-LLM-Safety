@@ -1,4 +1,8 @@
-Other resources: https://zhuanlan.zhihu.com/p/103593948
+Other resources: 
+
+https://zhuanlan.zhihu.com/p/103593948
+
+https://zhuanlan.zhihu.com/p/84174278
 
 
 1. <details>
@@ -43,5 +47,9 @@ Other resources: https://zhuanlan.zhihu.com/p/103593948
    </details>
 
 9. <details>
-          <summary>[AAAI 2020] <b>TextFooler:Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment</b></summary>
+          <summary>[AAAI 2020] TextFooler:Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment</summary>
+   </details>
+
+10. <details>
+          <summary>[ACL 2019] <b>PWWS: Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency</b></summary>
    </details>
