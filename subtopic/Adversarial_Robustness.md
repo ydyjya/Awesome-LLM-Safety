@@ -39,6 +39,6 @@ Other resources: https://zhuanlan.zhihu.com/p/103593948
    </details>
 
 8. <details>
-          <summary>[ICLR 2020] <b>FreeLB: Enhanced Adversarial Training for Natural Language Understanding</b></summary>
+          <summary>[ICLR 2020] FreeLB: Enhanced Adversarial Training for Natural Language Understanding</summary>
    </details>
 
