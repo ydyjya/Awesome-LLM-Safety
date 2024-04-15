@@ -42,3 +42,6 @@ Other resources: https://zhuanlan.zhihu.com/p/103593948
           <summary>[ICLR 2020] FreeLB: Enhanced Adversarial Training for Natural Language Understanding</summary>
    </details>
 
+9. <details>
+          <summary>[AAAI 2020] <b>TextFooler:Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment</b></summary>
+   </details>
