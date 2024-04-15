@@ -11,7 +11,7 @@ Other resources: https://zhuanlan.zhihu.com/p/103593948
    </details>
 
 2. <details>
-          <summary>[ICLR 2015] Explaining and harnessing adversarial examples.</summary>
+          <summary>[ICLR 2015] FGSM: Explaining and harnessing adversarial examples.</summary>
      <ul>
         <li>Neural networks are vulnerable to adversarial examples due to their <b>inherent linearity</b> in high-dimensional spaces.</li>
         <li>Introduces the Fast Gradient Sign Method (FGSM), a technique to efficiently generate adversarial examples.</li>
@@ -19,7 +19,7 @@ Other resources: https://zhuanlan.zhihu.com/p/103593948
    </details>
 
 3. <details>
-          <summary>[ICLR 2018] Towards Deep Learning Models Resistant to Adversarial Attacks.</summary>
+          <summary>[ICLR 2018] PGD: Towards Deep Learning Models Resistant to Adversarial Attacks.</summary>
    </details>
 
 4. <details>
