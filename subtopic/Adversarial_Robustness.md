@@ -51,5 +51,5 @@ https://zhuanlan.zhihu.com/p/84174278
    </details>
 
 10. <details>
-          <summary>[ACL 2019] <b>PWWS: Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency</b></summary>
+          <summary>[ACL 2019] PWWS: Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency</summary>
    </details>
