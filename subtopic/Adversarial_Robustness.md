@@ -1,3 +1,6 @@
+Other resources: https://zhuanlan.zhihu.com/p/103593948
+
+
 1. <details>
     <summary>[ICLR 2014] <b>Intriguing properties of neural networks</b></summary>
     <ul>
@@ -32,5 +35,10 @@
    </details>
 
 7. <details>
-          <summary>[ACL 2022] <b>TextBugger: Generating Adversarial Text Against Real-world Applications</b></summary>
+          <summary>[NDSS 2019] <b>TextBugger: Generating Adversarial Text Against Real-world Applications</b></summary>
    </details>
+
+8. <details>
+          <summary>[ICLR 2020] <b>FreeLB: Enhanced Adversarial Training for Natural Language Understanding</b></summary>
+   </details>
+
