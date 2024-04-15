@@ -9,5 +9,8 @@
 
 2. <details>
           <summary>[ICLR 2015] Explaining and harnessing adversarial examples.</summary>
-           
+     <ul>
+        <li>Neural networks are vulnerable to adversarial examples due to their <b>inherent linearity</b> in high-dimensional spaces.</li>
+        <li>Introduces the Fast Gradient Sign Method (FGSM), a technique to efficiently generate adversarial examples.</li>
+    </ul>
    </details>
