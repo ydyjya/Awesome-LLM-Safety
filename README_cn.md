@@ -149,6 +149,8 @@
 | 22.11 | AE Studio | NIPS2022(ML Safety Workshop) |                     [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)                     |
 | 23.06 |  Google   |            arxiv             |                          [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                           |
 | 23.07 |    CMU    |            arxiv             |               [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)               |
+| 23.10 | University of Pennsylvania |            arxiv             |                    [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)                     |
+
 
 ### 📖教程, 文章, 演示, 演讲
 
