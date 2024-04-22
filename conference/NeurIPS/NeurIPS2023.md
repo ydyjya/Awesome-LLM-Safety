@@ -32,8 +32,7 @@ Spotlight
    </details>
 
 5. <details>
-          <summary>**Are aligned neural networks adversarially aligned?**</summary>
+          <summary>Are aligned neural networks adversarially aligned?</summary>
           TL;DR: We show "aligned" models that are normally harmless are not "adversarially aligned" and can be adversarially attacked to disregard their RLHF training and produce harmful output---especially when they are multimodal.
    </details>
 
-6. 
