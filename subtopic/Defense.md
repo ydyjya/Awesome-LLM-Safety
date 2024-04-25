@@ -59,7 +59,7 @@
 | 24.04 |                                           South China University of Technology&Pazhou Laboratory                                            |    arxiv    |                [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://arxiv.org/abs/2404.05880)                 |                          **Jailbreaking**&**Unlearning**                          |
 | 24.04 |                                                Zhejiang University, Johns Hopkins University                                                |    arxiv    |                         [SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666)                         |        **Text-to-Image Models**&**Unsafe Content**&**Content Mitigation**         |
 | 24.04 |                                    Hong Kong University of Science and Technology, University of Oxford                                     |    arxiv    |                             [Latent Guard: A Safety Framework for Text-to-Image Generation](https://arxiv.org/abs/2404.08031)                             |          **Text-to-Image Models**&**Safety Framework**&**Latent Guard**           |
-
+| 24.04 |                                    Nanjing University, Microsoft Research, Tsinghua University, Queen Mary, Pennsylvania State University, NEC Labs                                     |    arxiv    |                             [Protecting Your LLMs with Information Bottleneck](https://arxiv.org/abs/2404.13968)                             |          **Jailbreaking Attacks**&**AI Security**&**Perturbation**           |
 
 
 ## 💻Presentations & Talk
