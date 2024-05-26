@@ -167,7 +167,8 @@
 | 24.05 |                    Dublin City University                    |        arxiv        | [Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models](https://arxiv.org/abs/2405.09454) |    **Explainable AI**&**Fact-Checking**&**Public Health**    |
 | 24.05 | University of Information Technology, Vietnam National University |        arxiv        | [ViWikiFC: Fact-Checking for Vietnamese Wikipedia-Based Textual Knowledge Source](https://arxiv.org/abs/2405.07615) |  **Fact Checking**&**Information Verification**&**Corpus**   |
 | 24.05 |                   Imperial College London                    |        arxiv        | [Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](https://arxiv.org/abs/2405.06545) |  **Hallucination Mitigation**&**Knowledge Graph Retrieval**  |
-
+| 24.05 | University of Cambridge | arxiv | [CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models](https://arxiv.org/abs/2405.13684) | **Hallucination Ranking**&**Multimodal Models**&**Universal Benchmarking** |
+| 24.05 | Amazon AWS AI | arxiv | [REFCHECKER: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models](https://arxiv.org/abs/2405.14486) | **Hallucination Detection**&**Benchmark** |
 
 
 ## 💻Presentations & Talks
