@@ -105,7 +105,6 @@
 | 24.04 |                        CSIRO’s Data61                        | ACM International Conference on AI-powered Software | [An AI System Evaluation Framework for Advancing AI Safety: Terminology, Taxonomy, Lifecycle Mapping](https://arxiv.org/abs/2404.05388) | **AI Safety**&**Evaluation Framework**&**AI Lifecycle Mapping** |
 | 24.05 |                     CSAIL and CBMM, MIT                      |                        arxiv                        | [SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data](https://arxiv.org/abs/2405.09805) |              **SecureLLM**&**Compositionality**              |
 | 24.05 |                  Carnegie Mellon University                  |                        arxiv                        | [Human–AI Safety: A Descendant of Generative AI and Control Systems Safety](https://arxiv.org/abs/2405.09794) |            **Human–AI Safety**&**Generative AI**             |
-| 24.05 | GSAI POSTECH | arxiv | [Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents](https://arxiv.org/abs/2405.12900) | **Adversarial DPO**&**Reducing Toxicity**&**Dialogue Agents** |
 
 
 

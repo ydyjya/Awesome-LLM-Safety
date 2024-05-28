@@ -148,7 +148,6 @@
 | 24.04 | Technical University of Munich, University of Stavanger, University of Alberta |        arxiv        | [PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics](https://arxiv.org/abs/2404.04722) | **Hallucination Detection**&**State Transition Dynamics**&**Large Language Models** |
 | 24.04 | University of Edinburgh, University College London, Peking University, Together AI |        arxiv        | [The Hallucinations Leaderboard – An Open Effort to Measure Hallucinations in Large Language Models](https://arxiv.org/abs/2404.05904) |         **Hallucination Detection**&**Benchmarking**         |
 | 24.04 | IIIT Hyderabad, Purdue University, Northwestern University, Indiana University Indianapolis |        arxiv        | [Halu-NLP at SemEval-2024 Task 6: MetaCheckGPT - A Multi-task Hallucination Detection Using LLM Uncertainty and Meta-models](https://arxiv.org/abs/2404.06948) | **Hallucination Detection**&**LLM Uncertainty**&**Meta-models** |
-| 24.04 |                          ServiceNow                          |     NAACL 2024      | [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189) | **Retrieval-Augmented Generation**&**Structured Outputs**&**Generative AI** |
 | 24.04 |  Technion – Israel Institute of Technology, Google Research  |        arxiv        | [Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs](https://arxiv.org/abs/2404.09971) |              **Hallucinations**&**Benchmarks**               |
 | 24.04 |  The University of Texas at Austin, Salesforce AI Research   |        arxiv        | [MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](https://arxiv.org/abs/2404.10774) |               **Fact-Checking**&**Efficiency**               |
 | 24.04 |             Meta, Technical University of Munich             |        arxiv        | [Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations](https://arxiv.org/abs/2404.10960) |        **Safety**&**Hallucinations**&**Uncertainty**         |
@@ -167,8 +166,7 @@
 | 24.05 |                    Dublin City University                    |        arxiv        | [Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models](https://arxiv.org/abs/2405.09454) |    **Explainable AI**&**Fact-Checking**&**Public Health**    |
 | 24.05 | University of Information Technology, Vietnam National University |        arxiv        | [ViWikiFC: Fact-Checking for Vietnamese Wikipedia-Based Textual Knowledge Source](https://arxiv.org/abs/2405.07615) |  **Fact Checking**&**Information Verification**&**Corpus**   |
 | 24.05 |                   Imperial College London                    |        arxiv        | [Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](https://arxiv.org/abs/2405.06545) |  **Hallucination Mitigation**&**Knowledge Graph Retrieval**  |
-| 24.05 | University of Cambridge | arxiv | [CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models](https://arxiv.org/abs/2405.13684) | **Hallucination Ranking**&**Multimodal Models**&**Universal Benchmarking** |
-| 24.05 | Amazon AWS AI | arxiv | [REFCHECKER: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models](https://arxiv.org/abs/2405.14486) | **Hallucination Detection**&**Benchmark** |
+
 
 
 ## 💻Presentations & Talks
