@@ -54,6 +54,8 @@
 | 24.04 |        University of Alberta&The University of Tokyo         |          arxiv          | [Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward](https://arxiv.org/abs/2404.08517) |   **LLM Safety**&**Online Safety Analysis**&**Benchmark**    |
 | 24.04 |  Technion – Israel Institute of Technology, Google Research  |          arxiv          | [Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs](https://arxiv.org/abs/2404.09971) |              **Hallucinations**&**Benchmarks**               |
 | 24.05 |                  Carnegie Mellon University                  |          arxiv          | [PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models](https://arxiv.org/abs/2405.09373) |           **Multilingual Evaluation**&**Datasets*            |
+| 24.05 | Paul G. Allen School of Computer Science & Engineering | arxiv | [MASSIVE Multilingual Abstract Meaning Representation: A Dataset and Baselines for Hallucination Detection](https://arxiv.org/abs/2405.19285) | **Hallucination Detection**&**Multilingual AMR**&**Dataset** |
+| 24.05 | University of California, Riverside | arxiv | [Cross-Task Defense: Instruction-Tuning LLMs for Content Safety](https://arxiv.org/abs/2405.15202) | **Instruction-Tuning**&**LLM Safety**&**Content Safety** |
 
 ## 📚Resource
 

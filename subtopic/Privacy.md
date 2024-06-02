@@ -68,6 +68,9 @@
 | 24.04 | University of Texas at El Paso, Texas A&M University Central Texas, University of Maryland Baltimore County |          arxiv           | [PrivComp-KG: Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification](https://arxiv.org/abs/2404.19744) | **Privacy Policy**&**Policy Compliance**&**Knowledge Graph** |
 | 24.05 |                  Renmin University of China                  |       COLING 2024        | [Locally Differentially Private In-Context Learning](https://arxiv.org/abs/2405.04032) |    **In-context Learning**&**Local Differential Privacy**    |
 | 24.05 |                    University of Maryland                    |        NAACL2024         | [Keep It Private: Unsupervised Privatization of Online Text](https://arxiv.org/abs/2405.10260) | **Unsupervised Privatization**&**Online Text**&**Large Language Models** |
+| 24.05 | Zhejiang University | arxiv | [PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN](https://arxiv.org/abs/2405.18744) | **Private Inference**&**Secure Computation** |
+| 24.05 | University of Connecticut | arxiv | [LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning of Large Language Models](https://arxiv.org/abs/2405.18776) | **Differential Privacy**&**Fine-Tuning** |
+| 24.05 | University of Technology, Sydney | arxiv | [Large Language Model Watermark Stealing with Mixed Integer Programming](https://arxiv.org/abs/2405.19677) | **Watermark Stealing**&**Mixed Integer Programming**&**LLM Security** |
 
 
 

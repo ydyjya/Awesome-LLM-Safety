@@ -74,6 +74,10 @@
 | 24.05 |                   University of Edinburgh                    |        arxiv        | [Spectral Editing of Activations for Large Language Model Alignment](https://arxiv.org/abs/2405.09719) | **Bias Mitigation**&**Truthfulness Enhancement**&**Spectral Editing** |
 | 24.05 |                 East China Normal University                 |        arxiv        | [A Safety Realignment Framework via Subspace-Oriented Model Fusion for Large Language Models](https://arxiv.org/abs/2405.09055) |           **Model Fusion**&**Safeguard Strategy**            |
 | 24.05 |      The Hong Kong University of Science and Technology      |        arxiv        | [Backdoor Removal for Generative Large Language Models](https://arxiv.org/abs/2405.07667) | **Backdoor Attacks**&**Generative Models**&**Safety Training** |
+| 24.05 | Stony Brook University | arxiv | [Robustifying Safety-Aligned Large Language Models through Clean Data Curation](https://arxiv.org/abs/2405.19358) | **Jailbreaking Attacks**&**Clean Data Curation**&**LLM Safety Alignment** |
+| 24.05 | University of Pennsylvania | arxiv | [One-Shot Safety Alignment for Large Language Models via Optimal Dualization](https://arxiv.org/abs/2405.19544) | **Safety Alignment**&**Constrained RLHF**&**Optimal Dualization** |
+| 24.05 | Naver | arxiv | [SLM as Guardian: Pioneering AI Safety with Small Language Models](https://arxiv.org/abs/2405.19795) | **AI Safety**&**Small Language Models**&**Harmful Query Detection** |
+| 24.05 | The Chinese University of Hong Kong | arxiv | [Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](https://arxiv.org/abs/2405.20099) | **Jailbreak Attacks**&**Defensive Prompt Patch**&**LLM Security** |
 
 
 ## 💻Presentations & Talk
