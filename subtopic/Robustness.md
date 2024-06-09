@@ -31,6 +31,7 @@
 | 24.04 | Institute for Intelligent Computing, Alibaba Group; School of Information Management, Wuhan University |                            arxiv                             | [Enhance Robustness of Language Models Against Variation Attack through Graph Integration](https://arxiv.org/abs/2404.12014) |                    **Chinese Adversarial Attacks**&**Variation Graph**                     |
 | 24.05 | Mila, Université de Montréal | arxiv | [Efficient Adversarial Training in LLMs with Continuous Attacks](https://arxiv.org/abs/2405.15589) |                      **Adversarial Training**&**Continuous Attacks**                       |
 | 24.05 | University of Edinburgh | arxiv | [Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models](https://arxiv.org/abs/2405.15984) | **Adversarial Robustness**&**In-Context Learning**&**Retrieval-Augmented Methods** |
+| 24.05 | Tokyo University of Agriculture and Technology | arxiv | [Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770) | **Adversarial Robustness**&**LLM Agent**&**Textual Attacks** |
 
 
 
