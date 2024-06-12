@@ -162,6 +162,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 | 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 |         [link](https://github.com/ydyjya/Awesome-LLM-Safety)          |
 | 23.10 |      Article       |                 Adversarial Attacks on LLMs(Author: Lilian Weng)                  | [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
 | 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |          [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)          |
+| 24.06 |      Article       |                 How Anyone can Hack ChatGPT -GPT4o!!(Author: Aruna Withanage)     | [link](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0/) |
 
 ### Other
 
