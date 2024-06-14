@@ -19,7 +19,7 @@ English | [中文](README_cn.md)
 
 **🔥 News**
 
-- 2024.05 update NAACL 2024 Papers Collection, thanks for @zhrli324, @feqHe!
+- 2024.05 update NAACL 2024 Papers Collection, thanks @[zhrli324](https://github.com/zhrli324), @[feqHe](https://github.com/feqHe)!
 
 **🧑‍💻 Our Work**
 
