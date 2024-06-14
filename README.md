@@ -17,24 +17,51 @@ English | [中文](README_cn.md)
 
 **Welcome to our Awesome-llm-safety repository!** 🥰🥰🥰
 
+**🔥 News**
+
+- 2024.05 update NAACL 2024 Papers Collection, thanks for @zhrli324, @feqHe!
+
 **🧑‍💻 Our Work**
 
-We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
+We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). 
+But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
+Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 > If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
 
 **✔️ Perfect for Majority**
-- For beginners curious about llm-safety, our repository serves as a compass for grasping the big picture and diving into the details. Classic or influential papers retained in the README provide a beginner-friendly navigation through interesting directions in the field;
-- For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. Our thorough compilation and careful selection are time-savers for you.
+- For beginners curious about llm-safety, our repository serves as a compass for grasping the big picture and diving into the details. 
+Classic or influential papers retained in the README provide a beginner-friendly navigation through interesting directions in the field;
+- For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. 
+Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. 
+Our thorough compilation and careful selection are time-savers for you.
 
 **🧭 How to Use this Guide**
 - Quick Start: In the README, users can find a curated list of select information sorted by date, along with links to various consultations.
-- In-Depth Exploration: If you have a special interest in a particular subtopic, delve into the "subtopic" folder for more. Each item, be it an article or piece of news, comes with a brief introduction, allowing researchers to swiftly zero in on relevant content.
+- In-Depth Exploration: If you have a special interest in a particular subtopic, delve into the "subtopic" folder for more. 
+Each item, be it an article or piece of news, comes with a brief introduction, allowing researchers to swiftly zero in on relevant content.
 
+**💼 How to Contribution**
+
+If you have completed an insightful work or carefully compiled conference papers, we would love to add your work to the repository.
+- For **individual papers**, you can raise an issue, and we will quickly add your paper under the corresponding subtopic.
+- If you have **compiled a collection of papers for a conference**, you are welcome to submit a pull request directly. 
+We would greatly appreciate your contribution. 
+Please note that these pull requests need to be consistent with our existing format.
+
+**📜Advertisement**
+
+- 2024.06.14 Recommended: latest work about explaining LLM safety through hidden
+ states [How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](https://arxiv.org/abs/2406.05644)
+
+🌱 If you would like more people to read your recent insightful work, please contact me via [email](zhouzhenhong@bupt.edu.cn). 
+I can offer you a promotional spot here for up to one month.
 
 **Let’s start LLM Safety tutorial!**
 
 ---
+
+
 
 ## 🚀Table of Contents
 
@@ -71,6 +98,14 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 
 ---
+
+## 🤔AI Safety & Security Discussions
+|   Date    |                                                   Link                                                   |                                                                                                                                                                                       Publication                                                                                                                                                                                        | Authors |
+|:---------:|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|
+| 2024/5/20 | [Managing extreme AI risks amid rapid progress](https://www.science.org/doi/abs/10.1126/science.adn0117) | Yoshua Bengio, Geoffrey Hinton, Andrew Yao, Dawn Song, Pieter Abbeel, Trevor Darrell, Yuval Noah Harari, Ya-Qin Zhang, Lan Xue, Shai Shalev-Shwartz, Gillian Hadfield, Jeff Clune, Tegan Maharaj, Frank Hutter, Atılım Güneş Baydin, Sheila McIlraith, Qiqi Gao, Ashwin Acharya, David Krueger, Anca Dragan, Philip Torr, Stuart Russell, Daniel Kahneman, Jan Brauner, Sören Mindermann | Science |
+
+---
+
 ## 🔐Security 
 
 ### 📑Papers
@@ -88,7 +123,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 | 22.02 | Toxicity Detection API |   Perspective API    | [link](https://www.perspectiveapi.com/)<br/>[paper](https://arxiv.org/abs/2202.11176) |
 | 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
 | 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
-
+| 24.01 |       Tutorials        |    Awesome-LM-SSP    |                  [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)                  |
 
 ### Other
 
@@ -112,7 +147,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 | Date  |   Type    |       Title        |                         URL                          |
 |:-----:|:---------:|:------------------:|:----------------------------------------------------:|
 | 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
-
+| 24.01 | Tutorials |   Awesome-LM-SSP   | [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)  |
 
 ### Other
 
@@ -217,6 +252,9 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 ## 🧑‍🏫 Scholars 👩‍🏫 
 **In this section, we list some of the scholars we consider to be experts in the field of LLM Safety!**
 
+The standard is that the scholar's papers have been cited over 1,000 times. 
+If you are a senior researcher in this field, or if you find that we have missed any senior researchers, please feel free to raise an issue.
+
 |     Scholars     |                                                                     HomePage&Google Scholars                                                                     |                                                                                                      Keywords or Interested                                                                                                       |
 |:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Nicholas Carlini | [Homepage](https://nicholas.carlini.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=q4qDvAoAAAAJ&view_op=list_works&sortby=pubdate) |                                                        **the intersection of machine learning and computer security**&**neural networks from an adversarial perspective**                                                         |
@@ -227,6 +265,7 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 |   Jindong Wang   |      [Homepage](https://scholar.google.com/citations?hl=zh-CN&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) \| [Google Scholar](https://jd92.wang/)       |                                                                             **Large Language Models (LLMs) evaluation and robustness enhancement** 　                                                                              |
 |   Chaowei Xiao   |                       [Homepage](https://xiaocw11.github.io/) \| [Google Scholar](https://scholar.google.com/citations?user=Juoqtj8AAAAJ)                        |                                     **interested in exploring the trustworthy problem in (MultiModal) Large Language Models and studying the role of LLMs in different application domains.**                                     |
 |     Andy Zou     |                  [Homepage](https://andyzoujm.github.io/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)                   |                                                                                                    **ML Safety**&**AI Safety**                                                                                                    |
+|     Yang Liu     |                 [Homepage](https://personal.ntu.edu.sg/yangliu/)\|[Google Scholar](https://scholar.google.com/citations?hl=en&user=_Pvgwd0AAAAJ)                 |                                                                                **Cybersecurity, Software Engineering and Artificial Integllence**                                                                                 |
 
 ---
 ## 🧑‍🎓Author
