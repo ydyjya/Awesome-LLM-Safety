@@ -111,6 +111,9 @@
 | 24.05 | University of Oslo | arxiv | [AI Safety: A Climb to Armageddon?](https://arxiv.org/abs/2405.19832) | **AI Safety**&**Existential Risk**&**AI Governance** |
 | 24.06 | Zscaler, Inc. | arxiv | [Exploring Vulnerabilities and Protections in Large Language Models: A Survey](https://arxiv.org/abs/2406.00240) |                                       **Prompt Hacking**&**Adversarial Attacks**&**Suvery**                                     |
 | 24.06 | Texas A & M University - San Antonio | arxiv | [Transforming Computer Security and Public Trust Through the Exploration of Fine-Tuning Large Language Models](https://arxiv.org/abs/2406.00628) | **Fine-Tuning**&**Cyber Security** |
+| 24.06 | Alibaba Group | arxiv | [How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](https://arxiv.org/abs/2406.05644) | **LLM Safety**&**Alignment**&**Jailbreak** |
+| 24.06 | UC Davis | arxiv | [Security of AI Agents](https://arxiv.org/abs/2406.08689) | **Security**&**AI Agents**&**Vulnerabilities** |
+| 24.06 | University of Connecticut | USENIX Security ‘24 | [An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection](https://arxiv.org/abs/2406.06822) | **Backdoor Attack**&**Code Completion Models**&**Vulnerability Detection** |
 
 
 

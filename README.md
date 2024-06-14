@@ -68,7 +68,7 @@ I can offer you a promotional spot here for up to one month.
 - [🛡️Awesome LLM-Safety🛡️](#️awesome-llm-safety️)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
-  - [🔐Security](#security)
+  - [🔐Security & Discussion](#security & discussion)
     - [📑Papers](#papers)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks)
     - [Other](#other)
@@ -84,7 +84,7 @@ I can offer you a promotional spot here for up to one month.
     - [📑Papers](#papers-3)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
     - [Other](#other-3)
-  - [🛡️Defenses](#️defenses)
+  - [🛡️Defenses & Mitigation](#️defenses & mitigation)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
   - [💯Datasets \& Benchmark](#datasets--benchmark)
@@ -106,7 +106,7 @@ I can offer you a promotional spot here for up to one month.
 
 ---
 
-## 🔐Security 
+## 🔐Security & Discussion
 
 ### 📑Papers
 | Date  |      Institute       | Publication |                                                                                            Paper                                                                                            |
@@ -127,7 +127,7 @@ I can offer you a promotional spot here for up to one month.
 
 ### Other
 
-👉[Latest&Comprehensive Security Paper](.//subtopic/Security.md)
+👉[Latest&Comprehensive Security Paper](.//subtopic/Security&Discussion.md)
 
 ---
 ## 🔏Privacy 
@@ -203,7 +203,7 @@ I can offer you a promotional spot here for up to one month.
 👉[Latest&Comprehensive JailBreak & Attacks Paper](./subtopic/Jailbreaks&Attack.md)
 
 ---
-## 🛡️Defenses 
+## 🛡️Defenses & Mitigation
 
 ### 📑Papers
 | Date  |    Institute    | Publication |                                                             Paper                                                             |
@@ -221,7 +221,7 @@ I can offer you a promotional spot here for up to one month.
 
 ### Other
 
-👉[Latest&Comprehensive Defenses Paper](./subtopic/Defense.md)
+👉[Latest&Comprehensive Defenses Paper](./subtopic/Defense&Mitigation)
 
 
 --- 
