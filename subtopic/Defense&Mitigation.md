@@ -91,6 +91,12 @@
 | 24.06 | Tsinghua Shenzhen International Graduate School | arxiv | [MLLMGUARD: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](https://arxiv.org/abs/2406.07594) | **Safety Evaluation**&**MLLMs**&**Multi-dimensional** |
 | 24.06 | Purdue University | arxiv | [RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs](https://arxiv.org/abs/2406.08725) | **Jailbreaking Attacks**&**Reinforcement Learning** |
 | 24.06 | Mohamed bin Zayed University of Artificial Intelligence | arxiv | [MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250) | **Adversarial Defense**&**Vision-Language Models**&**MirrorCheck** |
+| 24.06 | Teesside University | arxiv | [Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications](https://arxiv.org/abs/2406.11007) | **Threat Modelling**&**Risk Analysis**&**LLM-Powered Applications** |
+| 24.06 | NVIDIA Corporation | arxiv | [garak: A Framework for Security Probing Large Language Models](https://arxiv.org/abs/2406.11036) | **garak**&**Security Probing** |
+| 24.06 | University of Science and Technology of China | arxiv | [Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment](https://arxiv.org/abs/2406.11285) | **Self Distillation**&**Cross-Model Distillation**&**Refusal Pattern Alignment** |
+| 24.06 | University of Washington | arxiv | [CLEANGEN: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://arxiv.org/abs/2406.12257) | **CLEANGEN**&**Backdoor Attacks**&**Generation Tasks** |
+| 24.06 | Columbia University | arxiv | [Defending Against Social Engineering Attacks in the Age of LLMs](https://arxiv.org/abs/2406.12263) | **Social Engineering**&**CSE Detection** |
+| 24.06 | Indian Institute of Technology Kharagpur | arxiv | [SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models](https://arxiv.org/abs/2406.12274) | **SafeInfer**&**Context Adaptive Decoding**&**Safety Alignment** |
 
 
 ## 💻Presentations & Talk

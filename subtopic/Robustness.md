@@ -34,6 +34,7 @@
 | 24.05 | Tokyo University of Agriculture and Technology | arxiv | [Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent](https://arxiv.org/abs/2405.20770) |                **Adversarial Robustness**&**LLM Agent**&**Textual Attacks**                |
 | 24.06 | Polytechnic of Porto | DCAI2024 | [Adversarial Evasion Attack Efficiency against Large Language Models](https://arxiv.org/abs/2406.08050) |                  **Adversarial Attacks**&**Robustness**&**Cybersecurity**                  |
 | 24.06 | National University of Singapore | ICML2024 | [Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions](https://arxiv.org/abs/2406.04606) | **Fine-tuning-free Shapley Attribution**&**Instance Attribution**&**Language Model Predictions** |
+| 24.06 | KAIST | arxiv | [Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection](https://arxiv.org/abs/2406.11260) | **Adversarial Style Augmentation**&**Fake News Detection** |
 
 
 

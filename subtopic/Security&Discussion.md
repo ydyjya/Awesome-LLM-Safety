@@ -114,7 +114,13 @@
 | 24.06 | Alibaba Group | arxiv | [How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](https://arxiv.org/abs/2406.05644) | **LLM Safety**&**Alignment**&**Jailbreak** |
 | 24.06 | UC Davis | arxiv | [Security of AI Agents](https://arxiv.org/abs/2406.08689) | **Security**&**AI Agents**&**Vulnerabilities** |
 | 24.06 | University of Connecticut | USENIX Security ‘24 | [An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection](https://arxiv.org/abs/2406.06822) | **Backdoor Attack**&**Code Completion Models**&**Vulnerability Detection** |
-
+| 24.06 | University of California, Irvine | arxiv | [TorchOpera: A Compound AI System for LLM Safety](https://arxiv.org/abs/2406.10847) | **TorchOpera**&**LLM Safety**&**Compound AI System** |
+| 24.06 | NVIDIA Corporation | arxiv | [garak: A Framework for Security Probing Large Language Models](https://arxiv.org/abs/2406.11036) | **garak**&**Security Probing** |
+| 24.06 | Carnegie Mellon University | arxiv | [Current State of LLM Risks and AI Guardrails](https://arxiv.org/abs/2406.12934) | **LLM Risks**&**AI Guardrails** |
+| 24.06 | Johns Hopkins University | arxiv | [Every Language Counts: Learn and Unlearn in Multilingual LLMs](https://arxiv.org/abs/2406.13748) | **Multilingual LLMs**&**Fake Information**&**Unlearning** |
+| 24.06 | Tsinghua University | arxiv | [Finding Safety Neurons in Large Language Models](https://arxiv.org/abs/2406.14144) | **Safety Neurons**&**Mechanistic Interpretability**&**AI Safety** |
+| 24.06 | Center for AI Safety and Governance, Institute for AI, Peking University | arxiv | [SAFESORA: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset](https://arxiv.org/abs/2406.14477) | **Safety Alignment**&**Text2Video Generation** |
+| 24.06 | Samsung R&D Institute UK, KAUST, University of Oxford | arxiv | [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/abs/2406.14563) | **Model Merging**&**Safety Alignment** |
 
 
 ## 💻Presentations & Talks

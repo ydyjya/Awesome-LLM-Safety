@@ -62,7 +62,10 @@
 | 24.06 | Beijing Academy of Artificial Intelligence | arxiv | [HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation](https://arxiv.org/abs/2406.07070) | **Hallucination Evaluation**&**Dialogue-Level**&**HalluDial** |
 | 24.06 | Sichuan University | arxiv | [LEGEND: Leveraging Representation Engineering to Annotate Safety Margin for Preference Datasets](https://arxiv.org/abs/2406.08124) | **Safety Margin**&**Preference Datasets**&**Representation Engineering** |
 | 24.06 | The Hong Kong University of Science and Technology (Guangzhou) | arxiv | [Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs](https://arxiv.org/abs/2406.09324) | **Jailbreak Attacks**&**Benchmarking** |
-
+| 24.06 | AI Innovation Center, China Unicom | arxiv | [CHiSafetyBench: A Chinese Hierarchical Safety Benchmark for Large Language Models](https://arxiv.org/abs/2406.10311) | **Chinese Hierarchical Safety Benchmark**&**Large Language Models**&**Automatic Evaluation** |
+| 24.06 | Google | arxiv | [Supporting Human Raters with the Detection of Harmful Content using Large Language Models](https://arxiv.org/abs/2406.12800) | **Harmful Content Detection**&**Hate Speech** |
+| 24.06 | South China University of Technology, Pazhou Laboratory, University of Maryland, Baltimore County | arxiv | [GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models](https://arxiv.org/abs/2406.13925) | **Gender Bias Mitigation**&**Alignment Dataset**&**Bias Categories** |
+| 24.06 | Center for AI Safety and Governance, Institute for AI, Peking University | arxiv | [SAFESORA: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset](https://arxiv.org/abs/2406.14477) | **Safety Alignment**&**Text2Video Generation** |
 
 ## 📚Resource
 
