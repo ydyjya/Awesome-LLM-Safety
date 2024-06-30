@@ -51,9 +51,6 @@ Please note that these pull requests need to be consistent with our existing for
 
 **📜Advertisement**
 
-- 2024.06.14 Recommended: latest work about explaining LLM safety through hidden
- states [How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States](https://arxiv.org/abs/2406.05644)
-
 🌱 If you would like more people to read your recent insightful work, please contact me via [email](zhouzhenhong@bupt.edu.cn). 
 I can offer you a promotional spot here for up to one month.
 
