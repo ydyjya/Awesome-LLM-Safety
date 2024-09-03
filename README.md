@@ -112,6 +112,7 @@ I can offer you a promotional spot here for up to one month.
 | 22.03 |        OpenAI        |  NIPS2022   | [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) |
 | 23.07 |     UC Berkeley      |  NIPS2023   |                                                     [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)                                                      |
 | 23.12 |        OpenAI        |   Open AI   |                                 [Practices for Governing Agentic AI Systems](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)                                  |
+| 24.07 |        Bloomberg        |   arxiv   |                                 [Operationalizing a Threat Model for Red-Teaming LLMs (Large Language Models)](https://arxiv.org/abs/2407.14937)                                  |
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
@@ -121,6 +122,7 @@ I can offer you a promotional spot here for up to one month.
 | 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
 | 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 | 24.01 |       Tutorials        |    Awesome-LM-SSP    |                  [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)                  |
+| 24.07 |       Repository       |    awesome-llm-red-teaming    |                  [link](https://github.com/dapurv5/awesome-llm-red-teaming)                  |
 
 ### Other
 
