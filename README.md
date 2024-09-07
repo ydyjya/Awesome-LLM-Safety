@@ -246,25 +246,6 @@ I can offer you a promotional spot here for up to one month.
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
 
 ---
-## 🧑‍🏫 Scholars 👩‍🏫 
-**In this section, we list some of the scholars we consider to be experts in the field of LLM Safety!**
-
-The standard is that the scholar's papers have been cited over 1,000 times. 
-If you are a senior researcher in this field, or if you find that we have missed any senior researchers, please feel free to raise an issue.
-
-|     Scholars     |                                                                     HomePage&Google Scholars                                                                     |                                                                                                      Keywords or Interested                                                                                                       |
-|:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Nicholas Carlini | [Homepage](https://nicholas.carlini.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=q4qDvAoAAAAJ&view_op=list_works&sortby=pubdate) |                                                        **the intersection of machine learning and computer security**&**neural networks from an adversarial perspective**                                                         |
-| Daphne Ippolito  |                       [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=COEsqLYAAAAJ&view_op=list_works&sortby=pubdate)                        |                                                                                                  **Natural Language Processing**                                                                                                  |
-|  Chiyuan Zhang   |     [Homepage](https://pluskid.org/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=l_G2vr0AAAAJ&view_op=list_works&sortby=pubdate)      |                                **Especially interested in understanding the generalization and memorization in machine and human learning, as well as implications in related areas like privacy**                                |
-|  Katherine Lee   |                       [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bjdB4K8AAAAJ&view_op=list_works&sortby=pubdate)                        |                                                           **natural language processing**&**translation**&**machine learning**&**computational neuroscienceattention**                                                            |
-|  Florian Tramèr  |                   [Homepage](https://floriantramer.com/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ijH0-a8AAAAJ)                    | **Computer Security**&**Machine Learning**&**Cryptography**&**the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users** |
-|   Jindong Wang   |      [Homepage](https://scholar.google.com/citations?hl=zh-CN&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) \| [Google Scholar](https://jd92.wang/)       |                                                                             **Large Language Models (LLMs) evaluation and robustness enhancement** 　                                                                              |
-|   Chaowei Xiao   |                       [Homepage](https://xiaocw11.github.io/) \| [Google Scholar](https://scholar.google.com/citations?user=Juoqtj8AAAAJ)                        |                                     **interested in exploring the trustworthy problem in (MultiModal) Large Language Models and studying the role of LLMs in different application domains.**                                     |
-|     Andy Zou     |                  [Homepage](https://andyzoujm.github.io/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=zir09KwAAAAJ)                   |                                                                                                    **ML Safety**&**AI Safety**                                                                                                    |
-|     Yang Liu     |                 [Homepage](https://personal.ntu.edu.sg/yangliu/)\|[Google Scholar](https://scholar.google.com/citations?hl=en&user=_Pvgwd0AAAAJ)                 |                                                                                **Cybersecurity, Software Engineering and Artificial Integllence**                                                                                 |
-
----
 ## 🧑‍🎓Author
 
 

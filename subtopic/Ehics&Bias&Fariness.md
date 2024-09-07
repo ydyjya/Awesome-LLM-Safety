@@ -108,6 +108,8 @@
 | 24.08 |                                                                    University of Science and Technology of China                                                                     |        arxiv        |                  [GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](https://arxiv.org/abs/2408.12494)                  |              **Gender Bias**&**Large Language Models**&**Algorithmic Fairness**               |
 | 24.08 | Stanford University | arxiv | [Uncovering Biases with Reflective Large Language Models](https://arxiv.org/abs/2408.13464) | **Bias Detection**&**Reflective AI** |
 | 24.08 | University of Western Ontario | arxiv | [Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models](https://arxiv.org/abs/2408.15895) | **Bias**&**LLMs**&**Political Cues**&**Annotation** |
+| 24.09 |                                  The Chinese University of Hong Kong                                  | arxiv | [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](https://arxiv.org/abs/2409.00551) | **Correctness**&**Non-Toxicity**&**Fairness** |
+| 24.09 |                                  University of Trento                                  | arxiv | [More is More: Addition Bias in Large Language Models](https://arxiv.org/abs/2409.02569) | &**Addition Bias**&**Cognitive Bias** |
 
 
 ## 💻Presentations & Talks

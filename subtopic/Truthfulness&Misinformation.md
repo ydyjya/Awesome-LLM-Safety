@@ -250,6 +250,12 @@
 | 24.08 | Sichuan Normal University | arxiv | [Can LLM Be a Good Path Planner Based on Prompt Engineering? Mitigating the Hallucination for Path Planning](https://arxiv.org/abs/2408.13184) | **Path Planning**&**Spatial Reasoning**&**Hallucination Mitigation** |
 | 24.08 | Alibaba Cloud | arxiv | [LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation](https://arxiv.org/abs/2408.15533) | **Hallucination Detection**&**RAG**&**Layer-wise Relevance Propagation** |
 | 24.08 | Royal Holloway, University of London | arxiv | [Logic-Enhanced Language Model Agents for Trustworthy Social Simulations](https://arxiv.org/abs/2408.16081) | **Social Simulations**&**Trustworthy AI**&**Game Theory** |
+| 24.09 |                                  Inria, University of Rennes                                  | arxiv | [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) | **Large Language Models**&**Hallucination**&**Graph Analysis** |
+| 24.09 |                                  Scale AI                                  | arxiv | [Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data](https://arxiv.org/abs/2409.00238) | **Multimodal Hallucination**&**Grounding Data**&**Sample Efficiency** |
+| 24.09 |                                  Fudan University                                  | arxiv | [LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection](https://arxiv.org/abs/2409.01787) | **Explainable Fake News Detection**&**Generative Adversarial Network** |
+| 24.09 |                                  University of Oslo                                  | arxiv | [Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models](https://arxiv.org/abs/2409.02976) | **Hallucination Detection**&**Memory Efficiency**&**Ensemble Models** |
+| 24.09 | Univ. Polytechnique Hauts-de-France | arxiv | [FIDAVL: Fake Image Detection and Attribution using Vision-Language Model](https://arxiv.org/abs/2409.03109) | **Fake Image Detection**&**Vision-Language Model**&**Synthetic Image Attribution** |
+| 24.09 | EPFL | arxiv | [LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts](https://arxiv.org/abs/2409.03291) | **LLM Detectors**&**Disinformation**&**Adversarial Evasion** |
 
 
 
