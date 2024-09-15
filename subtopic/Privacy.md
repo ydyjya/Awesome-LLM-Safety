@@ -118,6 +118,7 @@
 | 24.09 |                                                                              Stanford University                                                                               |           arxiv           |                                     [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action](https://arxiv.org/abs/2409.00138)                                      |                        **Privacy Norm Awareness**&**Privacy Risk Evaluation**                         |
 | 24.09 |                                  ByteDance                                  | arxiv | [How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review](https://arxiv.org/abs/2409.02375) | **Privacy Compliance**&**Privacy Information Extraction**&**Technical Privacy Review** |
 | 24.09 | MIT | COLM 2024 | [Unforgettable Generalization in Language Models](https://arxiv.org/abs/2409.02228) | **Unlearning**&**Generalization**&**Random Labels** |
+| 24.09 | Anhui University of Technology, University of Cambridge | arxiv | [On the Weaknesses of Backdoor-based Model Watermarks: An Information-theoretic Perspective](https://arxiv.org/abs/2409.06130) | **Model Watermarking**&**Backdoor Attacks**&**Information Theory** |
 
 
 ## 💻Presentations & Talks

@@ -127,6 +127,9 @@
 | 24.09 |                                  University of Maryland, College Park                                  |                             CoLM24                             | [Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models](https://arxiv.org/abs/2409.00598) | **False Refusals**&**Pseudo-Harmful Prompts**&**Safety Alignment** |
 | 24.09 |                                  Georgia Institute of Technology                                  | arxiv | [BOOSTER: Tackling Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Perturbation](https://arxiv.org/abs/2409.01586) | **Harmful Fine-Tuning**&**LLM Alignment**&**Perturbation Attenuation** |
 | 24.09 | University of Chinese Academy of Sciences | arxiv | [Recent Advances in Attack and Defense Approaches of Large Language Models](https://arxiv.org/abs/2409.03274) | **Attack Approaches**&**Defense Mechanisms**&**LLM Security** |
+| 24.09 | Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing, Institute of Artificial Intelligence | arxiv | [HSF: Defending against Jailbreak Attacks with Hidden State Filtering](https://arxiv.org/abs/2409.03788) | **Hidden State Filtering**&**Jailbreak Attacks**&**Defense Mechanism** |
+| 24.09 | Mahindra International School, SuperAGI | arxiv | [Safeguarding AI Agents: Developing and Analyzing Safety Architectures](https://arxiv.org/abs/2409.03793) | **AI Agents**&**Safety Architectures**&**Risk Mitigation** |
+| 24.09 | Southern Illinois University | arxiv | [Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](https://arxiv.org/abs/2409.07353) | **Vision-Language Models**&**Jailbreak Attacks**&**Adversarial Fine-Tuning** |
 
 
 ## 💻Presentations & Talk

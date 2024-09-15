@@ -110,6 +110,10 @@
 | 24.08 | University of Western Ontario | arxiv | [Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models](https://arxiv.org/abs/2408.15895) | **Bias**&**LLMs**&**Political Cues**&**Annotation** |
 | 24.09 |                                  The Chinese University of Hong Kong                                  | arxiv | [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](https://arxiv.org/abs/2409.00551) | **Correctness**&**Non-Toxicity**&**Fairness** |
 | 24.09 |                                  University of Trento                                  | arxiv | [More is More: Addition Bias in Large Language Models](https://arxiv.org/abs/2409.02569) | &**Addition Bias**&**Cognitive Bias** |
+| 24.09 | Nanjing University, Southeast University | arxiv | [AGR: Age Group Fairness Reward for Bias Mitigation in LLMs](https://arxiv.org/abs/2409.04340) | **Age Bias**&**LLM Alignment**&**Reinforcement Learning with Human Feedback (RLHF)** |
+| 24.09 | MIT Center for Constructive Communication, MIT Media Lab | arxiv | [On the Relationship between Truth and Political Bias in Language Models](https://arxiv.org/abs/2409.05283) | **Truthfulness**&**Political Bias**&**Language Models** |
+| 24.09 | AppCubic, Georgia Institute of Technology | arxiv | [Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087) | **LLM Security**&**Bias in LLMs**&**Misinformation**&**Jailbreak Attacks**&**Prompt Injection** |
+| 24.09 | Technical University of Munich | arxiv | [Understanding Knowledge Drift in LLMs through Misinformation](https://arxiv.org/abs/2409.07085) | **Knowledge Drift**&**Misinformation**&**Uncertainty**&**Large Language Models** |
 
 
 ## 💻Presentations & Talks

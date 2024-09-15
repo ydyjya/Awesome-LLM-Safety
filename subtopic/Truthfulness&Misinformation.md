@@ -256,6 +256,8 @@
 | 24.09 |                                  University of Oslo                                  | arxiv | [Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models](https://arxiv.org/abs/2409.02976) | **Hallucination Detection**&**Memory Efficiency**&**Ensemble Models** |
 | 24.09 | Univ. Polytechnique Hauts-de-France | arxiv | [FIDAVL: Fake Image Detection and Attribution using Vision-Language Model](https://arxiv.org/abs/2409.03109) | **Fake Image Detection**&**Vision-Language Model**&**Synthetic Image Attribution** |
 | 24.09 | EPFL | arxiv | [LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts](https://arxiv.org/abs/2409.03291) | **LLM Detectors**&**Disinformation**&**Adversarial Evasion** |
+| 24.09 | Geely Automobile Research Institute, Beihang University | arxiv | [Alleviating Hallucinations in Large Language Models with Scepticism Modeling](https://arxiv.org/abs/2409.06601) | **Hallucinations**&**LLMs**&**Scepticism Modeling** |
+| 24.09 | AppCubic, Georgia Institute of Technology | arxiv | [Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087) | **LLM Security**&**Bias in LLMs**&**Misinformation**&**Jailbreak Attacks**&**Prompt Injection** |
 
 
 

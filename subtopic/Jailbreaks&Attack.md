@@ -296,6 +296,9 @@
 | 24.09 |                                  University of Cambridge                                  | arxiv | [Conversational Complexity for Assessing Risk in Large Language Models](https://arxiv.org/abs/2409.01247) | **Conversational Complexity**&**Risk Assessment**&**LLM Safety** |
 | 24.09 | Independent | arxiv | [Well, that escalated quickly: The Single-Turn Crescendo Attack (STCA)](https://arxiv.org/abs/2409.03131) | **Single-Turn Crescendo Attack**&**Adversarial Attacks**&**LLM Security** |
 | 24.09 |                                  CISPA Helmholtz Center for Information Security                                  | CCS 2024 | [Membership Inference Attacks Against In-Context Learning](https://arxiv.org/abs/2409.01380) | **Membership Inference Attacks**&**In-Context Learning**&**LLM Security** |
+| 24.09 | Radboud University, Ikerlan Research Centre | arxiv | [Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers](https://arxiv.org/abs/2409.04142) | **Backdoor Attacks**&**In-Context Learning**&**Vision Transformers** |
+| 24.09 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](https://arxiv.org/abs/2409.07503) | **Jailbreak Attacks**&**Large Language Models**&**Adaptive Position Pre-Fill** |
+| 24.09 | Technion - Israel Institute of Technology, Intuit, Cornell Tech | arxiv | [Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking](https://arxiv.org/abs/2409.08045) | **Jailbreaking**&**RAG Inference**&**Data Extraction**&**Worms** |
 
 
 ## 💻Presentations & Talks
