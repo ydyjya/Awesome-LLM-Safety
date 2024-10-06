@@ -89,6 +89,8 @@
 | 24.08 | Chalmers University of Technology | arxiv | [LLMSecCode: Evaluating Large Language Models for Secure Coding](https://arxiv.org/abs/2408.16100) | **Secure Coding**&**Evaluation Framework**|
 | 24.09 |                                  The Chinese University of Hong Kong                                  | arxiv | [Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness](https://arxiv.org/abs/2409.00551) | **Correctness**&**Non-Toxicity**&**Fairness** |
 | 24.09 | KAIST | arxiv | [Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering](https://arxiv.org/abs/2409.12784) | **Image Hallucination**&**Text-to-Image Generation**&**Question-Answering** |
+| 24.09 | Zhejiang University | arxiv | [GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks](https://arxiv.org/abs/2409.19521) | **Prompt Injection**&**LLM Safety**&**Benchmarking** |
+| 24.10 | Zhejiang University | arxiv | [AGENT SECURITY BENCH (ASB): FORMALIZING AND BENCHMARKING ATTACKS AND DEFENSES IN LLM-BASED AGENTS](https://arxiv.org/abs/2410.02644) | **LLM-based Agents**&**Security Benchmarks**&**Adversarial Attacks** |
 
 
 

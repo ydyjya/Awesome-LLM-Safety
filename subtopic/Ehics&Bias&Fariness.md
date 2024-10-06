@@ -117,6 +117,8 @@
 | 24.09 | University of Calabria | arxiv | [Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance](https://arxiv.org/abs/2409.08963) | **Community Rule Compliance**&**Decentralized Social Networks** |
 | 24.09 | University of California | arxiv | [Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example](https://arxiv.org/abs/2409.09652) | **Gender Bias**&**Teacher Evaluations** |
 | 24.09 | University College London | NeurIPS 2024 SoLaR Workshop | [HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection](https://arxiv.org/abs/2409.11579) | **Explainable AI**&**Text Stereotype Detection**&**Sustainability** |
+| 24.09 |                                    Bosch                                      |          arxiv          |     [Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs](https://arxiv.org/abs/2409.16371)     |    **Bias Mitigation**&**Reinforcement Learning**&**Debiasing Dataset**     |
+| 24.10 | University of Michigan | EMNLP 2024 Findings | [Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584) | **Implicit Bias**&**Multi-Agent LLM**&**Bias Mitigation** |
 
 
 ## 💻Presentations & Talks
