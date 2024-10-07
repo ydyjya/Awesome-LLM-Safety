@@ -177,23 +177,25 @@ I can offer you a promotional spot here for up to one month.
 ## 😈JailBreak & Attacks 
 
 ### 📑Papers
-| Date  |         Institute          |         Publication          |                                                                   Paper                                                                   |
-|:-----:|:--------------------------:|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| 20.12 |           Google           |     USENIX Security 2021     | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) |
-| 22.11 |         AE Studio          | NIPS2022(ML Safety Workshop) |                     [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)                     |
-| 23.06 |           Google           |            arxiv             |                          [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                           |
-| 23.07 |            CMU             |            arxiv             |               [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)               |
-| 23.10 | University of Pennsylvania |            arxiv             |                    [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)                     |
+| Date  |            Institute            |         Publication          |                                                                   Paper                                                                   |
+|:-----:|:-------------------------------:|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| 20.12 |             Google              |     USENIX Security 2021     | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) |
+| 22.11 |            AE Studio            | NIPS2022(ML Safety Workshop) |                     [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)                     |
+| 23.06 |             Google              |            arxiv             |                          [Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)                           |
+| 23.07 |               CMU               |            arxiv             |               [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)               |
+| 23.10 |   University of Pennsylvania    |            arxiv             |                    [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)                     |
 
 ### 📖Tutorials, Articles, Presentations and Talks
 
-| Date  |        Type        |                                       Title                                       |                                  URL                                  |
-|:-----:|:------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| 23.01 |     Community      |                              Reddit/ChatGPTJailbrek                               |           [link](https://www.reddit.com/r/ChatGPTJailbreak)           |
-| 23.02 | Resource&Tutorials |                                  Jailbreak Chat                                   |                [link](https://www.jailbreakchat.com/)                 |
-| 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 |         [link](https://github.com/ydyjya/Awesome-LLM-Safety)          |
-| 23.10 |      Article       |                 Adversarial Attacks on LLMs(Author: Lilian Weng)                  | [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) |
-| 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |          [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)          |
+| Date  |        Type        |                                       Title                                       |                                    URL                                     |
+|:-----:|:------------------:|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| 23.01 |     Community      |                              Reddit/ChatGPTJailbrek                               |             [link](https://www.reddit.com/r/ChatGPTJailbreak)              |
+| 23.02 | Resource&Tutorials |                                  Jailbreak Chat                                   |                   [link](https://www.jailbreakchat.com/)                   |
+| 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 |            [link](https://github.com/ydyjya/Awesome-LLM-Safety)            |
+| 23.10 |      Article       |                 Adversarial Attacks on LLMs(Author: Lilian Weng)                  |   [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)    |
+| 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |            [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)             |
+| 24.09 |        Repo        |                      awesome_LLM-harmful-fine-tuning-papers                       | [link](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers) |
+
 
 ### Other
 
