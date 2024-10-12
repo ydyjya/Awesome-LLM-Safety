@@ -190,12 +190,12 @@ I can offer you a promotional spot here for up to one month.
 | Date  |        Type        |                                       Title                                       |                                    URL                                     |
 |:-----:|:------------------:|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 | 23.01 |     Community      |                              Reddit/ChatGPTJailbrek                               |             [link](https://www.reddit.com/r/ChatGPTJailbreak)              |
-| 23.02 | Resource&Tutorials |                                  Jailbreak Chat                                   |                   [link](https://www.jailbreakchat.com/)                   |
+| 23.02 | Resource&Tutorials |                              Techniques and Safeguards                            |  [link](https://repello.ai/blog/understanding-ai-jailbreaking-techniques-and-safeguards-against-prompt-exploits) |
 | 23.10 |     Tutorials      |                                Awesome-LLM-Safety                                 |            [link](https://github.com/ydyjya/Awesome-LLM-Safety)            |
 | 23.10 |      Article       |                 Adversarial Attacks on LLMs(Author: Lilian Weng)                  |   [link](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)    |
 | 23.11 |       Video        | [1hr Talk] Intro to Large Language Models<br/>From 45:45(Author: Andrej Karpathy) |            [link](https://www.youtube.com/watch?v=zjkBMFhNj_g)             |
 | 24.09 |        Repo        |                      awesome_LLM-harmful-fine-tuning-papers                       | [link](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers) |
-
+| 12.10 |        Resource    |                      Jailbreak Commuinities                                       | [link](https://repello.ai/blog/top-11-ai-jailbreak-communities-to-explore) |
 
 ### Other
 
