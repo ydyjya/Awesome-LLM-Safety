@@ -119,6 +119,12 @@
 | 24.09 | University College London | NeurIPS 2024 SoLaR Workshop | [HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection](https://arxiv.org/abs/2409.11579) | **Explainable AI**&**Text Stereotype Detection**&**Sustainability** |
 | 24.09 |                                    Bosch                                      |          arxiv          |     [Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs](https://arxiv.org/abs/2409.16371)     |    **Bias Mitigation**&**Reinforcement Learning**&**Debiasing Dataset**     |
 | 24.10 | University of Michigan | EMNLP 2024 Findings | [Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584) | **Implicit Bias**&**Multi-Agent LLM**&**Bias Mitigation** |
+| 24.10 | Diwan of Royal Court, Royal Holloway, University of London | arxiv | [AI-Enhanced Ethical Hacking: A Linux-Focused Experiment](https://arxiv.org/abs/2410.05105) | **Ethical Hacking**&**Cybersecurity** |
+| 24.10 | University of Geneva, Google DeepMind | arxiv | [The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making](https://arxiv.org/abs/2410.07304) | **Moral Decision-Making**&**Human-AI Alignment** |
+| 24.10 | Harbin Institute of Technology, Anhui University | arxiv | [Mitigating Gender Bias in Code Large Language Models via Model Editing](https://arxiv.org/abs/2410.07820) | **Gender Bias**&**Code Generation**&**Model Editing** |
+| 24.10 | IIT-CNR, University of Pisa | arxiv | [Human and LLM Biases in Hate Speech Annotations: A Socio-Demographic Analysis of Annotators and Targets](https://arxiv.org/abs/2410.07991) | **Hate Speech**&**Bias** |
+| 24.10 | East China Normal University, Fudan University | ECAI 2024 | [MindScope: Exploring Cognitive Biases in Large Language Models through Multi-Agent Systems](https://arxiv.org/abs/2410.04452) | **Cognitive Biases**&**Multi-Agent Systems** |
+| 24.10 | Algoverse AI Research | NeurIPS 2024, SoLaR workshop | [Fine-Tuning Language Models for Ethical Ambiguity: A Comparative Study of Alignment with Human Responses](https://arxiv.org/abs/2410.07826) | **Ethical Ambiguity**&**Fine-Tuning** |
 
 
 ## 💻Presentations & Talks

@@ -273,6 +273,10 @@
 | 24.09 | Nanjing University of Aeronautics and Astronautics | arxiv | [HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding](https://arxiv.org/abs/2409.20429) | **Hallucination Mitigation**&**LVLMs**&**Feedback Learning** |
 | 24.09 | Sun Yat-sen University | arxiv | [LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation](https://arxiv.org/abs/2409.20550) | **LLM Hallucinations**&**Code Generation**&**Mitigation Strategies** |
 | 24.10 | Technion | arxiv | [LLMS KNOW MORE THAN THEY SHOW: ON THE INTRINSIC REPRESENTATION OF LLM HALLUCINATIONS](https://arxiv.org/abs/2410.02707) | **LLM Hallucinations**&**Error Detection**&**Truthfulness Encoding** |
+| 24.10 | Meta | arxiv | [Ingest-And-Ground: Dispelling Hallucinations from Continually-Pretrained LLMs with RAG](https://arxiv.org/abs/2410.02825) | **RAG**&**Hallucination** |
+| 24.10 | IBM Research | arxiv | [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://arxiv.org/abs/2410.06703) | **Web Agents**&**Safety**&**Trustworthiness** |
+| 24.10 | National University of Singapore | arxiv | [Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering](https://arxiv.org/abs/2410.08085) | **Knowledge Graphs**&**Trustworthiness** |
+| 24.10 | Tongji University | EMNLP 2024 | [DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination](https://arxiv.org/abs/2410.04514) | **LVLM**&**Object Hallucination**&**Attention Mechanism** |
 
 
 

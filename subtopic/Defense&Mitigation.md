@@ -142,7 +142,13 @@
 | 24.10 | Tel Aviv University | arxiv | [MITIGATING COPY BIAS IN IN-CONTEXT LEARNING THROUGH NEURON PRUNING](https://arxiv.org/abs/2410.01288) | **Copy Bias**&**In-Context Learning**&**Neuron Pruning** |
 | 24.10 | Chinese Academy of Sciences | arxiv | [JAILBREAK ANTIDOTE: RUNTIME SAFETY-UTILITY BALANCE VIA SPARSE REPRESENTATION ADJUSTMENT IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2410.02298) | **Jailbreaking**&**LLM Safety**&**Sparse Representation** |
 | 24.10 | CAS Key Laboratory of AI Safety | arxiv | [HIDDENGUARD: FINE-GRAINED SAFE GENERATION WITH SPECIALIZED REPRESENTATION ROUTER](https://arxiv.org/abs/2410.02684) | **Safe Generation**&**Representation Router**&**Token-level Moderation** |
-
+| 24.10 | HydroX AI | arxiv | [Precision Knowledge Editing: Enhancing Safety in Large Language Models](https://arxiv.org/abs/2410.03772) | **Knowledge Editing**&**Safety** |
+| 24.10 | IBM Research, MIT | arxiv | [Large Language Models Can Be Strong Self-Detoxifiers](https://arxiv.org/abs/2410.03818) | **Toxicity Reduction**&**Self-Detoxification** |
+| 24.10 | UC Berkeley, Meta, FAIR | arxiv | [Aligning LLMs to Be Robust Against Prompt Injection](https://arxiv.org/abs/2410.05451) | **Prompt Injection**&**Security** |
+| 24.10 | Purdue University | arxiv | [ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/abs/2410.06625) | **Vision Language Models**&**Safety Alignment**&**Inference Time** |
+| 24.10 | Aerospace Information Research Institute, Chinese Academy of Sciences | arxiv | [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809) | **Decoding-Level Defense**&**Jailbreak Prevention** |
+| 24.10 | Rensselaer Polytechnic Institute, IBM Research | arxiv | [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471) | **Safety-enhanced Aligned LLM**&**Fine-tuning**&**Bilevel Optimization** |
+| 24.10 | KAIST AI, Naver Cloud AI | arxiv | [HOW DOES VISION-LANGUAGE ADAPTATION IMPACT THE SAFETY OF VISION LANGUAGE MODELS?](https://arxiv.org/abs/2410.07571) | **Vision-Language Adaptation**&**Safety**&**LVLMs** |
 
 ## 💻Presentations & Talk
 

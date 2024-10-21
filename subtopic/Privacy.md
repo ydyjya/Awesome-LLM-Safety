@@ -127,6 +127,9 @@
 | 24.10 | University of Southern California | arxiv | [ADAPTIVELY PRIVATE NEXT-TOKEN PREDICTION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2410.02016) |                  **Differential Privacy**&**Next-Token Prediction**&**Adaptive DP**                  |
 | 24.10 | University of Chicago | arxiv | [MITIGATING MEMORIZATION IN LANGUAGE MODELS](https://arxiv.org/abs/2410.02159) |                              **Memorization Mitigation**&**Unlearning**                              |
 | 24.10 | University of Groningen | arxiv | [Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650) |                                     **Memorization**&**Privacy**                                     |
+| 24.10 | University of California, Santa Barbara, AWS AI Lab | arxiv | [Detecting Training Data of Large Language Models via Expectation Maximization](https://arxiv.org/abs/2410.07582) | **Membership Inference Attack**&**Expectation Maximization** |
+| 24.10 | Queen’s University, J.P. Morgan AI Research | EMNLP 2024 Findings | [Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation](https://arxiv.org/abs/2410.02912) | **Differential Privacy**&**Adaptive Noise Allocation** |
+| 24.10 | King Abdullah University of Science and Technology, Ruhr University Bochum | EMNLP 2024 | [Private Language Models via Truncated Laplacian Mechanism](https://arxiv.org/abs/2410.08027) | **Differential Privacy**&**Word Embedding**&**Truncated Laplacian Mechanism** |
 
 
 ## 💻Presentations & Talks
