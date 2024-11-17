@@ -176,6 +176,8 @@
 | 24.11 | University of California, Riverside | arxiv | [Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models](https://arxiv.org/abs/2411.04291) | **Vision-Language Models**&**Safety Alignment**&**Cross-Layer Vulnerability** |
 | 24.11 | National University of Singapore | EMNLP 2024 | [Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models](https://arxiv.org/abs/2411.00492) | **Multi-expert Prompting**&**LLM Safety**&**Reliability**&**Usefulness** |
 | 24.11 | OpenAI | NeurIPS 2024 | [Rule Based Rewards for Language Model Safety](https://arxiv.org/abs/2411.01111) | **Rule Based Rewards**&**Safety Alignment**&**AI Feedback** |
+| 24.11 | Center for Automation and Robotics, Spanish National Research Council | arXiv | [Can Adversarial Attacks by Large Language Models Be Attributed?](https://arxiv.org/abs/2411.08003) | **Adversarial Attribution**&**LLM Security**&**Formal Language Theory** |
+| 24.11 | McGill University | arXiv | [Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset](https://arxiv.org/abs/2411.08243) | **Helpful and Harmless Dataset**&**Safety Trade-offs**&**Bias Analysis** |
 
 
 ## 💻Presentations & Talks

@@ -163,6 +163,10 @@
 | 24.11 | National Taiwan University | arxiv | [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348) | **Prompt Injection**&**Attention Mechanism** |
 | 24.11 | National University of Singapore | arxiv | [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](https://arxiv.org/abs/2411.00459) | **Prompt Injection Defense**&**Attack Techniques** |
 | 24.11 | Georgia Institute of Technology | arxiv | [UNIGUARD: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2411.01703) | **Jailbreak Attacks**&**Multimodal Safety Guardrails**&**Adversarial Robustness** |
+| 24.11 | Mila – Quebec AI Institute | arXiv | [Combining Domain and Alignment Vectors to Achieve Better Knowledge-Safety Trade-offs in LLMs](https://arxiv.org/abs/2411.06824) | **Domain Expertise**&**Safety Alignment**&**Model Merging** |
+| 24.11 | Anthropic | arXiv | [Rapid Response: Mitigating LLM Jailbreaks with a Few Examples](https://arxiv.org/abs/2411.07494) | **Jailbreak Defense**&**Rapid Response** |
+| 24.11 | National University of Singapore | arXiv | [The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense](https://arxiv.org/abs/2411.08410) | **Vision-Language Models**&**Jailbreak Defense**&**Model Alignment** |
+| 24.11 | Beijing University of Posts and Telecommunications | arXiv | [Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey](https://arxiv.org/abs/2411.09259) | **Jailbreak Attacks**&**Multimodal Generative Models**&**Security Challenges** |
 
 
 ## 💻Presentations & Talk

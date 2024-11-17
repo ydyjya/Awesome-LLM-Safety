@@ -355,6 +355,11 @@
 | 24.11 | Cambridge ERA: AI Fellowship | arxiv | [What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](https://arxiv.org/abs/2411.03343) | **Jailbreak Prompts**&**Nonlinear Probes**&**Adversarial Attacks** |
 | 24.11 | Alibaba Group | arxiv | [MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue](https://arxiv.org/abs/2411.03814) | **Multi-Round Dialogue**&**Jailbreak Agent**&**LLM Vulnerability** |
 | 24.11 | Columbia University | arxiv | [Diversity Helps Jailbreak Large Language Models](https://arxiv.org/abs/2411.04223) | **Jailbreak Techniques**&**LLM Safety**&**Prompt Diversity** |
+| 24.11 | Bangladesh University of Engineering and Technology | arXiv | [SequentialBreak: Large Language Models Can Be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](https://arxiv.org/abs/2411.06426) | **Jailbreak Attacks**&**Prompt Engineering**&**LLM Vulnerabilities** |
+| 24.11 | Xi'an Jiaotong-Liverpool University | arXiv | [Target-driven Attack for Large Language Models](https://arxiv.org/abs/2411.07268) | **Black-box Attacks**&**Optimization Methods** |
+| 24.11 | Georgia Institute of Technology | arXiv | [LLM STINGER: Jailbreaking LLMs using RL Fine-tuned LLMs](https://arxiv.org/abs/2411.08862) | **Jailbreaking Attacks**&**Reinforcement Learning**&**Adversarial Suffixes** |
+| 24.11 | Beijing University of Posts and Telecommunications | arXiv | [Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey](https://arxiv.org/abs/2411.09259) | **Jailbreak Attacks**&**Multimodal Generative Models**&**Security Challenges** |
+| 24.11 | Arizona State University | NeurIPS 2024 SafeGenAI Workshop | [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](https://arxiv.org/abs/2411.07559) | **Black-box Jailbreaking**&**Multi-modal Models**&**Zeroth-order Optimization** |
 
 
 

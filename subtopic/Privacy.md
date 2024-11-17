@@ -147,6 +147,7 @@
 | 24.11 | University of Massachusetts Amherst | arxiv | [Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors](https://arxiv.org/abs/2411.01705) | **Data Extraction**&**Backdoor Attacks**&**Retrieval-Augmented Generation** |
 | 24.11 | EPFL | NeurIPS 2024 | [Membership Inference Attacks against Large Vision-Language Models](https://arxiv.org/abs/2411.02902) | **Membership Inference**&**Vision-Language Models**&**Privacy** |
 | 24.11 | University of Helsinki | NeurIPS 2024 Foundation Model Workshop | [Differentially Private Continual Learning using Pre-Trained Models](https://arxiv.org/abs/2411.04680) | **Differential Privacy**&**Continual Learning**&**Pre-trained Models** |
+| 24.11 | Zhejiang University | arXiv | [Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion](https://arxiv.org/abs/2411.05034) | **Embedding Inversion**&**Privacy Protection** |
 
 
 ## 💻Presentations & Talks

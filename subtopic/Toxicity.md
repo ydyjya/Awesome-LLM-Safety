@@ -64,6 +64,7 @@
 | 24.10 | Cornell University | arxiv | [How Toxicity Classifiers and Large Language Models Respond to Ableism](https://arxiv.org/abs/2410.03448) | **Toxicity Classifiers**&**Ableism** |
 | 24.10 | IBM Research, MIT | arxiv | [Large Language Models Can Be Strong Self-Detoxifiers](https://arxiv.org/abs/2410.03818) | **Toxicity Reduction**&**Self-Detoxification** |
 | 24.10 | University of California, Los Angeles, Amazon.com, Inc. | EMNLP 2024 Findings | [Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification](https://arxiv.org/abs/2410.05559) | **Attribute Control**&**Detoxification** |
+| 24.11 | Meta FAIR | arXiv | [On the Role of Speech Data in Reducing Toxicity Detection Bias](https://arxiv.org/abs/2411.08135) | **Speech Toxicity Detection**&**Bias Reduction**&**Multimodal Models** |
 
 
 ## 💻Presentations & Talks

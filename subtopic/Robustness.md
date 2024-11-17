@@ -43,6 +43,7 @@
 | 24.09 |                                    Northwestern University                                      |          arxiv          |     [PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs](https://arxiv.org/abs/2409.14729)     |    **Prompt Injection**&**Fuzzing**&**LLM Security**     |
 | 24.10 | Hong Kong University of Science and Technology, Beijing Jiaotong University | arxiv | [AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models](https://arxiv.org/abs/2410.05346) | **Adversarial Examples**&**Vision-Language Models**&**Self-supervised Learning** |
 | 24.10 | University of Science and Technology of China, Tencent YouTu Lab | ACM Multimedia 2024 | [Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](https://doi.org/10.1145/3664647.3680779) | **Large Vision-Language Model**&**Adversarial Attack**&**Image Encoder** |
+| 24.11 | National University of Singapore | arXiv | [Reasoning Robustness of LLMs to Adversarial Typographical Errors](https://arxiv.org/abs/2411.05345) | **Chain-of-Thought**&**Adversarial Typo**&**Robustness Evaluation** |
 
 
 ## 💻Presentations & Talks

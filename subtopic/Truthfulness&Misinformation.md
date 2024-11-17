@@ -307,6 +307,7 @@
 | 24.10 |                                                                   University of Notre Dame, MBZUAI, IBM Research, UW, Peking University                                                    |               arxiv               |                                          [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/abs/2410.02736)                                                               |                     **Large Language Models**&**Bias**                                                              |
 | 24.11 | New York University | arxiv | [Exploring the Knowledge Mismatch Hypothesis: Hallucination Propensity in Small Models Fine-tuned on Data from Larger Models](https://arxiv.org/abs/2411.00878) | **Hallucination**&**Knowledge Mismatch**&**Fine-tuning** |
 | 24.11 | Nankai University | arxiv | [Prompt-Guided Internal States for Hallucination Detection of Large Language Models](https://arxiv.org/abs/2411.04847) | **Hallucination Detection**&**Prompt-Guided Internal States**&**Cross-Domain Generalization** |
+| 24.11 | Georgia Institute of Technology | arXiv | [LLM Hallucination Reasoning with Zero-shot Knowledge Test](https://arxiv.org/abs/2411.09689) | **Hallucination Detection**&**Zero-shot Methods**&**Model Knowledge Test** |
 
 
 ## 💻Presentations & Talks
