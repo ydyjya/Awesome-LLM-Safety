@@ -121,6 +121,7 @@ I can offer you a promotional spot here for up to one month.
 | 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
 | 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 | 24.01 |       Tutorials        |    Awesome-LM-SSP    |                  [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)                  |
+| 24.07 |       Tutorials        |    Machine Learning CTF Challenges    |                  [link](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges)                  |
 
 ### Other
 
