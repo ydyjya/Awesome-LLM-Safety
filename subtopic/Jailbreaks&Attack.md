@@ -360,6 +360,11 @@
 | 24.11 | Georgia Institute of Technology | arXiv | [LLM STINGER: Jailbreaking LLMs using RL Fine-tuned LLMs](https://arxiv.org/abs/2411.08862) | **Jailbreaking Attacks**&**Reinforcement Learning**&**Adversarial Suffixes** |
 | 24.11 | Beijing University of Posts and Telecommunications | arXiv | [Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey](https://arxiv.org/abs/2411.09259) | **Jailbreak Attacks**&**Multimodal Generative Models**&**Security Challenges** |
 | 24.11 | Arizona State University | NeurIPS 2024 SafeGenAI Workshop | [Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models](https://arxiv.org/abs/2411.07559) | **Black-box Jailbreaking**&**Multi-modal Models**&**Zeroth-order Optimization** |
+| 24.11 | Zhejiang University | arxiv | [JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit](https://arxiv.org/abs/2411.11114) | **Jailbreak Attacks**&**Large Language Models**&**Mechanism Interpretability** |
+| 24.11 | University of Electronic Science and Technology of China | arxiv | [Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](https://arxiv.org/abs/2411.11496) | **Jailbreaking**&**Large Vision-Language Models**&**Safety Snowball Effect** |
+| 24.11 | Tsinghua University | arxiv | [Playing Language Game with LLMs Leads to Jailbreaking](https://arxiv.org/abs/2411.12762) | **Jailbreaking**&**Language Games**&**LLM Safety** |
+| 24.11 | University of Texas at Dallas | arxiv | [AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org/abs/2411.13757) | **Bit-Flip Attacks**&**Model Vulnerability Optimization** |
+| 24.11 | BITS Pilani | arxiv | [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://arxiv.org/abs/2411.14133) | **Jailbreaking**&**Latent Bayesian Optimization**&**Adversarial Prompts** |
 
 
 

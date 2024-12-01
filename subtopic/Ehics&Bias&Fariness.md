@@ -141,6 +141,9 @@
 | 24.11 | Kyushu Institute of Technology | arXiv | [Large-scale Moral Machine Experiment on Large Language Models](https://arxiv.org/abs/2411.06790) | **Moral Judgments**&**Autonomous Driving** |
 | 24.11 | Sun Yat-sen University | arXiv | [Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play](https://arxiv.org/abs/2411.08884) | **Ethical Risk**&**Bias Detection**&**LLM Evaluation** |
 | 24.11 | South China Normal University | IJCAI 2024 | [Prompt-enhanced Network for Hateful Meme Classification](https://arxiv.org/abs/2411.07527) | **Hateful Meme Classification**&**Prompt Learning**&**Contrastive Learning** |
+| 24.11 | Darmstadt University of Applied Sciences | arxiv | [EVALUATING GENDER BIAS IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2411.09826) | **Gender Bias**&**Gender Distribution** |
+| 24.11 | Minerva University | arxiv | [Assessing Gender Bias in LLMs: Comparing LLM Outputs with Human Perceptions and Official Statistics](https://arxiv.org/abs/2411.13738) | **Gender Bias**&**Human Perception Comparison** |
+| 24.11 | Peking University | arxiv | [Looking Beyond Text: Reducing Language Bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance](https://arxiv.org/abs/2411.14279) | **Large Vision-Language Models**&**Language Bias**&**Multimodal Attention** |
 
 
 ## 💻Presentations & Talks
