@@ -323,6 +323,7 @@
 | 24.12 | Acurai, Inc. | arxiv | [Hallucination Elimination Using Acurai](https://arxiv.org/abs/2412.05223) | **Hallucination Detection**&**AI Trustworthiness** |
 | 24.12 | National Yang Ming Chiao Tung University, Atmanity | arxiv | [Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models](https://arxiv.org/abs/2412.06775) | **Visual Contrastive Decoding**&**Hallucination Mitigation**&**Vision-Language Models** |
 | 24.12 | Amazon Alexa AI, Cambridge, UK | arxiv | [HALLUCANA: Fixing LLM Hallucination with A Canary Lookahead](https://arxiv.org/abs/2412.07965) | **Hallucination Detection**&**Lookahead Strategy**&**LLM Factuality** |
+| 24.12 | Peking University | arxiv | [Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.14905) | **In-Context Hallucination**&**Retrieval-Augmented Generation (RAG)**&**Parallel Context Extension (PCE)** |
 
 
 ## 💻Presentations & Talks

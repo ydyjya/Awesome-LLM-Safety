@@ -118,6 +118,9 @@
 | 24.12 |                                                                                           Vizuara AI Labs                                                                                           | arxiv | [CBEVAL: A Framework for Evaluating and Interpreting Cognitive Biases in LLMs](https://arxiv.org/abs/2412.03605) | **Cognitive Biases**&**LLM Evaluation**&**Reasoning Limitations** |
 | 24.12 |                                                                         Beijing Institute of Technology, Beihang University                                                                         | arxiv | [REFF: Reinforcing Format Faithfulness in Language Models across Varied Tasks](https://arxiv.org/abs/2412.09173) | **Format Faithfulness**&**Benchmark** |
 | 24.12 |                                                                                    UCLA, Salesforce AI Research                                                                                     | NeurIPS 2024 | [SAFEWORLD: Geo-Diverse Safety Alignment](https://github.com/PlusLabNLP/SafeWorld) | **Geo-Diverse Alignment**&**Safety Evaluation**&**Legal Compliance** |
+| 24.12 | Shanghai Jiao Tong University | arxiv | [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178) | **Safety-Aware Task Planning**&**Embodied LLM Agents**&**Hazard Mitigation** |
+| 24.12 | Tsinghua University | arxiv | [AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) | **Agent Safety**&**Risk Awareness**&**Interactive Evaluation** |
+| 24.12 | TU Darmstadt | arxiv | [LLMs Lost in Translation: M-ALERT Uncovers Cross-Linguistic Safety Gaps](https://arxiv.org/abs/2412.15035) | **Cross-Linguistic Safety**&**Multilingual Benchmark**&**LLM Alignment** |
 
 
 ## 📚Resource

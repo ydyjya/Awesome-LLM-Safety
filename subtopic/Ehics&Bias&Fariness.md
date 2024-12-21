@@ -152,6 +152,9 @@
 | 24.12 |                                                                               Kyoto University, Japan                                                                                |               arxiv                |                             [Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments](https://arxiv.org/abs/2412.00323)                              |                        **Cognitive Biases**&**Mitigation Techniques**                         |
 | 24.12 |                                                                      Department of Arts, University of Bologna                                                                       |             AIAA 2024              |                                       [Examining Multimodal Gender and Content Bias in ChatGPT-4O](https://arxiv.org/abs/2411.19140)                                        |                  **Gender Bias**&**Content Bias**&**Multimodal Generation**                   |
 | 24.12 | Apple | arxiv | [Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models](https://arxiv.org/abs/2412.03537) | **Gender Bias**&**Prompt Adaptation**&**Fairness** |
+| 24.12 | Università degli Studi di Genova | arxiv | [Do Large Language Models Show Biases in Causal Learning?](https://arxiv.org/abs/2412.10509) | **Causal Learning**&**Illusion of Causality**&**Bias in LLMs** |
+| 24.12 | Virginia Tech | arxiv | [Biased or Flawed? Mitigating Stereotypes in Generative Language Models by Addressing Task-Specific Flaws](https://arxiv.org/abs/2412.11414) | **Stereotype Mitigation**&**Instruction Tuning**&**Reading Comprehension** |
+| 24.12 | Coburg University of Applied Sciences | arxiv | [Improved Models for Media Bias Detection and Subcategorization](https://arxiv.org/abs/2412.11835) | **Media Bias Detection**&**Fine-Tuned Models**&**Synthetic Data Augmentation** |
 
 
 ## 💻Presentations & Talks

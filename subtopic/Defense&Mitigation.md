@@ -180,6 +180,8 @@
 | 24.12 | Dalhousie University | arxiv | [Classifier-free Guidance in LLMs Safety](https://arxiv.org/abs/2412.06846) | **Unlearning**&**Reinforcement Learning**&**Classifier-free Guidance** |
 | 24.12 | Princeton University, Google | arxiv | [Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097) | **LLM Safeguards**&**Open-Weight Models**&**Adversarial Defense** |
 | 24.12 | Michigan State University, University of Hawaii at Manoa | arxiv | [FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](https://arxiv.org/abs/2412.07672) | **LLM Customization**&**Moving Target Defense**&**Jailbreak Attacks** |
+| 24.12 | Neudesic | arxiv | [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435) | **Model Pruning**&**Content Safety**&**Prompt Injection Detection** |
+| 24.12 | Asan Medical Center | arxiv | [Mitigating Adversarial Attacks in LLMs through Defensive Suffix Generation](https://arxiv.org/abs/2412.13705) | **Adversarial Defense**&**Gradient-Based Optimization**&**Defensive Suffix** |
 
 
 ## 💻Presentations & Talk

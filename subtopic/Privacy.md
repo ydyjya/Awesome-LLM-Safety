@@ -161,6 +161,8 @@
 | 24.12 |                                                                                 Sun Yat-Sen University                                                                                 | arxiv | [MemHunter: Automated and Verifiable Memorization Detection at Dataset-scale in LLMs](https://arxiv.org/abs/2412.07261) | **Memorization Detection**&**Privacy Risks** |
 | 24.12 |                   Nanyang Technological University, Singapore University of Technology and Design, Zhejiang University, Chengdu University of Information Technology                   | arxiv | [MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation](https://arxiv.org/abs/2412.07796) | **Privacy-Preserving**&**Next POI Recommendation**&**Multitask Learning** |
 | 24.12 |                                                                            Nanyang Technological University                                                                            | arxiv | [A Survey on Private Transformer Inference](https://arxiv.org/abs/2412.08145) | **Transformer Models**&**Private Inference**&**Data Security** |
+| 24.12 | University of Sheffield | arxiv | [How Private are Language Models in Abstractive Summarization?](https://arxiv.org/abs/2412.12040) | **Privacy Preservation**&**Abstractive Summarization**&**PII Leakage** |
+| 24.12 | University of Science and Technology of China | arxiv | [RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service](https://arxiv.org/abs/2412.12775) | **Privacy-Preserving RAG**&**Differential Privacy**&**Embedding Perturbation** |
 
 
 ## 💻Presentations & Talks
