@@ -182,6 +182,10 @@
 | 24.12 | Michigan State University, University of Hawaii at Manoa | arxiv | [FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](https://arxiv.org/abs/2412.07672) | **LLM Customization**&**Moving Target Defense**&**Jailbreak Attacks** |
 | 24.12 | Neudesic | arxiv | [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435) | **Model Pruning**&**Content Safety**&**Prompt Injection Detection** |
 | 24.12 | Asan Medical Center | arxiv | [Mitigating Adversarial Attacks in LLMs through Defensive Suffix Generation](https://arxiv.org/abs/2412.13705) | **Adversarial Defense**&**Gradient-Based Optimization**&**Defensive Suffix** |
+| 24.12 | The Chinese University of Hong Kong, IBM Research | AAAI 2025 | [Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models](https://arxiv.org/abs/2412.18171) | **Jailbreak Attacks**&**Affirmation Loss**&**Token-Level Defense** |
+| 24.12 | MBZUAI, Huazhong University of Science and Technology, University of Notre Dame | arxiv | [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://arxiv.org/abs/2412.17034) | **Jailbreak Attacks**&**Activation Boundary Defense (ABD)**&**LLM Security** |
+| 24.12 |                                The Pennsylvania State University                                |          arxiv          | [The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2412.16682) | **Indirect Prompt Injection**&**Task Alignment**&**LLM Security** |
+| 24.12 | OpenAI | arxiv | [Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/abs/2412.16339) | **Safety Alignment**&**Reasoning-Based Training**&**Chain-of-Thought** |
 
 
 ## 💻Presentations & Talk

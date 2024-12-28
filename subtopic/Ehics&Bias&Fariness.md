@@ -155,6 +155,9 @@
 | 24.12 | Università degli Studi di Genova | arxiv | [Do Large Language Models Show Biases in Causal Learning?](https://arxiv.org/abs/2412.10509) | **Causal Learning**&**Illusion of Causality**&**Bias in LLMs** |
 | 24.12 | Virginia Tech | arxiv | [Biased or Flawed? Mitigating Stereotypes in Generative Language Models by Addressing Task-Specific Flaws](https://arxiv.org/abs/2412.11414) | **Stereotype Mitigation**&**Instruction Tuning**&**Reading Comprehension** |
 | 24.12 | Coburg University of Applied Sciences | arxiv | [Improved Models for Media Bias Detection and Subcategorization](https://arxiv.org/abs/2412.11835) | **Media Bias Detection**&**Fine-Tuned Models**&**Synthetic Data Augmentation** |
+| 24.12 | University of Edinburgh, Heriot-Watt University | COLING 2025 | [The Only Way is Ethics: A Guide to Ethical Research with Large Language Models](https://arxiv.org/abs/2412.16022) | **Ethical Research**&**LLM Guidelines**&**Project Lifecycle** |
+| 24.12 | Sun Yat-sen University, Zhejiang University, City University of Hong Kong | AAAI 2025 | [Mitigating Social Bias in Large Language Models: A Multi-Objective Approach Within a Multi-Agent Framework](https://arxiv.org/abs/2412.15504) | **Social Bias Mitigation**&**Multi-Agent Framework**&**Multi-Objective Optimization** |
+| 24.12 | Loyola Chicago University, Arizona State University | arxiv | [Identifying Cyberbullying Roles in Social Media](https://arxiv.org/abs/2412.16417) | **Cyberbullying**&**Role Detection**&**Social Media** |
 
 
 ## 💻Presentations & Talks

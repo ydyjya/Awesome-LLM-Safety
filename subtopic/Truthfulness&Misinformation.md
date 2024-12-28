@@ -324,6 +324,10 @@
 | 24.12 | National Yang Ming Chiao Tung University, Atmanity | arxiv | [Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models](https://arxiv.org/abs/2412.06775) | **Visual Contrastive Decoding**&**Hallucination Mitigation**&**Vision-Language Models** |
 | 24.12 | Amazon Alexa AI, Cambridge, UK | arxiv | [HALLUCANA: Fixing LLM Hallucination with A Canary Lookahead](https://arxiv.org/abs/2412.07965) | **Hallucination Detection**&**Lookahead Strategy**&**LLM Factuality** |
 | 24.12 | Peking University | arxiv | [Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.14905) | **In-Context Hallucination**&**Retrieval-Augmented Generation (RAG)**&**Parallel Context Extension (PCE)** |
+| 24.12 | AE Studio | NeurIPS 2024 SafeGenAI Workshop | [Towards Safe and Honest AI Agents with Neural Self-Other Overlap](https://arxiv.org/abs/2412.16325) | **AI Safety**&**Neural Self-Other Overlap**&**Deceptive Behavior Mitigation** |
+| 24.12 | EPFL | arxiv | [Trustworthy and Efficient LLMs Meet Databases](https://arxiv.org/abs/2412.18022) | **Trustworthy LLMs**&**Efficient LLM Inference**&**LLMs and Databases** |
+| 24.12 | University of Münster | arxiv | [The HalluRAG Dataset: Detecting Closed-Domain Hallucinations in RAG Applications Using an LLM’s Internal States](https://arxiv.org/abs/2412.17056) | **Hallucination Detection**&**Retrieval-Augmented Generation (RAG)**&**Internal States** |
+| 24.12 | Purdue University | arxiv | [The Reliability Paradox: Exploring How Shortcut Learning Undermines Language Model Calibration](https://arxiv.org/abs/2412.15269) | **Calibration**&**Shortcut Learning** |
 
 
 ## 💻Presentations & Talks

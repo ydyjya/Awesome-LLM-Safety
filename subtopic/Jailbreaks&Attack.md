@@ -387,6 +387,12 @@
 | 24.12 | Guangdong University of Technology | arxiv | [Jailbreaking? One Step Is Enough!](https://arxiv.org/abs/2412.12621) | **Jailbreak Attack**&**Reverse Embedded Defense Attack (REDA)**&**In-Context Learning (ICL)** |
 | 24.12 | Beijing University of Posts and Telecommunications | arxiv | [Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings](https://arxiv.org/abs/2412.13879) | **LLM-DoS Attack**&**AutoDoS Algorithm**&**Length Trojan** |
 | 24.12 | Cornell Tech | arxiv | [Adversarial Hubness in Multi-Modal Retrieval](https://arxiv.org/abs/2412.14113) | **Adversarial Hubness**&**Multi-Modal Retrieval**&**Embedding-Based Attacks** |
+| 24.12 | National University of Singapore, Harbin Institute of Technology (Shenzhen) | ICML TiFA Workshop 2024 | [Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM](https://arxiv.org/abs/2412.15614) | **Suffix Injection**&**Projected Gradient Descent (PGD)**&**Multi-Modal Large Language Models (MLLM)** |
+| 24.12 | Hong Kong Baptist University, NVIDIA AI Technology Center | AAAI 2025 | [Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers](https://arxiv.org/abs/2412.15503) | **Backdoor Attacks**&**Hateful Meme Detection**&**Cross-Modal Triggers** |
+| 24.12 | Fudan University | AAAI 2025 | [JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization Against Aligned LLMs](https://arxiv.org/abs/2412.15623) | **Jailbreak Attacks**&**Preference Optimization**&**LLM Vulnerabilities** |
+| 24.12 | Zhejiang University | arxiv | [POEX: Policy Executable Embodied AI Jailbreak Attacks](https://arxiv.org/abs/2412.16633) | **Jailbreak Attacks**&**Embodied AI**&**Policy Executable Attacks** |
+| 24.12 | University of Maryland, Baltimore County | arxiv | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](https://arxiv.org/abs/2412.16359) | **Adversarial Prompts**&**Language Model Vulnerabilities**&**Situational Context** |
+| 24.12 | Tsinghua University, Hefei University of Technology, Shanghai Qi Zhi Institute | arxiv | [SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](https://arxiv.org/abs/2412.15289) | **Jailbreak Attacks**&**Assistive Task** |
 
 
 

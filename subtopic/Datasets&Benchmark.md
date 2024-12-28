@@ -121,6 +121,7 @@
 | 24.12 | Shanghai Jiao Tong University | arxiv | [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178) | **Safety-Aware Task Planning**&**Embodied LLM Agents**&**Hazard Mitigation** |
 | 24.12 | Tsinghua University | arxiv | [AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) | **Agent Safety**&**Risk Awareness**&**Interactive Evaluation** |
 | 24.12 | TU Darmstadt | arxiv | [LLMs Lost in Translation: M-ALERT Uncovers Cross-Linguistic Safety Gaps](https://arxiv.org/abs/2412.15035) | **Cross-Linguistic Safety**&**Multilingual Benchmark**&**LLM Alignment** |
+| 24.12 | Alibaba, China Academy of Information and Communications Technology | arxiv | [Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models](https://arxiv.org/abs/2412.15265) | **Safety Benchmark**&**Factuality Evaluation** |
 
 
 ## 📚Resource
