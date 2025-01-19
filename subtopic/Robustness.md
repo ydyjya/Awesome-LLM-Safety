@@ -45,6 +45,9 @@
 | 24.10 | University of Science and Technology of China, Tencent YouTu Lab | ACM Multimedia 2024 | [Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models](https://doi.org/10.1145/3664647.3680779) | **Large Vision-Language Model**&**Adversarial Attack**&**Image Encoder** |
 | 24.11 | National University of Singapore | arXiv | [Reasoning Robustness of LLMs to Adversarial Typographical Errors](https://arxiv.org/abs/2411.05345) | **Chain-of-Thought**&**Adversarial Typo**&**Robustness Evaluation** |
 | 24.12 | Tsinghua University | arxiv | [Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework](https://arxiv.org/abs/2412.11713) | **Exception Handling**&**Intermediate Language (IL)**&**Deep-RAG** |
+| 25.01 | Conversational AI and Social Analytics (CAISA) Lab, University of Bonn | arxiv | [ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving](https://arxiv.org/abs/2501.08203) | **Robustness Testing**&**Math Problem Solving**&**Noisy Inputs** |
+| 25.01 | University of Central Florida | arxiv | [I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution](https://arxiv.org/abs/2501.08165) | **Code Authorship Attribution**&**Zero-Shot Prompting**&**Adversarial Robustness** |
+| 25.01 | Macquarie University | arxiv | [SpaLLM-Guard: Pairing SMS Spam Detection Using Open-source and Commercial LLMs](https://arxiv.org/abs/2501.04985) | **SMS Spam Detection**&**Adversarial Robustness**&**Concept Drift** |
 
 
 ## 💻Presentations & Talks
