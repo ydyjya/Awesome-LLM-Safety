@@ -65,7 +65,7 @@ I can offer you a promotional spot here for up to one month.
 - [🛡️Awesome LLM-Safety🛡️](#️awesome-llm-safety️)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
-  - [🔐Security & Discussion](#security & discussion)
+  - [🔐Security & Discussion](#security--discussion)
     - [📑Papers](#papers)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks)
     - [Other](#other)
@@ -81,7 +81,7 @@ I can offer you a promotional spot here for up to one month.
     - [📑Papers](#papers-3)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
     - [Other](#other-3)
-  - [🛡️Defenses & Mitigation](#️defenses & mitigation)
+  - [🛡️Defenses & Mitigation](#️defenses--mitigation)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
   - [💯Datasets \& Benchmark](#datasets--benchmark)
@@ -208,6 +208,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📑Papers
 | Date  |    Institute    | Publication |                                                             Paper                                                             |
 |:-----:|:---------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| 25.02 | CUHK |   ICLR2025   |            [PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/pdf?id=txoJvjfI9w)            |
 | 21.07 | Google Research |   ACL2022   |            [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)            |
 | 22.04 |    Anthropic    |    arxiv    | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) |
 
