@@ -220,6 +220,9 @@
 | 25.03 | University of Pennsylvania | arxiv | [Safety Guardrails for LLM-Enabled Robots](https://arxiv.org/abs/2503.07885) | **LLM-enabled Robotics**&**Jailbreaking Defense**&**Formal Safety Guarantees** |
 | 25.03 | Peking University | arxiv | [LIFE-CYCLE ROUTING VULNERABILITIES OF LLM ROUTER](https://arxiv.org/abs/2503.08704) | **LLM Router**&**Adversarial Attack**&**Backdoor Attack** |
 | 25.03 | Squirrel AI Learning | arxiv | [A Survey on Trustworthy LLM Agents: Threats and Countermeasures](https://arxiv.org/abs/2503.09648) | **Trustworthy Agent**&**LLM-based Agents**&**Multi-Agent System** |
+| 25.03 | Cornell Tech | arxiv | [Multi-Agent Systems Execute Arbitrary Malicious Code](https://arxiv.org/abs/2503.12188) | **Multi-Agent Systems**&**Control-Flow Hijacking**&**Arbitrary Code Execution** |
+| 25.03 | University of Utah | arxiv | [A Comprehensive Study of LLM Secure Code Generation](https://arxiv.org/abs/2503.15554) | **Secure Code Generation**&**Vulnerability Scanning**&**Functionality Evaluation** |
+| 25.03 | University of Minnesota | arxiv | [Safety Aware Task Planning via Large Language Models in Robotics](https://arxiv.org/abs/2503.15707) | **LLM Robotics Planning**&**Safety-Aware Framework**&**Control Barrier Functions** |
 
 
 ## 💻Presentations & Talks

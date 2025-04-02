@@ -261,6 +261,12 @@
 | 25.03 | Carnegie Mellon University | arxiv | [Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](https://arxiv.org/abs/2503.05021) | **LLM Safety**&**Reasoning Fine-Tuning**&**Jailbreak Defense** |
 | 25.03 | Google | arxiv | [BSAFE: (B)acktracking for (SAFE)ty](https://arxiv.org/abs/2503.08919) | **LLM Safety**&**Backtracking Alignment**&**Jailbreak Defense** |
 | 25.03 | National University of Singapore | S&P 2025 | [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/abs/2503.09022) | **Prompt Inversion**&**Collaborative Inference**&**LLM Privacy Attack** |
+| 25.03 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](https://arxiv.org/abs/2503.11185) | **Jailbreak Defense**&**Safety Fine-tuning**&**LLM Robustness** |
+| 25.03 | XCALLY | arxiv | [Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks](https://arxiv.org/abs/2503.11517) | **Prompt Injection**&**Multi-Agent Systems**&**AI Security** |
+| 25.03 | Michigan State University | arxiv | [Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-tuning](https://arxiv.org/abs/2503.11832) | **Vision-Language Models**&**Safety Fine-tuning**&**Spurious Correlation** |
+| 25.03 | Beijing University of Posts and Telecommunications | arxiv | [MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](https://arxiv.org/abs/2503.12931) | **Jailbreak Defense**&**Entropy Analysis**&**Prompt Calibration** |
+| 25.03 | The Hong Kong Polytechnic University | arxiv | [Towards Harmless Multimodal Assistants with Blind Preference Optimization](https://arxiv.org/abs/2503.14189) | **Multimodal LLMs**&**Safety Alignment**&**Preference Optimization** |
+| 25.03 | University of Modena and Reggio Emilia | CVPR 2025 | [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127) | **Safety-Aware Retrieval**&**Vision-Language Models**&**Hyperbolic Embedding** |
 
 
 ## 💻Presentations & Talk

@@ -204,6 +204,8 @@
 | 25.03 | Clarksburg High School | arxiv | [An Evaluation of LLMs for Detecting Harmful Computing Terms](https://arxiv.org/abs/2503.09341) | **Harmful Terms**&**Model Architecture**&**Inclusive Language Detection** |
 | 25.03 | Universidad de Sevilla | arxiv | [Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives](https://arxiv.org/abs/2503.10192) | **Red Teaming**&**Spanish/Basque Safety** |
 | 25.03 | University of California, San Diego | TrustNLP @ NAACL 2025 | [BIASEDIT: Debiasing Stereotyped Language Models via Model Editing](https://arxiv.org/abs/2503.08588) | **Model Editing**&**Bias Mitigation**&**Stereotyped Language Models** |
+| 25.03 | IIIT Hyderabad | arxiv | [No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language Models](https://arxiv.org/abs/2503.11985) | **Bias Evaluation**&**Prompting Methods** |
+| 25.03 | University of Chile | arxiv | [Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?](https://arxiv.org/abs/2503.15268) | **Bayesian Reasoning**&**Cognitive Bias**&**Chain-of-Thought** |
 
 
 ## 💻Presentations & Talks

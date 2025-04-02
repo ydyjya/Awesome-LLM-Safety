@@ -473,6 +473,13 @@
 | 25.03 | Home Team Science and Technology Agency |                                   arxiv                                   | [Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States](https://arxiv.org/abs/2503.09066) | **LLM Security**&**Latent Representation**&**Jailbreak Intervention** |
 | 25.03 | Intology AI |                        TrustworhtyLLM @ ICLR 2025                         | [SIEGE: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](https://arxiv.org/abs/2503.10619) | **Multi-Turn Jailbreaking**&**Tree Search**&**Partial Compliance Tracking** |
 | 25.03 | University of Maryland, College Park | NAACL 2025 | [PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models](https://arxiv.org/abs/2503.07697) | **Data Poisoning**&**Copyright Evasion**&**LLM Security** |
+| 25.03 | University of Liverpool | arxiv | [TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models](https://arxiv.org/abs/2503.10872) | **Vision Language Models**&**Jailbreak Defense**&**Textual Anchoring** |
+| 25.03 | Southeast University | arxiv | [Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](https://arxiv.org/abs/2503.11619) | **Vision-Language Models**&**Jailbreak Defense**&**Adversarial Training** |
+| 25.03 | Southeast University | arxiv | [Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization](https://arxiv.org/abs/2503.11750) | **Vision-Language Models**&**Jailbreak Attack**&**Adversarial Optimization** |
+| 25.03 | University of Sydney | arxiv | [A Framework to Assess Multilingual Vulnerabilities of LLMs](https://arxiv.org/abs/2503.13081) | **Multilingual Evaluation**&**Jailbreak Detection**&**LLM Safety** |
+| 25.03 | University of Illinois Urbana-Champaign | arxiv | [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration](https://arxiv.org/abs/2503.15754) | **Automated Red Teaming**&**LLM Security**&**Attack Strategy Discovery** |
+| 25.03 | Huazhong University of Science and Technology | CVPR 2025 | [BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org/abs/2503.16023) | **Backdoor Attack**&**Multi-modal LLMs**&**Token Manipulation** |
+| 25.03 | Independent Research | IEEE CAI | [Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models](https://arxiv.org/abs/2503.15560) | **LLM Security**&**Multi-turn Attacks**&**Temporal Risk Modeling** |
 
 
 

@@ -157,6 +157,10 @@
 | 25.03 | Texas A&M University | arxiv | [HalluVerse25: Fine-grained Multilingual Benchmark Dataset for LLM Hallucinations](https://arxiv.org/abs/2503.07833) | **Hallucination Detection**&**Multilingual Benchmark**&**Fine-grained Annotation** |
 | 25.03 | University of Kent | SIGIR '25 | [CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data](https://arxiv.org/abs/2503.09334) | **Cyber Security**&**Fine-Tuning Safety**&**Instruction Dataset** |
 | 25.03 | UC San Diego | arxiv | [ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content](https://arxiv.org/abs/2503.09964) | **Multimodal Jailbreaking**&**Extremist Content**&**Safety Evaluation** |
+| 25.03 | Beihang University | arxiv | [Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings](https://arxiv.org/abs/2503.15092) | **Safety Evaluation**&**Jailbreak Attacks**&**DeepSeek Models** |
+| 25.03 | George Mason University | arxiv | [Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack](https://arxiv.org/abs/2503.15551) | **Batch Prompting**&**Prompt Injection Attack**&**LLM Security** |
+| 25.03 | Arizona State University | arxiv | [Personalized Attacks of Social Engineering in Multi-turn Conversations - LLM Agents for Simulation and Detection](https://arxiv.org/abs/2503.15552) | **Social Engineering**&**Multi-turn Conversation**&**LLM Agents** |
+| 25.03 | University of Illinois Urbana-Champaign | ICLR 2025 | [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org/abs/2503.14827) | **Multimodal Foundation Models**&**Trustworthiness Evaluation**&**Safety Benchmark** |
 
 
 ## 📚Resource

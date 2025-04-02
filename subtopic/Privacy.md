@@ -215,6 +215,12 @@
 | 25.03 | FAIR at Meta |                   arxiv                   | [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) | **LLM Agents**&**Privacy Leakage**&**Web Navigation** |
 | 25.03 | UCLA |           Blogpost @ ICLR 2025            | [Peeking Behind Closed Doors: Risks of LLM Evaluation by Private Data Curators](https://arxiv.org/abs/2503.04756) | **Private Evaluation**&**LLM-as-a-Judge**&**Evaluation Bias** |
 | 25.03 | Princeton University | ICLR 2025 | [Privacy Auditing of Large Language Models](https://arxiv.org/abs/2503.06808) | **Privacy Auditing**&**Membership Inference Attack**&**Differential Privacy** |
+| 25.03 | Huawei Munich Research Center | arxiv | [PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders](https://arxiv.org/abs/2503.11232) | **Privacy in LLMs**&**Sparse Autoencoders**&**Feature-Level Intervention** |
+| 25.03 | Zhejiang University | arxiv | [Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation](https://arxiv.org/abs/2503.12896) | **Embedding Privacy**&**End-Cloud Collaboration**&**Entropy-based Perturbation** |
+| 25.03 | RMIT University | arxiv | [Deep Contrastive Unlearning for Language Models](https://arxiv.org/abs/2503.14900) | **Machine Unlearning**&**Contrastive Learning**&**Data Privacy** |
+| 25.03 | University of Maryland | arxiv | [Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices](https://arxiv.org/abs/2503.14932) | **Black-Box Adaptation**&**Data Privacy**&**Resource-Constrained Devices** |
+| 25.03 | Seoul National University | arxiv | [Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents](https://arxiv.org/abs/2503.15547) | **LLM Agents**&**Privilege Escalation**&**Prompt Flow Integrity** |
+| 25.03 | Beijing University of Posts and Telecommunications | arxiv | [Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](https://arxiv.org/abs/2503.15548) | **RAG Security**&**Encrypted Embeddings**&**Privacy-Preserving Retrieval** |
 
 
 ## 💻Presentations & Talks

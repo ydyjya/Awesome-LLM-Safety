@@ -411,6 +411,16 @@
 | 25.03 | Drexel University | arxiv | [TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention](https://arxiv.org/abs/2503.10602) | **Object Hallucination**&**Vision-Language Models**&**Latent Truthfulness** |
 | 25.03 | University of California, Santa Barbara | Finding of NAACL 2025 | [Gradient-guided Attention Map Editing: Towards Efficient Contextual Hallucination Mitigation](https://arxiv.org/abs/2503.08963) | **Contextual Hallucination**&**Attention Map Editing**&**Summarization** |
 | 25.03 | Amazon | WWW 2025 | [Uncertainty-Aware Fusion: An Ensemble Framework for Mitigating Hallucinations in Large Language Models](https://arxiv.org/abs/2503.05757) | **Hallucination Detection**&**Uncertainty**&**Ensemble** |
+| 25.03 | University of Central Missouri | arxiv | [HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust](https://arxiv.org/abs/2503.10793) | **Rust**&**LLM Hallucination**&**Vulnerability Detection** |
+| 25.03 | Honda Research Institute | arxiv | [Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations](https://arxiv.org/abs/2503.10941) | **Graph Reasoning**&**Function Calling**&**Hallucination Reduction** |
+| 25.03 | Shanghai Advanced Research Institute, Chinese Academy of Sciences | arxiv | [HICD: Hallucination-Inducing via Attention Dispersion for Contrastive Decoding to Mitigate Hallucinations in Large Language Models](https://arxiv.org/abs/2503.12908) | **Hallucination Mitigation**&**Contrastive Decoding**&**Attention Dispersion** |
+| 25.03 | University of Science and Technology of China | arxiv | [ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2503.13107) | **Multimodal LLMs**&**Object Hallucination**&**Attention Modulation** |
+| 25.03 | University of Derby | arxiv | [RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration](https://arxiv.org/abs/2503.13514) | **RAG**&**Knowledge Graph**&**Multi-Agent Systems** |
+| 25.03 | Vanderbilt University | arxiv | [From "Hallucination" to "Suture": Insights from Language Philosophy to Enhance Large Language Models](https://arxiv.org/abs/2503.14392) | **LLM Hallucination**&**Language Philosophy**&**Anchor-RAG** |
+| 25.03 | Fudan University | arxiv | [Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](https://arxiv.org/abs/2503.14895) | **Object Hallucination**&**Multimodal LLMs**&**Frequency-Domain Perturbation** |
+| 25.03 | Skoltech | AAAI 2024 | [Don’t Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts](https://arxiv.org/abs/2503.15948) | **LVLM**&**NLI**&**Image Realism** |
+| 25.03 | UNC Chapel Hill | NAACL 2025 | [MAMM-REFINE: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration](https://arxiv.org/abs/2503.15272) | **Faithful Generation**&**Multi-Agent Collaboration**&**Refinement Pipeline** |
+| 25.03 | Paris-Saclay University | ICLR 2025 | [TOWARDS LIGHTER AND ROBUST EVALUATION FOR RETRIEVAL AUGMENTED GENERATION](https://arxiv.org/abs/2503.16161) | **RAG Evaluation**&**Faithfulness Assessment**&**Quantized LLMs** |
 
 
 ## 💻Presentations & Talks
