@@ -49,6 +49,8 @@
 | 25.01 |                                                      University of Central Florida                                                       |                                        arxiv                                        |                          [I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution](https://arxiv.org/abs/2501.08165)                          |        **Code Authorship Attribution**&**Zero-Shot Prompting**&**Adversarial Robustness**        |
 | 25.01 |                                                           Macquarie University                                                           |                                        arxiv                                        |                                [SpaLLM-Guard: Pairing SMS Spam Detection Using Open-source and Commercial LLMs](https://arxiv.org/abs/2501.04985)                                 |               **SMS Spam Detection**&**Adversarial Robustness**&**Concept Drift**                |
 | 25.03 | Dynamo AI | ICBINB Workshop @ ICLR 2025 | [Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges](https://arxiv.org/abs/2503.04474) | **LLM Safety Evaluation**&**Robustness**&**Adversarial Attacks** |
+| 25.03 | Simon Fraser University | arxiv | [Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data](https://arxiv.org/abs/2503.05587) | **Retrieval-Augmented Generation**&**Spurious Features**&**Robustness Evaluation** |
+| 25.03 | Cohere | arxiv | [Safer or Luckier? LLMs as Safety Evaluators Are Not Robust to Artifacts](https://arxiv.org/abs/2503.09347) | **LLM-as-a-Judge**&**Safety Evaluation**&**Artifact Robustness** |
 
 
 ## 💻Presentations & Talks

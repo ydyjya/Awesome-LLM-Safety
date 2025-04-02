@@ -257,6 +257,10 @@
 | 25.03 |                                                                      Peking University                                                                      | arXiv | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning](https://arxiv.org/abs/2503.03480) | **Vision-Language-Action Models**&**Safe Reinforcement Learning**&**Robot Safety** |
 | 25.03 |                                                             University of California, Berkeley                                                              | arXiv | [Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org/abs/2503.03710) | **LLM Safety Alignment**&**Dual-Objective Optimization**&**Jailbreak Defense** |
 | 25.03 |                                       University of Science and Technology of China, Nanyang Technological University                                       | arXiv | [AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management](https://arxiv.org/abs/2503.04392) | **Multi-agent Systems Security**&**Hierarchical Data Management**&**Memory Protection** |
+| 25.03 | Nanjing University of Science and Technology | arxiv | [Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2503.04833) | **Multimodal Large Language Models**&**Adversarial Training**&**Jailbreak Defense** |
+| 25.03 | Carnegie Mellon University | arxiv | [Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](https://arxiv.org/abs/2503.05021) | **LLM Safety**&**Reasoning Fine-Tuning**&**Jailbreak Defense** |
+| 25.03 | Google | arxiv | [BSAFE: (B)acktracking for (SAFE)ty](https://arxiv.org/abs/2503.08919) | **LLM Safety**&**Backtracking Alignment**&**Jailbreak Defense** |
+| 25.03 | National University of Singapore | S&P 2025 | [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org/abs/2503.09022) | **Prompt Inversion**&**Collaborative Inference**&**LLM Privacy Attack** |
 
 
 ## 💻Presentations & Talk

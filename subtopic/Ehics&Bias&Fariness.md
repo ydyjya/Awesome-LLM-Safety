@@ -196,6 +196,14 @@
 | 25.03 |                                                                     University of Tsukuba, Politecnico di Milano                                                                     | arXiv | [Analyzing the Safety of Japanese Large Language Models in Stereotype-Triggering Prompts](https://arxiv.org/abs/2503.01947) | **Japanese Large Language Models**&**Stereotype Bias**&**AI Safety** |
 | 25.03 | Beijing Foreign Studies University | arXiv | [Implicit Bias in LLMs: A Survey](https://arxiv.org/abs/2503.02776) | **Implicit Bias**&**Implicit Association Test** |
 | 25.03 | App Inventor Foundation & App-In Club | Social Impact of AI @ AAAI 2025 | [Structured Reasoning for Fairness: A Multi-Agent Approach to Bias Detection in Textual Data](https://arxiv.org/abs/2503.00355) | **Bias Detection**&**Multi-Agent Systems**&**Fairness in AI** |
+| 25.03 | Institute of Science Tokyo | arxiv | [Intent-Aware Self-Correction for Mitigating Social Biases in Large Language Models](https://arxiv.org/abs/2503.06011) | **Self-Correction**&**Social Bias Mitigation**&**Chain-of-Thought Reasoning** |
+| 25.03 | Amazon | arxiv | [Fine-Grained Bias Detection in LLM: Enhancing Detection Mechanisms for Nuanced Biases](https://arxiv.org/abs/2503.06054) | **Bias Detection**&**Nuanced Bias**&**LLM Fairness** |
+| 25.03 | IIIT Hyderabad | arxiv | [Sometimes the Model doth preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations](https://arxiv.org/abs/2503.07510) | **Religious Bias**&**Demographic Profiling**&**Open LLM Evaluation** |
+| 25.03 | University of Southern California | arxiv | [VISBIAS: Measuring Explicit and Implicit Social Biases in Vision-Language Models](https://arxiv.org/abs/2503.07575) | **Vision-Language Models**&**Implicit Bias**&**Social Fairness** |
+| 25.03 | University of Virginia | arxiv | [Benchmarking Group Fairness in Reward Models](https://arxiv.org/abs/2503.07806) | **Group Fairness**&**Reward Models**&**LLM Alignment** |
+| 25.03 | Clarksburg High School | arxiv | [An Evaluation of LLMs for Detecting Harmful Computing Terms](https://arxiv.org/abs/2503.09341) | **Harmful Terms**&**Model Architecture**&**Inclusive Language Detection** |
+| 25.03 | Universidad de Sevilla | arxiv | [Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives](https://arxiv.org/abs/2503.10192) | **Red Teaming**&**Spanish/Basque Safety** |
+| 25.03 | University of California, San Diego | TrustNLP @ NAACL 2025 | [BIASEDIT: Debiasing Stereotyped Language Models via Model Editing](https://arxiv.org/abs/2503.08588) | **Model Editing**&**Bias Mitigation**&**Stereotyped Language Models** |
 
 
 ## 💻Presentations & Talks
