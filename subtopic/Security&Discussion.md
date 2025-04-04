@@ -223,6 +223,9 @@
 | 25.03 | Cornell Tech | arxiv | [Multi-Agent Systems Execute Arbitrary Malicious Code](https://arxiv.org/abs/2503.12188) | **Multi-Agent Systems**&**Control-Flow Hijacking**&**Arbitrary Code Execution** |
 | 25.03 | University of Utah | arxiv | [A Comprehensive Study of LLM Secure Code Generation](https://arxiv.org/abs/2503.15554) | **Secure Code Generation**&**Vulnerability Scanning**&**Functionality Evaluation** |
 | 25.03 | University of Minnesota | arxiv | [Safety Aware Task Planning via Large Language Models in Robotics](https://arxiv.org/abs/2503.15707) | **LLM Robotics Planning**&**Safety-Aware Framework**&**Control Barrier Functions** |
+| 25.03 | Peking University, Zhongguancun Lab, Tsinghua University | arxiv | [Large Language Models powered Network Attack Detection: Architecture, Opportunities and Case Study](https://arxiv.org/abs/2503.18487) | **Network Security**&**LLM for Security**&**Anomaly Detection** |
+| 25.03 | Aim Intelligence, Yonsei University, Seoul National University | arxiv | [sudo rm -rf agentic_security](https://arxiv.org/abs/2503.20279) | **Agent Security**&**Multimodal Jailbreak**&**LLM Agent Exploitation** |
+| 25.03 | Georgia Institute of Technology, IMT Mines Albi | arxiv | [Leveraging Large Language Models for Risk Assessment in Hyperconnected Logistic Hub Network Deployment](https://arxiv.org/abs/2503.21115) | **Risk Assessment**&**LLMs for Logistics**&**Supply Chain Resilience** |
 
 
 ## 💻Presentations & Talks

@@ -480,6 +480,12 @@
 | 25.03 | University of Illinois Urbana-Champaign | arxiv | [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration](https://arxiv.org/abs/2503.15754) | **Automated Red Teaming**&**LLM Security**&**Attack Strategy Discovery** |
 | 25.03 | Huazhong University of Science and Technology | CVPR 2025 | [BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org/abs/2503.16023) | **Backdoor Attack**&**Multi-modal LLMs**&**Token Manipulation** |
 | 25.03 | Independent Research | IEEE CAI | [Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models](https://arxiv.org/abs/2503.15560) | **LLM Security**&**Multi-turn Attacks**&**Temporal Risk Modeling** |
+| 25.03 | The University of Sydney, CSIRO Data61, The University of New South Wales | arxiv | [Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising](https://arxiv.org/abs/2503.17198) | **Non-Transferable Learning**&**Model Security**&**Test-Time Attack** |
+| 25.03 | Tianjin University, Huawei Technologies | arxiv | [Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2503.17987) | **Jailbreaking attacks**&**Text-to-Image Models**&**Adversarial Prompt** |
+| 25.03 | University of Waterloo, National University of Singapore, University of California Merced, University of Alberta, University of Queensland | arxiv | [MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134) | **Multimodal Jailbreaking**&**Visual Storytelling**&**Role Immersion** |
+| 25.03 | National Central University | arxiv | [Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models](https://arxiv.org/abs/2503.20320) | **Jailbreaking**&**Iterative Prompting**&**Persuasion Skill** |
+| 25.03 | KTH Royal Institute of Technology | arxiv | [Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/abs/2503.21598) | **Jailbreaking**&**Distributed Prompting**&**LLM Jury** |
+| 25.03 | NAVER Cloud, KAIST, Republic of Korea Naval Academy, AITRICS | CVPR 2025 | [Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](https://arxiv.org/abs/2503.20823) | **Jailbreaking**&**Out-of-Distribution Attack**&**Multimodal LLMs** |
 
 
 

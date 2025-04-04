@@ -206,7 +206,7 @@
 | 25.03 | University of California, San Diego | TrustNLP @ NAACL 2025 | [BIASEDIT: Debiasing Stereotyped Language Models via Model Editing](https://arxiv.org/abs/2503.08588) | **Model Editing**&**Bias Mitigation**&**Stereotyped Language Models** |
 | 25.03 | IIIT Hyderabad | arxiv | [No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language Models](https://arxiv.org/abs/2503.11985) | **Bias Evaluation**&**Prompting Methods** |
 | 25.03 | University of Chile | arxiv | [Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?](https://arxiv.org/abs/2503.15268) | **Bayesian Reasoning**&**Cognitive Bias**&**Chain-of-Thought** |
-
+| 25.03 | Emotia | ICMLC 2025 | [LLMs, Virtual Users, and Bias: Predicting Any Survey Question Without Human Data](https://arxiv.org/abs/2503.16498) | **Survey Prediction**&**LLM Bias**&**Censorship Impact** |
 
 ## 💻Presentations & Talks
 

@@ -221,6 +221,10 @@
 | 25.03 | University of Maryland | arxiv | [Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices](https://arxiv.org/abs/2503.14932) | **Black-Box Adaptation**&**Data Privacy**&**Resource-Constrained Devices** |
 | 25.03 | Seoul National University | arxiv | [Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents](https://arxiv.org/abs/2503.15547) | **LLM Agents**&**Privilege Escalation**&**Prompt Flow Integrity** |
 | 25.03 | Beijing University of Posts and Telecommunications | arxiv | [Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](https://arxiv.org/abs/2503.15548) | **RAG Security**&**Encrypted Embeddings**&**Privacy-Preserving Retrieval** |
+| 25.03 | Shanghai Jiao Tong University, University of Kent | arxiv | [Using LLMs for Automated Privacy Policy Analysis: Prompt Engineering, Fine-Tuning and Explainability](https://arxiv.org/abs/2503.16516) | **Privacy Policy**&**Prompt Engineering**&**Explainability** |
+| 25.03 | Henry Ford Health, Michigan State University | arxiv | [Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent](https://arxiv.org/abs/2503.17553) | **Radiotherapy Planning**&**LLM Agent**&**RAG**&**Reinforcement Learning**&**Privacy** |
+| 25.03 | The Hong Kong Polytechnic University, Institute of Science Tokyo | arxiv | [Membership Inference Attacks on Large-Scale Models: A Survey](https://arxiv.org/abs/2503.19338) | **Membership Inference**&**LLMs Privacy**&**Multimodal Model Security** |
+| 25.03 | University College London, King’s College Hospital, King’s College London | arxiv | [Clean & Clear: Feasibility of Safe LLM Clinical Guidance](https://arxiv.org/abs/2503.20953) | **Clinical Guidance**&**Hallucination Mitigation**&**Healthcare LLM** |
 
 
 ## 💻Presentations & Talks

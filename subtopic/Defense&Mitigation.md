@@ -267,6 +267,14 @@
 | 25.03 | Beijing University of Posts and Telecommunications | arxiv | [MirrorGuard: Adaptive Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](https://arxiv.org/abs/2503.12931) | **Jailbreak Defense**&**Entropy Analysis**&**Prompt Calibration** |
 | 25.03 | The Hong Kong Polytechnic University | arxiv | [Towards Harmless Multimodal Assistants with Blind Preference Optimization](https://arxiv.org/abs/2503.14189) | **Multimodal LLMs**&**Safety Alignment**&**Preference Optimization** |
 | 25.03 | University of Modena and Reggio Emilia | CVPR 2025 | [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127) | **Safety-Aware Retrieval**&**Vision-Language Models**&**Hyperbolic Embedding** |
+| 25.03 | OpenAI | arxiv | [OpenAI’s Approach to External Red Teaming for AI Models and Systems](https://arxiv.org/abs/2503.16431) | **Red Teaming**&**AI Risk Assessment**&**Safety Evaluation** |
+| 25.03 | Unicom Data Intelligence, China Unicom | arxiv | [Safety Evaluation and Enhancement of DeepSeek Models in Chinese Contexts](https://arxiv.org/abs/2503.16529) | **Safety Evaluation**&**Distillation**&**Chinese LLMs** |
+| 25.03 | Zhejiang University | arxiv | [Towards LLM Guardrails via Sparse Representation Steering](https://arxiv.org/abs/2503.16851) | **Representation Engineering**&**Sparse Autoencoder**&**LLM Safety** |
+| 25.03 | Technical University of Munich, Ludwig Maximilian University of Munich | arxiv | [THINK BEFORE REFUSAL: Triggering Safety Reflection in LLMs to Mitigate False Refusal Behavior](https://arxiv.org/abs/2503.17882) | **False Refusal**&**Safety Alignment**&**LLM Reasoning** |
+| 25.03 | The Hong Kong University of Science and Technology | arxiv | [STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](https://arxiv.org/abs/2503.17932) | **Jailbreak Detection**&**LLM Safety**&**Adversarial Training** |
+| 25.03 | Zhejiang University, Ant Group | arxiv | [LookAhead Tuning: Safer Language Models via Partial Answer Previews](https://arxiv.org/abs/2503.19041) | **Safe Fine-tuning**&**Answer Prefix**&**LLM Safety** |
+| 25.03 | IBM Research, Rensselaer Polytechnic Institute | arxiv | [Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models](https://arxiv.org/abs/2503.20807) | **Safety-Capability Trade-off**&**Fine-tuning Strategy**&**Theoretical Analysis** |
+| 25.03 | Technical University Munich, IBM Research | ICLR 2025 Workshop on BTLMA | [SAFEMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging](https://arxiv.org/abs/2503.17239) | **Safety Alignment**&**Model Merging**&**Post-Fine-Tuning Defense** |
 
 
 ## 💻Presentations & Talk
