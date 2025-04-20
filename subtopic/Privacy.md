@@ -230,6 +230,8 @@
 | 25.04 |                                                                               Beijing University of Posts and Telecommunications                                                                                |           USENIX Security 2025            |             [Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems](https://arxiv.org/abs/2504.00858)              |                 **Audio Adversarial Examples**&**Speech Privacy**&**LLM-powered ASR**                 |
 | 25.04 | Amazon AGI | arxiv | [SemEval-2025 Task 4: Unlearning Sensitive Content from Large Language Models](https://arxiv.org/abs/2504.02883) | **LLM Unlearning**&**Privacy**&**Benchmarking** |
 | 25.04 | University of Michigan | arxiv | [Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs](https://arxiv.org/abs/2504.05147) | **Prompt Privacy**&**Format-Preserving Encryption**&**Metric Differential Privacy** |
+| 25.04 | Centre for Frontier AI Research | arxiv | [Position Paper: Rethinking Privacy in RL for Sequential Decision-making in the Age of LLMs](https://arxiv.org/abs/2504.11511) | **Privacy**&**Reinforcement Learning**&**Sequential Decision-making** |
+| 25.04 | Korea University | IJCNN 2025 | [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681) | **Machine Unlearning**&**LLM Privacy**&**Multi-domain Forgetting** |
 
 
 ## 💻Presentations & Talks

@@ -434,6 +434,18 @@
 | 25.04 | University of Pisa | arxiv | [Hybrid Retrieval for Hallucination Mitigation in Large Language Models: A Comparative Analysis](https://arxiv.org/abs/2504.05324) | **Retrieval Augmented Generation**&**Hallucination Mitigation**&**Query Expansion** |
 | 25.04 | University of Luxembourg | arxiv | [Noise Augmented Fine Tuning for Mitigating Hallucinations in Large Language Models](https://arxiv.org/abs/2504.03302) | **Noise Injection**&**Hallucination Mitigation**&**LLM Fine-Tuning** |
 | 25.04 | University of Osaka | arxiv | [Hallucination Detection using Multi-View Attention Features](https://arxiv.org/abs/2504.04335) | **Hallucination Detection**&**Attention Features**&**Token-level Classification** |
+| 25.04 | Tsinghua University | arxiv | [Combating LLM Hallucinations using Hypergraph-Driven Retrieval-Augmented Generation](https://arxiv.org/abs/2504.08758) | **Large Language Models**&**Retrieval-Augmented Generation**&**Hypergraph** |
+| 25.04 | The Hong Kong University of Science and Technology | arxiv | [Enhancing Mathematical Reasoning in Large Language Models with Self-Consistency-Based Hallucination Detection](https://arxiv.org/abs/2504.09440) | **Mathematical Reasoning**&**Hallucination Detection**&**Self-Consistency** |
+| 25.04 | Indian Statistical Institute | arxiv | [HALLUSHIFT: Measuring Distribution Shifts towards Hallucination Detection in LLMs](https://arxiv.org/abs/2504.09482) | **Hallucination Detection**&**Distribution Shift**&**Token Probability** |
+| 25.04 | University of Science and Technology of China | arxiv | [The Mirage of Performance Gains: Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/abs/2504.10020) | **Multimodal Hallucination**&**Contrastive Decoding**&**MLLM Evaluation Bias** |
+| 25.04 | Skolkovo Institute of Science and Technology | arxiv | [Hallucination Detection in LLMs via Topological Divergence on Attention Graphs](https://arxiv.org/abs/2504.10063) | **Hallucination Detection**&**Topological Divergence**&**Attention Graphs** |
+| 25.04 | Newgiza University | arxiv | [HalluSearch at SemEval-2025 Task 3: A Search-Enhanced RAG Pipeline for Hallucination Detection](https://arxiv.org/abs/2504.10168) | **Hallucination Detection**&**Multilingual RAG**&**Factual Verification** |
+| 25.04 | Giskard AI | arxiv | [RealHarm: A Collection of Real-World Language Model Application Failures](https://arxiv.org/abs/2504.10277) | **LLM Safety**&**Real-World Failures**&**Content Moderation** |
+| 25.04 | Korea University | arxiv | [Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control](https://arxiv.org/abs/2504.10831) | **Reinforcement Learning**&**Hallucination**&**Mobility Control** |
+| 25.04 | Massachusetts Institute of Technology | CHI ’25 | [Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models](https://arxiv.org/abs/2504.12012) | **Hallucination**&**Computational Creativity**&**Human–AI Collaboration** |
+| 25.04 | Volkswagen AG | arxiv | [Efficient Contrastive Decoding with Probabilistic Hallucination Detection](https://arxiv.org/abs/2504.12137) | **Vision-Language Models**&**Hallucination Detection**&**Contrastive Decoding** |
+| 25.04 | University of California Berkeley | arxiv | [Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations](https://arxiv.org/abs/2504.12691) | **LLM Hallucination**&**Subsequence Association**&**Causal Tracing** |
+| 25.04 | MIT Lincoln Laboratory | HCXAI @ CHI 2025 | [Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study](https://doi.org/10.5281/zenodo.15170463) | **LLM Hallucination**&**Knowledge Graph**&**Human-in-the-loop QA** |
 
 
 ## 💻Presentations & Talks

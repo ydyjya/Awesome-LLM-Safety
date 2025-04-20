@@ -501,6 +501,14 @@
 | 25.04 | Amazon |                      TrustNLP Workshop @ NAACL 2025                       | [Multi-lingual Multi-turn Automated Red Teaming for LLMs](https://arxiv.org/abs/2504.03174) | **Automated Red Teaming**&**Multi-lingual Safety**&**Multi-turn Jailbreak** |
 | 25.04 | Sun Yat-Sen University | CVPR 2025 | [Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](https://arxiv.org/abs/2504.05838) | **Image Prompt Adapter**&**Hijacking Attack**&**T2I Diffusion Model Security** |
 | 25.04 | Tongji University | SIGIR 2025 | [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://arxiv.org/abs/2504.07717) | **Retrieval-Augmented Generation**&**Poisoning Attacks**&**Bilevel Optimization** |
+| 25.04 | National University of Singapore | ICLR 2025 Workshop | [GENESHIFT: IMPACT OF DIFFERENT SCENARIO SHIFT ON JAILBREAKING LLM](https://arxiv.org/abs/2504.08104) | **Jailbreaking**&**Black-box Attack**&**Scenario Shift** |
+| 25.04 | Hefei University of Technology | arxiv | [StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models](https://arxiv.org/abs/2504.09841) | **Indirect Prompt Injection**&**LLM Agents**&**Tabular Data Security** |
+| 25.04 | GSA - FedRAMP | arxiv | [Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming](https://arxiv.org/abs/2504.10603) | **Red Teaming**&**LLM Evaluation**&**AI Security Platform** |
+| 25.04 | ETH Zurich | arxiv | [The Jailbreak Tax: How Useful are Your Jailbreak Outputs?](https://arxiv.org/abs/2504.10694) | **Jailbreak Tax**&**LLM Alignment**&**Utility Evaluation** |
+| 25.04 | Xidian University | arxiv | [Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106) | **Text-to-Image model**&**jailbreak attack**&**constraint optimization problem** |
+| 25.04 | Mindgard | arxiv | [Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails](https://arxiv.org/abs/2504.11168) | **Prompt Injection**&**Jailbreak Detection**&**LLM Guardrails** |
+| 25.04 | The Hong Kong Polytechnic University | arxiv | [Exploring Backdoor Attack and Defense for LLM-empowered Recommendations](https://arxiv.org/abs/2504.11182) | **Backdoor Attack**&**LLM-based RecSys**&**Poison Scanner** |
+| 25.04 | Case Western Reserve University | arxiv | [GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms](https://arxiv.org/abs/2504.13052) | **LLM Safety**&**Jailbreak Prompt**&**Semantic Graph Attack** |
 
 
 

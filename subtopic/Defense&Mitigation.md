@@ -284,6 +284,18 @@
 | 25.04 | VMware Research | arxiv | [Bypassing Safety Guardrails in LLMs Using Humor](https://arxiv.org/abs/2504.06577) | **LLM Jailbreaking**&**Prompt Engineering**&**Humor Attacks** |
 | 25.04 | University of Warwick | arxiv | [Detecting Malicious AI Agents Through Simulated Interactions](https://arxiv.org/abs/2504.03726) | **Malicious intent detection**&**Human-AI interaction**&**Manipulation techniques** |
 | 25.04 | Chinese Academy of Sciences | arxiv | [SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection](https://arxiv.org/abs/2504.07135) | **Rumor Detection**&**Message Injection Attack**&**Contrastive Learning** |
+| 25.04 | University of South Carolina | arxiv | [SafeChat: A Framework for Building Trustworthy Collaborative Assistants and a Case Study of its Usefulness](https://arxiv.org/abs/2504.07995) | **Collaborative Assistant**&**Trustworthy Chatbot**&**SafeChat Framework** |
+| 25.04 | Carnegie Mellon University | arxiv | [SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192) | **Machine Unlearning**&**Sparse Autoencoder**&**LLM Safety** |
+| 25.04 | Harbin Institute of Technology | arxiv | [AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender](https://arxiv.org/abs/2504.09466) | **Jailbreak Defense**&**Activation Steering**&**Adaptive Safety** |
+| 25.04 | City University of Hong Kong | arxiv | [ControlNet: A Firewall for RAG-based LLM System](https://arxiv.org/abs/2504.09593) | **RAG Security**&**AI Firewall**&**Activation Shift** |
+| 25.04 | Independent Researchers | arxiv | [Mitigating Many-Shot Jailbreaking](https://arxiv.org/abs/2504.09604) | **Many-Shot Jailbreaking**&**Fine-Tuning Defense**&**Input Sanitization** |
+| 25.04 | Georgia Tech | arxiv | [The Structural Safety Generalization Problem](https://arxiv.org/abs/2504.09712) | **Safety Generalization**&**Jailbreaking**&**Guardrails** |
+| 25.04 | University of Utah | arxiv | [Alleviating the Fear of Losing Alignment in LLM Fine-tuning](https://arxiv.org/abs/2504.09757) | **LLM Alignment**&**Fine-tuning Recovery**&**Harmful Direction Restoration** |
+| 25.04 | UC Berkeley | arxiv | [Progent: Programmable Privilege Control for LLM Agents](https://arxiv.org/abs/2504.11703) | **LLM Agents**&**Privilege Control**&**Policy Programming** |
+| 25.04 | Microsoft | arxiv | [AttentionDefense: Leveraging System Prompt Attention for Explainable Defense Against Novel Jailbreaks](https://arxiv.org/abs/2504.12321) | **Jailbreak Detection**&**Explainable AI**&**System Prompt Attention** |
+| 25.04 | Shanghai Jiao Tong University | arxiv | [VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization](https://arxiv.org/abs/2504.12661) | **Vision-Language Model**&**Safety Alignment**&**Multimodal Reasoning** |
+| 25.04 | Sporo Health | arxiv | [MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System](https://arxiv.org/abs/2504.12757) | **Model Context Protocol**&**Agentic AI**&**AI Security** |
+| 25.04 | University of Chinese Academy of Sciences | CVPR 2025 | [Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?](https://arxiv.org/abs/2504.13052) | **MLLM Safety**&**Rejection Tuning**&**Compliance Bias** |
 
 
 ## 💻Presentations & Talk

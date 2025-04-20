@@ -222,6 +222,8 @@
 | 25.04 | Griffin Hospital | arxiv | [Bias in Large Language Models Across Clinical Applications: A Systematic Review](https://arxiv.org/abs/2504.02917) | **LLM Bias**&**Clinical AI**&**Systematic Review** |
 | 25.04 | University of Amsterdam | arxiv | [Cognitive Debiasing Large Language Models for Decision-Making](https://arxiv.org/abs/2504.04141) | **LLM Debiasing**&**Decision-Making**&**Cognitive Bias** |
 | 25.04 | University of Massachusetts Lowell | NAACL 2025 | [EqualizeIR: Mitigating Linguistic Biases in Retrieval Models](https://arxiv.org/abs/2504.07115) | **Linguistic Bias**&**Information Retrieval**&**Weak Learner Regularization** |
+| 25.04 | Johns Hopkins University | arxiv | [Assessing Judging Bias in Large Reasoning Models: An Empirical Study](https://arxiv.org/abs/2504.09946) | **Judging Bias**&**Large Reasoning Models**&**Model-as-a-Judge** |
+| 25.04 | Virginia Tech | arxiv | [LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models](https://arxiv.org/abs/2504.10430) | **Persuasion Safety**&**Unethical Strategy**&**PERSUSAFETY** |
 
 
 ## 💻Presentations & Talks
