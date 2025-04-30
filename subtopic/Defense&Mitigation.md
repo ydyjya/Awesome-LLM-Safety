@@ -296,6 +296,10 @@
 | 25.04 | Shanghai Jiao Tong University | arxiv | [VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization](https://arxiv.org/abs/2504.12661) | **Vision-Language Model**&**Safety Alignment**&**Multimodal Reasoning** |
 | 25.04 | Sporo Health | arxiv | [MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System](https://arxiv.org/abs/2504.12757) | **Model Context Protocol**&**Agentic AI**&**AI Security** |
 | 25.04 | University of Chinese Academy of Sciences | CVPR 2025 | [Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?](https://arxiv.org/abs/2504.13052) | **MLLM Safety**&**Rejection Tuning**&**Compliance Bias** |
+| 25.04 | Fudan University | arxiv | [Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI](https://arxiv.org/abs/2504.13201) | **Embodied Intelligence**&**Jailbreak Attacks**&**Representation Engineering** |
+| 25.04 | Tongji University | arxiv | [DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification](https://arxiv.org/abs/2504.13562) | **LLM Jailbreak Defense**&**Attention Modification**&**Inference-Time Strategy** |
+| 25.04 | Quebec University at Chicoutimi | arxiv | [A DATA-CENTRIC APPROACH FOR SAFE AND SECURE LARGE LANGUAGE MODELS AGAINST THREATENING AND TOXIC CONTENT](https://arxiv.org/abs/2504.16120) | **Toxicity Mitigation**&**Post-generation Correction**&**LLM Safety** |
+| 25.04 | Intuit | arxiv | [Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol](https://arxiv.org/abs/2504.16902) | **Agentic AI**&**A2A Protocol**&**MAESTRO Threat Modeling** |
 
 
 ## 💻Presentations & Talk

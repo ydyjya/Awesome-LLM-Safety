@@ -509,6 +509,13 @@
 | 25.04 | Mindgard | arxiv | [Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails](https://arxiv.org/abs/2504.11168) | **Prompt Injection**&**Jailbreak Detection**&**LLM Guardrails** |
 | 25.04 | The Hong Kong Polytechnic University | arxiv | [Exploring Backdoor Attack and Defense for LLM-empowered Recommendations](https://arxiv.org/abs/2504.11182) | **Backdoor Attack**&**LLM-based RecSys**&**Poison Scanner** |
 | 25.04 | Case Western Reserve University | arxiv | [GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms](https://arxiv.org/abs/2504.13052) | **LLM Safety**&**Jailbreak Prompt**&**Semantic Graph Attack** |
+| 25.04 | University of California, Los Angeles | arxiv | [X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents](https://arxiv.org/abs/2504.13203) | **Jailbreak Attacks**&**Multi-Turn Red-Teaming**&**LLM Safety Alignment** |
+| 25.04 | China Agricultural University | arxiv | [BADAPEX: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-Box Large Language Models](https://arxiv.org/abs/2504.13775) | **Backdoor Attack**&**Black-box LLMs**&**Prompt Optimization** |
+| 25.04 | Xi’an Jiaotong University | arxiv | [Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org/abs/2504.16125) | **Prompt Injection**&**ChatGPT Security**&**Adversarial Prompting** |
+| 25.04 | National University of Defense Technology | arxiv | [Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection](https://arxiv.org/abs/2504.16429) | **Retrieval-Augmented Code Generation**&**Software Security**&**Knowledge Injection** |
+| 25.04 | Shandong University | arxiv | [Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate](https://arxiv.org/abs/2504.16489) | **Multi-Agent Debate**&**Jailbreak Attacks**&**Prompt Rewriting** |
+| 25.04 | University of Virginia | arxiv | [Steering the CensorShip: Uncovering Representation Vectors for LLM “Thought” Control](https://arxiv.org/abs/2504.17130) | **Censorship Steering**&**Representation Engineering**&**Refusal–Compliance Vector** |
+| 25.04 | East China Normal University | arxiv | [Unified attacks to large language model watermarks: spoofing and scrubbing in unauthorized knowledge distillation](https://arxiv.org/abs/2504.17480) | **LLM Watermark**&**Knowledge Distillation**&**Spoofing & Scrubbing Attacks** |
 
 
 

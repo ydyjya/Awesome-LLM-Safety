@@ -236,6 +236,10 @@
 | 25.04 | Johns Hopkins University | arxiv | [An Investigation of Large Language Models and Their Vulnerabilities in Spam Detection](https://arxiv.org/abs/2504.09776) | **Spam Detection**&**Adversarial Attack**&**Data Poisoning** |
 | 25.04 | TU Wien | arxiv | [Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design](https://arxiv.org/abs/2504.10112) | **Offensive Security**&**Benchmarking**&**LLM Penetration Testing** |
 | 25.04 | Fraunhofer Institute for Cognitive Systems IKS | arxiv | [Towards Automated Safety Requirements Derivation Using Agent-based RAG](https://arxiv.org/abs/2504.11243) | **Agent-based RAG**&**Safety Requirements Derivation**&**Autonomous Driving** |
+| 25.04 | Nanjing University | arxiv | [Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask](https://arxiv.org/abs/2504.13474) | **LLM-based Vulnerability Detection**&**Contextual Reasoning**&**Benchmark Evaluation** |
+| 25.04 | Nanyang Technological University | arxiv | [A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585) | **LLM Safety**&**LLM Lifecycle**&**Agent Alignment** |
+| 25.04 | Arab American University | arxiv | [Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends](https://arxiv.org/abs/2504.16134) | **Traffic Safety**&**Multimodal Large Language Models**&**ADAS** |
+| 25.04 | National University of Singapore | arxiv | [Safety in Large Reasoning Models: A Survey](https://arxiv.org/abs/2504.17704) | **Large Reasoning Models**&**Safety Taxonomy**&**Adversarial Attacks** |
 
 
 ## 💻Presentations & Talks

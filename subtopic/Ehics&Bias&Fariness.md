@@ -224,6 +224,10 @@
 | 25.04 | University of Massachusetts Lowell | NAACL 2025 | [EqualizeIR: Mitigating Linguistic Biases in Retrieval Models](https://arxiv.org/abs/2504.07115) | **Linguistic Bias**&**Information Retrieval**&**Weak Learner Regularization** |
 | 25.04 | Johns Hopkins University | arxiv | [Assessing Judging Bias in Large Reasoning Models: An Empirical Study](https://arxiv.org/abs/2504.09946) | **Judging Bias**&**Large Reasoning Models**&**Model-as-a-Judge** |
 | 25.04 | Virginia Tech | arxiv | [LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models](https://arxiv.org/abs/2504.10430) | **Persuasion Safety**&**Unethical Strategy**&**PERSUSAFETY** |
+| 25.04 | University of Science and Culture | arxiv | [Building Trustworthy Multimodal AI: A Review of Fairness, Transparency, and Ethics in Vision-Language Tasks](https://arxiv.org/abs/2504.13199) | **Vision-Language Tasks**&**Fairness**&**Transparency**&**Ethics** |
+| 25.04 | Huazhong University of Science and Technology | arxiv | [On the Feasibility of Using MultiModal LLMs to Execute AR Social Engineering Attacks](https://arxiv.org/abs/2504.13209) | **Augmented Reality**&**Multimodal LLMs**&**Social Engineering** |
+| 25.04 | Zhejiang University | arxiv | [FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](https://arxiv.org/abs/2504.14492) | **Inference-Time Debiasing**&**LLM Fairness**&**Activation Steering** |
+| 25.04 | ETH Zurich | arxiv | [Multilingual Performance Biases of Large Language Models in Education](https://arxiv.org/abs/2504.17720) | **Multilingual Bias**&**Educational Tasks**&**LLM Evaluation** |
 
 
 ## 💻Presentations & Talks

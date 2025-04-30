@@ -446,6 +446,10 @@
 | 25.04 | Volkswagen AG | arxiv | [Efficient Contrastive Decoding with Probabilistic Hallucination Detection](https://arxiv.org/abs/2504.12137) | **Vision-Language Models**&**Hallucination Detection**&**Contrastive Decoding** |
 | 25.04 | University of California Berkeley | arxiv | [Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations](https://arxiv.org/abs/2504.12691) | **LLM Hallucination**&**Subsequence Association**&**Causal Tracing** |
 | 25.04 | MIT Lincoln Laboratory | HCXAI @ CHI 2025 | [Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study](https://doi.org/10.5281/zenodo.15170463) | **LLM Hallucination**&**Knowledge Graph**&**Human-in-the-loop QA** |
+| 25.04 | University of West Florida | arxiv | [HYDRA: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models](https://arxiv.org/abs/2504.14395) | **Vision-Language Models**&**Adversarial Robustness**&**Agentic Reasoning** |
+| 25.04 | University of Windsor | arxiv | [ResNetVLLM-2: Addressing ResNetVLLM’s Multi-Modal Hallucinations](https://arxiv.org/abs/2504.14429) | **VideoLLM**&**Multi-Modal Hallucination**&**Retrieval-Augmented Generation** |
+| 25.04 | Yale University | arxiv | [(Im)possibility of Automated Hallucination Detection in Large Language Models](https://arxiv.org/abs/2504.17004) | **Hallucination Detection**&**Language Identification Theory**&**LLM Reliability** |
+| 25.04 | FAIR at Meta | arxiv | [HalluLens: LLM Hallucination Benchmark](https://arxiv.org/abs/2504.17550) | **LLM Hallucination**&**Benchmark**&**Intrinsic vs. Extrinsic Evaluation** |
 
 
 ## 💻Presentations & Talks

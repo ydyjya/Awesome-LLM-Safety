@@ -167,6 +167,7 @@
 | 25.04 | National University of Singapore | arxiv | [SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models](https://arxiv.org/abs/2504.08813) | **MLRM**&**Safety Evaluation**&**Jailbreaking Attacks** |
 | 25.04 | Tsinghua University | arxiv | [RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability](https://arxiv.org/abs/2504.10081) | **Safety Alignment**&**DeepSeek-R1**&**Large Reasoning Models** |
 | 25.04 | The Hong Kong University of Science and Technology | arxiv | [Benchmarking Multi-National Value Alignment for Large Language Models](https://arxiv.org/abs/2504.12911) | **LLM Hallucination**&**Value Alignment**&**Cross-National Evaluation** |
+| 25.04 | Qatar Computing Research Institute | arxiv | [AIXAMINE: SIMPLIFIED LLM SAFETY AND SECURITY](https://arxiv.org/abs/2504.14985) | **LLM Safety**&**Security Evaluation**&**Black-box Benchmarking** |
 
 
 ## 📚Resource
