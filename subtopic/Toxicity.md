@@ -79,6 +79,7 @@
 | 25.04 | The University of Queensland | arxiv | [LLM-based Semantic Augmentation for Harmful Content Detection](https://arxiv.org/abs/2504.15548) | **Semantic Augmentation**&**Harmful Content Detection**&**Social Media Classification** |
 | 25.04 | Guangxi Police College | arxiv | [Few-Shot Hate Speech Detection Based on the MindSpore Framework](https://arxiv.org/abs/2504.15987) | **Few-shot Learning**&**Hate Speech Detection**&**Prompt-based Models** |
 | 25.05 | University of Arkansas | arxiv | [Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models](https://arxiv.org/abs/2505.00150) | **Hateful Meme Detection**&**Vision-Language Models**&**Multimodal Content Mitigation** |
+| 25.05 | Microsoft | arxiv | [Towards Safer Pretraining: Analyzing and Filtering Harmful Content in Webscale datasets for Responsible LLMs](https://arxiv.org/abs/2505.02009) | **Data Filtering**&**Toxicity Detection**&**LLM Pretraining** |
 
 
 ## 💻Presentations & Talks

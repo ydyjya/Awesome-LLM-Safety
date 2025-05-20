@@ -170,6 +170,7 @@
 | 25.04 | Qatar Computing Research Institute | arxiv | [AIXAMINE: SIMPLIFIED LLM SAFETY AND SECURITY](https://arxiv.org/abs/2504.14985) | **LLM Safety**&**Security Evaluation**&**Black-box Benchmarking** |
 | 25.04 | University of California, Berkeley | arxiv | [JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440) | **Jailbreak Detection**&**Concept Drift**&**Continuous Learning** |
 | 25.04 | Intuit | arxiv | [Security Steerability is All You Need](https://arxiv.org/abs/2504.19521) | **Security Steerability**&**Prompt Guardrails**&**LLM Robustness** |
+| 25.05 | Rutgers University-New Brunswick | arxiv | [Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety](https://arxiv.org/abs/2505.04146) | **Jailbreaking**&**Image Generation**&**Multilingual Obfuscation** |
 
 
 ## 📚Resource

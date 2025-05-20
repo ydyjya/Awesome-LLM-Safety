@@ -230,6 +230,8 @@
 | 25.04 | ETH Zurich | arxiv | [Multilingual Performance Biases of Large Language Models in Education](https://arxiv.org/abs/2504.17720) | **Multilingual Bias**&**Educational Tasks**&**LLM Evaluation** |
 | 25.04 | Luxembourg Institute of Science and Technology | arxiv | [Mind the Language Gap: Automated and Augmented Evaluation of Bias in LLMs for High- and Low-Resource Languages](https://arxiv.org/abs/2504.18560) | **Bias Evaluation**&**Multilingual NLP**&**Low-Resource Languages** |
 | 25.04 | Ahmedabad University | arxiv | [Who Gets the Callback? Generative AI and Gender Bias](https://arxiv.org/abs/2504.21400) | **Large Language Models (LLMs)**&**Algorithmic Bias**&**Gender Discrimination** |
+| 25.05 | Jimei University | arxiv | [Attack and defense techniques in large language models: A survey and new perspectives](https://arxiv.org/abs/2505.00976) | **Large Language Models**&**Security**&**Prompt Injection** |
+| 25.05 | Karlsruhe Institute of Technology | arxiv | [Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters](https://arxiv.org/abs/2505.04393) | **Political Bias**&**Model Size**&**LLM Alignment** |
 
 
 ## 💻Presentations & Talks

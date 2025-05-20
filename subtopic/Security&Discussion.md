@@ -243,6 +243,12 @@
 | 25.04 | Amazon Web Services | arxiv | [Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents](https://arxiv.org/abs/2504.19956) | **Agentic AI Security**&**Threat Modeling**&**Mitigation Framework** |
 | 25.04 | Alibaba Group | NAACL 2025 | [DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2504.18053) | **Multimodal LLM**&**Safety Alignment**&**Risk Disentanglement** |
 | 25.04 | University of Maryland | NAACL 2025 | [RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2504.18041) | **RAG**&**Safety Alignment**&**Red Teaming** |
+| 25.05 | University of Granada | arxiv | [LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures](https://arxiv.org/abs/2505.01177) | **Large Language Models**&**Security**&**Defense Mechanisms** |
+| 25.05 | University of North Carolina at Chapel Hill | Transactions on Machine Learning Research | [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://arxiv.org/abs/2505.01456) | **Multimodal LLMs**&**Information Unlearning**&**Security Evaluation** |
+| 25.05 | University of Oxford | arxiv | [Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents](https://arxiv.org/abs/2505.02077) | **Multi-Agent Systems**&**AI Security**&**Emergent Threats** |
+| 25.05 | Huazhong University of Science and Technology | arxiv | [Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study](https://arxiv.org/abs/2505.02502) | **LLM Deployment**&**Security Analysis**&**Empirical Study** |
+| 25.05 | Rutgers University | arxiv | [Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration](https://arxiv.org/abs/2505.02848) | **Healthcare**&**Alignment**&**Large Language Models** |
+| 25.05 | Metropolia University of Applied Sciences | arxiv | [A Comparative Analysis of Ethical and Safety Gaps in LLMs using Relative Danger Coefficient](https://arxiv.org/abs/2505.04654) | **LLM Safety**&**Ethical Evaluation**&**Danger Coefficient** |
 
 
 ## 💻Presentations & Talks

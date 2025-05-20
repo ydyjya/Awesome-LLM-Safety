@@ -460,6 +460,7 @@
 | 25.05 | Quotient AI | arxiv | [HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection](https://arxiv.org/abs/2505.00506) | **Hallucination Detection**&**Benchmark**&**Retrieval-Augmented Generation** |
 | 25.05 | Kanazawa University | arxiv | [Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models](https://arxiv.org/abs/2505.00557) | **Prompt-Induced Hallucination**&**Conceptual Fusion**&**LLM Evaluation** |
 | 25.04 | Amazon AWS AI | NAACL 2025 | [Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models](https://arxiv.org/abs/2504.21559) | **Visual Prompt Engineering**&**Object Hallucination**&**Vision Language Models** |
+| 25.05 | Stanford University | arxiv | [Osiris: A Lightweight Open-Source Hallucination Detection System](https://arxiv.org/abs/2505.04844) | **Hallucination Detection**&**RAG Systems**&**Open-Source Models** |
 
 
 ## 💻Presentations & Talks

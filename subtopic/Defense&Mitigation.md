@@ -306,6 +306,7 @@
 | 25.04 | National University of Singapore | arxiv | [Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction](https://arxiv.org/abs/2504.20472) | **Prompt Injection**&**Instruction Referencing**&**LLM Robustness** |
 | 25.04 | Beijing Institute of Technology | ACM MM’25 | [AGATE: Stealthy Black-box Watermarking for Multimodal Model Copyright Protection](https://arxiv.org/abs/2504.21044) | **Black-box Watermarking**&**Model Copyright Protection**&**Watermarking Security** |
 | 25.05 | University of Cincinnati | arxiv | [Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models](https://arxiv.org/abs/2505.00010) | **Jailbreak Detection**&**Clinical Simulation**&**Fuzzy Decision Tree** |
+| 25.05 | University of California, Santa Cruz | arxiv | [Large Language Models are Autonomous Cyber Defenders](https://arxiv.org/abs/2505.04843) | **Autonomous Cyber Defense**&**LLM Agents**&**Multi-Agent Systems** |
 
 
 ## 💻Presentations & Talk

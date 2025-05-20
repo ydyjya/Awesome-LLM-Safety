@@ -236,6 +236,9 @@
 | 25.04 | Université de Toulouse |          CL4Health @ NAACL 2025           | [PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare](https://arxiv.org/abs/2504.17360) | **Model Merging**&**Healthcare Privacy**&**LLMs for EHR** |
 | 25.04 | Emory University | MedInfo 2025 | [Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes](https://arxiv.org/abs/2504.18569) | **PHI Annotation**&**Privacy-Preserving LLM**&**Clinical NLP** |
 | 25.05 | Hokkaido University | arxiv | [Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://arxiv.org/abs/2504.21036) | **Differential Privacy**&**Fine-tuning**&**Privacy Attacks** |
+| 25.05 | University of Southern California | arxiv | [Preserving Privacy and Utility in LLM-Based Product Recommendations](https://arxiv.org/abs/2505.00951) | **Recommendation System**&**Privacy Preservation**&**Large Language Models** |
+| 25.05 | Indiana University Bloomington | arxiv | [Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems](https://arxiv.org/abs/2505.04799) | **Multi-Agent Systems**&**Privacy Protection**&**LLM Frameworks** |
+| 25.05 | University of North Carolina at Chapel Hill | Transactions on Machine Learning Research | [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://arxiv.org/abs/2505.01456) | **Multimodal LLMs**&**Information Unlearning**&**Security Evaluation** |
 
 
 ## 💻Presentations & Talks
