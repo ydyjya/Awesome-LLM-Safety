@@ -234,6 +234,8 @@
 | 25.04 | Korea University |                IJCNN 2025                 | [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681) | **Machine Unlearning**&**LLM Privacy**&**Multi-domain Forgetting** |
 | 25.04 | University of Chicago |                   arxiv                   | [How Private is Your Attention? Bridging Privacy with In-Context Learning](https://arxiv.org/abs/2504.16000) | **In-Context Learning**&**Differential Privacy**&**Attention Mechanism** |
 | 25.04 | Université de Toulouse |          CL4Health @ NAACL 2025           | [PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare](https://arxiv.org/abs/2504.17360) | **Model Merging**&**Healthcare Privacy**&**LLMs for EHR** |
+| 25.04 | Emory University | MedInfo 2025 | [Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes](https://arxiv.org/abs/2504.18569) | **PHI Annotation**&**Privacy-Preserving LLM**&**Clinical NLP** |
+| 25.05 | Hokkaido University | arxiv | [Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://arxiv.org/abs/2504.21036) | **Differential Privacy**&**Fine-tuning**&**Privacy Attacks** |
 
 
 ## 💻Presentations & Talks

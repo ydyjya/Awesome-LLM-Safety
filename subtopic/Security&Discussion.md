@@ -240,6 +240,9 @@
 | 25.04 | Nanyang Technological University | arxiv | [A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585) | **LLM Safety**&**LLM Lifecycle**&**Agent Alignment** |
 | 25.04 | Arab American University | arxiv | [Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends](https://arxiv.org/abs/2504.16134) | **Traffic Safety**&**Multimodal Large Language Models**&**ADAS** |
 | 25.04 | National University of Singapore | arxiv | [Safety in Large Reasoning Models: A Survey](https://arxiv.org/abs/2504.17704) | **Large Reasoning Models**&**Safety Taxonomy**&**Adversarial Attacks** |
+| 25.04 | Amazon Web Services | arxiv | [Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents](https://arxiv.org/abs/2504.19956) | **Agentic AI Security**&**Threat Modeling**&**Mitigation Framework** |
+| 25.04 | Alibaba Group | NAACL 2025 | [DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2504.18053) | **Multimodal LLM**&**Safety Alignment**&**Risk Disentanglement** |
+| 25.04 | University of Maryland | NAACL 2025 | [RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2504.18041) | **RAG**&**Safety Alignment**&**Red Teaming** |
 
 
 ## 💻Presentations & Talks

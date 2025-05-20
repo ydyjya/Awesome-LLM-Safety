@@ -168,6 +168,8 @@
 | 25.04 | Tsinghua University | arxiv | [RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability](https://arxiv.org/abs/2504.10081) | **Safety Alignment**&**DeepSeek-R1**&**Large Reasoning Models** |
 | 25.04 | The Hong Kong University of Science and Technology | arxiv | [Benchmarking Multi-National Value Alignment for Large Language Models](https://arxiv.org/abs/2504.12911) | **LLM Hallucination**&**Value Alignment**&**Cross-National Evaluation** |
 | 25.04 | Qatar Computing Research Institute | arxiv | [AIXAMINE: SIMPLIFIED LLM SAFETY AND SECURITY](https://arxiv.org/abs/2504.14985) | **LLM Safety**&**Security Evaluation**&**Black-box Benchmarking** |
+| 25.04 | University of California, Berkeley | arxiv | [JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440) | **Jailbreak Detection**&**Concept Drift**&**Continuous Learning** |
+| 25.04 | Intuit | arxiv | [Security Steerability is All You Need](https://arxiv.org/abs/2504.19521) | **Security Steerability**&**Prompt Guardrails**&**LLM Robustness** |
 
 
 ## 📚Resource

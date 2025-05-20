@@ -78,6 +78,7 @@
 | 25.03 |                                                                                     Beihang University                                                                                     |             arxiv              |                                             [Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection](https://arxiv.org/abs/2503.21127)                                             |     **Fake News Detection**&**LLM-SLM Collaboration**&**Retrieval-Augmented Learning**      |
 | 25.04 | The University of Queensland | arxiv | [LLM-based Semantic Augmentation for Harmful Content Detection](https://arxiv.org/abs/2504.15548) | **Semantic Augmentation**&**Harmful Content Detection**&**Social Media Classification** |
 | 25.04 | Guangxi Police College | arxiv | [Few-Shot Hate Speech Detection Based on the MindSpore Framework](https://arxiv.org/abs/2504.15987) | **Few-shot Learning**&**Hate Speech Detection**&**Prompt-based Models** |
+| 25.05 | University of Arkansas | arxiv | [Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models](https://arxiv.org/abs/2505.00150) | **Hateful Meme Detection**&**Vision-Language Models**&**Multimodal Content Mitigation** |
 
 
 ## 💻Presentations & Talks

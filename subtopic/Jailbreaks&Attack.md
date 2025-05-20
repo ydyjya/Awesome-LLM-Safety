@@ -516,6 +516,18 @@
 | 25.04 | Shandong University | arxiv | [Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate](https://arxiv.org/abs/2504.16489) | **Multi-Agent Debate**&**Jailbreak Attacks**&**Prompt Rewriting** |
 | 25.04 | University of Virginia | arxiv | [Steering the CensorShip: Uncovering Representation Vectors for LLM “Thought” Control](https://arxiv.org/abs/2504.17130) | **Censorship Steering**&**Representation Engineering**&**Refusal–Compliance Vector** |
 | 25.04 | East China Normal University | arxiv | [Unified attacks to large language model watermarks: spoofing and scrubbing in unauthorized knowledge distillation](https://arxiv.org/abs/2504.17480) | **LLM Watermark**&**Knowledge Distillation**&**Spoofing & Scrubbing Attacks** |
+| 25.04 | Independent Researcher | arxiv | [Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections](https://arxiv.org/abs/2504.18333) | **Prompt Injection**&**Adversarial Attacks**&**LLM-as-a-Judge** |
+| 25.04 | Hong Kong University of Science and Technology | arxiv | [BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts](https://arxiv.org/abs/2504.18598) | **Backdoor Attack**&**Mixture-of-Experts LLMs**&**AI Security** |
+| 25.04 | Cardiff University | arxiv | [Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs](https://arxiv.org/abs/2504.19019) | **Adversarial Prompting**&**Black-Box Jailbreaking**&**Graph Reasoning** |
+| 25.04 | Huazhong University of Science and Technology | arxiv | [Prompt Injection Attack to Tool Selection in LLM Agents](https://arxiv.org/abs/2504.19793) | **Prompt Injection**&**Tool Selection**&**LLM Agent Security** |
+| 25.04 | Dreadnode | arxiv | [The Automation Advantage in AI Red Teaming](https://arxiv.org/abs/2504.19855) | **AI Red Teaming**&**Automation vs Manual Attacks**&**LLM Security** |
+| 25.04 | University of California, Merced | arxiv | [Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression](https://arxiv.org/abs/2504.20493) | **Prompt Injection**&**Reasoning Interruption**&**Token Compression** |
+| 25.04 | No Institute Given | arxiv | [Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary](https://arxiv.org/abs/2504.21038) | **Jailbreak Attack**&**Prefill-based Attack**&**LLM Security** |
+| 25.04 | Binjiang Institute of Zhejiang University | arxiv | [NeuRel-Attack: Neuron Relearning for Safety Disalignment in Large Language Models](https://arxiv.org/abs/2504.21053) | **Jailbreak Attack**&**Neuron Relearning**&**Safety Alignment** |
+| 25.04 | Beijing University of Posts and Telecommunications | arxiv | [Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs](https://arxiv.org/abs/2504.21680) | **RAG**&**Jailbreak Prompt**&**Denial-of-Service** |
+| 25.04 | University of Pavia | arxiv | [XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](https://arxiv.org/abs/2504.21700) | **Jailbreak Attack**&**Explainable AI**&**White-box Manipulation** |
+| 25.04 | Nankai University | WWW 2025 | [Traceback of Poisoning Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2504.21668) | **RAG**&**Poisoning Attacks**&**Traceback Forensics** |
+| 25.05 | University of Toronto | arxiv | [Red Teaming Large Language Models for Healthcare](https://arxiv.org/abs/2505.00467) | **Healthcare Red Teaming**&**Clinical Safety**&**LLM Vulnerability** |
 
 
 

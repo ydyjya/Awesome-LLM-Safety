@@ -300,6 +300,12 @@
 | 25.04 | Tongji University | arxiv | [DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification](https://arxiv.org/abs/2504.13562) | **LLM Jailbreak Defense**&**Attention Modification**&**Inference-Time Strategy** |
 | 25.04 | Quebec University at Chicoutimi | arxiv | [A DATA-CENTRIC APPROACH FOR SAFE AND SECURE LARGE LANGUAGE MODELS AGAINST THREATENING AND TOXIC CONTENT](https://arxiv.org/abs/2504.16120) | **Toxicity Mitigation**&**Post-generation Correction**&**LLM Safety** |
 | 25.04 | Intuit | arxiv | [Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol](https://arxiv.org/abs/2504.16902) | **Agentic AI**&**A2A Protocol**&**MAESTRO Threat Modeling** |
+| 25.04 | Zhejiang University | arxiv | [DUALBREACH: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization](https://arxiv.org/abs/2504.18564) | **Jailbreaking**&**Guardrails**&**Adversarial Attack** |
+| 25.04 | Microsoft India | arxiv | [SAGE: A Generic Framework for LLM Safety Evaluation](https://arxiv.org/abs/2504.19674) | **LLM Safety Evaluation**&**Adversarial Testing**&**Multi-turn Dialogue** |
+| 25.04 | Chongqing University | arxiv | [Evaluate-and-Purify: Fortifying Code Language Models Against Adversarial Attacks Using LLM-as-a-Judge](https://arxiv.org/abs/2504.19730) | **Adversarial Attack**&**Code Language Model**&**LLM-as-a-Judge** |
+| 25.04 | National University of Singapore | arxiv | [Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction](https://arxiv.org/abs/2504.20472) | **Prompt Injection**&**Instruction Referencing**&**LLM Robustness** |
+| 25.04 | Beijing Institute of Technology | ACM MM’25 | [AGATE: Stealthy Black-box Watermarking for Multimodal Model Copyright Protection](https://arxiv.org/abs/2504.21044) | **Black-box Watermarking**&**Model Copyright Protection**&**Watermarking Security** |
+| 25.05 | University of Cincinnati | arxiv | [Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models](https://arxiv.org/abs/2505.00010) | **Jailbreak Detection**&**Clinical Simulation**&**Fuzzy Decision Tree** |
 
 
 ## 💻Presentations & Talk

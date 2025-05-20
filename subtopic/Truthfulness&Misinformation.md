@@ -450,6 +450,16 @@
 | 25.04 | University of Windsor | arxiv | [ResNetVLLM-2: Addressing ResNetVLLM’s Multi-Modal Hallucinations](https://arxiv.org/abs/2504.14429) | **VideoLLM**&**Multi-Modal Hallucination**&**Retrieval-Augmented Generation** |
 | 25.04 | Yale University | arxiv | [(Im)possibility of Automated Hallucination Detection in Large Language Models](https://arxiv.org/abs/2504.17004) | **Hallucination Detection**&**Language Identification Theory**&**LLM Reliability** |
 | 25.04 | FAIR at Meta | arxiv | [HalluLens: LLM Hallucination Benchmark](https://arxiv.org/abs/2504.17550) | **LLM Hallucination**&**Benchmark**&**Intrinsic vs. Extrinsic Evaluation** |
+| 25.04 | University of Southern California | arxiv | [Evaluating Evaluation Metrics – The Mirage of Hallucination Detection](https://arxiv.org/abs/2504.18114) | **Hallucination Detection**&**Evaluation Metrics** |
+| 25.04 | Ulm University | arxiv | [Hallucination Detectives at SemEval-2025 Task 3: Span-Level Hallucination Detection for LLM-Generated Answers](https://arxiv.org/abs/2504.18639) | **Hallucination Detection**&**Semantic Role Labeling**&**Multilingual NLP** |
+| 25.04 | The University of Akron | arxiv | [Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models](https://arxiv.org/abs/2504.19061) | **Medical Text Summarization**&**Hallucinations**&**Key Information Extraction** |
+| 25.04 | AWS AI Labs | arxiv | [Towards Long Context Hallucination Detection](https://arxiv.org/abs/2504.19457) | **Long-Context Processing**&**Hallucination Detection**&**Natural Language Inference** |
+| 25.04 | RISE Research Institutes of Sweden | arxiv | [Can LLMs Detect Intrinsic Hallucinations in Paraphrasing and Machine Translation?](https://arxiv.org/abs/2504.20699) | **Hallucination Detection**&**Machine Translation**&**Paraphrasing** |
+| 25.04 | UNIST | arxiv | [Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges](https://arxiv.org/abs/2504.20799) | **Code Generation**&**Hallucination Taxonomy**&**Mitigation Strategies** |
+| 25.04 | Jilin University | IJCAI 2025 | [Robust Misinformation Detection by Visiting Potential Commonsense Conflict](https://arxiv.org/abs/2504.21604) | **Misinformation Detection**&**Commonsense Conflict**&**Data Augmentation** |
+| 25.05 | Quotient AI | arxiv | [HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection](https://arxiv.org/abs/2505.00506) | **Hallucination Detection**&**Benchmark**&**Retrieval-Augmented Generation** |
+| 25.05 | Kanazawa University | arxiv | [Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models](https://arxiv.org/abs/2505.00557) | **Prompt-Induced Hallucination**&**Conceptual Fusion**&**LLM Evaluation** |
+| 25.04 | Amazon AWS AI | NAACL 2025 | [Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models](https://arxiv.org/abs/2504.21559) | **Visual Prompt Engineering**&**Object Hallucination**&**Vision Language Models** |
 
 
 ## 💻Presentations & Talks

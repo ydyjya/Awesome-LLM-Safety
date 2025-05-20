@@ -228,6 +228,8 @@
 | 25.04 | Huazhong University of Science and Technology | arxiv | [On the Feasibility of Using MultiModal LLMs to Execute AR Social Engineering Attacks](https://arxiv.org/abs/2504.13209) | **Augmented Reality**&**Multimodal LLMs**&**Social Engineering** |
 | 25.04 | Zhejiang University | arxiv | [FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](https://arxiv.org/abs/2504.14492) | **Inference-Time Debiasing**&**LLM Fairness**&**Activation Steering** |
 | 25.04 | ETH Zurich | arxiv | [Multilingual Performance Biases of Large Language Models in Education](https://arxiv.org/abs/2504.17720) | **Multilingual Bias**&**Educational Tasks**&**LLM Evaluation** |
+| 25.04 | Luxembourg Institute of Science and Technology | arxiv | [Mind the Language Gap: Automated and Augmented Evaluation of Bias in LLMs for High- and Low-Resource Languages](https://arxiv.org/abs/2504.18560) | **Bias Evaluation**&**Multilingual NLP**&**Low-Resource Languages** |
+| 25.04 | Ahmedabad University | arxiv | [Who Gets the Callback? Generative AI and Gender Bias](https://arxiv.org/abs/2504.21400) | **Large Language Models (LLMs)**&**Algorithmic Bias**&**Gender Discrimination** |
 
 
 ## 💻Presentations & Talks
