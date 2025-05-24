@@ -307,6 +307,8 @@
 | 25.04 | Beijing Institute of Technology | ACM MM’25 | [AGATE: Stealthy Black-box Watermarking for Multimodal Model Copyright Protection](https://arxiv.org/abs/2504.21044) | **Black-box Watermarking**&**Model Copyright Protection**&**Watermarking Security** |
 | 25.05 | University of Cincinnati | arxiv | [Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models](https://arxiv.org/abs/2505.00010) | **Jailbreak Detection**&**Clinical Simulation**&**Fuzzy Decision Tree** |
 | 25.05 | University of California, Santa Cruz | arxiv | [Large Language Models are Autonomous Cyber Defenders](https://arxiv.org/abs/2505.04843) | **Autonomous Cyber Defense**&**LLM Agents**&**Multi-Agent Systems** |
+| 25.05 | Nanjing University | arxiv | [Defending against Indirect Prompt Injection by Instruction Detection](https://arxiv.org/abs/2505.06311v1) | **Indirect Prompt Injection**&**Instruction Detection**&**Behavioral State Analysis** |
+| 25.05 | University of Cambridge | arxiv | [Adversarial Suffix Filtering: a Defense Pipeline for LLMs](https://arxiv.org/abs/2505.09602v1) | **Adversarial Suffix**&**Jailbreak Defense**&**Model-Agnostic Filtering** |
 
 
 ## 💻Presentations & Talk

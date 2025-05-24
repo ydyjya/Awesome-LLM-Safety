@@ -532,6 +532,12 @@
 | 25.05 | University of Electronic Science and Technology of China |                                   arxiv                                   | [BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models](https://arxiv.org/abs/2505.03501) | **Backdoor Attack**&**Multilingual LLMs**&**Adversarial Training** |
 | 25.05 | Universidad de Concepción |                                   arxiv                                   | [A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](https://arxiv.org/abs/2505.04784) | **Operational Risk**&**Chatbot Security**&**LLM Evaluation** |
 | 25.05 | Independent Researcher |                                   arxiv                                   | [Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs](https://arxiv.org/abs/2505.04806) | **Prompt Injection**&**Jailbreaking**&**LLM Security** |
+| 25.05 | University at Buffalo | arxiv | [System Prompt Poisoning: Persistent Attacks on Large Language Models Beyond User Injection](https://arxiv.org/abs/2505.06493v1) | **System Prompt Poisoning**&**LLM Security**&**Adversarial Attacks** |
+| 25.05 | Chinese Academy of Sciences | arxiv | [POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models](https://arxiv.org/abs/2505.06579v1) | **Retrieval-Augmented Generation**&**Data Poisoning**&**Language Model Security** |
+| 25.05 | Beijing Institute of Technology | arxiv | [Practical Reasoning Interruption Attacks on Reasoning Large Language Models](https://arxiv.org/abs/2505.06643v1) | **Reasoning Interruption Attack**&**Reasoning Token Overflow**&**LLM Security** |
+| 25.05 | University of Virginia | arxiv | [Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety](https://arxiv.org/abs/2505.06843v1) | **Fine-tuning Vulnerabilities**&**LLM Safety Alignment**&**Outlier Detection** |
+| 25.05 | Xidian University | arxiv | [One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models](https://arxiv.org/abs/2505.07167v1) | **Jailbreak Defense**&**Shallow Safety Alignment**&**Trigger Token** |
+| 25.05 | Ben Gurion University of the Negev | arxiv | [Dark LLMs: The Growing Threat of Unaligned AI Models](https://arxiv.org/abs/2505.10066v1) | **Jailbreak**&**Dark LLMs**&**AI Safety** |
 
 
 

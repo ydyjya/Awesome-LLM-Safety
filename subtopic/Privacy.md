@@ -239,6 +239,11 @@
 | 25.05 | University of Southern California | arxiv | [Preserving Privacy and Utility in LLM-Based Product Recommendations](https://arxiv.org/abs/2505.00951) | **Recommendation System**&**Privacy Preservation**&**Large Language Models** |
 | 25.05 | Indiana University Bloomington | arxiv | [Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems](https://arxiv.org/abs/2505.04799) | **Multi-Agent Systems**&**Privacy Protection**&**LLM Frameworks** |
 | 25.05 | University of North Carolina at Chapel Hill | Transactions on Machine Learning Research | [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://arxiv.org/abs/2505.01456) | **Multimodal LLMs**&**Information Unlearning**&**Security Evaluation** |
+| 25.05 | University of Houston | arxiv | [User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data](https://arxiv.org/abs/2505.06305v1) | **Privacy Preference Modeling**&**Large Language Models**&**Few-shot Learning** |
+| 25.05 | Eastern Switzerland University of Applied Sciences | arxiv | [Securing RAG: A Risk Assessment and Mitigation Framework](https://arxiv.org/abs/2505.08728v1) | **Retrieval-Augmented Generation**&**Security Framework**&**Risk Mitigation** |
+| 25.05 | Peking University | arxiv | [Improved Algorithms for Differentially Private Language Model Alignment](https://arxiv.org/abs/2505.08849v1) | **Differential Privacy**&**Language Model Alignment**&**DP-ADAMW** |
+| 25.05 | Chinese Academy of Sciences | arxiv | [PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization](https://arxiv.org/abs/2505.09921v1) | **Privacy Jailbreak**&**PII Extraction**&**Gradient-Based Optimization** |
+| 25.05 | Institute of Information Engineering, CAS | S & P 2025 | [Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity](https://arxiv.org/abs/2505.07239v1) | **Private Inference**&**MPC**&**Activation Sparsity Prediction** |
 
 
 ## 💻Presentations & Talks

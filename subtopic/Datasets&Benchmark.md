@@ -171,6 +171,10 @@
 | 25.04 | University of California, Berkeley | arxiv | [JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440) | **Jailbreak Detection**&**Concept Drift**&**Continuous Learning** |
 | 25.04 | Intuit | arxiv | [Security Steerability is All You Need](https://arxiv.org/abs/2504.19521) | **Security Steerability**&**Prompt Guardrails**&**LLM Robustness** |
 | 25.05 | Rutgers University-New Brunswick | arxiv | [Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety](https://arxiv.org/abs/2505.04146) | **Jailbreaking**&**Image Generation**&**Multilingual Obfuscation** |
+| 25.05 | Beijing Jiaotong University | arxiv | [Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model](https://arxiv.org/abs/2505.06538v1) | **Multimodal Large Reasoning Models**&**Safety Alignment**&**Chain-of-Thought** |
+| 25.05 | Shanghai Artificial Intelligence Laboratory | arxiv | [Benchmarking Ethical and Safety Risks of Healthcare LLMs in China – Toward Systemic Governance under Healthy China 2030](https://arxiv.org/abs/2505.07205v1) | **Medical LLMs**&**Ethical Risk Assessment**&**Governance Framework** |
+| 25.05 | University of Technology Sydney | arxiv | [SecReEvalBench: A Security Resilient Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2505.07584v1) | **Prompt Attack**&**Security Benchmark**&**Adversarial Robustness** |
+| 25.05 | Dartmouth College | arxiv | [FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning](https://arxiv.org/abs/2505.08054v1) | **Over-Refusal Mitigation**&**Structured Reasoning**&**LLM Safety Evaluation** |
 
 
 ## 📚Resource

@@ -249,6 +249,7 @@
 | 25.05 | Huazhong University of Science and Technology | arxiv | [Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study](https://arxiv.org/abs/2505.02502) | **LLM Deployment**&**Security Analysis**&**Empirical Study** |
 | 25.05 | Rutgers University | arxiv | [Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration](https://arxiv.org/abs/2505.02848) | **Healthcare**&**Alignment**&**Large Language Models** |
 | 25.05 | Metropolia University of Applied Sciences | arxiv | [A Comparative Analysis of Ethical and Safety Gaps in LLMs using Relative Danger Coefficient](https://arxiv.org/abs/2505.04654) | **LLM Safety**&**Ethical Evaluation**&**Danger Coefficient** |
+| 25.05 | University of Kent | arxiv | [Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data](https://arxiv.org/abs/2505.09974v1) | **Safety Alignment**&**Pseudo-Malicious Data**&**Cybersecurity LLMs** |
 
 
 ## 💻Presentations & Talks

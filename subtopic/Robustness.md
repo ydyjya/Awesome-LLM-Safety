@@ -58,6 +58,7 @@
 | 25.04 | University of Science and Technology of China | CVPR 2025 | [R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning](https://arxiv.org/abs/2504.11195) | **Vision-Language Models**&**Adversarial Robustness**&**Test-Time Prompt Tuning** |
 | 25.04 | Texas A&M University | WOOT 2025 | [Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms’ “Typo” Correction](https://arxiv.org/abs/2504.11622) | **Acoustic Side-Channel Attack**&**Spectrogram Typo Correction**&**LLM-Assisted Inference** |
 | 25.04 | The Hong Kong Polytechnic University | KDD 2024 | [CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://arxiv.org/abs/2504.13192) | **Recommender Systems**&**Adversarial Attacks**&**LLMs-based Agent** |
+| 25.05 | Ben Gurion University | ISIT 2025 | [Optimized Couplings for Watermarking Large Language Models](https://arxiv.org/abs/2505.08878) | **LLM Watermarking**&**Hypothesis Testing**&**Coupling Optimization** |
 
 
 ## 💻Presentations & Talks

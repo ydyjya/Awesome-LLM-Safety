@@ -461,6 +461,7 @@
 | 25.05 | Kanazawa University | arxiv | [Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models](https://arxiv.org/abs/2505.00557) | **Prompt-Induced Hallucination**&**Conceptual Fusion**&**LLM Evaluation** |
 | 25.04 | Amazon AWS AI | NAACL 2025 | [Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models](https://arxiv.org/abs/2504.21559) | **Visual Prompt Engineering**&**Object Hallucination**&**Vision Language Models** |
 | 25.05 | Stanford University | arxiv | [Osiris: A Lightweight Open-Source Hallucination Detection System](https://arxiv.org/abs/2505.04844) | **Hallucination Detection**&**RAG Systems**&**Open-Source Models** |
+| 25.05 | MBZUAI | arxiv | [A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs](https://arxiv.org/abs/2505.08200v1) | **Hallucination Detection**&**Uncertainty Quantification**&**LLM Outputs** |
 
 
 ## 💻Presentations & Talks
