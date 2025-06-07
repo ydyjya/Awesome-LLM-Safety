@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome LLM-Safety</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛡️ Awesome LLM-Safety 🛡️</h1>
+            <div class="language-switch">
+                <a href="#" class="active">English</a> | 
+                <a href="index_cn.html">中文</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <p class="intro">A curated collection of the latest, most comprehensive, and most valuable resources on large language model safety (LLM-safety).</p>
+            <div class="stats">
+                <div class="stat">
+                    <i class="fas fa-star"></i>
+                    <span id="stars">★ Stars</span>
+                </div>
+                <div class="stat">
+                    <i class="fas fa-code-fork"></i>
+                    <span id="forks">🍴 Forks</span>
+                </div>
+                <div class="stat">
+                    <i class="fas fa-exclamation-circle"></i>
+                    <span id="issues">❗ Issues</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <nav class="main-nav">
+        <div class="container">
+            <ul>
+                <li><a href="#security">Security & Discussion</a></li>
+                <li><a href="#privacy">Privacy</a></li>
+                <li><a href="#truthfulness">Truthfulness & Misinformation</a></li>
+                <li><a href="#jailbreak">JailBreak & Attacks</a></li>
+                <li><a href="#defenses">Defenses & Mitigation</a></li>
+                <li><a href="#datasets">Datasets & Benchmark</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="latest-news">
+            <h2>🔥 Latest News</h2>
+            <div class="news-item">
+                <span class="date">2024.05</span>
+                <p>Update NAACL 2024 Papers Collection, thanks @<a href="https://github.com/zhrli324">zhrli324</a>, @<a href="https://github.com/feqHe">feqHe</a>!</p>
+            </div>
+        </section>
+
+        <section id="security">
+            <h2>🔐 Security & Discussion</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.10</span>
+                            <span class="institute">Facebook AI Research</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2010.07079">Recipes for Safety in Open-domain Chatbots</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">22.03</span>
+                            <span class="institute">OpenAI</span>
+                            <span class="publication">NIPS2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html">Training language models to follow instructions with human feedback</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.07</span>
+                            <span class="institute">UC Berkeley</span>
+                            <span class="publication">NIPS2023</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2307.02483">Jailbroken: How Does LLM Safety Training Fail?</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.12</span>
+                            <span class="institute">OpenAI</span>
+                            <span class="publication">Open AI</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf">Practices for Governing Agentic AI Systems</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="resources">
+                <h3>📖 Tutorials, Articles, Presentations and Talks</h3>
+                <div class="resource-list">
+                    <div class="resource">
+                        <div class="resource-meta">
+                            <span class="date">22.02</span>
+                            <span class="type">Toxicity Detection API</span>
+                        </div>
+                        <div class="resource-title">
+                            <a href="https://www.perspectiveapi.com/">Perspective API</a>
+                            <a href="https://arxiv.org/abs/2202.11176">[paper]</a>
+                        </div>
+                    </div>
+
+                    <div class="resource">
+                        <div class="resource-meta">
+                            <span class="date">23.07</span>
+                            <span class="type">Repository</span>
+                        </div>
+                        <div class="resource-title">
+                            <a href="https://github.com/corca-ai/awesome-llm-security">Awesome LLM Security</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Security&Discussion.html">👉 More Security Papers</a>
+            </div>
+        </section>
+
+        <section id="privacy">
+            <h2>🔏 Privacy</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">19.12</span>
+                            <span class="institute">Microsoft</span>
+                            <span class="publication">CCS2020</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://dl.acm.org/doi/abs/10.1145/3372297.3417880">Analyzing Information Leakage of Updates to Natural Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.07</span>
+                            <span class="institute">Google Research</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://aclanthology.org/2022.acl-long.577/">Deduplicating Training Data Makes Language Models Better</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.10</span>
+                            <span class="institute">Stanford</span>
+                            <span class="publication">ICLR2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://openreview.net/forum?id=bVuP3ltATMz">Large language models can be strong differentially private learners</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Privacy.html">👉 More Privacy Papers</a>
+            </div>
+        </section>
+
+        <section id="truthfulness">
+            <h2>📰 Truthfulness & Misinformation</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.09</span>
+                            <span class="institute">University of Oxford</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2109.07958">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.11</span>
+                            <span class="institute">Harbin Institute of Technology</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2311.05232">A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Truthfulness&Misinformation.html">👉 More Truthfulness Papers</a>
+            </div>
+        </section>
+
+        <section id="jailbreak">
+            <h2>😈 JailBreak & Attacks</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.12</span>
+                            <span class="institute">Google</span>
+                            <span class="publication">USENIX Security 2021</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting">Extracting Training Data from Large Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.07</span>
+                            <span class="institute">CMU</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2307.15043">Universal and Transferable Adversarial Attacks on Aligned Language Models</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Jailbreaks&Attack.html">👉 More Jailbreak Papers</a>
+            </div>
+        </section>
+
+        <section id="defenses">
+            <h2>🛡️ Defenses & Mitigation</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.07</span>
+                            <span class="institute">Google Research</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://aclanthology.org/2022.acl-long.577/">Deduplicating Training Data Makes Language Models Better</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">22.04</span>
+                            <span class="institute">Anthropic</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2204.05862">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Defense&Mitigation.html">👉 More Defense Papers</a>
+            </div>
+        </section>
+
+        <section id="datasets">
+            <h2>💯 Datasets & Benchmark</h2>
+            
+            <div class="papers">
+                <h3>📑 Papers</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.09</span>
+                            <span class="institute">University of Washington</span>
+                            <span class="publication">EMNLP2020(findings)</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2009.11462">RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.09</span>
+                            <span class="institute">University of Oxford</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2109.07958">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="resources">
+                <h3>📚 Resources</h3>
+                <div class="resource-list">
+                    <div class="resource">
+                        <div class="resource-title">
+                            <a href="https://toxicdegeneration.allenai.org/">RealToxicityPrompts datasets</a>
+                        </div>
+                    </div>
+                    <div class="resource">
+                        <div class="resource-title">
+                            <a href="https://github.com/sylinrl/TruthfulQA">TruthfulQA datasets</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html/Datasets&Benchmark.html">👉 More Dataset Papers</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>Created by <a href="https://github.com/ydyjya">ydyjya</a></p>
+                <p>Contact: zhouzhenhong@bupt.edu.cn</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+                    <i class="fab fa-github"></i> GitHub Repository
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 

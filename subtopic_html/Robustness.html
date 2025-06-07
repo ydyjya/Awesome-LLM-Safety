@@ -1,0 +1,1670 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Robustness - Awesome LLM-Safety
+  </title>
+  <link href="../style.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   .markdown-content {
+            padding: 20px;
+        }
+        .markdown-content h1 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .markdown-content h2 {
+            font-size: 1.6rem;
+            color: var(--secondary-color);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .markdown-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9rem;
+        }
+        .markdown-content th, .markdown-content td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+        }
+        .markdown-content th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+            text-align: left;
+        }
+        .markdown-content tr:nth-child(even) {
+            background-color: var(--light-bg);
+        }
+        .markdown-content tr:hover {
+            background-color: #ddd;
+        }
+        .back-to-home {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 15px;
+            background-color: var(--primary-color);
+            color: white;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-to-home:hover {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+  </style>
+ </head>
+ <body>
+  <header>
+   <div class="container">
+    <h1>
+     🛡️ Awesome LLM-Safety 🛡️
+    </h1>
+    <div class="language-switch">
+     <a href="../index.html">
+      English
+     </a>
+     |
+     <a href="../index_cn.html">
+      中文
+     </a>
+    </div>
+   </div>
+  </header>
+  <div class="container">
+   <a class="back-to-home" href="../index.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    Back to Home
+   </a>
+   <div class="markdown-content">
+    <h1>
+     Robustness
+    </h1>
+    <h2>
+     Different from the main README🕵️
+    </h2>
+    <ul>
+     <li>
+      Within this subtopic, we will be updating with the latest articles. This will help researchers in this area to quickly understand recent trends.
+     </li>
+     <li>
+      In addition to providing the most recent updates, we will also add keywords to each subtopic to help you find content of interest more quickly.
+     </li>
+     <li>
+      Within each subtopic, we will also update with profiles of scholars we admire and endorse in the field. Their work is often of high quality and forward-looking!"
+     </li>
+    </ul>
+    <h2>
+     📑Papers
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Institute
+       </th>
+       <th style="text-align: center;">
+        Publication
+       </th>
+       <th style="text-align: center;">
+        Paper
+       </th>
+       <th style="text-align: center;">
+        Keywords
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.02
+       </td>
+       <td style="text-align: center;">
+        Microsoft Research
+       </td>
+       <td style="text-align: center;">
+        ICLR 2023(workshop on Trustworthy and Reliable Large-Scale Machine Learning Models)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2302.12095">
+         On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         Out-of-Distribution (OOD)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        Harbin Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.13733">
+         Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Inductive Instructions
+        </strong>
+        &amp;
+        <strong>
+         Dual-critique Prompting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        National Key Laboratory for Multimedia Information Processing
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.14751">
+         DialogVCS: Robust Natural Language Understanding in Dialogue System Upgrade
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Natural Language Understanding
+        </strong>
+        &amp;
+        <strong>
+         Dialogue System
+        </strong>
+        &amp;
+        <strong>
+         Multi-label Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.06
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2306.11698">
+         DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.08
+       </td>
+       <td style="text-align: center;">
+        CISPA Helmholtz Center for Information Security &amp; Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2308.07847">
+         Robustness Over Time: Understanding Adversarial Examples’ Effectiveness on Longitudinal Versions of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Longitudinal Study
+        </strong>
+        &amp;
+        <strong>
+         Robustness Assessment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        CMU
+       </td>
+       <td style="text-align: center;">
+        AACL2023(ART or Safety workshop)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.03566">
+         Measuring Adversarial Datasets
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         AI Safety
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Datasets
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Amazon Alexa AI-NU
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09473">
+         JAB: Joint Adversarial Prompting and Belief Augmentation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Prompting
+        </strong>
+        &amp;T
+        <strong>
+         oxicity Reduction
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Amazon Alexa AI-NU
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09473">
+         JAB: Joint Adversarial Prompting and Belief Augmentation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Prompting
+        </strong>
+        &amp;T
+        <strong>
+         oxicity Reduction
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Michigan State University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.08721">
+         A Robust Semantics-based Watermark for Large Language Models against Paraphrasing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Watermark
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Paraphrasing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        University of Trento, Concordia University, Mila-Quebec AI Institute
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.02297">
+         Are LLMs Robust for Spoken Dialogues?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Task-Oriented Dialogues
+        </strong>
+        &amp;
+        <strong>
+         Automatic Speech Recognition
+        </strong>
+        &amp;
+        <strong>
+         Error Analysis
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        School of Computer Science University of Windsor
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.11373">
+         Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases with Minimal Distribution Distortion
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Targeted Paraphrasing
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Cambridge
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.14016">
+         Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM as a Judge
+        </strong>
+        &amp;
+        <strong>
+         Universal Adversarial Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Technical University of Munich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.14899">
+         Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-Thought Reasoning
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Images
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Beijing Institute of Technology, The University of Sydney, Hong Kong Baptist University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.14774">
+         Few-Shot Adversarial Prompt Learning on Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Few-Shot Learning
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompt
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        UIUC
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.18671">
+         Fact Checking Beyond Training Set
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fact Checking
+        </strong>
+        &amp;
+        <strong>
+         Domain Adaptation
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Training
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Institute of Data Science, National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.18423">
+         SemRoDe: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Training
+        </strong>
+        &amp;
+        <strong>
+         Word-Level Attacks
+        </strong>
+        &amp;
+        <strong>
+         Robust Representations
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Georgia State University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.11082">
+         RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Sentence Embeddings
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Learning
+        </strong>
+        &amp;
+        <strong>
+         Contrastive Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        University of Chinese Academy of Sciences, Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        COLING 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.01907">
+         Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Attack
+        </strong>
+        &amp;
+        <strong>
+         AI-Text Detection
+        </strong>
+        &amp;
+        <strong>
+         Dynamic Adversarial Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        Institute for Intelligent Computing, Alibaba Group; School of Information Management, Wuhan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.12014">
+         Enhance Robustness of Language Models Against Variation Attack through Graph Integration
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Chinese Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Variation Graph
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Mila, Université de Montréal
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.15589">
+         Efficient Adversarial Training in LLMs with Continuous Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Training
+        </strong>
+        &amp;
+        <strong>
+         Continuous Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        University of Edinburgh
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.15984">
+         Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         In-Context Learning
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Methods
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Tokyo University of Agriculture and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.20770">
+         Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         LLM Agent
+        </strong>
+        &amp;
+        <strong>
+         Textual Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Polytechnic of Porto
+       </td>
+       <td style="text-align: center;">
+        DCAI2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.08050">
+         Adversarial Evasion Attack Efficiency against Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Cybersecurity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        ICML2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.04606">
+         Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fine-tuning-free Shapley Attribution
+        </strong>
+        &amp;
+        <strong>
+         Instance Attribution
+        </strong>
+        &amp;
+        <strong>
+         Language Model Predictions
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        KAIST
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11260">
+         Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Style Augmentation
+        </strong>
+        &amp;
+        <strong>
+         Fake News Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Hong Kong University of Science and Technology (Guangzhou)
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.04794">
+         On Evaluating The Performance of Watermarked Machine-Generated Texts Under Adversarial Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Watermarked Texts
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Machine-Generated Texts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        FAR AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.18213">
+         Exploring Scaling Trends in LLM Robustness
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Scaling Trends
+        </strong>
+        &amp;
+        <strong>
+         LLM Robustness
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Training
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Alicante
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.19842">
+         Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Mechanistic Interpretability
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Vulnerability Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Microsoft
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.20529">
+         Can LLMs be Fooled? Investigating Vulnerabilities in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vulnerabilities
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Guilin University of Electronic Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.10615">
+         Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt-Tuning
+        </strong>
+        &amp;
+        <strong>
+         Arithmetic Reasoning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Northwestern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.14729">
+         PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Injection
+        </strong>
+        &amp;
+        <strong>
+         Fuzzing
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Hong Kong University of Science and Technology, Beijing Jiaotong University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.05346">
+         AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Examples
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Self-supervised Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China, Tencent YouTu Lab
+       </td>
+       <td style="text-align: center;">
+        ACM Multimedia 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://doi.org/10.1145/3664647.3680779">
+         Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Vision-Language Model
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attack
+        </strong>
+        &amp;
+        <strong>
+         Image Encoder
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.05345">
+         Reasoning Robustness of LLMs to Adversarial Typographical Errors
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Chain-of-Thought
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Typo
+        </strong>
+        &amp;
+        <strong>
+         Robustness Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.11713">
+         Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Exception Handling
+        </strong>
+        &amp;
+        <strong>
+         Intermediate Language (IL)
+        </strong>
+        &amp;
+        <strong>
+         Deep-RAG
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Conversational AI and Social Analytics (CAISA) Lab, University of Bonn
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.08203">
+         ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness Testing
+        </strong>
+        &amp;
+        <strong>
+         Math Problem Solving
+        </strong>
+        &amp;
+        <strong>
+         Noisy Inputs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University of Central Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.08165">
+         I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Authorship Attribution
+        </strong>
+        &amp;
+        <strong>
+         Zero-Shot Prompting
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Macquarie University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.04985">
+         SpaLLM-Guard: Pairing SMS Spam Detection Using Open-source and Commercial LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         SMS Spam Detection
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         Concept Drift
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Dynamo AI
+       </td>
+       <td style="text-align: center;">
+        ICBINB Workshop @ ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.04474">
+         Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Safety Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Simon Fraser University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.05587">
+         Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         Spurious Features
+        </strong>
+        &amp;
+        <strong>
+         Robustness Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Cohere
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.09347">
+         Safer or Luckier? LLMs as Safety Evaluators Are Not Robust to Artifacts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM-as-a-Judge
+        </strong>
+        &amp;
+        <strong>
+         Safety Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Artifact Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Southeast University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.01048">
+         How does Watermarking Affect Visual Language Models in Document Understanding?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Visual Language Models
+        </strong>
+        &amp;
+        <strong>
+         Document Understanding
+        </strong>
+        &amp;
+        <strong>
+         Watermark Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Imperial College London
+       </td>
+       <td style="text-align: center;">
+        Building Trust Workshop @ ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.02733">
+         ENHANCING LLM ROBUSTNESS TO PERTURBED INSTRUCTIONS: AN EMPIRICAL STUDY
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Robustness
+        </strong>
+        &amp;
+        <strong>
+         Instruction Perturbation
+        </strong>
+        &amp;
+        <strong>
+         Self-Denoising
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of North Carolina at Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.03714">
+         Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Robustness
+        </strong>
+        &amp;
+        <strong>
+         Stability Measure
+        </strong>
+        &amp;
+        <strong>
+         Model Merging
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.11038">
+         QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Visual Adversarial Attack
+        </strong>
+        &amp;
+        <strong>
+         LVLM Security
+        </strong>
+        &amp;
+        <strong>
+         Query-Agnostic Perturbation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China
+       </td>
+       <td style="text-align: center;">
+        CVPR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.11195">
+         R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         Test-Time Prompt Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Texas A&amp;M University
+       </td>
+       <td style="text-align: center;">
+        WOOT 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.11622">
+         Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms’ “Typo” Correction
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Acoustic Side-Channel Attack
+        </strong>
+        &amp;
+        <strong>
+         Spectrogram Typo Correction
+        </strong>
+        &amp;
+        <strong>
+         LLM-Assisted Inference
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong Polytechnic University
+       </td>
+       <td style="text-align: center;">
+        KDD 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.13192">
+         CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Recommender Systems
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         LLMs-based Agent
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Ben Gurion University
+       </td>
+       <td style="text-align: center;">
+        ISIT 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.08878">
+         Optimized Couplings for Watermarking Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Hypothesis Testing
+        </strong>
+        &amp;
+        <strong>
+         Coupling Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Tufts University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.13500">
+         Noise Injection Systemically Degrades Large Language Model Safety Guardrails
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Safety Fine-Tuning
+        </strong>
+        &amp;
+        <strong>
+         Activation Noise
+        </strong>
+        &amp;
+        <strong>
+         LLM Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong Polytechnic University
+       </td>
+       <td style="text-align: center;">
+        ICML 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.12871v1">
+         Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LoRA
+        </strong>
+        &amp;
+        <strong>
+         Training-Time Attacks
+        </strong>
+        &amp;
+        <strong>
+         Robustness Analysis
+        </strong>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     💻Presentations &amp; Talks
+    </h2>
+    <h2>
+     📖Tutorials &amp; Workshops
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Type
+       </th>
+       <th style="text-align: center;">
+        Title
+       </th>
+       <th style="text-align: center;">
+        URL
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Tutorials
+       </td>
+       <td style="text-align: center;">
+        Awesome-LLM-Safety
+       </td>
+       <td style="text-align: center;">
+        <a href="https://github.com/ydyjya/Awesome-LLM-Safety">
+         link
+        </a>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     📰News &amp; Articles
+    </h2>
+    <h2>
+     🧑‍🏫Scholars
+    </h2>
+   </div>
+   <a class="back-to-home" href="../index.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    Back to Home
+   </a>
+  </div>
+  <footer>
+   <div class="container">
+    <div class="footer-content">
+     <p>
+      Created by
+      <a href="https://github.com/ydyjya">
+       ydyjya
+      </a>
+     </p>
+     <p>
+      Contact: zhouzhenhong@bupt.edu.cn
+     </p>
+    </div>
+    <div class="footer-links">
+     <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+      <i class="fab fa-github">
+      </i>
+      GitHub Repository
+     </a>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

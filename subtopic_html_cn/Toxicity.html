@@ -1,0 +1,2240 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Toxicity - Awesome LLM-Safety
+  </title>
+  <link href="../style.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   .markdown-content {
+            padding: 20px;
+        }
+        .markdown-content h1 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .markdown-content h2 {
+            font-size: 1.6rem;
+            color: var(--secondary-color);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .markdown-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9rem;
+        }
+        .markdown-content th, .markdown-content td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+        }
+        .markdown-content th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+            text-align: left;
+        }
+        .markdown-content tr:nth-child(even) {
+            background-color: var(--light-bg);
+        }
+        .markdown-content tr:hover {
+            background-color: #ddd;
+        }
+        .back-to-home {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 15px;
+            background-color: var(--primary-color);
+            color: white;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-to-home:hover {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+  </style>
+ </head>
+ <body>
+  <header>
+   <div class="container">
+    <h1>
+     🛡️ Awesome LLM-Safety 🛡️
+    </h1>
+    <div class="language-switch">
+     <a href="../index.html">
+      English
+     </a>
+     |
+     <a class="active" href="../index_cn.html">
+      中文
+     </a>
+    </div>
+   </div>
+  </header>
+  <div class="container">
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+   <div class="markdown-content">
+    <h1>
+     Toxicity
+    </h1>
+    <h2>
+     Different from the main README🕵️
+    </h2>
+    <ul>
+     <li>
+      Within this subtopic, we will be updating witha the latest articles. This will help researchers in this area to quickly understand recent trends.
+     </li>
+     <li>
+      In addition to providing the most recent updates, we will also add keywords to each subtopic to help you find content of interest more quickly.
+     </li>
+     <li>
+      Within each subtopic, we will also update with profiles of scholars we admire and endorse in the field. Their work is often of high quality and forward-looking!"
+     </li>
+    </ul>
+    <h2>
+     📑Papers
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Institute
+       </th>
+       <th style="text-align: center;">
+        Publication
+       </th>
+       <th style="text-align: center;">
+        Paper
+       </th>
+       <th style="text-align: center;">
+        Keywords
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        20.10
+       </td>
+       <td style="text-align: center;">
+        Facebook AI Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2010.07079">
+         Recipes for Safety in Open-domain Chatbots
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxic Behavior
+        </strong>
+        &amp;
+        <strong>
+         Open-domain
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.11
+       </td>
+       <td style="text-align: center;">
+        University of California, Santa Cruz
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2211.14769">
+         Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Vision-and-Language Navigation
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        Harvard&amp;UCLA&amp;USC&amp;University of Wisconsin, Madison&amp;UC, Davis
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.14710">
+         Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Instruction Tuning
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Backdoor Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.06
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2306.11698">
+         DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        CISPA Helmholtz Center for Information Security
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.07676">
+         Composite Backdoor Attacks Against Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Backdoor Attacks
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Pennsylvania State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.04345">
+         A Taxonomy of Rater Disagreements: Surveying Challenges &amp; Opportunities from the Perspective of Annotating Online Toxicity
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Survey
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Maryland, Baltimore County
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.04789">
+         Determination of toxic comments and unintended model bias minimization using Deep learning approach
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Detection
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Central Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.06446">
+         THOS: A Benchmark Dataset for Targeted Hate and Offensive Speech
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech
+        </strong>
+        &amp;
+        <strong>
+         Offensive Speech
+        </strong>
+        &amp;
+        <strong>
+         Dataset
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        FAIR Meta
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.06532">
+         Added Toxicity Mitigation at Inference Time for Multimodal and Massively Multilingual Translation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal Translation
+        </strong>
+        &amp;
+        <strong>
+         Multilingual Translation
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Haifa, OriginAI, Braude College of Engineering
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09993">
+         Generative AI for Hate Speech Detection: Evaluation and Findings
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data
+        </strong>
+        &amp;&amp;
+        <strong>
+         Data Augmentation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Seoul National University, Chung-Ang University, NAVER AI Lab, NAVER Cloud, University of Richmond
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09585">
+         LifeTox: Unveiling Implicit Toxicity in Life Advice
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LifeTox Dataset
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         Social Media Analysis
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Amazon Alexa AI-NU
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09473">
+         JAB: Joint Adversarial Prompting and Belief Augmentation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Prompting
+        </strong>
+        &amp;T
+        <strong>
+         oxicity Reduction
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        CISPA Helmholtz Center for Information Security
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.14685">
+         Comprehensive Assessment of Toxicity in ChatGPT
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Assessment
+        </strong>
+        &amp;
+        <strong>
+         Instruction-tuning Datasets
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University, TAL Education Group
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.17391">
+         Unveiling the Implicit Toxicity in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Meta
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.18140">
+         ROBBIE: Robust Bias Evaluation of Large Generative Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Anthropic
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.03689">
+         Evaluating and Mitigating Discrimination in Language Model Decisions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Discrimination
+        </strong>
+        &amp;
+        <strong>
+         High-Stakes Decisions
+        </strong>
+        &amp;
+        <strong>
+         Societal Decisions
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Ajou University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.06122">
+         GTA: Gated Toxicity Avoidance for LM Performance Preservation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Avoidance
+        </strong>
+        &amp;
+        <strong>
+         Gated Toxicity Avoidance
+        </strong>
+        &amp;
+        <strong>
+         Controllable Text Generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Hong Kong Baptist University; The Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.05434">
+         Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Harmful
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Reasoning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Southern California, Amazon.com Inc.
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.08303">
+         Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxic Content Detection
+        </strong>
+        &amp;
+        <strong>
+         Bootstrapping
+        </strong>
+        &amp;
+        <strong>
+         Decision-Tree-of-Thought
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Texas at San Antonio, University at Buffalo, Clemson University
+       </td>
+       <td style="text-align: center;">
+        S&amp;P2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.15099">
+         Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Online Hate
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-Thought Reasoning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Central Florida, Samsung Research America, University of Pittsburgh, Indiana University Bloomington
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.10467">
+         TrojFSP: Trojan Insertion in Few-shot Prompt Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Tuning
+        </strong>
+        &amp;
+        <strong>
+         Backdoor Attacks
+        </strong>
+        &amp;
+        <strong>
+         Few-shot Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        The Pennsylvania State University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.00027">
+         Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Backdoor Injections
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+        &amp;
+        <strong>
+         Persistent Unalignment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        University of Michigan Ann Arbor, Harvard University, University of Sydney
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.01967">
+         A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Alignment Algorithms
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Direct Preference Optimization (DPO)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Algorix Convergence Research Office, Centennial High School
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.02974">
+         EFFICACY OF UTILIZING LARGE LANGUAGE MODELS TO DETECT PUBLIC THREAT POSTED ONLINE
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Content Moderation
+        </strong>
+        &amp;
+        <strong>
+         Public Threat
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        University at Buffalo, University of Texas at San Antonio, Union County Magnet High School, East Chapel Hill High School, Minhang Crosspoint Academy
+       </td>
+       <td style="text-align: center;">
+        ICMLA2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.03346">
+         An Investigation of Large Language Models for Real-World Hate Speech Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech
+        </strong>
+        &amp;
+        <strong>
+         Prompt Engineering
+        </strong>
+        &amp;
+        <strong>
+         Few-shot Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        IRLab CITIC Research Centre, Universidade da Coruña
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.06526">
+         MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Social Media
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Brighton, Ofgem
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.04088">
+         The Use of a Large Language Model for Cyberbullying Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cyberbullying&amp;
+        </strong>
+        Social Media Analytics**
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Seoul National University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.06900">
+         Can LLMs Recognize Toxicity? Structured Toxicity Investigation Framework and Semantic-Based Metric
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         Semantic Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Pisa&amp;University of Edinburgh&amp;Bocconi University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.17389">
+         FAIRBELIEF – Assessing Harmful Beliefs in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Beliefs Assessment
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Nanyang Technological University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.12168">
+         Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Backdoor Attacks
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning
+        </strong>
+        &amp;
+        <strong>
+         NLP Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Indian Institute of Technology (IIT) Jodhpur, Indraprastha Institute of Information Technology Delhi (IIIT-D), IBM Research India
+       </td>
+       <td style="text-align: center;">
+        demonstration track of AAAI-24
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.00826">
+         LLMGuard: Guarding against Unsafe LLM Behavior
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Safety
+        </strong>
+        &amp;
+        <strong>
+         Content Flagging
+        </strong>
+        &amp;
+        <strong>
+         Detectors
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Cohere for AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.03893">
+         From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multilingual Toxicity Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Translated Data
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Techniques
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Arizona State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.08035">
+         Harnessing Artificial Intelligence to Combat Online Hate: Exploring the Challenges and Opportunities of Large Language Models in Hate Speech Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Text Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        McGill University, University of Montreal, Mila - Quebec AI Institute
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.13213">
+         From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Safety
+        </strong>
+        &amp;
+        <strong>
+         Biases
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph, Ant Group, National University of Singapore, Westlake University, Microsoft Research Asia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.14472">
+         Detoxifying Large Language Models via Knowledge Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Knowledge Editing
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Benchmark
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        University of North Texas, Peking University, University of Arizona
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.17146">
+         Outcome-Constrained Large Language Models for Countering Hate Speech
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Counterspeech
+        </strong>
+        &amp;
+        <strong>
+         Hate Speech
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        The World Bank, University of Oxford, New York University, Universidade Federal de Goiás, Ecole Normale Supérieure, Universiti Sultan Zainal Abidin, Massachusetts Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.19260">
+         NAIJAHATE: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Nigerian Twitter
+        </strong>
+        &amp;
+        <strong>
+         Representative Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.09373">
+         PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multilingual Evaluation
+        </strong>
+        &amp;*
+        <em>
+         Datasets
+        </em>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Johns Hopkins University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://assets.amazon.science/e7/94/facc166449eba31223cbc88614a9/mico-preventative-detoxification-of-large-language-models-through-inhibition-control.pdf">
+         MICo: Preventative Detoxification of Large Language Models through Inhibition Control
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Detoxification
+        </strong>
+        &amp;
+        <strong>
+         Inhibition Control
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Reduction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        GSAI POSTECH
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.12900">
+         Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Training
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Reduction
+        </strong>
+        &amp;
+        <strong>
+         Dialogue Systems
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Brown University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.16235">
+         Preference Tuning For Toxicity Mitigation Generalizes Across Languages
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Cross-Lingual Generalization
+        </strong>
+        &amp;
+        <strong>
+         Preference Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.08422">
+         On the (In)Security of LLM App Stores
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM App Stores
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.08770">
+         Model Surgery: Modulating LLM’s Behavior Via Simple Parameter Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Parameter Editing
+        </strong>
+        &amp;
+        <strong>
+         Detoxification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Stanford University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.09447">
+         ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Red-Teaming
+        </strong>
+        &amp;
+        <strong>
+         Toxic Prompt Identification
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Rochester
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.21004">
+         Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Multimodal Models
+        </strong>
+        &amp;
+        <strong>
+         Hateful Meme Detection
+        </strong>
+        &amp;
+        <strong>
+         Prompting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        University of Ottawa
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.05794">
+         HateSieve: A Contrastive Learning Framework for Detecting and Segmenting Hateful Content in Multimodal Memes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hateful Content Detection
+        </strong>
+        &amp;
+        <strong>
+         Contrastive Learning
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Memes
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        eCrime 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.05941">
+         Multimodal Large Language Models for Phishing Webpage Detection and Identification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Phishing Detection
+        </strong>
+        &amp;
+        <strong>
+         Multimodal LLMs
+        </strong>
+        &amp;
+        <strong>
+         Brand Identification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Nanyang Technological University
+       </td>
+       <td style="text-align: center;">
+        ASE 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.11727">
+         Efficient Detection of Toxic Prompts in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxic Prompts
+        </strong>
+        &amp;
+        <strong>
+         Jailbreak Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of A Coruña
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.00775">
+         Decoding Hate: Exploring Language Models' Reactions to Hate Speech
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech
+        </strong>
+        &amp;
+        <strong>
+         Mitigation Strategies
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Dalian University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02378">
+         Towards Comprehensive Detection of Chinese Harmful Memes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Chinese Harmful Memes
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Detection
+        </strong>
+        &amp;
+        <strong>
+         Meme Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Cornell University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.03448">
+         How Toxicity Classifiers and Large Language Models Respond to Ableism
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Classifiers
+        </strong>
+        &amp;
+        <strong>
+         Ableism
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        IBM Research, MIT
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.03818">
+         Large Language Models Can Be Strong Self-Detoxifiers
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Reduction
+        </strong>
+        &amp;
+        <strong>
+         Self-Detoxification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of California, Los Angeles, Amazon.com, Inc.
+       </td>
+       <td style="text-align: center;">
+        EMNLP 2024 Findings
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.05559">
+         Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Attribute Control
+        </strong>
+        &amp;
+        <strong>
+         Detoxification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Meta FAIR
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.08135">
+         On the Role of Speech Data in Reducing Toxicity Detection Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Speech Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         Bias Reduction
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of California, Los Angeles
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.17876">
+         Leveraging Large Language Models and Topic Modeling for Toxicity Classification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Classification
+        </strong>
+        &amp;
+        <strong>
+         BERTweet
+        </strong>
+        &amp;
+        <strong>
+         Bias in Classifiers
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Wuhan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.15267">
+         Toxicity Detection Towards Adaptability to Changing Perturbations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         Continual Learning
+        </strong>
+        &amp;
+        <strong>
+         Perturbation Patterns
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Amazon Web Services
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.06911">
+         Risk-Averse Fine-tuning of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Risk-Averse Fine-tuning
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Georgia State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.09039">
+         Playing Devil's Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LVLMs Vulnerabilities
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Analysis
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.06274">
+         Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Media Analysis
+        </strong>
+        &amp;
+        <strong>
+         Language Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Political Polarization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Politecnico di Milano
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.01741">
+         How Toxic Can You Get? Search-Based Toxicity Testing for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Automated Testing
+        </strong>
+        &amp;
+        <strong>
+         Evolutionary Algorithms
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University of California, Davis
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.13976">
+         Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Media Moderation
+        </strong>
+        &amp;
+        <strong>
+         Few-Shot Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Iowa State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19612">
+         Evaluation of Hate Speech Detection using Large Language Models and Geographical Contextualization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Geographical Context
+        </strong>
+        &amp;
+        <strong>
+         LLM Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Warwick
+       </td>
+       <td style="text-align: center;">
+        NAACL 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.06534">
+         SafeSpeech: A Comprehensive and Interactive Tool for Analysing Sexist and Abusive Language in Conversations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Toxic Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Conversation Analysis
+        </strong>
+        &amp;
+        <strong>
+         LLM Explainability
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Aston University, Jamhuriya University, Somali National University, University of Djibouti
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.18117">
+         Detection of Somali-written Fake News and Toxic Messages on the Social Media Using Transformer-based Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Somali NLP
+        </strong>
+        &amp;
+        <strong>
+         Fake News Detection
+        </strong>
+        &amp;
+        <strong>
+         Toxic Content Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Beihang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.21127">
+         Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fake News Detection
+        </strong>
+        &amp;
+        <strong>
+         LLM-SLM Collaboration
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        The University of Queensland
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.15548">
+         LLM-based Semantic Augmentation for Harmful Content Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Semantic Augmentation
+        </strong>
+        &amp;
+        <strong>
+         Harmful Content Detection
+        </strong>
+        &amp;
+        <strong>
+         Social Media Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Guangxi Police College
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.15987">
+         Few-Shot Hate Speech Detection Based on the MindSpore Framework
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Few-shot Learning
+        </strong>
+        &amp;
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Prompt-based Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Arkansas
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.00150">
+         Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hateful Meme Detection
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Content Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Microsoft
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.02009">
+         Towards Safer Pretraining: Analyzing and Filtering Harmful Content in Webscale datasets for Responsible LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Filtering
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Detection
+        </strong>
+        &amp;
+        <strong>
+         LLM Pretraining
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        TU Munich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.06149v1">
+         Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech Detection
+        </strong>
+        &amp;
+        <strong>
+         Multilingual LLMs
+        </strong>
+        &amp;
+        <strong>
+         Prompting Strategies
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Illinois Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14536">
+         Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Detoxification
+        </strong>
+        &amp;
+        <strong>
+         Sparse Autoencoders
+        </strong>
+        &amp;
+        <strong>
+         Causal Steering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Universität Hamburg
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15297v1">
+         Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Detoxification
+        </strong>
+        &amp;
+        <strong>
+         Sentiment Polarity
+        </strong>
+        &amp;
+        <strong>
+         Chinese LLMs
+        </strong>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     💻Presentations &amp; Talks
+    </h2>
+    <h2>
+     📖Tutorials &amp; Workshops
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Type
+       </th>
+       <th style="text-align: center;">
+        Title
+       </th>
+       <th style="text-align: center;">
+        URL
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        22.02
+       </td>
+       <td style="text-align: center;">
+        Toxicity Detection API
+       </td>
+       <td style="text-align: center;">
+        Perspective API
+       </td>
+       <td style="text-align: center;">
+        <a href="https://www.perspectiveapi.com/">
+         link
+        </a>
+        <br/>
+        <a href="https://arxiv.org/abs/2202.11176">
+         paper
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Tutorials
+       </td>
+       <td style="text-align: center;">
+        Awesome-LLM-Safety
+       </td>
+       <td style="text-align: center;">
+        <a href="https://github.com/ydyjya/Awesome-LLM-Safety">
+         link
+        </a>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     📰News &amp; Articles
+    </h2>
+    <h2>
+     🧑‍🏫Scholars
+    </h2>
+   </div>
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+  </div>
+  <footer>
+   <div class="container">
+    <div class="footer-content">
+     <p>
+      作者:
+      <a href="https://github.com/ydyjya">
+       ydyjya
+      </a>
+     </p>
+     <p>
+      联系方式: zhouzhenhong@bupt.edu.cn
+     </p>
+    </div>
+    <div class="footer-links">
+     <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+      <i class="fab fa-github">
+      </i>
+      GitHub 仓库
+     </a>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

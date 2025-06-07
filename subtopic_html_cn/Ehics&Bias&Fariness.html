@@ -1,0 +1,6722 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Ethics - Awesome LLM-Safety
+  </title>
+  <link href="../style.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   .markdown-content {
+            padding: 20px;
+        }
+        .markdown-content h1 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .markdown-content h2 {
+            font-size: 1.6rem;
+            color: var(--secondary-color);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .markdown-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9rem;
+        }
+        .markdown-content th, .markdown-content td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+        }
+        .markdown-content th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+            text-align: left;
+        }
+        .markdown-content tr:nth-child(even) {
+            background-color: var(--light-bg);
+        }
+        .markdown-content tr:hover {
+            background-color: #ddd;
+        }
+        .back-to-home {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 15px;
+            background-color: var(--primary-color);
+            color: white;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-to-home:hover {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+  </style>
+ </head>
+ <body>
+  <header>
+   <div class="container">
+    <h1>
+     🛡️ Awesome LLM-Safety 🛡️
+    </h1>
+    <div class="language-switch">
+     <a href="../index.html">
+      English
+     </a>
+     |
+     <a class="active" href="../index_cn.html">
+      中文
+     </a>
+    </div>
+   </div>
+  </header>
+  <div class="container">
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+   <div class="markdown-content">
+    <h1>
+     Ethics
+    </h1>
+    <h2>
+     Different from the main README🕵️
+    </h2>
+    <ul>
+     <li>
+      Within this subtopic, we will be updating witha the latest articles. This will help researchers in this area to quickly understand recent trends.
+     </li>
+     <li>
+      In addition to providing the most recent updates, we will also add keywords to each subtopic to help you find content of interest more quickly.
+     </li>
+     <li>
+      Within each subtopic, we will also update with profiles of scholars we admire and endorse in the field. Their work is often of high quality and forward-looking!"
+     </li>
+    </ul>
+    <h2>
+     📑Papers
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Institute
+       </th>
+       <th style="text-align: center;">
+        Publication
+       </th>
+       <th style="text-align: center;">
+        Paper
+       </th>
+       <th style="text-align: center;">
+        Keywords
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.06
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2306.11698">
+         DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Allen Institute for AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.04892">
+         Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Stereotypes
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Adobe Inc. India
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.05451">
+         All Should Be Equal in the Eyes of Language Models: Counterfactually Aware Fair Text Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Biases
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        National Taiwan University, Meta AI
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.06513">
+         Step by Step to Fairness: Attributing Societal Bias in Task-oriented Dialogue Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Task-oriented Dialogue Systems
+        </strong>
+        &amp;
+        <strong>
+         Societal Bias
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        UNC Chapel Hill, IBM Research MIT
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.07682">
+         Fuse to Forget: Bias Reduction and Selective Memorization through Model Fusion
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Fusion
+        </strong>
+        &amp;
+        <strong>
+         Bias Reduction
+        </strong>
+        &amp;
+        <strong>
+         Selective Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        ETH Zürich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.08605">
+         Navigating the Ocean of Biases: Political Bias Attribution in Language Models via Causal Structures
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Debates
+        </strong>
+        &amp;
+        <strong>
+         Bias Attribution
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Pisa, University of Copenhagen
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09090">
+         Social Bias Probing: Fairness Benchmarking for Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Biases
+        </strong>
+        &amp;
+        <strong>
+         Fairness Benchmarking
+        </strong>
+        &amp;
+        <strong>
+         Identity Stereotypes
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.08487">
+         ALIGNMENT IS NOT SUFFICIENT TO PREVENT LARGE LANGUAGE MODELS FROM GENERATING HARMFUL INFORMATION: A PSYCHOANALYTIC PERSPECTIVE
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Alignment
+        </strong>
+        &amp;
+        <strong>
+         Psychoanalysis Theory
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Toronto, University of Michigan
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09730">
+         Aligning with Whom? Large Language Models Have Gender and Racial Biases in Subjective NLP Tasks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Racial Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Michigan, University of Hawaii at Hilo, Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09733">
+         MOKA: Moral Knowledge Augmentation for Moral Event Extraction
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Event Extraction
+        </strong>
+        &amp;
+        <strong>
+         MOKA Framewor
+        </strong>
+        k&amp;
+        <strong>
+         External Moral Knowledge
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Mila - Quebec AI Institute, Université du Québec à Montréal, Data &amp; Society Research Institute, Mantium, IBM Research, University of California Riverside
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09443">
+         Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Subtle Misogyny
+        </strong>
+        &amp;B
+        <strong>
+         iasly Dataset
+        </strong>
+        &amp;
+        <strong>
+         Dataset Development
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Illinois Institute of Technology, University of Illinois Chicago, Cisco Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09428">
+         Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Abusive Language Detection
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Cornell University, KTH Royal Institute of Technology, University of Pennsylvania
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.14096">
+         Auditing and Mitigating Cultural Bias in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cultural Bias
+        </strong>
+        &amp;
+        <strong>
+         Mitigation Strategies
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University College London, Holistic AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.14126">
+         Towards Auditing Large Language Models: Improving Text-based Stereotype Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotype Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.14788">
+         Evaluating Large Language Models through Gender and Racial Stereotypes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Racial Stereotypes
+        </strong>
+        &amp;
+        <strong>
+         Evaluation Framework
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Polytechnique Montréal, ÉTS Montréal, CISPA-Helmholtz Center for Information Security, Mila
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.17228">
+         Survey on AI Ethics: A Socio-technical Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         AI Ethics&amp;
+        </strong>
+        <strong>
+         Trustworthiness
+        </strong>
+        &amp;
+        <strong>
+         Responsibility
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Meta
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.18140">
+         ROBBIE: Robust Bias Evaluation of Large Generative Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Comcast Applied AI, University of Waterloo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.18812">
+         What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit Bias
+        </strong>
+        &amp;
+        <strong>
+         Sociodemographic Bias
+        </strong>
+        &amp;B
+        <strong>
+         ias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Shanghai Artificial Intelligence Laboratory&amp;Fudan University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.06899">
+         FLAMES: Benchmarking Value Alignment of LLMs in Chinese
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Value Alignment
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+        &amp;
+        <strong>
+         Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        University of Michigan&amp;University of Hawaii at Hilo&amp;Northeastern University
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09733">
+         MOKA: Moral Knowledge Augmentation for Moral Event Extraction
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Knowledge Augmentation
+        </strong>
+        &amp;
+        <strong>
+         Moral Event Extraction
+        </strong>
+        &amp;
+        <strong>
+         NLP
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Auckland, University of Waikato, University of Macau
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.01509">
+         Tackling Bias in Pre-trained Language Models: Current Trends and Under-represented Societies
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Governmental Regulations
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Yildiz Technical University, Istanbul Technical University, Maersk Mc-kinney Moeller Institute University of Southern Denmark
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.01787">
+         Developing Linguistic Patterns to Mitigate Inherent Human Bias in Offensive Language Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Offensive Language
+        </strong>
+        &amp;
+        <strong>
+         Data-augmentation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        TCS Research India
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023(Workshop)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.01398">
+         Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder’s Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Non-legal Stakeholders
+        </strong>
+        &amp;
+        <strong>
+         Data Augmentation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Korea University
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.03577">
+         Improving Bias Mitigation through Bias Experts in Natural Language Understanding
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Multi-Class Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Queensland University of Technology, University of New South Wales
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023(Workshop)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.03330">
+         Measuring Misogyny in Natural Language Generation: Preliminary Results from a Case Study on two Reddit Communities
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Misogyny
+        </strong>
+        &amp;
+        <strong>
+         Toxicity Classifier
+        </strong>
+        s&amp;
+        <strong>
+         Benchmark
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University, Pittsburgh, Universidade NOVA de Lisboa, Allen Institute for Artificial Intelligence
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.05662">
+         Understanding the Effect of Model Compression on Social Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Compression
+        </strong>
+        &amp;
+        <strong>
+         Social Bias
+        </strong>
+        &amp;&amp;
+        <strong>
+         Knowledge Distillation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Eindhoven University of Technology, University of Liverpool, Griffith University, The Pennsylvania State University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.06315">
+         GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Bias Attack Instructions
+        </strong>
+        &amp;
+        <strong>
+         Intersectional Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        IBM Research AI
+       </td>
+       <td style="text-align: center;">
+        AAAI2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.07492">
+         SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Bias
+        </strong>
+        &amp;
+        <strong>
+         Question-answering Dataset
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        New York University, CUNY Queens College
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.09917">
+         Red AI? Inconsistent Responses from GPT Models on Political Issues in the US and China
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Politics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of California Los Angeles, Amazon Alexa
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.11779">
+         Are you talking to [‘xem’] or [‘x’ ‘em’]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Oxford, University Canada West, Amazon Web Services (AWS)
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.14769">
+         Large Language Model (LLM) Bias Index—LLMBI
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Quantification
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Institute of Information Engineering Chinese Academy of Sciences, School of Cyber Security University of Chinese Academy of Sciences, JD AI Research Beijing, Independent Researcher
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.15478">
+         A Group Fairness Lens for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Group Fairness
+        </strong>
+        &amp;
+        <strong>
+         Social Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Hong Kong Baptist University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.01523">
+         GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Multimodal Models (LMMs)
+        </strong>
+        &amp;
+        <strong>
+         Meme-Based Social Abuse
+        </strong>
+        &amp;
+        <strong>
+         Safety Insights
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Beihang University, Westcliff University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.04057">
+         Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Music and Movie Recommendations
+        </strong>
+        &amp;
+        <strong>
+         Recommender Systems
+        </strong>
+        &amp;
+        <strong>
+         Fairness Evaluation Framework
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Pacific Northwest National Laboratory, University of Michigan
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.04972">
+         Whose wife is it anyway? Assessing bias against same-gender relationships in machine translation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Same-Gender Relationships
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Université Jean Monnet Saint-Etienne, CNRS Institut d'Optique Graduate School, Télécom Paris Institut Polytechnique de Paris
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.06495">
+         An investigation ofstructures responsible for gender bias in BERT and DistilBERT
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Imbalance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        University of Toronto
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.10745">
+         Ethical Artificial Intelligence Principles and Guidelines for the Governance and Utilization of Highly Advanced Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical AI
+        </strong>
+        &amp;
+        <strong>
+         Governance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Manchester, Idiap Research Institute, National Biomarker Centre CRUK-MI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.00745">
+         Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Reasoning
+        </strong>
+        &amp;
+        <strong>
+         Neuro-Symbolic Integration
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Indian Institute of Technology Kharagpur
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.15302">
+         How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Instruction-centric Responses
+        </strong>
+        &amp;
+        <strong>
+         Ethical Vulnerabilities
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        HBKU
+       </td>
+       <td style="text-align: center;">
+        LREC-COLING 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.17478">
+         Can GPT-4 Identify Propaganda? Annotation and Detection of Propaganda Spans in News Articles
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Propaganda Span Detection
+        </strong>
+        &amp;
+        <strong>
+         Zero-shot Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Pisa&amp;University of Edinburgh&amp;Bocconi University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.17389">
+         FAIRBELIEF – Assessing Harmful Beliefs in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Beliefs Assessment
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        École polytechnique fédérale de Lausanne, Carnegie Mellon University, University of Maryland College Park
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.00180">
+         "Flex Tape Can’t Fix That": Bias and Misinformation in Edited Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Editing
+        </strong>
+        &amp;
+        <strong>
+         Demographic Bias
+        </strong>
+        &amp;
+        <strong>
+         Misinformation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        University of Maryland, University of Antwerp, New York University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.09148">
+         Evaluating LLMs for Gender Disparities in Notable Persons
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Hallucinations
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.11152">
+         Evaluation Ethics of LLMs in Legal Domain
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Legal Domain
+        </strong>
+        &amp;
+        <strong>
+         Ethics Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China,
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.14409">
+         Locating and Mitigating Gender Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Causal Intervention
+        </strong>
+        &amp;
+        <strong>
+         Debias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        University of Illinois Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.14683">
+         A Moral Imperative: The Need for Continual Superalignment of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Superalignment
+        </strong>
+        &amp;
+        <strong>
+         AI Ethics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Fondazione Bruno Kessler
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.20103">
+         NLP for Counterspeech against Hate: A Survey and How-To Guide
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Counterspeech
+        </strong>
+        &amp;
+        <strong>
+         Online Hate
+        </strong>
+        &amp;
+        <strong>
+         NLP
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.14740">
+         Modeling the Sacred: Considerations when Using Religious Texts in Natural Language Processing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Religious Texts
+        </strong>
+        &amp;
+        <strong>
+         Natural Language Processing
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Northwestern University, Rutgers University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.01593">
+         Large Language Model Agent for Fake News Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fake News Detection
+        </strong>
+        &amp;
+        <strong>
+         Agentic Approach
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Vector Institute, Queen’s University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.04756">
+         BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Adversarial Knowledge Graph
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         AI Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.09341">
+         Large Language Model Bias Mitigation from the Perspective of Knowledge Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Editing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        University of Waterloo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.08363">
+         UnMarker: A Universal Attack on Defensive Watermarking
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Deepfake Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Adversarial ML
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Saïd Business School, University of Oxford
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.01168">
+         How Ethical Should AI Be? How AI Alignment Shapes the Risk Preferences of LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         AI Alignment
+        </strong>
+        &amp;
+        <strong>
+         Risk Preferences
+        </strong>
+        &amp;
+        <strong>
+         AI in Finance
+        </strong>
+        &amp;
+        <strong>
+         Underinvestment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Catania
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.04143">
+         Do Language Models Understand Morality? Towards a Robust Detection of Moral Content
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Value Detection
+        </strong>
+        &amp;
+        <strong>
+         Natural Language Inference
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Korea Advanced Institute of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        ACL 2024 Findings
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.04064">
+         Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Bias
+        </strong>
+        &amp;
+        <strong>
+         Bias Measurement
+        </strong>
+        &amp;
+        <strong>
+         QA Format
+        </strong>
+        &amp;
+        <strong>
+         Social Perception
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Rutgers University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.04428">
+         MoralBench: Moral Evaluation of LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Evaluation
+        </strong>
+        &amp;
+        <strong>
+         MoralBench
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Cornell Tech
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.06369">
+         Annotation Alignment: Comparing LLM and Human Annotations of Conversational Safety
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Annotation Alignment
+        </strong>
+        &amp;
+        <strong>
+         Conversational Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of North Carolina at Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11107">
+         Exploring Safety-Utility Trade-Offs in Personalized Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Safety-Utility Trade-Offs
+        </strong>
+        &amp;
+        <strong>
+         Personalized Language Models
+        </strong>
+        &amp;
+        <strong>
+         Personalization Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Auburn University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11109">
+         Investigating Annotator Bias in Large Language Models for Hate Speech Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Annotator Bias
+        </strong>
+        &amp;
+        <strong>
+         Hate Speech Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Syracuse University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11214">
+         Global Data Constraints: Ethical and Effectiveness Challenges in Large Language Model
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Global Data Constraints
+        </strong>
+        &amp;
+        <strong>
+         Ethical Challenges
+        </strong>
+        &amp;
+        <strong>
+         Effectiveness Challenges
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Maryland
+       </td>
+       <td style="text-align: center;">
+        ACL 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.10486">
+         Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Discrimination
+        </strong>
+        &amp;
+        <strong>
+         Hiring Decisions
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Maryland
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.13138">
+         Large Language Models are Biased Because They Are Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Bias
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Bias in AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Shanghai Jiao Tong University, Carnegie Mellon University, Fudan University, Shanghai AI Laboratory, Generative AI Research Lab (GAIR)
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.13261">
+         BEHONEST: Benchmarking Honesty of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Honesty
+        </strong>
+        &amp;
+        <strong>
+         Benchmarking
+        </strong>
+        &amp;
+        <strong>
+         Consistency
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Vector Institute, Scotia Bank, Ernst &amp; Young, Queen’s University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.13551">
+         Mitigating Social Biases in Language Models through Unlearning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Biases
+        </strong>
+        &amp;
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Debiasing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        ELLIS Alicante, University of Alicante
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.13677">
+         Leveraging Large Language Models to Measure Gender Bias in Gendered Languages
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Bias Quantification
+        </strong>
+        &amp;
+        <strong>
+         Spanish Corpora
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        South China University of Technology, Pazhou Laboratory, University of Maryland, Baltimore County
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.13925">
+         GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Alignment Dataset
+        </strong>
+        &amp;
+        <strong>
+         Bias Categories
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        CAS Key Laboratory of AI Safety, CAS Key Lab of Network Data Science and Technology, University of Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14023">
+         Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Psychometric Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Bias Attacks
+        </strong>
+        &amp;
+        <strong>
+         Ethical Risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University College London
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.15484">
+         JobFair: A Framework for Benchmarking Gender Hiring Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Hiring Bias
+        </strong>
+        &amp;
+        <strong>
+         Benchmarking
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        The University of Texas at Austin
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.18841">
+         Navigating LLM Ethics: Advancements, Challenges, and Future Directions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Ethics
+        </strong>
+        &amp;
+        <strong>
+         Accountable LLM
+        </strong>
+        &amp;
+        <strong>
+         Responsible LLM
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        George Mason University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.02030">
+         Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Biases
+        </strong>
+        &amp;
+        <strong>
+         Contact Hypothesis
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Bangladesh University of Engineering and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.03536">
+         Social Bias in Large Language Models For Bangla: An Empirical Study on Gender and Religious Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Bias
+        </strong>
+        &amp;
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Religious Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Calabria
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.08441">
+         Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Jailbreak
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Oxford
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.09704">
+         What an Elegant Bridge: Multilingual LLMs are Biased Similarly in Different Languages
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multilingual LLMs
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Grammatical Gender
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.10241">
+         BiasAlert: A Plug-and-play Tool for Social Bias Detection in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Social Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        CVS Health
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.10853">
+         An Actionable Framework for Assessing Bias and Fairness in Large Language Model Use Cases
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Assessment
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Amsterdam
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.11733">
+         How Are LLMs Mitigating Stereotyping Harms? Learning from Search Engine Studies
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotyping
+        </strong>
+        &amp;
+        <strong>
+         Safety Training
+        </strong>
+        &amp;
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        American University in Cairo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.13928">
+         BiasDPO: Mitigating Bias in Language Models through Direct Preference Optimization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Direct Preference Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        SoftlyAI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.13942">
+         Harmful Suicide Content Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Suicide Content Detection
+        </strong>
+        &amp;
+        <strong>
+         Harmful Content
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Cambridge
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.14344">
+         LLMs left, right, and center: Assessing GPT’s capabilities to label political bias from web domains
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         GPT-4
+        </strong>
+        &amp;
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Data Labeling
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Georgetown University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.16903">
+         US-China perspectives on extreme AI risks and global governance
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Extreme AI Risks
+        </strong>
+        &amp;
+        <strong>
+         Global Governance
+        </strong>
+        &amp;
+        <strong>
+         International Cooperation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.17688">
+         Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Stance Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Xidian University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.17915">
+         The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Function Calling
+        </strong>
+        &amp;
+        <strong>
+         Jailbreaking
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Universität Hamburg
+       </td>
+       <td style="text-align: center;">
+        AIES 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.15184">
+         Decoding Multilingual Moral Preferences: Unveiling LLM’s Biases Through the Moral Machine Experiment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Preferences
+        </strong>
+        &amp;
+        <strong>
+         Multilingual Analysis
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Florida International University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.18454">
+         Fairness Definitions in Language Models Explained
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Barcelona Supercomputing Center
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.18786">
+         The Power of Prompts: Evaluating and Mitigating Gender Bias in MT with LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Prompt Engineering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Washington
+       </td>
+       <td style="text-align: center;">
+        AIES 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.20371">
+         Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender bias
+        </strong>
+        &amp;
+        <strong>
+         Race bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Seoul National University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.00137">
+         Correcting Negative Bias in Large Language Models through Negative Attention Score Alignment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Negative Bias
+        </strong>
+        &amp;
+        <strong>
+         Attention Score
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Rutgers University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.00162">
+         A Taxonomy of Stereotype Content in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Stereotypes
+        </strong>
+        &amp;
+        <strong>
+         Social Psychology
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Florida International University
+       </td>
+       <td style="text-align: center;">
+        CIKM '24
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.00992">
+         Fairness in Large Language Models in Three Hours
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Intel Labs
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.03907">
+         Decoding Biases: Automated Methods and LLM Judges for Gender Bias Detection in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompt Generation
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Shandong University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.06569">
+         Social Debiasing for Fair Multi-modal LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Debiasing
+        </strong>
+        &amp;
+        <strong>
+         Multi-modal LLMs
+        </strong>
+        &amp;
+        <strong>
+         Anti-Stereotype Debiasing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        King Saud University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.08212">
+         Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Covert Bias
+        </strong>
+        &amp;
+        <strong>
+         Implicit Opinion
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Shanghai University of Engineering Science
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.10608">
+         Promoting Equality in Large Language Models: Identifying and Mitigating the Implicit Bias based on Bayesian Theory
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit Bias
+        </strong>
+        &amp;
+        <strong>
+         Bayesian Theory
+        </strong>
+        &amp;
+        <strong>
+         Bias Removal
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.11843">
+         Editable Fairness: Fine-Grained Bias Mitigation in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Retention
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.12494">
+         GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Algorithmic Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Stanford University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.13464">
+         Uncovering Biases with Reflective Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Reflective AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        University of Western Ontario
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.15895">
+         Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Political Cues
+        </strong>
+        &amp;
+        <strong>
+         Annotation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        The Chinese University of Hong Kong
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.00551">
+         Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Correctness
+        </strong>
+        &amp;
+        <strong>
+         Non-Toxicity
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        University of Trento
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.02569">
+         More is More: Addition Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        &amp;
+        <strong>
+         Addition Bias
+        </strong>
+        &amp;
+        <strong>
+         Cognitive Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Nanjing University, Southeast University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.04340">
+         AGR: Age Group Fairness Reward for Bias Mitigation in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Age Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Alignment
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning with Human Feedback (RLHF)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        MIT Center for Constructive Communication, MIT Media Lab
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.05283">
+         On the Relationship between Truth and Political Bias in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Truthfulness
+        </strong>
+        &amp;
+        <strong>
+         Political Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        AppCubic, Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.08087">
+         Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Misinformation
+        </strong>
+        &amp;
+        <strong>
+         Jailbreak Attacks
+        </strong>
+        &amp;
+        <strong>
+         Prompt Injection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Technical University of Munich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.07085">
+         Understanding Knowledge Drift in LLMs through Misinformation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Knowledge Drift
+        </strong>
+        &amp;
+        <strong>
+         Misinformation
+        </strong>
+        &amp;
+        <strong>
+         Uncertainty
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        University of Calabria
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.08963">
+         Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Community Rule Compliance
+        </strong>
+        &amp;
+        <strong>
+         Decentralized Social Networks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        University of California
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.09652">
+         Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Teacher Evaluations
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        University College London
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024 SoLaR Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.11579">
+         HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Explainable AI
+        </strong>
+        &amp;
+        <strong>
+         Text Stereotype Detection
+        </strong>
+        &amp;
+        <strong>
+         Sustainability
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Bosch
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.16371">
+         Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+        &amp;
+        <strong>
+         Debiasing Dataset
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Michigan
+       </td>
+       <td style="text-align: center;">
+        EMNLP 2024 Findings
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02584">
+         Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit Bias
+        </strong>
+        &amp;
+        <strong>
+         Multi-Agent LLM
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Diwan of Royal Court, Royal Holloway, University of London
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.05105">
+         AI-Enhanced Ethical Hacking: A Linux-Focused Experiment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Hacking
+        </strong>
+        &amp;
+        <strong>
+         Cybersecurity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Geneva, Google DeepMind
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.07304">
+         The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Decision-Making
+        </strong>
+        &amp;
+        <strong>
+         Human-AI Alignment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Harbin Institute of Technology, Anhui University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.07820">
+         Mitigating Gender Bias in Code Large Language Models via Model Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Code Generation
+        </strong>
+        &amp;
+        <strong>
+         Model Editing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        IIT-CNR, University of Pisa
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.07991">
+         Human and LLM Biases in Hate Speech Annotations: A Socio-Demographic Analysis of Annotators and Targets
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hate Speech
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        East China Normal University, Fudan University
+       </td>
+       <td style="text-align: center;">
+        ECAI 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.04452">
+         MindScope: Exploring Cognitive Biases in Large Language Models through Multi-Agent Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cognitive Biases
+        </strong>
+        &amp;
+        <strong>
+         Multi-Agent Systems
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Algoverse AI Research
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024, SoLaR workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.07826">
+         Fine-Tuning Language Models for Ethical Ambiguity: A Comparative Study of Alignment with Human Responses
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Ambiguity
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        UMass Amherst
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.12010">
+         Bias Similarity Across Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         LLMs similarity
+        </strong>
+        &amp;
+        <strong>
+         Training data leakage
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Enkrypt AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.12864">
+         Investigating Implicit Bias in Large Language Models: A Large-Scale Study of Over 50 LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit bias
+        </strong>
+        &amp;
+        <strong>
+         LLMs bias
+        </strong>
+        &amp;
+        <strong>
+         Bias mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        École Polytechnique, LINAGORA, NTUA, MBZUAI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.13517">
+         Bias in the Mirror: Are LLMs Opinions Robust to Their Own Adversarial Attacks?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias resilience
+        </strong>
+        &amp;
+        <strong>
+         LLMs robustness
+        </strong>
+        &amp;
+        <strong>
+         Multilingual bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Texas A&amp;M University
+       </td>
+       <td style="text-align: center;">
+        EMNLP Findings 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.09992">
+         Evaluating Gender Bias of LLMs in Making Morality Judgements
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender bias
+        </strong>
+        &amp;
+        <strong>
+         Morality judgements
+        </strong>
+        &amp;
+        <strong>
+         Bias detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Dublin City University
+       </td>
+       <td style="text-align: center;">
+        FLLM 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.12839">
+         Capturing Bias Diversity in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias diversity
+        </strong>
+        &amp;
+        <strong>
+         Customised LLMs
+        </strong>
+        &amp;
+        <strong>
+         Demographic bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.14744">
+         Eliciting Uncertainty in Chain-of-Thought to Mitigate Bias against Forecasting Harmful User Behaviors
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Uncertainty Estimation
+        </strong>
+        &amp;
+        <strong>
+         Conversation Forecasting
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Penn State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.15467">
+         Hey GPT, Can You be More Racist? Analysis from Crowdsourced Attempts to Elicit Biased Content from Generative AI
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Elicitation
+        </strong>
+        &amp;
+        <strong>
+         LLM Bias
+        </strong>
+        &amp;
+        <strong>
+         User Interaction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Virginia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.18749">
+         Does Differential Privacy Impact Bias in Pretrained NLP Models?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Model Bias
+        </strong>
+        &amp;
+        <strong>
+         NLP
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Strathclyde
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.18906">
+         PRISM: A Methodology for Auditing Biases in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Auditing
+        </strong>
+        &amp;
+        <strong>
+         Political Compass
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        TU Dortmund University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.21008">
+         Is GPT-4 Less Politically Biased than GPT-3.5? A Renewed Investigation of ChatGPT’s Political Biases
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Personality Traits
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Michigan State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.23496">
+         Smaller Large Language Models Can Do Moral Self-Correction
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Self-Correction
+        </strong>
+        &amp;
+        <strong>
+         Safety Alignment
+        </strong>
+        &amp;
+        <strong>
+         Social Norms
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        MBZUAI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.24049">
+         Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Bias
+        </strong>
+        &amp;
+        <strong>
+         Arab Stereotypes
+        </strong>
+        &amp;
+        <strong>
+         Jailbreak Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Rutgers University
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024 SoLaR Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.20739v2">
+         Gender Bias in LLM-generated Interview Responses
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Interview Responses
+        </strong>
+        &amp;
+        <strong>
+         Stereotypes
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Kyushu Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.06790">
+         Large-scale Moral Machine Experiment on Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Judgments
+        </strong>
+        &amp;
+        <strong>
+         Autonomous Driving
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Sun Yat-sen University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.08884">
+         Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Risk
+        </strong>
+        &amp;
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        South China Normal University
+       </td>
+       <td style="text-align: center;">
+        IJCAI 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.07527">
+         Prompt-enhanced Network for Hateful Meme Classification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hateful Meme Classification
+        </strong>
+        &amp;
+        <strong>
+         Prompt Learning
+        </strong>
+        &amp;
+        <strong>
+         Contrastive Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Darmstadt University of Applied Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.09826">
+         EVALUATING GENDER BIAS IN LARGE LANGUAGE MODELS
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Gender Distribution
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Minerva University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.13738">
+         Assessing Gender Bias in LLMs: Comparing LLM Outputs with Human Perceptions and Official Statistics
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Human Perception Comparison
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Peking University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.14279">
+         Looking Beyond Text: Reducing Language Bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Language Bias
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Attention
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        School of Computing, KAIST
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024 SoLaR Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.17338">
+         Different Bias Under Different Criteria: Assessing Bias in LLMs with a Fact-Based Approach
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Fact-Based Criteria
+        </strong>
+        &amp;
+        <strong>
+         Demographic Distribution
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Delaware&amp;University of Bristol
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024 Neural Model Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.15386">
+         Inducing Human-like Biases in Moral Reasoning Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Moral Reasoning
+        </strong>
+        &amp;
+        <strong>
+         BrainScore
+        </strong>
+        &amp;
+        <strong>
+         fMRI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Technical University of Munich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.16527">
+         Profiling Bias in LLMs: Stereotype Dimensions in Contextual Word Embeddings
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Profiling
+        </strong>
+        &amp;
+        <strong>
+         Stereotype Dimensions
+        </strong>
+        &amp;
+        <strong>
+         Gender Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        AiM Future&amp;Maum AI, Sungkyunkwan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.16079">
+         Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Debiasing
+        </strong>
+        &amp;
+        <strong>
+         Latent Diffusion Models
+        </strong>
+        &amp;
+        <strong>
+         Classifier Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Zagreb, Preamble
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.14442">
+         AI Ethics by Design: Implementing Customizable Guardrails for Responsible AI Development
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         AI Ethics
+        </strong>
+        &amp;
+        <strong>
+         Guardrails
+        </strong>
+        &amp;
+        <strong>
+         Customizable Frameworks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Kyoto University, Japan
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.00323">
+         Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cognitive Biases
+        </strong>
+        &amp;
+        <strong>
+         Mitigation Techniques
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Department of Arts, University of Bologna
+       </td>
+       <td style="text-align: center;">
+        AIAA 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.19140">
+         Examining Multimodal Gender and Content Bias in ChatGPT-4O
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Content Bias
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Apple
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.03537">
+         Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Prompt Adaptation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Università degli Studi di Genova
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.10509">
+         Do Large Language Models Show Biases in Causal Learning?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Causal Learning
+        </strong>
+        &amp;
+        <strong>
+         Illusion of Causality
+        </strong>
+        &amp;
+        <strong>
+         Bias in LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Virginia Tech
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.11414">
+         Biased or Flawed? Mitigating Stereotypes in Generative Language Models by Addressing Task-Specific Flaws
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotype Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Instruction Tuning
+        </strong>
+        &amp;
+        <strong>
+         Reading Comprehension
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Coburg University of Applied Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.11835">
+         Improved Models for Media Bias Detection and Subcategorization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Media Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuned Models
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data Augmentation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of Edinburgh, Heriot-Watt University
+       </td>
+       <td style="text-align: center;">
+        COLING 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.16022">
+         The Only Way is Ethics: A Guide to Ethical Research with Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Research
+        </strong>
+        &amp;
+        <strong>
+         LLM Guidelines
+        </strong>
+        &amp;
+        <strong>
+         Project Lifecycle
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Sun Yat-sen University, Zhejiang University, City University of Hong Kong
+       </td>
+       <td style="text-align: center;">
+        AAAI 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.15504">
+         Mitigating Social Bias in Large Language Models: A Multi-Objective Approach Within a Multi-Agent Framework
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Multi-Agent Framework
+        </strong>
+        &amp;
+        <strong>
+         Multi-Objective Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Loyola Chicago University, Arizona State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.16417">
+         Identifying Cyberbullying Roles in Social Media
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cyberbullying
+        </strong>
+        &amp;
+        <strong>
+         Role Detection
+        </strong>
+        &amp;
+        <strong>
+         Social Media
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.18647">
+         Nationality, Race, and Ethnicity Biases in and Consequences of Detecting AI-Generated Self-Presentations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Human-AI Interaction
+        </strong>
+        &amp;
+        <strong>
+         AI-Detection
+        </strong>
+        &amp;
+        <strong>
+         Stereotypes
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Heriot-Watt University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.19168">
+         GFG - Gender-Fair Generation: A CALAMITA Challenge
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender-Fair Language
+        </strong>
+        &amp;
+        <strong>
+         Machine Translation
+        </strong>
+        &amp;
+        <strong>
+         Inclusive Language
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        New York University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.08951">
+         Analyzing the Ethical Logic of Six Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Ethical Reasoning
+        </strong>
+        &amp;
+        <strong>
+         Moral Dilemmas
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Xi’an Jiaotong University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.07849">
+         Unveiling Provider Bias in Large Language Models for Code Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM System Security
+        </strong>
+        &amp;
+        <strong>
+         Bias and Fairness
+        </strong>
+        &amp;
+        <strong>
+         Digital Monopolies
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University of Edinburgh
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.05926">
+         LLMs Reproduce Stereotypes of Sexual and Gender Minorities
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotype Content Model
+        </strong>
+        &amp;
+        <strong>
+         Bias in LLMs
+        </strong>
+        &amp;
+        <strong>
+         Social Representation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Pennsylvania State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.05396">
+         FairCode: Evaluating Social Bias of LLMs in Code Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Code Generation
+        </strong>
+        &amp;
+        <strong>
+         Social Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.04662">
+         On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cultural Bias in LLMs
+        </strong>
+        &amp;
+        <strong>
+         Cross-Linguistic Analysis
+        </strong>
+        &amp;
+        <strong>
+         Arabic-English Benchmarks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        CVS Health Corporation
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.03112">
+         LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Algorithmic Fairness
+        </strong>
+        &amp;
+        <strong>
+         LLM Governance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        King’s College London
+       </td>
+       <td style="text-align: center;">
+        NAACL 2025
+       </td>
+       <td style="text-align: center;">
+        Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         AI Safety Moderation
+        </strong>
+        &amp;
+        <strong>
+         Fairness Analysis
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        IBM Research
+       </td>
+       <td style="text-align: center;">
+        AAAI 2025 PPAI Workshop
+       </td>
+       <td style="text-align: center;">
+        Adaptive PII Mitigation Framework for Large Language Models
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PII Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Adaptive Framework
+        </strong>
+        &amp;
+        <strong>
+         Privacy Compliance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        The University of Manchester
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.14457">
+         Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Neuron Editing
+        </strong>
+        &amp;
+        <strong>
+         Interpretable AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign, Amazon AWS, Technical University of Munich
+       </td>
+       <td style="text-align: center;">
+        ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.14294">
+         Examining Alignment of Large Language Models Through Representative Heuristics: The Case of Political Stereotypes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Alignment
+        </strong>
+        &amp;
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Representative Heuristics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        National Technical University of Athens
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.01349">
+         Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Recommendation
+        </strong>
+        &amp;
+        <strong>
+         Cognitive Biases
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Manipulation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Universidad Politécnica de Madrid
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.01436">
+         Towards Safer Chatbots: A Framework for Policy Compliance Evaluation of Custom GPTs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Policy Compliance
+        </strong>
+        &amp;
+        <strong>
+         Custom GPTs
+        </strong>
+        &amp;
+        <strong>
+         Safety Auditing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        LY Corporation
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.02153">
+         Vulnerability Mitigation for Safety-Aligned Language Models via Debiasing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Safety Alignment
+        </strong>
+        &amp;
+        <strong>
+         Debiasing
+        </strong>
+        &amp;
+        <strong>
+         Token-Level Correction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Iowa State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.03429">
+         On Fairness of Unified Multimodal Large Language Model for Image Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal LLMs
+        </strong>
+        &amp;
+        <strong>
+         Bias in Image Generation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Chulalongkorn University
+       </td>
+       <td style="text-align: center;">
+        CompJobs Workshop @ AAAI 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.03220">
+         Mitigating Language Bias in Cross-Lingual Job Retrieval: A Recruitment Platform Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cross-Lingual Job Retrieval
+        </strong>
+        &amp;
+        <strong>
+         Language Bias
+        </strong>
+        &amp;
+        <strong>
+         Multitask Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Sapienza University of Rome
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.04426">
+         Decoding AI Judgment: How LLMs Assess News Credibility and Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         News Credibility
+        </strong>
+        &amp;
+        <strong>
+         Political Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Dalian University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.06207">
+         Unveiling the Capabilities of Large Language Models in Detecting Offensive Language with Annotation Disagreement
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Offensive Language Detection
+        </strong>
+        &amp;
+        <strong>
+         Annotation Disagreement
+        </strong>
+        &amp;
+        <strong>
+         LLMs Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.07254">
+         Fairness in Multi-Agent AI: A Unified Framework for Ethical and Equitable Autonomous Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness in Multi-Agent Systems
+        </strong>
+        &amp;
+        <strong>
+         AI Ethics
+        </strong>
+        &amp;
+        <strong>
+         Autonomous Systems
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Rochester Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.09004">
+         HOPE VS. HATE: UNDERSTANDING USER INTERACTIONS WITH LGBTQ+ NEWS CONTENT IN MAINSTREAM US NEWS MEDIA THROUGH THE LENS OF HOPE SPEECH
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hope Speech
+        </strong>
+        &amp;
+        <strong>
+         LGBTQ+
+        </strong>
+        &amp;
+        <strong>
+         Political Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of Strasbourg
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.10577">
+         Man Made Language Models? Evaluating LLMs’ Perpetuation of Masculine Generics Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Masculine Generics
+        </strong>
+        &amp;
+        <strong>
+         LLM Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        ShanghaiTech University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.11559">
+         Auto-Search and Refinement: An Automated Framework for Gender Bias Mitigation in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        ShanghaiTech University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.11603">
+         DR.GAP: Mitigating Bias in Large Language Models using Gender-Aware Prompting with Demonstration and Reasoning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Microsoft
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.12552">
+         LLM Safety for Children
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Safety
+        </strong>
+        &amp;
+        <strong>
+         Child Protection
+        </strong>
+        &amp;
+        <strong>
+         Content Harm Taxonomy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Horace Mann School, Columbia University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.12838">
+         Towards Equitable AI: Detecting Bias in Using Large Language Models for Marketing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Marketing AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University, Columbia University, Instituto Superior Técnico
+       </td>
+       <td style="text-align: center;">
+        NAACL Findings 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.12858">
+         Rejected Dialects: Biases Against African American Language in Reward Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Reward Models
+        </strong>
+        &amp;
+        <strong>
+         African American Language
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Vrije Universiteit Amsterdam
+       </td>
+       <td style="text-align: center;">
+        WWW 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://doi.org/10.1145/3696410.3714526">
+         Detecting Linguistic Bias in Government Documents Using Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Government Documents
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.17390">
+         Mitigating Bias in RAG: Controlling the Embedder
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         Embedding Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Santa Clara University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.15361">
+         Evaluating Social Biases in LLM Reasoning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Social Biases
+        </strong>
+        &amp;
+        <strong>
+         LLM Reasoning
+        </strong>
+        &amp;
+        <strong>
+         Bias Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        National Institute of Informatics
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.17945">
+         7 Points to Tsinghua but 10 Points to 清华? Assessing Large Language Models in Agentic Multilingual National Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multilingual Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Fairness
+        </strong>
+        &amp;
+        <strong>
+         Decision-Making AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        George Mason University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19749">
+         Beneath the Surface: How Large Language Models Reflect Hidden Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hidden Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Fairness
+        </strong>
+        &amp;
+        <strong>
+         Bias Benchmarking
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of Virginia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19721">
+         Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Representation Engineering
+        </strong>
+        &amp;
+        <strong>
+         Activation Steering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Fraunhofer IAIS &amp; Lamarr
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19160">
+         Detecting Linguistic Indicators for Stereotype Assessment with Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotype Detection
+        </strong>
+        &amp;
+        <strong>
+         Linguistic Indicators
+        </strong>
+        &amp;
+        <strong>
+         Fairness in LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        IIT Jammu
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.01395">
+         Jailbreaking Generative AI: Empowering Novices to Conduct Phishing Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Jailbreaking
+        </strong>
+        &amp;
+        <strong>
+         Generative AI
+        </strong>
+        &amp;
+        <strong>
+         Phishing Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Tsukuba, Politecnico di Milano
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.01947">
+         Analyzing the Safety of Japanese Large Language Models in Stereotype-Triggering Prompts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Japanese Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Stereotype Bias
+        </strong>
+        &amp;
+        <strong>
+         AI Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Beijing Foreign Studies University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.02776">
+         Implicit Bias in LLMs: A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Implicit Bias
+        </strong>
+        &amp;
+        <strong>
+         Implicit Association Test
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        App Inventor Foundation &amp; App-In Club
+       </td>
+       <td style="text-align: center;">
+        Social Impact of AI @ AAAI 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.00355">
+         Structured Reasoning for Fairness: A Multi-Agent Approach to Bias Detection in Textual Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Multi-Agent Systems
+        </strong>
+        &amp;
+        <strong>
+         Fairness in AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Institute of Science Tokyo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.06011">
+         Intent-Aware Self-Correction for Mitigating Social Biases in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Self-Correction
+        </strong>
+        &amp;
+        <strong>
+         Social Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-Thought Reasoning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Amazon
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.06054">
+         Fine-Grained Bias Detection in LLM: Enhancing Detection Mechanisms for Nuanced Biases
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Detection
+        </strong>
+        &amp;
+        <strong>
+         Nuanced Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        IIIT Hyderabad
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.07510">
+         Sometimes the Model doth preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Religious Bias
+        </strong>
+        &amp;
+        <strong>
+         Demographic Profiling
+        </strong>
+        &amp;
+        <strong>
+         Open LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Southern California
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.07575">
+         VISBIAS: Measuring Explicit and Implicit Social Biases in Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Implicit Bias
+        </strong>
+        &amp;
+        <strong>
+         Social Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Virginia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.07806">
+         Benchmarking Group Fairness in Reward Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Group Fairness
+        </strong>
+        &amp;
+        <strong>
+         Reward Models
+        </strong>
+        &amp;
+        <strong>
+         LLM Alignment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Clarksburg High School
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.09341">
+         An Evaluation of LLMs for Detecting Harmful Computing Terms
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Harmful Terms
+        </strong>
+        &amp;
+        <strong>
+         Model Architecture
+        </strong>
+        &amp;
+        <strong>
+         Inclusive Language Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Universidad de Sevilla
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.10192">
+         Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Red Teaming
+        </strong>
+        &amp;
+        <strong>
+         Spanish/Basque Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of California, San Diego
+       </td>
+       <td style="text-align: center;">
+        TrustNLP @ NAACL 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.08588">
+         BIASEDIT: Debiasing Stereotyped Language Models via Model Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Editing
+        </strong>
+        &amp;
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Stereotyped Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        IIIT Hyderabad
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.11985">
+         No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Prompting Methods
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Chile
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.15268">
+         Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bayesian Reasoning
+        </strong>
+        &amp;
+        <strong>
+         Cognitive Bias
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-Thought
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Emotia
+       </td>
+       <td style="text-align: center;">
+        ICMLC 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.16498">
+         LLMs, Virtual Users, and Bias: Predicting Any Survey Question Without Human Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Survey Prediction
+        </strong>
+        &amp;
+        <strong>
+         LLM Bias
+        </strong>
+        &amp;
+        <strong>
+         Censorship Impact
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Stony Brook University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.22040">
+         The Risks of Using Large Language Models for Text Annotation in Social Science Research
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Text Annotation
+        </strong>
+        &amp;
+        <strong>
+         Social Science
+        </strong>
+        &amp;
+        <strong>
+         Epistemic Risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Xiamen University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.23329">
+         A Multi-Agent Framework with Automated Decision Rule Optimization for Cross-Domain Misinformation Detection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Misinformation Detection
+        </strong>
+        &amp;
+        <strong>
+         Cross-Domain Transfer
+        </strong>
+        &amp;
+        <strong>
+         Multi-Agent Framework
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.23688">
+         Mapping Geopolitical Bias in 11 Large Language Models: A Bilingual, Dual-Framing Analysis of U.S.–China Tensions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Geopolitical Bias
+        </strong>
+        &amp;
+        <strong>
+         Language Model Evaluation
+        </strong>
+        &amp;
+        <strong>
+         U.S.–China Relations
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Independent Researchers
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.24310">
+         BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Ethical AI
+        </strong>
+        &amp;
+        <strong>
+         Factuality Assessment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Althire AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.00310">
+         Detecting and Mitigating Bias in LLMs through Knowledge Graph-Augmented Training
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Graphs
+        </strong>
+        &amp;
+        <strong>
+         Fairness in AI
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Algoverse AI Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.01420">
+         FAIRE: Assessing Racial and Gender Bias in AI-Driven Resume Evaluations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Resume Screening
+        </strong>
+        &amp;
+        <strong>
+         Fair Hiring
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.05325">
+         Unequal Opportunities: Examining the Bias in Geographical Recommendations by Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Geographical Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Auditing
+        </strong>
+        &amp;
+        <strong>
+         Demographic Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        ML Alignment &amp; Theory Scholars
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.04072">
+         Among Us: A Sandbox for Agentic Deception
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Deception
+        </strong>
+        &amp;
+        <strong>
+         AI Safety
+        </strong>
+        &amp;
+        <strong>
+         LLM Agents
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.06160">
+         Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Auditing
+        </strong>
+        &amp;
+        <strong>
+         Mental Health Stigmatization
+        </strong>
+        &amp;
+        <strong>
+         LLM Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Calabria
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.07887">
+         Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+        &amp;
+        <strong>
+         LLM-as-a-Judge
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Virginia Tech
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.05632">
+         Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Reasoning Traces
+        </strong>
+        &amp;
+        <strong>
+         Fairness in LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Ostim Technical University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.06436">
+         Language-Dependent Political Bias in AI: A Study of ChatGPT and Gemini
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Language Variation
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Griffin Hospital
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.02917">
+         Bias in Large Language Models Across Clinical Applications: A Systematic Review
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Bias
+        </strong>
+        &amp;
+        <strong>
+         Clinical AI
+        </strong>
+        &amp;
+        <strong>
+         Systematic Review
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Amsterdam
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.04141">
+         Cognitive Debiasing Large Language Models for Decision-Making
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Debiasing
+        </strong>
+        &amp;
+        <strong>
+         Decision-Making
+        </strong>
+        &amp;
+        <strong>
+         Cognitive Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Massachusetts Lowell
+       </td>
+       <td style="text-align: center;">
+        NAACL 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.07115">
+         EqualizeIR: Mitigating Linguistic Biases in Retrieval Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Linguistic Bias
+        </strong>
+        &amp;
+        <strong>
+         Information Retrieval
+        </strong>
+        &amp;
+        <strong>
+         Weak Learner Regularization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Johns Hopkins University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.09946">
+         Assessing Judging Bias in Large Reasoning Models: An Empirical Study
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Judging Bias
+        </strong>
+        &amp;
+        <strong>
+         Large Reasoning Models
+        </strong>
+        &amp;
+        <strong>
+         Model-as-a-Judge
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Virginia Tech
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.10430">
+         LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Persuasion Safety
+        </strong>
+        &amp;
+        <strong>
+         Unethical Strategy
+        </strong>
+        &amp;
+        <strong>
+         PERSUSAFETY
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Science and Culture
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.13199">
+         Building Trustworthy Multimodal AI: A Review of Fairness, Transparency, and Ethics in Vision-Language Tasks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vision-Language Tasks
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Transparency
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.13209">
+         On the Feasibility of Using MultiModal LLMs to Execute AR Social Engineering Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Augmented Reality
+        </strong>
+        &amp;
+        <strong>
+         Multimodal LLMs
+        </strong>
+        &amp;
+        <strong>
+         Social Engineering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.14492">
+         FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Inference-Time Debiasing
+        </strong>
+        &amp;
+        <strong>
+         LLM Fairness
+        </strong>
+        &amp;
+        <strong>
+         Activation Steering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        ETH Zurich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.17720">
+         Multilingual Performance Biases of Large Language Models in Education
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multilingual Bias
+        </strong>
+        &amp;
+        <strong>
+         Educational Tasks
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Luxembourg Institute of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.18560">
+         Mind the Language Gap: Automated and Augmented Evaluation of Bias in LLMs for High- and Low-Resource Languages
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Multilingual NLP
+        </strong>
+        &amp;
+        <strong>
+         Low-Resource Languages
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Ahmedabad University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.21400">
+         Who Gets the Callback? Generative AI and Gender Bias
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Language Models (LLMs)
+        </strong>
+        &amp;
+        <strong>
+         Algorithmic Bias
+        </strong>
+        &amp;
+        <strong>
+         Gender Discrimination
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Jimei University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.00976">
+         Attack and defense techniques in large language models: A survey and new perspectives
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Prompt Injection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Karlsruhe Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.04393">
+         Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Model Size
+        </strong>
+        &amp;
+        <strong>
+         LLM Alignment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        None
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.13706">
+         Are Large Language Models Good at Detecting Propaganda?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Propaganda Detection
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Prompt Engineering
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        New York University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.12054">
+         GenderBench: Evaluation Suite for Gender Biases in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Safety Benchmark
+        </strong>
+        &amp;
+        <strong>
+         LLM Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        IBM Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14971v1">
+         DECASTE: Unveiling Caste Stereotypes in Large Language Models through Multi-Dimensional Bias Analysis
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Caste Bias
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Bias Evaluation Framework
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        UCLA
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14972v1">
+         Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal Safety
+        </strong>
+        &amp;
+        <strong>
+         Cultural Norms
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Harbin Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15475v1">
+         LFTF: Locating First and Then Fine-Tuning for Mitigating Gender Bias in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         LLM Debiasing
+        </strong>
+        &amp;
+        <strong>
+         Model Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Seoul National University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.16222v1">
+         Don’t Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM-as-a-Judge
+        </strong>
+        &amp;
+        <strong>
+         Code Evaluation Bias
+        </strong>
+        &amp;
+        <strong>
+         Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Trento
+       </td>
+       <td style="text-align: center;">
+        FAccT 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.10588v1">
+         Understanding Gen Alpha’s Digital Language: Evaluation of LLM Safety Systems for Content Moderation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Generation Alpha
+        </strong>
+        &amp;
+        <strong>
+         Content Moderation
+        </strong>
+        &amp;
+        <strong>
+         LLM Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        MBZUAI, Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15524v1">
+         Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         Concept Representation
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Texas A&amp;M University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.17217v1">
+         Mitigating Gender Bias via Fostering Exploratory Thinking in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Gender Bias
+        </strong>
+        &amp;
+        <strong>
+         Exploratory Thinking
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        George Mason University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.18466v1">
+         Measuring South Asian Biases in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Bias Evaluation
+        </strong>
+        &amp;
+        <strong>
+         South Asia
+        </strong>
+        &amp;
+        <strong>
+         Intersectionality
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of South Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.20343v1">
+         Do LLMs have a Gender (Entropy) Bias?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Bias
+        </strong>
+        &amp;
+        <strong>
+         Entropy Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Chung-Ang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.20901v1">
+         A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Stereotype Content Model
+        </strong>
+        &amp;
+        <strong>
+         Social Bias
+        </strong>
+        &amp;
+        <strong>
+         Vision Language Model
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Université Paris-Saclay, CEA
+       </td>
+       <td style="text-align: center;">
+        ACL 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.19776v1">
+         Analyzing Political Bias in LLMs via Target-Oriented Sentiment Classification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Political Bias
+        </strong>
+        &amp;
+        <strong>
+         Sentiment Classification
+        </strong>
+        &amp;
+        <strong>
+         Multilingual LLMs
+        </strong>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     💻Presentations &amp; Talks
+    </h2>
+    <h2>
+     📖Tutorials &amp; Workshops
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Type
+       </th>
+       <th style="text-align: center;">
+        Title
+       </th>
+       <th style="text-align: center;">
+        URL
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Tutorials
+       </td>
+       <td style="text-align: center;">
+        Awesome-LLM-Safety
+       </td>
+       <td style="text-align: center;">
+        <a href="https://github.com/ydyjya/Awesome-LLM-Safety">
+         link
+        </a>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     📰News &amp; Articles
+    </h2>
+    <h2>
+     🧑‍🏫Scholars
+    </h2>
+   </div>
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+  </div>
+  <footer>
+   <div class="container">
+    <div class="footer-content">
+     <p>
+      作者:
+      <a href="https://github.com/ydyjya">
+       ydyjya
+      </a>
+     </p>
+     <p>
+      联系方式: zhouzhenhong@bupt.edu.cn
+     </p>
+    </div>
+    <div class="footer-links">
+     <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+      <i class="fab fa-github">
+      </i>
+      GitHub 仓库
+     </a>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

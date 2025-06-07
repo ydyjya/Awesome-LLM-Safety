@@ -1,0 +1,7324 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Privacy - Awesome LLM-Safety
+  </title>
+  <link href="../style.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   .markdown-content {
+            padding: 20px;
+        }
+        .markdown-content h1 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .markdown-content h2 {
+            font-size: 1.6rem;
+            color: var(--secondary-color);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .markdown-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9rem;
+        }
+        .markdown-content th, .markdown-content td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+        }
+        .markdown-content th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+            text-align: left;
+        }
+        .markdown-content tr:nth-child(even) {
+            background-color: var(--light-bg);
+        }
+        .markdown-content tr:hover {
+            background-color: #ddd;
+        }
+        .back-to-home {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 15px;
+            background-color: var(--primary-color);
+            color: white;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-to-home:hover {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+  </style>
+ </head>
+ <body>
+  <header>
+   <div class="container">
+    <h1>
+     🛡️ Awesome LLM-Safety 🛡️
+    </h1>
+    <div class="language-switch">
+     <a href="../index.html">
+      English
+     </a>
+     |
+     <a class="active" href="../index_cn.html">
+      中文
+     </a>
+    </div>
+   </div>
+  </header>
+  <div class="container">
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+   <div class="markdown-content">
+    <h1>
+     Privacy
+    </h1>
+    <h2>
+     Different from the main README🕵️
+    </h2>
+    <ul>
+     <li>
+      Within this subtopic, we will be updating with the latest articles. This will help researchers in this area to quickly understand recent trends.
+     </li>
+     <li>
+      In addition to providing the most recent updates, we will also add keywords to each subtopic to help you find content of interest more quickly.
+     </li>
+     <li>
+      Within each subtopic, we will also update with profiles of scholars we admire and endorse in the field. Their work is often of high quality and forward-looking!"
+     </li>
+    </ul>
+    <h2>
+     📑Papers
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Institute
+       </th>
+       <th style="text-align: center;">
+        Publication
+       </th>
+       <th style="text-align: center;">
+        Paper
+       </th>
+       <th style="text-align: center;">
+        Keywords
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        18.02
+       </td>
+       <td style="text-align: center;">
+        Google Brain
+       </td>
+       <td style="text-align: center;">
+        USENIX Security 2021
+       </td>
+       <td style="text-align: center;">
+        <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting">
+         The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         LSTM
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        19.12
+       </td>
+       <td style="text-align: center;">
+        Microsoft
+       </td>
+       <td style="text-align: center;">
+        CCS2020
+       </td>
+       <td style="text-align: center;">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3372297.3417880">
+         Analyzing Information Leakage of Updates to Natural Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Model Update
+        </strong>
+        &amp;
+        <strong>
+         Duplicated
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        21.07
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        ACL2022
+       </td>
+       <td style="text-align: center;">
+        <a href="https://aclanthology.org/2022.acl-long.577/">
+         Deduplicating Training Data Makes Language Models Better
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Protected
+        </strong>
+        &amp;
+        <strong>
+         Deduplication
+        </strong>
+        &amp;
+        <strong>
+         Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        21.10
+       </td>
+       <td style="text-align: center;">
+        Stanford
+       </td>
+       <td style="text-align: center;">
+        ICLR2022
+       </td>
+       <td style="text-align: center;">
+        <a href="https://openreview.net/forum?id=bVuP3ltATMz">
+         Large language models can be strong differentially private learners
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Gradient Clipping
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.02
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        ICLR2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://openreview.net/forum?id=TatRHT_1cK">
+         Quantifying Memorization Across Neural Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Verbatim Sequence
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.02
+       </td>
+       <td style="text-align: center;">
+        UNC Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        ICML2022
+       </td>
+       <td style="text-align: center;">
+        <a href="https://proceedings.mlr.press/v162/kandpal22a.html">
+         Deduplicating Training Data Mitigates Privacy Risks in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Deduplicate Training Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.05
+       </td>
+       <td style="text-align: center;">
+        UCSD
+       </td>
+       <td style="text-align: center;">
+        EMNLP2022
+       </td>
+       <td style="text-align: center;">
+        <a href="https://aclanthology.org/2022.emnlp-main.119/">
+         An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.05
+       </td>
+       <td style="text-align: center;">
+        Princeton
+       </td>
+       <td style="text-align: center;">
+        NIPS2022
+       </td>
+       <td style="text-align: center;">
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html">
+         Recovering Private Text in Federated Learning of Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Gradient Based
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.05
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        EMNLP2022(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://aclanthology.org/2022.findings-emnlp.148/">
+         Are Large Pre-Trained Language Models Leaking Your Personal Information?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Personal Information
+        </strong>
+        &amp;
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risk
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        22.10
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        INLG2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://aclanthology.org/2023.inlg-main.3/">
+         Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Verbatim Memorization
+        </strong>
+        &amp;
+        <strong>
+         Filter
+        </strong>
+        &amp;
+        <strong>
+         Style Transfer Prompts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.02
+       </td>
+       <td style="text-align: center;">
+        University of Waterloo
+       </td>
+       <td style="text-align: center;">
+        Security and Privacy2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a346/1NrbXJj80H6">
+         Analyzing Leakage of Personally Identifiable Information in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PII Leakage
+        </strong>
+        &amp;
+        <strong>
+         PII Reconstruction
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.04
+       </td>
+       <td style="text-align: center;">
+        Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2304.05197">
+         Multi-step Jailbreaking Privacy Attacks on ChatGPT
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Jailbreaks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.12707">
+         Quantifying Association Capabilities of Large Language Models and Its Implications on Privacy Leakage
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Co-occurrence
+        </strong>
+        &amp;
+        <strong>
+         PII
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        The University of Texas at Dallas
+       </td>
+       <td style="text-align: center;">
+        ACL2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.11759">
+         Controlling the Extraction of Memorized Datafrom Large Language Models via Prompt-Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt-Tuning
+        </strong>
+        &amp;
+        <strong>
+         Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.05
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2305.12132">
+         Can Public Large Language Models Help Private Cross-device Federated Learning?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.06
+       </td>
+       <td style="text-align: center;">
+        University of Illinois at Urbana-Champaign
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2306.11698">
+         DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Robustness
+        </strong>
+        &amp;
+        <strong>
+         Ethics
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Toxicity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.08
+       </td>
+       <td style="text-align: center;">
+        Bern University of Applied Sciences
+       </td>
+       <td style="text-align: center;">
+        NAACL2024(findings)
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2308.11103">
+         Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models in Court Decisions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Anonymization
+        </strong>
+        &amp;
+        <strong>
+         Re-Identification
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.09
+       </td>
+       <td style="text-align: center;">
+        UNC Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2309.17410">
+         Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Hidden States Attack
+        </strong>
+        &amp;
+        <strong>
+         Hidden States Defense
+        </strong>
+        &amp;
+        <strong>
+         Deleting Sensitive Information
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.09
+       </td>
+       <td style="text-align: center;">
+        Princeton University&amp;Microsoft
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2309.11765">
+         Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         In-Context Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        ETH
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.07298">
+         Beyond Memorization: Violating Privacy Via Inference with Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Context Inference
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Invasive
+        </strong>
+        &amp;
+        <strong>
+         Extract PII
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Indiana University Bloomington
+       </td>
+       <td style="text-align: center;">
+        CCS 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.15469">
+         The Janus Interface: How Fine-Tuning in Large Language Models Amplifies the Privacy Risks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy risks
+        </strong>
+        &amp;
+        <strong>
+         PII Recovery
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        University of Washington &amp; Allen Institute for Artificial Intelligence
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.17884">
+         Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Benchmark
+        </strong>
+        &amp;
+        <strong>
+         Contextual Privacy
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-thought
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.20150">
+         Unlearn What You Want to Forget: Efficient Unlearning for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Teacher-student Framework
+        </strong>
+        &amp;
+        <strong>
+         Data Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Tianjin University
+       </td>
+       <td style="text-align: center;">
+        EMNLP2023
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2310.20138">
+         DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Neuron Detection
+        </strong>
+        &amp;
+        <strong>
+         Model Editing
+        </strong>
+        &amp;
+        <strong>
+         Data Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.07585">
+         Input Reconstruction Attack against Vertical Federated Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vertical Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Input Reconstruction
+        </strong>
+        &amp;
+        <strong>
+         Privacy Concerns
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Georgia Institute of Technology, Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.09538">
+         Reducing Privacy Risks in Online Self-Disclosures with Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Online Self-Disclosure
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Self-Disclosure Abstraction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Cornell University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.13647">
+         Language Model Inversion
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Inversion
+        </strong>
+        &amp;
+        <strong>
+         Prompt Reconstruction
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        Ant Group
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2311.14030">
+         PrivateLoRA for Efficient Privacy Preserving LLM
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Preserving
+        </strong>
+        &amp;
+        <strong>
+         LoRA
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Drexel University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.02003">
+         A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Texas at Austin, Princeton University, MIT, University of Chicago
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.03724">
+         DP-OPT: MAKE LARGE LANGUAGE MODEL YOUR PRIVACY-PRESERVING PROMPT ENGINEER
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Tuning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Delft University of Technology
+       </td>
+       <td style="text-align: center;">
+        ICSE 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.11658">
+         Traces of Memorisation in Large Language Models for Code
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Memorisation
+        </strong>
+        &amp;
+        <strong>
+         Data Extraction Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        University of Texas at Austin
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.17342">
+         SentinelLMs: Encrypted Input Adaptation and Fine-tuning of Language Models for Private and Secure Inference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Encrypted Input Adaptation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        23.12
+       </td>
+       <td style="text-align: center;">
+        Rensselaer Polytechnic Institute, Columbia University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2312.17493">
+         Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Efficient Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Harbin Institute of Technology Shenzhen&amp;Peng Cheng Laboratory Shenzhen
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.00793">
+         SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Inference (PPI)
+        </strong>
+        &amp;
+        <strong>
+         Secure Multi-Party Computing (SMPC)
+        </strong>
+        &amp;
+        <strong>
+         Transformer Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        NUS (Chongqing) Research Institute, Huawei Noah’s Ark Lab, National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.00870">
+         Teach Large Language Models to Forget Privacy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Prompt Learning
+        </strong>
+        &amp;
+        <strong>
+         Problem Decomposition
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Princeton University, Google DeepMind, Meta AI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.04343">
+         Private Fine-tuning of Large Language Models with Zeroth-order Optimization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Zeroth-order Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.01
+       </td>
+       <td style="text-align: center;">
+        Harvard&amp;USC&amp;UCLA&amp;UW Seattle&amp;UW-Madison&amp;UC Davis
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2401.12255">
+         Instructional Fingerprinting of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Fingerprinting
+        </strong>
+        &amp;
+        <strong>
+         Instructional Backdoor
+        </strong>
+        &amp;
+        <strong>
+         Model Ownership
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Florida International University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.00888">
+         Security and Privacy Challenges of Large Language Models: A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Privacy Challenges
+        </strong>
+        &amp;
+        <strong>
+         Suevey
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Northeastern University, Carnegie Mellon University, Rensselaer Polytechnic Institute
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.01994">
+         Human-Centered Privacy Research in the Age of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Generative AI
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Human-Computer Interaction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        CISPA Helmholtz Center for Information Security
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.02987">
+         Conversation Reconstruction Attack Against GPT Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Conversation Reconstruction Attack
+        </strong>
+        &amp;
+        <strong>
+         Privacy risks
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Columbia University, M365 Research, Microsoft Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.07334">
+         Differentially Private Training of Mixture of Experts Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Mixture of Experts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Stanford University, Truera ,Princeton University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.04489">
+         De-amplifying Bias from Differential Privacy in Language Model Fine-tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fairness
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Data Augmentation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Sun Yat-sen University, Google Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.13659">
+         Privacy-Preserving Instructions for Aligning Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Instructions
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        National University of Defense Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.16515">
+         LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Data Augmentation
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Distillation
+        </strong>
+        &amp;
+        <strong>
+         Medical Text Classification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        Michigan State University, Baidu Inc.
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.16893">
+         The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Generation (RAG)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.02
+       </td>
+       <td style="text-align: center;">
+        University of Washington&amp;Allen Institute for Artificial Intelligence
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2402.08761">
+         JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Authorship Obfuscation
+        </strong>
+        &amp;
+        <strong>
+         Constrained Decoding
+        </strong>
+        &amp;
+        <strong>
+         Small Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Virginia Tech
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.02694">
+         Privacy-Aware Semantic Cache for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Cache Hit
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.03129">
+         CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Small Language Models
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Context-Aware Instruction Following
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Shandong University, Leiden University, Drexel University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.05156">
+         On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         Survey
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        Arizona State University, University of Minnesota, University of Science and Technology of China, North Carolina State University, University of North Carolina at Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.04124">
+         Privacy-preserving Fine-tuning of Large Language Models through Flatness
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Model Generalization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.03
+       </td>
+       <td style="text-align: center;">
+        University of Southern California
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2403.15638">
+         Differentially Private Next-Token Prediction of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        University of Maryland, Oregon State University, ELLIS Institute Tübingen &amp; MPI Intelligent Systems, Tübingen AI Center, Google DeepMind
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.01231">
+         Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Backdoors
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference
+        </strong>
+        &amp;
+        <strong>
+         Model Poisoning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        City University of Hong Kong, The Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.11056">
+         LMEraser: Large Model Unlearning through Adaptive Prompt Tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Adaptive Prompt Tuning
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        University of Electronic Science and Technology of China, Chengdu University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.16587">
+         Understanding Privacy Risks of Embeddings Induced by Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Embeddings
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        Salesforce AI Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.16251">
+         Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Leakage
+        </strong>
+        &amp;
+        <strong>
+         Black-box Defenses
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.04
+       </td>
+       <td style="text-align: center;">
+        University of Texas at El Paso, Texas A&amp;M University Central Texas, University of Maryland Baltimore County
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2404.19744">
+         PrivComp-KG: Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Policy
+        </strong>
+        &amp;
+        <strong>
+         Policy Compliance
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Graph
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Renmin University of China
+       </td>
+       <td style="text-align: center;">
+        COLING 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.04032">
+         Locally Differentially Private In-Context Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         In-context Learning
+        </strong>
+        &amp;
+        <strong>
+         Local Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        University of Maryland
+       </td>
+       <td style="text-align: center;">
+        NAACL2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.10260">
+         Keep It Private: Unsupervised Privatization of Online Text
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unsupervised Privatization
+        </strong>
+        &amp;
+        <strong>
+         Online Text
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.18744">
+         PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Private Inference
+        </strong>
+        &amp;
+        <strong>
+         Secure Computation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        University of Connecticut
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.18776">
+         LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        University of Technology, Sydney
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.19677">
+         Large Language Model Watermark Stealing with Mixed Integer Programming
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Watermark Stealing
+        </strong>
+        &amp;
+        <strong>
+         Mixed Integer Programming
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        Procedia Computer Science
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.20681">
+         No Free Lunch Theorem for Privacy-Preserving LLM Inference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         LLM Inference
+        </strong>
+        &amp;
+        <strong>
+         No Free Lunch Theory
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.05
+       </td>
+       <td style="text-align: center;">
+        ETH Zurich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2405.20777">
+         Black-Box Detection of Language Model Watermarks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Watermark Detection
+        </strong>
+        &amp;
+        <strong>
+         Black-Box Testing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        South China University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.01394">
+         PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving
+        </strong>
+        &amp;
+        <strong>
+         Inference
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Carnegie Mellon University
+       </td>
+       <td style="text-align: center;">
+        ICML 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.02958">
+         PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of California, Santa Cruz
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.07933">
+         Large Language Model Unlearning via Embedding-Corrupted Prompts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Embedding-Corrupted Prompts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Technology Sydney
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.07973">
+         Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Security Threats
+        </strong>
+        &amp;
+        <strong>
+         Privacy Threats
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        UC Santa Barbara
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.08607">
+         Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Logit Difference
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Technion – Israel Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.09325">
+         REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Sensitive Information
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Maryland, ELLIS Institute Tübingen, Max Planck Institute for Intelligent Systems
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.10209">
+         Be like a Goldfish, Don’t Memorize! Mitigating Memorization in Generative LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Goldfish Loss
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        McCombs School of Business, University of Texas at Austin
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.10415">
+         PRISM: A Design Framework for Open-Source Foundation Model Safety
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PRISM
+        </strong>
+        &amp;
+        <strong>
+         Open-Source
+        </strong>
+        &amp;
+        <strong>
+         Foundation Model Safety
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University, MIT, UCLA
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11087">
+         MemDPT: Differential Privacy for Memory Efficient Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         MemDPT
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Memory Efficient Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University, MIT, UCLA
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11149">
+         GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         GOLDCOIN
+        </strong>
+        &amp;
+        <strong>
+         Contextual Integrity Theory
+        </strong>
+        &amp;
+        <strong>
+         Privacy Laws
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        IBM Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.11780">
+         Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         SPUNGE
+        </strong>
+        &amp;
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Ping An Technology (Shenzhen) Co., Ltd.
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.12238">
+         PFID: Privacy First Inference Delegation Framework for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PFID
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Inference Delegation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.12403">
+         PDSS: A Privacy-Preserving Framework for Step-by-Step Distillation of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PDSS
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        KAIST AI, Hyundai Motor Company
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14091">
+         Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         Optimal Parameters
+        </strong>
+        &amp;
+        <strong>
+         Sequence Unlearning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Nanjing University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14318">
+         The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Privacy
+        </strong>
+        &amp;
+        <strong>
+         Anonymization
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Massachusetts Amherst, Google
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14517">
+         POSTMARK: A Robust Blackbox Watermark for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Blackbox Watermark
+        </strong>
+        &amp;
+        <strong>
+         Paraphrasing Attacks
+        </strong>
+        &amp;
+        <strong>
+         Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Michigan State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14773">
+         Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        Beihang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.14898">
+         Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.06
+       </td>
+       <td style="text-align: center;">
+        University of Rome Tor Vergata
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2406.18221">
+         Enhancing Data Privacy in Large Language Models through Private Association Editing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Private Association Editing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Huawei Munich Research Center
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.02956">
+         IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Text Anonymization
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Huawei Munich Research Center
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.02960">
+         ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Inference
+        </strong>
+        &amp;
+        <strong>
+         Proprietary LLMs
+        </strong>
+        &amp;
+        <strong>
+         Private Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Texas A&amp;M University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.06443">
+         Exposing Privacy Gaps: Membership Inference Attack on Preference Data for LLM Alignment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attack
+        </strong>
+        &amp;
+        <strong>
+         Preference Data
+        </strong>
+        &amp;
+        <strong>
+         LLM Alignment
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.07737">
+         Fine-Tuning Large Language Models with User-Level Differential Privacy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         User-Level Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Newcastle University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.08152">
+         Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Deduplication
+        </strong>
+        &amp;
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Private Set Intersection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.08422">
+         On the (In)Security of LLM App Stores
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM App Stores
+        </strong>
+        &amp;
+        <strong>
+         Security
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Soochow University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.10058">
+         Learning to Refuse: Towards Mitigating Privacy Risks in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Machine Unlearning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        The University of Texas Health Science Center at Houston
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.16166">
+         Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Text Generation
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Protected Health Information
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        Huawei Munich Research Center
+       </td>
+       <td style="text-align: center;">
+        ACL 2024 Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.02943">
+         PII-Compass: Guiding LLM training data extraction prompts towards the target PII via grounding
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PII Extraction
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Technology Sydney
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.19354">
+         The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Agent
+        </strong>
+        &amp;
+        <strong>
+         Privacy Preservation
+        </strong>
+        &amp;
+        <strong>
+         Defense
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+        University of Notre Dame
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.20516">
+         Machine Unlearning in Generative AI: A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Generative Models
+        </strong>
+        &amp;
+        <strong>
+         Trustworthy ML
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.07
+       </td>
+       <td style="text-align: center;">
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2407.21248">
+         Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Pre-training Data Detection
+        </strong>
+        &amp;
+        <strong>
+         Surprising Tokens
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Sichuan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.02927">
+         HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Tabular Data Synthesis
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        UC Berkeley
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.03561">
+         MPC-Minimized Secure LLM Inference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Secure Multi-party Computation
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving Inference
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Sapienza University of Rome
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.05212">
+         Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Attacks
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        New Jersey Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.07004">
+         Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Sanitization
+        </strong>
+        &amp;
+        <strong>
+         User Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Xidian University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.08930">
+         DePrompt: Desensitization and Evaluation of Personal Identifiable Information in Large Language Model Prompts
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Personal Identifiable Information
+        </strong>
+        &amp;
+        <strong>
+         Prompt Desensitization
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Huawei Technologies Canada Co. Ltd
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.10468">
+         Tracing Privacy Leakage of Language Models to Training Data via Adjusted Influence Functions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Influence Functions
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.10682">
+         Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Knowledge Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Attacks
+        </strong>
+        &amp;
+        <strong>
+         Unlearning Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Universitätsklinikum Erlangen
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.10715">
+         Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Radiation Oncology
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        University of California, Berkeley
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.12787">
+         LLM-PBE: Assessing Data Privacy in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Toolkit
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.08
+       </td>
+       <td style="text-align: center;">
+        Mitsubishi Electric Research Laboratories
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2408.17354">
+         Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Model-Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Pretrained Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Stanford University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.00138">
+         PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Norm Awareness
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risk Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        ByteDance
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.02375">
+         How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Compliance
+        </strong>
+        &amp;
+        <strong>
+         Privacy Information Extraction
+        </strong>
+        &amp;
+        <strong>
+         Technical Privacy Review
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        MIT
+       </td>
+       <td style="text-align: center;">
+        COLM 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.02228">
+         Unforgettable Generalization in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Generalization
+        </strong>
+        &amp;
+        <strong>
+         Random Labels
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Anhui University of Technology, University of Cambridge
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.06130">
+         On the Weaknesses of Backdoor-based Model Watermarks: An Information-theoretic Perspective
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Backdoor Attacks
+        </strong>
+        &amp;
+        <strong>
+         Information Theory
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        Bilkent University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.11423">
+         Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         PII
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference Attack
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        National University of Singapore
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.13745">
+         Context-Aware Membership Inference Attacks against Pre-trained Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attack
+        </strong>
+        &amp;
+        <strong>
+         Context-Awareness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        George Mason University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.13853">
+         Unlocking Memorization in Large Language Models with Dynamic Soft Prompting
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Dynamic Soft Prompting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        CAS Key Lab of Network Data Science and Technology
+       </td>
+       <td style="text-align: center;">
+        EMNLP 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.14781">
+         Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Pretraining Data Detection
+        </strong>
+        &amp;
+        <strong>
+         Divergence Calibration
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.09
+       </td>
+       <td style="text-align: center;">
+        École Polytechnique
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2409.18858">
+         Predicting and Analyzing Memorization Within Fine-Tuned Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Southern California
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02016">
+         ADAPTIVELY PRIVATE NEXT-TOKEN PREDICTION OF LARGE LANGUAGE MODELS
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Next-Token Prediction
+        </strong>
+        &amp;
+        <strong>
+         Adaptive DP
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Chicago
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02159">
+         MITIGATING MEMORIZATION IN LANGUAGE MODELS
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Unlearning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of Groningen
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02650">
+         Undesirable Memorization in Large Language Models: A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of California, Santa Barbara, AWS AI Lab
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.07582">
+         Detecting Training Data of Large Language Models via Expectation Maximization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attack
+        </strong>
+        &amp;
+        <strong>
+         Expectation Maximization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Queen’s University, J.P. Morgan AI Research
+       </td>
+       <td style="text-align: center;">
+        EMNLP 2024 Findings
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.02912">
+         Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Adaptive Noise Allocation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        King Abdullah University of Science and Technology, Ruhr University Bochum
+       </td>
+       <td style="text-align: center;">
+        EMNLP 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.08027">
+         Private Language Models via Truncated Laplacian Mechanism
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Word Embedding
+        </strong>
+        &amp;
+        <strong>
+         Truncated Laplacian Mechanism
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Purdue University, Georgia Institute of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.08299">
+         Privately Learning from Graphs with Applications in Fine-tuning Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-preserving learning
+        </strong>
+        &amp;
+        <strong>
+         Graph learning
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.11876">
+         Rescriber: Smaller-LLM-Powered User-Led Data Minimization for Navigating Privacy Trade-offs in LLM-Based Conversational Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         PII
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        The Pennsylvania State University, University of California Los Angeles, University of Virginia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.12085">
+         Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential privacy
+        </strong>
+        &amp;
+        <strong>
+         In-context learning
+        </strong>
+        &amp;
+        <strong>
+         Synthetic data generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Nanjing University of Science and Technology, Western Sydney University, Institute of Information Engineering (Chinese Academy of Sciences), CSIRO’s Data61, The University of Chicago
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.12443">
+         Reconstruction of Differentially Private Text Sanitization via Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Reconstruction attacks
+        </strong>
+        &amp;
+        <strong>
+         Privacy risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of California San Diego
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.14923">
+         Imprompter: Tricking LLM Agents into Improper Tool Use
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Injection
+        </strong>
+        &amp;
+        <strong>
+         LLM Agents
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        University of California, San Diego
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.15153">
+         Evaluating Deep Unlearning in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Deep Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Removal
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        The Pennsylvania State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.16454">
+         Does Your LLM Truly Unlearn? An Embarrassingly Simple Approach to Recover Unlearned Knowledge
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Recovery
+        </strong>
+        &amp;
+        <strong>
+         Quantization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Google DeepMind
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.17175">
+         Remote Timing Attacks on Efficient Language Model Inference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Timing Attacks
+        </strong>
+        &amp;
+        <strong>
+         Efficient Inference
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Huawei Technologies Düsseldorf
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.18824">
+         PSY: Posterior Sampling Based Privacy Enhancer in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Enhancing Technology
+        </strong>
+        &amp;
+        <strong>
+         Posterior Sampling
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.10
+       </td>
+       <td style="text-align: center;">
+        Northwestern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2410.19114">
+         LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Technical University of Darmstadt
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.00154">
+         Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Toronto
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.01076">
+         Privacy Risks of Speculative Decoding in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Speculative Decoding
+        </strong>
+        &amp;
+        <strong>
+         Side-channel Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.01344">
+         Can Humans Oversee Agents to Prevent Privacy Leakage? A Study on Privacy Awareness, Preferences, and Trust in Language Model Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Awareness
+        </strong>
+        &amp;
+        <strong>
+         Trust in LLMs
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage Prevention
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Guangxi University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.01471">
+         A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Framework
+        </strong>
+        &amp;
+        <strong>
+         Blind Signatures
+        </strong>
+        &amp;
+        <strong>
+         LLM Services
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Massachusetts Amherst
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.01705">
+         Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Data Extraction
+        </strong>
+        &amp;
+        <strong>
+         Backdoor Attacks
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        EPFL
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.02902">
+         Membership Inference Attacks against Large Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Helsinki
+       </td>
+       <td style="text-align: center;">
+        NeurIPS 2024 Foundation Model Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.04680">
+         Differentially Private Continual Learning using Pre-Trained Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Continual Learning
+        </strong>
+        &amp;
+        <strong>
+         Pre-trained Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.05034">
+         Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Embedding Inversion
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        University of Toronto
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.10512">
+         On the Privacy Risk of In-context Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         In-context Learning
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risk
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference Attack
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Fudan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.14110">
+         RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Attacks
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         Automated Adversarial Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Texas A&amp;M University
+       </td>
+       <td style="text-align: center;">
+        NDSS 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.16111">
+         LLMPirate: LLMs for Black-box Hardware IP Piracy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM-based Attack
+        </strong>
+        &amp;
+        <strong>
+         Hardware IP Piracy
+        </strong>
+        &amp;
+        <strong>
+         Piracy Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.11
+       </td>
+       <td style="text-align: center;">
+        Imperial College London, Flashbots, Technical University of Munich
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2411.15831">
+         Efficient and Private: Memorisation under Differentially Private Parameter-Efficient Fine-Tuning in Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Parameter-Efficient Fine-Tuning
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of North Carolina at Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.02868">
+         A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving LLMs
+        </strong>
+        &amp;
+        <strong>
+         Healthcare
+        </strong>
+        &amp;
+        <strong>
+         EHR Data
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        CISPA Helmholtz Center for Information Security
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.02467">
+         DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Tabular Data Generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        New York University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.01042">
+         TruncFormer: Private LLM Inference Using Only Truncations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Private Inference
+        </strong>
+        &amp;
+        <strong>
+         LLMs
+        </strong>
+        &amp;
+        <strong>
+         Truncations
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Dalhousie University, Canada; Vector Institute, Canada
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.05533">
+         Can Large Language Models Be Privacy-Preserving and Fair Medical Coders?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         ICD Classification
+        </strong>
+        &amp;
+        <strong>
+         Fairness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        UC Santa Barbara, UC Berkeley, Meta
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.05734">
+         PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Red-teaming
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompts
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of California San Diego
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.06113">
+         Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Mechanisms
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Federated Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Sun Yat-Sen University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.07261">
+         MemHunter: Automated and Verifiable Memorization Detection at Dataset-scale in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Memorization Detection
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Nanyang Technological University, Singapore University of Technology and Design, Zhejiang University, Chengdu University of Information Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.07796">
+         MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving
+        </strong>
+        &amp;
+        <strong>
+         Next POI Recommendation
+        </strong>
+        &amp;
+        <strong>
+         Multitask Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Nanyang Technological University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.08145">
+         A Survey on Private Transformer Inference
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Transformer Models
+        </strong>
+        &amp;
+        <strong>
+         Private Inference
+        </strong>
+        &amp;
+        <strong>
+         Data Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of Sheffield
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.12040">
+         How Private are Language Models in Abstractive Summarization?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Preservation
+        </strong>
+        &amp;
+        <strong>
+         Abstractive Summarization
+        </strong>
+        &amp;
+        <strong>
+         PII Leakage
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.12775">
+         RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving RAG
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Embedding Perturbation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Lanzhou University
+       </td>
+       <td style="text-align: center;">
+        ICASSP 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.17249">
+         EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attacks
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Ensemble Modeling
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Hunan University, National University of Defense Technology, University of Science and Technology of China, Lancaster University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.16537">
+         Accelerating Private Large Transformers Inference through Fine-grained Collaborative Computation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Inference
+        </strong>
+        &amp;
+        <strong>
+         Homomorphic Encryption
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Hokkaido University, China University of Mining and Technology, Institute of Science Tokyo, Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.16504">
+         Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning LLMs
+        </strong>
+        &amp;
+        <strong>
+         Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Zhejiang Laboratory, The Chinese University of Hong Kong
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.17053">
+         DR-ENCODER: Encode Low-Rank Gradients with Random Prior for Large Language Models Differentially Privately
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Gradient Compression
+        </strong>
+        &amp;
+        <strong>
+         Federated Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Yandex, Moscow Institute of Physics and Technology (MIPT), HSE University, Skoltech, Together AI, Ivannikov Institute for System Programming of the Russian Academy of Sciences (ISP RAS), Innopolis University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.16669">
+         Label Privacy in Split Learning for Large Models with Parameter-Efficient Training
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Label Privacy
+        </strong>
+        &amp;
+        <strong>
+         Split Learning
+        </strong>
+        &amp;
+        <strong>
+         Parameter-Efficient Training (PEFT)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        Institute of Computing Technology, Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.19496">
+         Multi-P2A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Assessment
+        </strong>
+        &amp;
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        24.12
+       </td>
+       <td style="text-align: center;">
+        University of Alberta
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2412.20641">
+         SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data Generation
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.00786">
+         Shifting-Merging: Secure, High-Capacity and Efficient Steganography via Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Secure Steganography
+        </strong>
+        &amp;
+        <strong>
+         High-Capacity Embedding
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.09431">
+         A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Responsible LLMs
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Hallucination
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Ben-Gurion University of the Negev
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.08454">
+         Tag&amp;Tab: Pretraining Data Detection in Large Language Models Using Keyword-Based Membership Inference Attack
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attacks
+        </strong>
+        &amp;
+        <strong>
+         Pretraining Data Detection
+        </strong>
+        &amp;
+        <strong>
+         Keyword Entropy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        New York University
+       </td>
+       <td style="text-align: center;">
+        AAAI PPAI Workshop
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.03489">
+         Entropy-Guided Attention for Private LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Inference
+        </strong>
+        &amp;
+        <strong>
+         Entropy-Guided Attention
+        </strong>
+        &amp;
+        <strong>
+         Nonlinear Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Institute of Information Engineering, Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.05249">
+         RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Black-Box Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         IP Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Case Western Reserve University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.04323">
+         Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Fine-tuning
+        </strong>
+        &amp;
+        <strong>
+         Data Reconstruction Attack Defense
+        </strong>
+        &amp;
+        <strong>
+         GuardedTuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Communication University of China
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.01672">
+         Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fully Homomorphic Encryption
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving Techniques
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        University at Albany
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.10915">
+         LegalGuardian: A Privacy-Preserving Framework for Secure Integration of Large Language Models in Legal Practice
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Legal Practice
+        </strong>
+        &amp;
+        <strong>
+         Privacy Preservation
+        </strong>
+        &amp;
+        <strong>
+         Named Entity Recognition
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        IBM Research
+       </td>
+       <td style="text-align: center;">
+        AAAI 2025 Deployable AI Workshop
+       </td>
+       <td style="text-align: center;">
+        Deploying Privacy Guardrails for LLMs: A Comparative Analysis of Real-World Applications
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Guardrails
+        </strong>
+        &amp;
+        <strong>
+         PII Detection
+        </strong>
+        &amp;
+        <strong>
+         Compliance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Delft University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.17501v1">
+         How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Language Models
+        </strong>
+        &amp;
+        <strong>
+         Data Extraction Attacks
+        </strong>
+        &amp;
+        <strong>
+         Memorization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Technical University of Darmstadt, Max Planck Institute for Intelligent Systems, University of Copenhagen
+       </td>
+       <td style="text-align: center;">
+        ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.18532">
+         PSA: Differentially Private Steering for Large Language Model Alignment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Activation Editing
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference Attack
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.01
+       </td>
+       <td style="text-align: center;">
+        Google Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2501.18914">
+         Scaling Laws for Differentially Private Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Scaling Laws
+        </strong>
+        &amp;
+        <strong>
+         LLM Training
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.00847">
+         SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving LLMs
+        </strong>
+        &amp;
+        <strong>
+         Prompt Ensembling
+        </strong>
+        &amp;
+        <strong>
+         Homomorphic Encryption
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Columbia University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.01187">
+         Skewed Memorization in Large Language Models: Quantification and Decomposition
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Memorization
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning Analysis
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of California, San Diego
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.02068">
+         Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Watermarking
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+        &amp;
+        <strong>
+         Zero-Knowledge Proofs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of British Columbia
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.02787">
+         SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Sentence-Level Similarity
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Robustness
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Tune Insight SA, EPFL, Yale University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.05087">
+         Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving Techniques
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Beijing University of Posts and Telecommunications
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.05739">
+         Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         LLMs4Code
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of South Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.08008">
+         An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         LLM Fine-Tuning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Amazon
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.09974">
+         HAS MY SYSTEM PROMPT BEEN USED? LARGE LANGUAGE MODEL PROMPT MEMBERSHIP INFERENCE
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Membership Inference
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+        &amp;
+        <strong>
+         Statistical Verification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        University of Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.10673">
+         Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Dataset Protection
+        </strong>
+        &amp;
+        <strong>
+         Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Retrieval-Augmented LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong University of Science and Technology (Guangzhou)
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.11051">
+         MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         MLLMs
+        </strong>
+        &amp;
+        <strong>
+         Gradient Descent
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Institute of Software Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.11358">
+         Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Information Theft Attacks
+        </strong>
+        &amp;
+        <strong>
+         LLM Tool-Learning
+        </strong>
+        &amp;
+        <strong>
+         Dynamic Command Generation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.12658">
+         R.R.: Unveiling LLM Training Privacy through Recollection and Ranking
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         PII Reconstruction
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Michigan State University
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.13172">
+         Unveiling Privacy Risks in LLM Agent Memory
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Agent
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risks
+        </strong>
+        &amp;
+        <strong>
+         Memory Extraction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        MPI–SWS, Germany
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.13313">
+         Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Utility
+        </strong>
+        &amp;
+        <strong>
+         Fine-Tuning Efficiency
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Apart Research
+       </td>
+       <td style="text-align: center;">
+        AAAI 2025 Workshop DATASAFE
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.14412">
+         Evaluating Precise Geolocation Inference Capabilities of Vision Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Vision-Language Models
+        </strong>
+        &amp;
+        <strong>
+         Geolocation Inference
+        </strong>
+        &amp;
+        <strong>
+         Privacy Risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Huazhong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.16094">
+         Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Merging
+        </strong>
+        &amp;
+        <strong>
+         PII Extraction
+        </strong>
+        &amp;
+        <strong>
+         Security Vulnerabilities
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Northeastern University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.15680">
+         Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PII Memorization
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy
+        </strong>
+        &amp;
+        <strong>
+         Training Dynamics
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Microsoft
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.15010">
+         Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unmemorization
+        </strong>
+        &amp;
+        <strong>
+         Intellectual Property Protection
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Yonsei University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.18851">
+         Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Watermarking
+        </strong>
+        &amp;
+        <strong>
+         LLM Detection
+        </strong>
+        &amp;
+        <strong>
+         Software Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        South China University of Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.18517">
+         RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-Preserving Fine-Tuning
+        </strong>
+        &amp;
+        <strong>
+         Synthetic Data Generation
+        </strong>
+        &amp;
+        <strong>
+         Reward Model
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        IBM Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.18509">
+         Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Contextual Privacy
+        </strong>
+        &amp;
+        <strong>
+         Conversational Agents
+        </strong>
+        &amp;
+        <strong>
+         User Privacy Protection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Indian Institute of Technology Roorkee
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.15796">
+         Pruning as a Defense: Reducing Memorization in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Pruning
+        </strong>
+        &amp;
+        <strong>
+         Memorization Reduction
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Emory University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19726">
+         Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference Attacks
+        </strong>
+        &amp;
+        <strong>
+         Privacy Defense
+        </strong>
+        &amp;
+        <strong>
+         Dual-Purpose Training
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Seoul National University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.19207">
+         FAITHUN: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Faithful Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Interconnectedness
+        </strong>
+        &amp;
+        <strong>
+         Privacy in LLMs
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.02
+       </td>
+       <td style="text-align: center;">
+        Duke University
+       </td>
+       <td style="text-align: center;">
+        ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2502.17591">
+         Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Personal Identifiable Information (PII)
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Xidian University, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.03146">
+         PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy-preserving Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Function Secret Sharing
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Ben-Gurion University of the Negev, Nuclear Research Center – Negev
+       </td>
+       <td style="text-align: center;">
+        arXiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.03652">
+         Token-Level Privacy in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Token-Level Privacy
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong University of Science and Technology (Guangzhou), Tsinghua University
+       </td>
+       <td style="text-align: center;">
+        Workshop on GenAI Watermarking, ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.04636">
+         MARK YOUR LLM: DETECTING THE MISUSE OF OPEN-SOURCE LARGE LANGUAGE MODELS VIA WATERMARKING
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Open-Source LLMs
+        </strong>
+        &amp;
+        <strong>
+         Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Misuse Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Maryland, College Park
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.06040">
+         Mitigating Memorization in LLMs using Activation Steering
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Activation Steering
+        </strong>
+        &amp;
+        <strong>
+         Memorization Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Sparse Autoencoders
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Wuhan University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.08175">
+         Privacy-Enhancing Paradigms within Federated Multi-Agent Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated MAS
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         EPEAgents
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        FAIR at Meta
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.09780">
+         AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Agents
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Web Navigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        UCLA
+       </td>
+       <td style="text-align: center;">
+        Blogpost @ ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.04756">
+         Peeking Behind Closed Doors: Risks of LLM Evaluation by Private Data Curators
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Private Evaluation
+        </strong>
+        &amp;
+        <strong>
+         LLM-as-a-Judge
+        </strong>
+        &amp;
+        <strong>
+         Evaluation Bias
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Princeton University
+       </td>
+       <td style="text-align: center;">
+        ICLR 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.06808">
+         Privacy Auditing of Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Auditing
+        </strong>
+        &amp;
+        <strong>
+         Membership Inference Attack
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Huawei Munich Research Center
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.11232">
+         PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy in LLMs
+        </strong>
+        &amp;
+        <strong>
+         Sparse Autoencoders
+        </strong>
+        &amp;
+        <strong>
+         Feature-Level Intervention
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Zhejiang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.12896">
+         Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Embedding Privacy
+        </strong>
+        &amp;
+        <strong>
+         End-Cloud Collaboration
+        </strong>
+        &amp;
+        <strong>
+         Entropy-based Perturbation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        RMIT University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.14900">
+         Deep Contrastive Unlearning for Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Contrastive Learning
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University of Maryland
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.14932">
+         Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Black-Box Adaptation
+        </strong>
+        &amp;
+        <strong>
+         Data Privacy
+        </strong>
+        &amp;
+        <strong>
+         Resource-Constrained Devices
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Seoul National University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.15547">
+         Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Agents
+        </strong>
+        &amp;
+        <strong>
+         Privilege Escalation
+        </strong>
+        &amp;
+        <strong>
+         Prompt Flow Integrity
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Beijing University of Posts and Telecommunications
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.15548">
+         Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         RAG Security
+        </strong>
+        &amp;
+        <strong>
+         Encrypted Embeddings
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving Retrieval
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Shanghai Jiao Tong University, University of Kent
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.16516">
+         Using LLMs for Automated Privacy Policy Analysis: Prompt Engineering, Fine-Tuning and Explainability
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Policy
+        </strong>
+        &amp;
+        <strong>
+         Prompt Engineering
+        </strong>
+        &amp;
+        <strong>
+         Explainability
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        Henry Ford Health, Michigan State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.17553">
+         Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Radiotherapy Planning
+        </strong>
+        &amp;
+        <strong>
+         LLM Agent
+        </strong>
+        &amp;
+        <strong>
+         RAG
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong Polytechnic University, Institute of Science Tokyo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.19338">
+         Membership Inference Attacks on Large-Scale Models: A Survey
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Membership Inference
+        </strong>
+        &amp;
+        <strong>
+         LLMs Privacy
+        </strong>
+        &amp;
+        <strong>
+         Multimodal Model Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        University College London, King’s College Hospital, King’s College London
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.20953">
+         Clean &amp; Clear: Feasibility of Safe LLM Clinical Guidance
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Clinical Guidance
+        </strong>
+        &amp;
+        <strong>
+         Hallucination Mitigation
+        </strong>
+        &amp;
+        <strong>
+         Healthcare LLM
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.03
+       </td>
+       <td style="text-align: center;">
+        UL Research Institutes
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2503.22760">
+         Malicious and Unintentional Disclosure Risks in Large Language Models for Code Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Code Generation
+        </strong>
+        &amp;
+        <strong>
+         Unintended Memorization
+        </strong>
+        &amp;
+        <strong>
+         Disclosure Risks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Oslo
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.00031">
+         Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Cybersecurity
+        </strong>
+        &amp;
+        <strong>
+         LoRA Fine-tuning
+        </strong>
+        &amp;
+        <strong>
+         Model Editing
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Beijing University of Posts and Telecommunications
+       </td>
+       <td style="text-align: center;">
+        USENIX Security 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.00858">
+         Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Audio Adversarial Examples
+        </strong>
+        &amp;
+        <strong>
+         Speech Privacy
+        </strong>
+        &amp;
+        <strong>
+         LLM-powered ASR
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Amazon AGI
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.02883">
+         SemEval-2025 Task 4: Unlearning Sensitive Content from Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         LLM Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Benchmarking
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Michigan
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.05147">
+         Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Prompt Privacy
+        </strong>
+        &amp;
+        <strong>
+         Format-Preserving Encryption
+        </strong>
+        &amp;
+        <strong>
+         Metric Differential Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Centre for Frontier AI Research
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.11511">
+         Position Paper: Rethinking Privacy in RL for Sequential Decision-making in the Age of LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+        &amp;
+        <strong>
+         Sequential Decision-making
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Korea University
+       </td>
+       <td style="text-align: center;">
+        IJCNN 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.12681">
+         GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy
+        </strong>
+        &amp;
+        <strong>
+         Multi-domain Forgetting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        University of Chicago
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.16000">
+         How Private is Your Attention? Bridging Privacy with In-Context Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         In-Context Learning
+        </strong>
+        &amp;
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Attention Mechanism
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Université de Toulouse
+       </td>
+       <td style="text-align: center;">
+        CL4Health @ NAACL 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.17360">
+         PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Model Merging
+        </strong>
+        &amp;
+        <strong>
+         Healthcare Privacy
+        </strong>
+        &amp;
+        <strong>
+         LLMs for EHR
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.04
+       </td>
+       <td style="text-align: center;">
+        Emory University
+       </td>
+       <td style="text-align: center;">
+        MedInfo 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.18569">
+         Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PHI Annotation
+        </strong>
+        &amp;
+        <strong>
+         Privacy-Preserving LLM
+        </strong>
+        &amp;
+        <strong>
+         Clinical NLP
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Hokkaido University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2504.21036">
+         Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Fine-tuning
+        </strong>
+        &amp;
+        <strong>
+         Privacy Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Southern California
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.00951">
+         Preserving Privacy and Utility in LLM-Based Product Recommendations
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Recommendation System
+        </strong>
+        &amp;
+        <strong>
+         Privacy Preservation
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Indiana University Bloomington
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.04799">
+         Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multi-Agent Systems
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+        &amp;
+        <strong>
+         LLM Frameworks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of North Carolina at Chapel Hill
+       </td>
+       <td style="text-align: center;">
+        Transactions on Machine Learning Research
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.01456">
+         Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Multimodal LLMs
+        </strong>
+        &amp;
+        <strong>
+         Information Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Security Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Houston
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.06305v1">
+         User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Preference Modeling
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Few-shot Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Eastern Switzerland University of Applied Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.08728v1">
+         Securing RAG: A Risk Assessment and Mitigation Framework
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Retrieval-Augmented Generation
+        </strong>
+        &amp;
+        <strong>
+         Security Framework
+        </strong>
+        &amp;
+        <strong>
+         Risk Mitigation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Peking University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.08849v1">
+         Improved Algorithms for Differentially Private Language Model Alignment
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Differential Privacy
+        </strong>
+        &amp;
+        <strong>
+         Language Model Alignment
+        </strong>
+        &amp;
+        <strong>
+         DP-ADAMW
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Chinese Academy of Sciences
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.09921v1">
+         PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Jailbreak
+        </strong>
+        &amp;
+        <strong>
+         PII Extraction
+        </strong>
+        &amp;
+        <strong>
+         Gradient-Based Optimization
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Institute of Information Engineering, CAS
+       </td>
+       <td style="text-align: center;">
+        S &amp; P 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.07239v1">
+         Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Private Inference
+        </strong>
+        &amp;
+        <strong>
+         MPC
+        </strong>
+        &amp;
+        <strong>
+         Activation Sparsity Prediction
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Cornell University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.13292v1">
+         Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Cross-Cloud Privacy
+        </strong>
+        &amp;
+        <strong>
+         Large Language Models
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Michigan State University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.13957">
+         Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         MRAG
+        </strong>
+        &amp;
+        <strong>
+         Privacy Leakage
+        </strong>
+        &amp;
+        <strong>
+         Multi-modal Attacks
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Mohamed bin Zayed University of Artificial Intelligence
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14112">
+         Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Entropy Prediction
+        </strong>
+        &amp;
+        <strong>
+         Low-Entropy Detection
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Massachusetts Amherst
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14549">
+         Can Large Language Models Really Recognize Your Name?
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         PII Detection
+        </strong>
+        &amp;
+        <strong>
+         Contextual Ambiguity
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy Failures
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        HKUST
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14585">
+         Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Contextual Integrity
+        </strong>
+        &amp;
+        <strong>
+         Legal Compliance
+        </strong>
+        &amp;
+        <strong>
+         Reinforcement Learning
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Yonsei University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.14832v1">
+         SEPS: A Separability Measure for Robust Unlearning in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Large Language Models
+        </strong>
+        &amp;
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Mixed Prompt Evaluation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Yonsei University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15209v1">
+         DUSK: Do Not Unlearn Shared Knowledge
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Shared Knowledge
+        </strong>
+        &amp;
+        <strong>
+         Benchmark
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Hongik University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15214v1">
+         R-TOFU: Unlearning in Large Reasoning Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Large Reasoning Models
+        </strong>
+        &amp;
+        <strong>
+         Chain-of-Thought
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Science and Technology of China
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15674v1">
+         UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Unlearning Token
+        </strong>
+        &amp;
+        <strong>
+         Model Editing
+        </strong>
+        &amp;
+        <strong>
+         LLM Forgetting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Beihang University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15683v1">
+         A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Split Learning
+        </strong>
+        &amp;
+        <strong>
+         LLM Privacy
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.16530v1">
+         DuFFin: A Dual-Level Fingerprinting Framework for LLMs IP Protection
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Fingerprinting
+        </strong>
+        &amp;
+        <strong>
+         IP Protection
+        </strong>
+        &amp;
+        <strong>
+         Black-box Verification
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        The Hong Kong Polytechnic University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.16831v1">
+         Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Machine Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Representation Analysis
+        </strong>
+        &amp;
+        <strong>
+         Reversible Forgetting
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.16934v1">
+         In-Context Watermarks for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         In-Context Watermarking
+        </strong>
+        &amp;
+        <strong>
+         Prompt Engineering
+        </strong>
+        &amp;
+        <strong>
+         LLM Provenance
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of South Florida
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.16957v1">
+         Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Font Injection
+        </strong>
+        &amp;
+        <strong>
+         Indirect Prompt Attack
+        </strong>
+        &amp;
+        <strong>
+         LLM Security
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Shanghai Jiao Tong University
+       </td>
+       <td style="text-align: center;">
+        ICML 2025
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.15252v1">
+         An Efficient Private GPT Never Autoregressively Decodes
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Private GPT
+        </strong>
+        &amp;
+        <strong>
+         Secure Inference
+        </strong>
+        &amp;
+        <strong>
+         Speculative Decoding
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Ritual, Stanford University, Columbia University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.18332">
+         An Attack to Break Permutation-Based Private Third-Party Inference Schemes for LLMs
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy
+        </strong>
+        &amp;
+        <strong>
+         Permutation
+        </strong>
+        &amp;
+        <strong>
+         Inference Attack
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        University of Science, VNU-HCM, Indiana University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.17160v1">
+         Harry Potter is Still Here! Probing Knowledge Leakage in Targeted Unlearned Large Language Models via Automated Adversarial Prompting
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Knowledge Unlearning
+        </strong>
+        &amp;
+        <strong>
+         Adversarial Prompting
+        </strong>
+        &amp;
+        <strong>
+         Knowledge Leakage
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Shanghai Jiao Tong University
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.20910">
+         Automated Privacy Information Annotation in Large Language Model Interactions
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Privacy Detection
+        </strong>
+        &amp;
+        <strong>
+         LLM Interaction
+        </strong>
+        &amp;
+        <strong>
+         Automated Annotation
+        </strong>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align: center;">
+        25.05
+       </td>
+       <td style="text-align: center;">
+        Hong Kong University of Science and Technology
+       </td>
+       <td style="text-align: center;">
+        arxiv
+       </td>
+       <td style="text-align: center;">
+        <a href="https://arxiv.org/abs/2505.22447">
+         Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models
+        </a>
+       </td>
+       <td style="text-align: center;">
+        <strong>
+         Federated Learning
+        </strong>
+        &amp;
+        <strong>
+         Prompt Personalization
+        </strong>
+        &amp;
+        <strong>
+         Privacy Protection
+        </strong>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     💻Presentations &amp; Talks
+    </h2>
+    <h2>
+     📖Tutorials &amp; Workshops
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Type
+       </th>
+       <th style="text-align: center;">
+        Title
+       </th>
+       <th style="text-align: center;">
+        URL
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.10
+       </td>
+       <td style="text-align: center;">
+        Tutorials
+       </td>
+       <td style="text-align: center;">
+        Awesome-LLM-Safety
+       </td>
+       <td style="text-align: center;">
+        <a href="https://github.com/ydyjya/Awesome-LLM-Safety">
+         link
+        </a>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     📰News &amp; Articles
+    </h2>
+    <table>
+     <thead>
+      <tr>
+       <th style="text-align: center;">
+        Date
+       </th>
+       <th style="text-align: center;">
+        Type
+       </th>
+       <th style="text-align: center;">
+        Title
+       </th>
+       <th style="text-align: center;">
+        URL
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="text-align: center;">
+        23.11
+       </td>
+       <td style="text-align: center;">
+        News
+       </td>
+       <td style="text-align: center;">
+        Wild: GPT-3.5 leaked a random dude's photo in the output.
+       </td>
+       <td style="text-align: center;">
+        <a href="https://twitter.com/thealexker/status/1719896871009694057">
+         link
+        </a>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <h2>
+     🧑‍🏫Scholars
+    </h2>
+   </div>
+   <a class="back-to-home" href="../index_cn.html">
+    <i class="fas fa-arrow-left">
+    </i>
+    返回首页
+   </a>
+  </div>
+  <footer>
+   <div class="container">
+    <div class="footer-content">
+     <p>
+      作者:
+      <a href="https://github.com/ydyjya">
+       ydyjya
+      </a>
+     </p>
+     <p>
+      联系方式: zhouzhenhong@bupt.edu.cn
+     </p>
+    </div>
+    <div class="footer-links">
+     <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+      <i class="fab fa-github">
+      </i>
+      GitHub 仓库
+     </a>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

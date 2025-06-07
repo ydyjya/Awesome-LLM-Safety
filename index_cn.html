@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome LLM-Safety</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛡️ Awesome LLM-Safety 🛡️</h1>
+            <div class="language-switch">
+                <a href="index.html">English</a> | 
+                <a href="#" class="active">中文</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <p class="intro">大语言模型安全相关资源的精选集合，包括最新、最全面和最有价值的资源。</p>
+            <div class="stats">
+                <div class="stat">
+                    <i class="fas fa-star"></i>
+                    <span id="stars">★ Stars</span>
+                </div>
+                <div class="stat">
+                    <i class="fas fa-code-fork"></i>
+                    <span id="forks">🍴 Forks</span>
+                </div>
+                <div class="stat">
+                    <i class="fas fa-exclamation-circle"></i>
+                    <span id="issues">❗ Issues</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <nav class="main-nav">
+        <div class="container">
+            <ul>
+                <li><a href="#security">安全与讨论</a></li>
+                <li><a href="#privacy">隐私</a></li>
+                <li><a href="#truthfulness">真实性与错误信息</a></li>
+                <li><a href="#jailbreak">越狱与攻击</a></li>
+                <li><a href="#defenses">防御与缓解</a></li>
+                <li><a href="#datasets">数据集与基准</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="latest-news">
+            <h2>🔥 最新消息</h2>
+            <div class="news-item">
+                <span class="date">2024.05</span>
+                <p>更新 NAACL 2024 论文集，感谢 @<a href="https://github.com/zhrli324">zhrli324</a>, @<a href="https://github.com/feqHe">feqHe</a>！</p>
+            </div>
+        </section>
+
+        <section id="security">
+            <h2>🔐 安全与讨论</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.10</span>
+                            <span class="institute">Facebook AI Research</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2010.07079">Recipes for Safety in Open-domain Chatbots</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">22.03</span>
+                            <span class="institute">OpenAI</span>
+                            <span class="publication">NIPS2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html">Training language models to follow instructions with human feedback</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.07</span>
+                            <span class="institute">UC Berkeley</span>
+                            <span class="publication">NIPS2023</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2307.02483">Jailbroken: How Does LLM Safety Training Fail?</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="resources">
+                <h3>📖 教程、文章、演讲与讨论</h3>
+                <div class="resource-list">
+                    <div class="resource">
+                        <div class="resource-meta">
+                            <span class="date">22.02</span>
+                            <span class="type">毒性检测 API</span>
+                        </div>
+                        <div class="resource-title">
+                            <a href="https://www.perspectiveapi.com/">Perspective API</a>
+                            <a href="https://arxiv.org/abs/2202.11176">[论文]</a>
+                        </div>
+                    </div>
+
+                    <div class="resource">
+                        <div class="resource-meta">
+                            <span class="date">23.07</span>
+                            <span class="type">资源库</span>
+                        </div>
+                        <div class="resource-title">
+                            <a href="https://github.com/corca-ai/awesome-llm-security">Awesome LLM Security</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Security&Discussion.html">👉 更多安全论文</a>
+            </div>
+        </section>
+
+        <section id="privacy">
+            <h2>🔏 隐私</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">19.12</span>
+                            <span class="institute">Microsoft</span>
+                            <span class="publication">CCS2020</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://dl.acm.org/doi/abs/10.1145/3372297.3417880">Analyzing Information Leakage of Updates to Natural Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.07</span>
+                            <span class="institute">Google Research</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://aclanthology.org/2022.acl-long.577/">Deduplicating Training Data Makes Language Models Better</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Privacy.html">👉 更多隐私论文</a>
+            </div>
+        </section>
+
+        <section id="truthfulness">
+            <h2>📰 真实性与错误信息</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.09</span>
+                            <span class="institute">University of Oxford</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2109.07958">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.11</span>
+                            <span class="institute">Harbin Institute of Technology</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2311.05232">A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Truthfulness&Misinformation.html">👉 更多真实性论文</a>
+            </div>
+        </section>
+
+        <section id="jailbreak">
+            <h2>😈 越狱与攻击</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.12</span>
+                            <span class="institute">Google</span>
+                            <span class="publication">USENIX Security 2021</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting">Extracting Training Data from Large Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">23.07</span>
+                            <span class="institute">CMU</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2307.15043">Universal and Transferable Adversarial Attacks on Aligned Language Models</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Jailbreaks&Attack.html">👉 更多越狱论文</a>
+            </div>
+        </section>
+
+        <section id="defenses">
+            <h2>🛡️ 防御与缓解</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.07</span>
+                            <span class="institute">Google Research</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://aclanthology.org/2022.acl-long.577/">Deduplicating Training Data Makes Language Models Better</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">22.04</span>
+                            <span class="institute">Anthropic</span>
+                            <span class="publication">arxiv</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2204.05862">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Defense&Mitigation.html">👉 更多防御论文</a>
+            </div>
+        </section>
+
+        <section id="datasets">
+            <h2>💯 数据集与基准</h2>
+            
+            <div class="papers">
+                <h3>📑 论文</h3>
+                <div class="paper-list">
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">20.09</span>
+                            <span class="institute">University of Washington</span>
+                            <span class="publication">EMNLP2020(findings)</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2009.11462">RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models</a>
+                        </div>
+                    </div>
+
+                    <div class="paper">
+                        <div class="paper-meta">
+                            <span class="date">21.09</span>
+                            <span class="institute">University of Oxford</span>
+                            <span class="publication">ACL2022</span>
+                        </div>
+                        <div class="paper-title">
+                            <a href="https://arxiv.org/abs/2109.07958">TruthfulQA: Measuring How Models Mimic Human Falsehoods</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="resources">
+                <h3>📚 资源</h3>
+                <div class="resource-list">
+                    <div class="resource">
+                        <div class="resource-title">
+                            <a href="https://toxicdegeneration.allenai.org/">RealToxicityPrompts 数据集</a>
+                        </div>
+                    </div>
+                    <div class="resource">
+                        <div class="resource-title">
+                            <a href="https://github.com/sylinrl/TruthfulQA">TruthfulQA 数据集</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="more-link">
+                <a href="./subtopic_html_cn/Datasets&Benchmark.html">👉 更多数据集论文</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>作者: <a href="https://github.com/ydyjya">ydyjya</a></p>
+                <p>联系方式: zhouzhenhong@bupt.edu.cn</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/ydyjya/Awesome-LLM-Safety" target="_blank">
+                    <i class="fab fa-github"></i> GitHub 仓库
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 
