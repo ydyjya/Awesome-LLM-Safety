@@ -190,7 +190,7 @@
 | 25.05 | Hong Kong University of Science and Technology (Guangzhou)| arxiv | [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568v1) | **Jailbreak Benchmark**&**Audio Language Model**&**Adversarial Attack** |
 | 25.05 | University of Washington | arxiv | [SOS BENCH: Benchmarking Safety Alignment on Scientific Knowledge](https://arxiv.org/abs/2505.21605) | **Safety Alignment**&**Scientific Knowledge**&**Benchmark** |
 | 25.05 | John Hopkins University | arxiv | [Jailbreak Distillation: Renewable Safety Benchmarking](https://arxiv.org/abs/2505.22037) | **Jailbreak Distillation**&**Safety Benchmark**&**Prompt Selection** |
-
+| 25.04 | University of Notre Dame | NAACL2025(System Demo) | [TRUSTEVAL: A Dynamic Evaluation Toolkit on Trustworthiness of Generative Foundation Models](https://aclanthology.org/2025.naacl-demo.8/) | **Trustworthiness Evaluation Across GenFMs**
 
 ## 📚Resource
 
