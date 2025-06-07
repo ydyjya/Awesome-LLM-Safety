@@ -54,7 +54,7 @@ Please note that these pull requests need to be consistent with our existing for
 🌱 If you would like more people to read your recent insightful work, please contact me via [email](zhouzhenhong@bupt.edu.cn). 
 I can offer you a promotional spot here for up to one month.
 
-**Let’s start LLM Safety tutorial!**
+**Let's start LLM Safety tutorial!**
 
 ---
 
@@ -233,7 +233,7 @@ I can offer you a promotional spot here for up to one month.
 | 20.09 | University of Washington | EMNLP2020(findings) |             [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)             |
 | 21.09 |   University of Oxford   |       ACL2022       |                       [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)                        |
 | 22.03 |           MIT            |       ACL2022       | [ToxiGen: A Large-Scale Machine-Generated datasets for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509) |
-
+| 25.04 | University of Notre Dame | NAACL2025(System Demo) | [TRUSTEVAL: A Dynamic Evaluation Toolkit on Trustworthiness of Generative Foundation Models](https://aclanthology.org/2025.naacl-demo.8/) |
 
 ### 📖Tutorials, Articles, Presentations and Talks
 

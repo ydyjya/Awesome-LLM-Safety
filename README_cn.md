@@ -20,7 +20,7 @@
 **🧑‍💻我们的工作：**
 我们精心挑选并罗列了有关大模型安全方面（llm-safety）最新😋、最全面😎、最有价值🤩的论文。不仅如此，我们还附上了有关的演讲、教程、会议、新闻以及文章。这个仓库将实时更新，保证第一手资料。
 
->如果一份资料同时属于多个子分类，那么它将被同时放在这些子分类下。比如 “ Awesome-LLM-Safety”这个仓库将被放在每个子分类下。
+>如果一份资料同时属于多个子分类，那么它将被同时放在这些子分类下。比如 " Awesome-LLM-Safety"这个仓库将被放在每个子分类下。
 
 **✔️适合多数人：**
 - 对于希望了解llm-safety的初学者，这个仓库可以作为你把握框架，并了解细节的导航。我们在README中保留了比较经典或有影响力的论文，对初学者寻找感兴趣的方向十分友好；
@@ -28,7 +28,7 @@
 
 **🧭使用指南：**
 - 简略版：在README中，使用者可以找到按时间排列好的精选资讯，以及各种咨询的链接
-- 详细版：如果对某一子话题特别感兴趣，可以点开“subtopic”文件夹，进一步了解。里面有对每篇文章或者资讯的简略介绍，可以帮助研究者快速锁定内容。
+- 详细版：如果对某一子话题特别感兴趣，可以点开"subtopic"文件夹，进一步了解。里面有对每篇文章或者资讯的简略介绍，可以帮助研究者快速锁定内容。
 
 <center>🥰🥰🥰让我们开始llm-safety学习之旅吧🥰🥰🥰</center>
 
@@ -197,7 +197,7 @@
 |20.09|University of Washington|EMNLP2020(findings)|[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)|
 |21.09|University of Oxford|ACL2022|[TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)|
 |22.03|MIT|ACL2022|[ToxiGen: A Large-Scale Machine-Generated datasets for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/abs/2203.09509)|
-
+| 25.04 | University of Notre Dame | NAACL2025(System Demo) | [TRUSTEVAL: A Dynamic Evaluation Toolkit on Trustworthiness of Generative Foundation Models](https://aclanthology.org/2025.naacl-demo.8/) |
 
 ### 📖教程, 文章, 演示, 演讲
 
