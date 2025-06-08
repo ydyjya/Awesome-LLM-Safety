@@ -260,6 +260,13 @@
 | 25.05 | Amazon Web Services | arxiv | [From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems](https://arxiv.org/abs/2505.17084v1) | **Risk Management**&**LLM Security**&**Non-Probabilistic Strategies** |
 | 25.05 | Infinite Optimization AI Lab| arxiv | [Security Concerns for Large Language Models: A Survey](https://arxiv.org/abs/2505.18889v1) | **LLM Security**&**Prompt Injection**&**Autonomous Agents** |
 | 25.05 | Nanyang Technological University | arxiv | [Understanding Refusal in Language Models with Sparse Autoencoders](https://arxiv.org/abs/2505.23556) | **Refusal**&**Sparse Autoencoder**&**LLM Safety** |
+| 25.05 | Seoul National University | arxiv | [Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847v2) | **Multi-agent LLM**&**Cross-domain Security**&**Threat Modeling** |
+| 25.05 | University of Washington | arxiv | [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities](https://arxiv.org/abs/2505.23856v1) | **AI Safety**&**Multimodal Moderation**&**Universal Representation** |
+| 25.06 | Tsinghua University | arxiv | [The Security Threat of Compressed Projectors in Large Vision-Language Models](https://arxiv.org/abs/2506.00534v1) | **Vision-Language Model**&**Compressed Projector**&**Adversarial Attack** |
+| 25.06 | Michigan State University | arxiv | [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245v1) | **LLM-MAS**&**Vulnerability Analysis**&**Trustworthy AI** |
+| 25.06 | Singapore Management University | arxiv | [Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study](https://arxiv.org/abs/2506.01825v1) | **Code LLM**&**Backdoor Attack**&**Adversarial Robustness** |
+| 25.06 | University of Science and Technology of China | arxiv | [SECNEURON: Reliable and Flexible Abuse Control in Local LLMs via Hybrid Neuron Encryption](https://arxiv.org/abs/2506.05242v1) | **Local LLM**&**Abuse Control**&**Neuron Encryption** |
+| 25.06 | Dartmouth College | arxiv | [Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets](https://arxiv.org/abs/2506.05346v1) | **LLM Safety**&**Alignment Robustness**&**Representation Similarity** |
 
 
 ## 💻Presentations & Talks
