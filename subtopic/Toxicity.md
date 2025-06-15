@@ -87,6 +87,8 @@
 | 25.06 | University of Washington |             arxiv              | [Detoxification of Large Language Models through Output-layer Fusion with a Calibration Model](https://arxiv.org/abs/2506.01266v1) | **LLM Detoxification**&**Calibration Model**&**Output-layer Fusion** |
 | 25.06 | TU Dresden |             arxiv              | [LLM in the Loop: Creating the PARADEHATE Dataset for Hate Speech Detoxification](https://arxiv.org/abs/2506.01484v1) | **Hate Speech Detoxification**&**LLM Annotation**&**Parallel Dataset** |
 | 25.06 | Penn State University |             arxiv              | [Something Just Like TRuST : Toxicity Recognition of Span and Target](https://arxiv.org/abs/2506.02326v1) | **Toxicity Detection**&**Target Social Group**&**Toxic Span Extraction** |
+| 25.06 | Instituto Politecnico Nacional (IPN) | arxiv | [Multilingual Hate Speech Detection in Social Media Using Translation-Based Approaches with Large Language Models](https://arxiv.org/abs/2506.08147) | **Translation-Based Approach**&**Hate Speech Detection**&**Social Media**&**Multilingual NLP**&**Large Language Model** |
+| 25.06 | International Balkan University, University of Belgrade | arxiv | [Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages](https://arxiv.org/abs/2506.09992v1) | **Toxic Language**&**Large Language Models**&**Low-Resource Language**&**Context Augmentation**&**Balkan NLP** |
 
 
 ## 💻Presentations & Talks

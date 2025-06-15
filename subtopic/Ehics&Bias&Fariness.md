@@ -254,6 +254,10 @@
 | 25.06 | University of California San Diego |                                 arxiv                                 | [Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective](https://arxiv.org/abs/2506.05166v1) | **LLM Bias**&**Mechanistic Interpretability**&**Edge Attribution** |
 | 25.06 | Fondazione Bruno Kessler |                                ACL 2025                               | [Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation](https://arxiv.org/abs/2506.05073v1) | **Self-harm Detection**&**Intent Differentiation**&**Emoji Interpretation** |
 | 25.06 | University of Texas at San Antonio |                               ACL 2025                                | [A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems](https://arxiv.org/abs/2506.02998v1) | **Dialect Bias**&**Privacy Policy QA**&**Multi-Agent Framework** |
+| 25.06 | University of Birmingham, Ateneo de Manila University | arxiv | [Bias Attribution in Filipino Language Models: Extending a Bias Interpretability Metric for Application on Agglutinative Languages](https://arxiv.org/abs/2506.07249) | **Bias Attribution**&**Filipino Language Model**&**Agglutinative Language**&**Interpretability** |
+| 25.06 | JPMorgan Chase | arxiv | [Conservative Bias in Large Language Models: Measuring Relation Predictions](https://arxiv.org/abs/2506.08120v1) | **Conservative Bias**&**Relation Extraction**&**LLM Hallucination**&**Prompt Design** |
+| 25.06 | ScaDS.AI and TU Dresden, LMU Munich, Munich Center for Machine Learning (MCML) | arxiv | [Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models](https://arxiv.org/abs/2506.08593) | **Persona Prompt**&**MBTI**&**LLM Annotation Bias**&**Hate Speech Detection** |
+| 25.06 | TU Wien | arxiv | [On the Ethics of Using LLMs for Offensive Security](https://arxiv.org/abs/2506.08693) | **Ethics**&**Offensive Security**&**LLM**&**Dual-Purpose** |
 
 
 ## 💻Presentations & Talks
