@@ -605,7 +605,12 @@
 | 25.06 | Fudan University | arxiv | [LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops](https://arxiv.org/abs/2506.14493v1) | **Denial-of-Service Attack**&**Multimodal Large Language Models**&**POS-Aware Delay**&**Repetitive Loop**&**Resource Exhaustion** |
 | 25.06 | Meta FAIR, École polytechnique | arxiv | [Winter Soldier: Backdooring Language Models at Pre-Training with Indirect Data Poisoning](https://arxiv.org/abs/2506.14913v1) | **Backdoor**&**Data Poisoning**&**Dataset Ownership Verification**&**Indirect Data Poisoning**&**LLM Security** |
 | 25.06 | Henan University | arxiv | [From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170v1) | **Jailbreak Attack**&**Defense Strategy**&**LLMs**&**MLLMs**&**Agents** |
-
+| 25.06 | Shanghai Jiao Tong University | arxiv | [Multi-turn Jailbreaking via Global Refinement and Active Fabrication](https://arxiv.org/abs/2506.17881) | **Multi-turn Jailbreaking**&**Global Refinement**&**Active Fabrication** |
+| 25.06 | Tsinghua University | arxiv | [Probing the Robustness of Large Language Models Safety to Latent Perturbations](https://arxiv.org/abs/2506.16078v1) | **Safety Alignment**&**Robustness**&**Latent Attack** |
+| 25.06 | Hefei University of Technology | arxiv | [MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning](https://arxiv.org/abs/2506.16792v1) | **Jailbreak Attack**&**Black-box LLM**&**Prompt Tuning** |
+| 25.06 | Xi’an Jiaotong-Liverpool University | arxiv | [Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs](https://arxiv.org/abs/2506.17231v1) | **Jailbreak Attack**&**Prompt Distillation**&**LLM Security** |
+| 25.06 | Northeastern University | arxiv | [LLM Jailbreak Oracle](https://arxiv.org/abs/2506.17299v1) | **Jailbreak Oracle**&**BOA Algorithm**&**LLM Security** |
+| 25.06 | Shenzhen University | arxiv | [SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification](https://arxiv.org/abs/2506.17368v1) | **MoE Vulnerability**&**Safety Alignment**&**Expert Analysis** |
 
 
 ## 💻Presentations & Talks

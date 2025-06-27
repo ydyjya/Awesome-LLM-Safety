@@ -521,6 +521,11 @@
 | 25.06 | Keio University | arxiv | [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](https://arxiv.org/abs/2506.13130v1) | **Hallucination Detection**&**Multimodal Large Language Model**&**Fine-grained Editing**&**Vision-Language Model**&**Error Taxonomy** |
 | 25.06 | Christian-Albrechts-Universität zu Kiel | arxiv | [ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM](https://arxiv.org/abs/2506.14766v1) | **Hallucination**&**Multimodal Large Language Model**&**Attention Steering**&**Contrastive Decoding**&**Visual Grounding** |
 | 25.06 | Harbin Institute of Technology | ACL 2025 | [CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention](https://arxiv.org/abs/2506.11073v1) | **Multilingual Object Hallucination**&**Vision-Language Models**&**Cross-Lingual Attention**&**Inference Intervention**&**Hallucination Mitigation** |
+| 25.06 | Indian Institute of Technology Delhi | arxiv | [HIDE and Seek: Detecting Hallucinations in Language Models via Decoupled Representations](https://arxiv.org/abs/2506.17748) | **Hallucination Detection**&**Language Models**&**Statistical Independence** || 25.06 | East China Normal University | arxiv | [Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation](https://arxiv.org/abs/2506.17088v1) | **Chain-of-Thought**&**Hallucination Detection**&**LLM** |
+| 25.06 | Sichuan University | arxiv | [HalluRNN: Mitigating Hallucinations via Recurrent Cross-Layer Reasoning in Large Vision-Language Models](https://arxiv.org/abs/2506.17587v1) | **Hallucination**&**Vision-Language Model**&**Cross-Layer Reasoning** |
+| 25.06 | Wroclaw Tech | arxiv | [AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs](https://arxiv.org/abs/2506.18628) | **Hallucination Detection**&**Retrieval-Augmented Generation**&**Attention Map** |
+| 25.06 | Technical University of Munich | FEVER @ ACL 2025 | [Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge](https://arxiv.org/abs/2506.19607v1) | **Hallucination Correction**&**News Summarization**&**Self-Correction** |
+
 
 
 ## 💻Presentations & Talks

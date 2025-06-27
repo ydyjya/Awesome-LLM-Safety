@@ -212,6 +212,12 @@
 | 25.06 | dreadnode | arxiv | [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org/abs/2506.14682v1) | **AI Red Teaming**&**Security Benchmark**&**Capture-the-Flag**&**Autonomous Agents**&**Prompt Injection** |
 | 25.06 | Beihang University | arxiv | [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697v1) | **Embodied Agents**&**Safety Benchmark**&**Vision-Language Model**&**Hazardous Instructions**&**Jailbreak Attack** |
 | 25.06 | Zhejiang University | arxiv | [RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](https://arxiv.org/abs/2506.15253v1) | **LLM Agent**&**Security Evaluation**&**Benchmark**&**CWE**&**Tool Execution** |
+| 25.06 | Anthropic | arxiv | [SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://arxiv.org/abs/2506.15740v1) | **Sabotage**&**Monitoring**&**LLM Agent** |
+| 25.06 | NASK – National Research Institute | arxiv | [PL-Guard: Benchmarking Language Model Safety for Polish](https://arxiv.org/abs/2506.16322v1) | **Safety Benchmark**&**Polish LLM**&**Adversarial Robustness** |
+| 25.06 | University of Illinois Urbana-Champaign | arxiv | [GUARDSET-X: Multi-Domain, Policy-Grounded, AI Security Guardrail Benchmark](https://arxiv.org/abs/2506.19054v2) | **Guardrail Dataset**&**Safety Evaluation**&**Policy-Grounded** |
+| 25.06 | Emory University | arxiv | [Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v1) | **Model Editing**&**Ethical Alignment**&**Behavior Control** |
+| 25.06 | University of Illinois Urbana-Champaign | arxiv | [Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation](https://arxiv.org/abs/2506.20949v1) | **LLM Alignment**&**Long-Horizon Simulation**&**Risk-Aware** |
+| 25.06 | University of Illinois Urbana-Champaign | arxiv | [HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation](https://arxiv.org/abs/2506.21546v1) | **Hallucination**&**Segmentation**&**Counterfactual Reasoning** |
 
 
 ## 📚Resource

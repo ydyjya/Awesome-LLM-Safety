@@ -265,6 +265,9 @@
 | 25.06 | The Hong Kong University of Science and Technology (Guangzhou) | arxiv | [Understanding GUI Agent Localization Biases through Logit Sharpness](https://arxiv.org/abs/2506.15425v1) | **GUI Agent**&**Localization Bias**&**Logit Sharpness**&**Multimodal LLM**&**Hallucination Analysis** |
 | 25.06 | Boston University | ACL 2025 | [Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models](https://arxiv.org/abs/2506.15568v1) | **Gender Fairness**&**Inclusivity**&**LLM Evaluation**&**Non-binary Pronouns**&**Bias Benchmark** |
 | 25.06 | The University of Tokyo | ACL 2025 Workshop | [Intersectional Bias in Japanese Large Language Models from a Contextualized Perspective](https://arxiv.org/abs/2506.12327v1) | **Intersectional Bias**&**Japanese LLMs**&**Social Bias Evaluation**&**Question Answering**&**Microaggressions** |
+| 25.06 | Alfaisal University | arxiv | [Prompt Engineering Techniques for Mitigating Cultural Bias Against Arabs and Muslims in Large Language Models: A Systematic Review](https://arxiv.org/abs/2506.18199) | **Prompt Engineering**&**Cultural Bias**&**AI Ethics** |
+| 25.06 | University of Colorado Anschutz | arxiv | [Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes](https://arxiv.org/abs/2506.20822v1) | **Violence Bias**&**LLM Safety**&**Demographic Analysis** |
+
 
 
 ## 💻Presentations & Talks

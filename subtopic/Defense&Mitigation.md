@@ -380,6 +380,10 @@
 | 25.06 | Tel Aviv University | arxiv | [Universal Jailbreak Suffixes Are Strong Attention Hijackers](https://arxiv.org/abs/2506.12880v1) | **Jailbreak**&**Universal Suffix**&**Attention Hijacking**&**LLM Security**&**Prompt Engineering** |
 | 25.06 | University of São Paulo | arxiv | [LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](https://arxiv.org/abs/2506.15606v1) | **LLM Safety**&**Fine-tuning Robustness**&**Low-Rank Extrapolation**&**Alignment**&**Safety Subspace** |
 | 25.06 | FnGuide Inc. | ACL 2025 WOAH | [QGuard: Question-based Zero-shot Guard for Multi-modal LLM Safety](https://arxiv.org/abs/2506.12299v1) | **Harmful Prompt Detection**&**Multi-modal LLM**&**Zero-shot Guard**&**Question Prompting**&**White-box Analysis** |
+| 25.06 | Xi’an Jiaotong University | arxiv | [The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models](https://arxiv.org/abs/2506.15734v1) | **Vision-Language Model**&**Safety**&**Prompt Tuning** |
+| 25.06 | Queen's University | arxiv | [Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks](https://arxiv.org/abs/2506.18543) | **Large Language Models**&**Jailbreak Attacks**&**AI Security** |
+| 25.06 | Beijing University of Posts and Telecommunications | arxiv | [MemeMind: A Large-Scale Multimodal Dataset with Chain-of-Thought Reasoning for Harmful Meme Detection](https://arxiv.org/abs/2506.18919) | **Harmful Meme Detection**&**Multimodal Dataset**&**Chain-of-Thought** |
+| 25.06 | Nankai University | ICLR 2025 | [Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models](https://arxiv.org/abs/2506.16447v1) | **Backdoor Defense**&**Black-box LLM**&**Alignment** |
 
 
 ## 💻Presentations & Talk

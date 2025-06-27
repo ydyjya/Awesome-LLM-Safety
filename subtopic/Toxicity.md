@@ -92,6 +92,8 @@
 | 25.06 | Indian Institute of Technology Delhi | arxiv | [Rethinking Hate Speech Detection on Social Media: Can LLMs Replace Traditional Models?](https://arxiv.org/abs/2506.12744v1) | **Hate Speech Detection**&**Code-Mixed Language**&**Multilingual NLP**&**Large Language Models**&**IndoHateMix Dataset**&**Fine-Tuning** |
 | 25.06 | Korea University | arxiv | [K/DA: Automated Data Generation Pipeline for Detoxifying Implicitly Offensive Language in Korean](https://arxiv.org/abs/2506.13513v1) | **Detoxification**&**Implicit Offensiveness**&**Paired Dataset**&**Retrieval-Augmented Generation**&**Korean NLP** |
 | 25.06 | Maastricht University | ACL 2025 WOAH | [Towards Fairness Assessment of Dutch Hate Speech Detection](https://arxiv.org/abs/2506.12502v1) | **Fairness**&**Hate Speech Detection**&**Dutch NLP**&**Counterfactual Generation**&**BERTje** |
+| 25.06 | University of Toronto | arxiv | Human-Aligned Faithfulness in Toxicity Explanations of LLMs | LLM Toxicity&Explainability&Human-Aligned Faithfulness |
+| 25.06 | Arizona State University | arxiv | [Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection](https://arxiv.org/abs/2506.21443v1) | **Fraud Detection**&**Concept Drift**&**Domain Knowledge** |
 
 
 ## 💻Presentations & Talks

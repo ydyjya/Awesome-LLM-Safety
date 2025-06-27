@@ -288,6 +288,15 @@
 | 25.06 | Institute of Computing Technology, Chinese Academy of Sciences | arxiv | [PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning](https://arxiv.org/abs/2506.15683v1) | **LLM-Generated Text Detection**&**Family-Aware Learning**&**Privately-Tuned LLM**&**Contrastive Learning**&**Mixture-of-Experts** |
 | 25.06 | Zhejiang University | arxiv | [MEraser: An Effective Fingerprint Erasure Approach for Large Language Models](https://arxiv.org/abs/2506.12551v1) | **Fingerprint Erasure**&**Backdoor Removal**&**Model Ownership**&**LLM Security**&**LoRA Adapter** |
 | 25.06 | Technical University of Munich | ICML 2025 Workshop | [Align-then-Unlearn: Embedding Alignment for LLM Unlearning](https://arxiv.org/abs/2506.13181v1) | **Unlearning**&**Semantic Embedding**&**LLMs**&**Concept Forgetting**&**Privacy** |
+| 25.06 | Seoul National University | arxiv | [Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](https://arxiv.org/abs/2506.17336v1) | **Privacy-Preserving**&**Chain-of-Thought**&**Encrypted Retrieval** |
+| 25.06 | Xi'an Jiaotong-Liverpool University | arxiv | [Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach](https://arxiv.org/abs/2506.18756) | **Adversarial Attacks**&**Large Language Models**&**Prompt Engineering** |
+| 25.06 | Beijing University of Posts and Telecommunications | arxiv | Automated Detection of Pre-training Text in Black-box LLMs | Pre-training Text Detection&Black-box LLMs&Membership Inference |
+| 25.06 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty | Privacy Detection&Large Language Models&Model Inner States |
+| 25.06 | China Agricultural University | arxiv | Retrieval-Confused Generation is a Good Defender for Privacy Violation Attack of Large Language Models | Retrieval-Confused Generation&Privacy Violation Attack&Large Language Models |
+| 25.06 | University of California, Santa Barbara | arxiv | [MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation](https://arxiv.org/abs/2506.20737v1) | **Multi-Agent Privacy**&**Benchmark**&**LLM Evaluation** |
+| 25.06 | Yangzhou University | arxiv | [CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models](https://arxiv.org/abs/2506.20926v1) | **Watermarking**&**Code Model**&**Backdoor** |
+| 25.06 | Hong Kong University of Science and Technology | CCS 2025 | [Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs](https://arxiv.org/abs/2506.17353v1) | **Data Extraction**&**SFT Attack**&**Defense** |
+
 
 
 ## 💻Presentations & Talks

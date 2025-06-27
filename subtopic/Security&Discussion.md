@@ -279,7 +279,9 @@
 | 25.06 | Universitas Muhammadiyah Surakarta | arxiv | [Using LLMs for Security Advisory Investigations: How Far Are We?](https://arxiv.org/abs/2506.13161v1) | **Security Advisory**&**CVE ID**&**LLMs**&**Hallucination**&**Reliability** |
 | 25.06 | University of Texas at El Paso | arxiv | [Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability](https://arxiv.org/abs/2506.13746v1) | **Phishing Detection**&**Large Language Models**&**Explainability**&**Self-Consistency**&**Fine-Tuning** |
 | 25.06 | Universiti Sains Malaysia | arxiv | [PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection](https://arxiv.org/abs/2506.15656v1) | **Phishing Website Detection**&**Large Language Model**&**Multi-Agent System**&**Debate Framework**&**Explainability** |
-
+| 25.06 | NTT | arxiv | [Towards Safety Evaluations of Theory of Mind in Large Language Models](https://arxiv.org/abs/2506.17352v1) | **Theory of Mind**&**LLM Safety**&**Evaluation** |
+| 25.06 | The Ohio State University | arxiv | [AI Safety vs. AI Security: Demystifying the Distinction and Boundaries](https://arxiv.org/abs/2506.18932) | **AI Safety**&**AI Security**&**Risk Management** |
+| 25.06 | Zhejiang University | arxiv | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures | LLM-Driven Agents&Agent Communication&Security Risks |
 
 ## 💻Presentations & Talks
 
