@@ -208,6 +208,10 @@
 | 25.06 | Zhejiang University, Tencent, National University of Singapore | arxiv | [ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark](https://arxiv.org/abs/2506.10960v1) | **Harmful Content Detection**&**Chinese Benchmark**&**LLM Safety**&**Knowledge Augmentation**&**Content Moderation** |
 | 25.06 | Institute of Artificial Intelligence (TeleAI), China Telecom; Beihang University; Beijing Jiaotong University; Northwestern Polytechnical University | ACL 2025 | [LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges](https://arxiv.org/abs/2506.10022v1) | **Jailbreak Attack**&**Malware Generation**&**LLM Security**&**Benchmark**&**Code Generation** |
 | 25.06 | Hong Kong University of Science and Technology, Peking University | Findings of ACL 2025 | [SafeLawBench: Towards Safe Alignment of Large Language Models](https://arxiv.org/abs/2506.06636v1) | **LLM Safety**&**Legal Benchmark**&**Risk Hierarchy**&**Refusal Behavior**&**Safety Evaluation** |
+| 25.06 | The University of Hong Kong | arxiv | [RealFactBench: A Benchmark for Evaluating Large Language Models in Real-World Fact-Checking](https://arxiv.org/abs/2506.12538v1) | **Fact-checking**&**Large Language Models**&**Benchmark**&**Multimodal Reasoning**&**Uncertainty Evaluation** |
+| 25.06 | dreadnode | arxiv | [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org/abs/2506.14682v1) | **AI Red Teaming**&**Security Benchmark**&**Capture-the-Flag**&**Autonomous Agents**&**Prompt Injection** |
+| 25.06 | Beihang University | arxiv | [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697v1) | **Embodied Agents**&**Safety Benchmark**&**Vision-Language Model**&**Hazardous Instructions**&**Jailbreak Attack** |
+| 25.06 | Zhejiang University | arxiv | [RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](https://arxiv.org/abs/2506.15253v1) | **LLM Agent**&**Security Evaluation**&**Benchmark**&**CWE**&**Tool Execution** |
 
 
 ## 📚Resource

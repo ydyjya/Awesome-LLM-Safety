@@ -89,6 +89,9 @@
 | 25.06 | Penn State University |             arxiv              | [Something Just Like TRuST : Toxicity Recognition of Span and Target](https://arxiv.org/abs/2506.02326v1) | **Toxicity Detection**&**Target Social Group**&**Toxic Span Extraction** |
 | 25.06 | Instituto Politecnico Nacional (IPN) | arxiv | [Multilingual Hate Speech Detection in Social Media Using Translation-Based Approaches with Large Language Models](https://arxiv.org/abs/2506.08147) | **Translation-Based Approach**&**Hate Speech Detection**&**Social Media**&**Multilingual NLP**&**Large Language Model** |
 | 25.06 | International Balkan University, University of Belgrade | arxiv | [Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages](https://arxiv.org/abs/2506.09992v1) | **Toxic Language**&**Large Language Models**&**Low-Resource Language**&**Context Augmentation**&**Balkan NLP** |
+| 25.06 | Indian Institute of Technology Delhi | arxiv | [Rethinking Hate Speech Detection on Social Media: Can LLMs Replace Traditional Models?](https://arxiv.org/abs/2506.12744v1) | **Hate Speech Detection**&**Code-Mixed Language**&**Multilingual NLP**&**Large Language Models**&**IndoHateMix Dataset**&**Fine-Tuning** |
+| 25.06 | Korea University | arxiv | [K/DA: Automated Data Generation Pipeline for Detoxifying Implicitly Offensive Language in Korean](https://arxiv.org/abs/2506.13513v1) | **Detoxification**&**Implicit Offensiveness**&**Paired Dataset**&**Retrieval-Augmented Generation**&**Korean NLP** |
+| 25.06 | Maastricht University | ACL 2025 WOAH | [Towards Fairness Assessment of Dutch Hate Speech Detection](https://arxiv.org/abs/2506.12502v1) | **Fairness**&**Hate Speech Detection**&**Dutch NLP**&**Counterfactual Generation**&**BERTje** |
 
 
 ## 💻Presentations & Talks
