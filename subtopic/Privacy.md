@@ -296,6 +296,8 @@
 | 25.06 | University of California, Santa Barbara | arxiv | [MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation](https://arxiv.org/abs/2506.20737v1) | **Multi-Agent Privacy**&**Benchmark**&**LLM Evaluation** |
 | 25.06 | Yangzhou University | arxiv | [CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models](https://arxiv.org/abs/2506.20926v1) | **Watermarking**&**Code Model**&**Backdoor** |
 | 25.06 | Hong Kong University of Science and Technology | CCS 2025 | [Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs](https://arxiv.org/abs/2506.17353v1) | **Data Extraction**&**SFT Attack**&**Defense** |
+| 25.06 | University of Technology Sydney, CSIRO Data61, Zhejiang Lab | arxiv | [SoK: Semantic Privacy in Large Language Models](https://arxiv.org/abs/2506.23603v1) | **Semantic Privacy**&**LLM Privacy**&**Attack** |
+| 24.06 | National Taiwan University, National Cheng Kung University, Mohamed bin Zayed University of Artificial Intelligence | RACS 2024 | [Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model](https://arxiv.org/abs/2506.23635v1) | **Expert Parallelism**&**Private LLM**&**Performance Analysis** |
 
 
 

@@ -218,6 +218,7 @@
 | 25.06 | Emory University | arxiv | [Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v1) | **Model Editing**&**Ethical Alignment**&**Behavior Control** |
 | 25.06 | University of Illinois Urbana-Champaign | arxiv | [Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation](https://arxiv.org/abs/2506.20949v1) | **LLM Alignment**&**Long-Horizon Simulation**&**Risk-Aware** |
 | 25.06 | University of Illinois Urbana-Champaign | arxiv | [HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation](https://arxiv.org/abs/2506.21546v1) | **Hallucination**&**Segmentation**&**Counterfactual Reasoning** |
+| 25.07 | Inner Mongolia University | arxiv | [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2507.02088v1) | **Bias Evaluation**&**Chinese LLM**&**Benchmark** |
 
 
 ## 📚Resource

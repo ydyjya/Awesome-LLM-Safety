@@ -282,6 +282,8 @@
 | 25.06 | NTT | arxiv | [Towards Safety Evaluations of Theory of Mind in Large Language Models](https://arxiv.org/abs/2506.17352v1) | **Theory of Mind**&**LLM Safety**&**Evaluation** |
 | 25.06 | The Ohio State University | arxiv | [AI Safety vs. AI Security: Demystifying the Distinction and Boundaries](https://arxiv.org/abs/2506.18932) | **AI Safety**&**AI Security**&**Risk Management** |
 | 25.06 | Zhejiang University | arxiv | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures | LLM-Driven Agents&Agent Communication&Security Risks |
+| 25.07 | University of Science and Technology of China, Douyin Co., Ltd. | arxiv | [SAFER: Probing Safety in Reward Models with Sparse Autoencoder](https://arxiv.org/abs/2507.00665v1) | **Reward Model**&**Interpretability**&**Safety** |
+
 
 ## 💻Presentations & Talks
 

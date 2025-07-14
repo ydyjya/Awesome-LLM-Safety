@@ -94,6 +94,7 @@
 | 25.06 | Maastricht University | ACL 2025 WOAH | [Towards Fairness Assessment of Dutch Hate Speech Detection](https://arxiv.org/abs/2506.12502v1) | **Fairness**&**Hate Speech Detection**&**Dutch NLP**&**Counterfactual Generation**&**BERTje** |
 | 25.06 | University of Toronto | arxiv | Human-Aligned Faithfulness in Toxicity Explanations of LLMs | LLM Toxicity&Explainability&Human-Aligned Faithfulness |
 | 25.06 | Arizona State University | arxiv | [Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection](https://arxiv.org/abs/2506.21443v1) | **Fraud Detection**&**Concept Drift**&**Domain Knowledge** |
+| 25.07 | East China Normal University, Shanghai EastWonder Info-tech Co., Ltd. | arxiv | [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050v1) | **Detoxification**&**Semantic Preservation**&**Generalization** |
 
 
 ## 💻Presentations & Talks

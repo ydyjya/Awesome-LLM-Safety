@@ -525,6 +525,8 @@
 | 25.06 | Sichuan University | arxiv | [HalluRNN: Mitigating Hallucinations via Recurrent Cross-Layer Reasoning in Large Vision-Language Models](https://arxiv.org/abs/2506.17587v1) | **Hallucination**&**Vision-Language Model**&**Cross-Layer Reasoning** |
 | 25.06 | Wroclaw Tech | arxiv | [AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs](https://arxiv.org/abs/2506.18628) | **Hallucination Detection**&**Retrieval-Augmented Generation**&**Attention Map** |
 | 25.06 | Technical University of Munich | FEVER @ ACL 2025 | [Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge](https://arxiv.org/abs/2506.19607v1) | **Hallucination Correction**&**News Summarization**&**Self-Correction** |
+| 25.06 | dBeta Labs, The Lane Crawford Joyce Group | arxiv | [Hallucination Detection with Small Language Models](https://arxiv.org/abs/2506.22486v1) | **Hallucination Detection**&**SLM**&**Verification** |
+| 25.07 | Java Innovations, Cognizant | ADCAIJ Pre-Print | [Using multi-agent architecture to mitigate the risk of LLM hallucinations](https://arxiv.org/abs/2507.01446v1) | **Hallucination Mitigation**&**Multi-Agent**&**Fuzzy Logic** |
 
 
 

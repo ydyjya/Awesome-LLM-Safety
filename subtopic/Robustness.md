@@ -63,6 +63,7 @@
 | 25.05 |                                                   The Hong Kong Polytechnic University                                                   |                                      ICML 2025                                      |                              [Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?](https://arxiv.org/abs/2505.12871v1)                               |                    **LoRA**&**Training-Time Attacks**&**Robustness Analysis**                    |
 | 25.06 | Anhui University | arxiv | [Robustness of Prompting: Enhancing Robustness of Large Language Models Against Prompting Attacks](https://arxiv.org/abs/2506.03627v1) | **LLM Robustness**&**Prompting Attack**&**Error Correction** |
 | 25.06 | University of Massachusetts Amherst | arxiv | [Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation](https://arxiv.org/abs/2506.06971v2) | **Code Generation**&**Reasoning Robustness**&**Adversarial Prompting**&**Semantic Perturbation** |
+| 25.06 | Peking University, Huawei Technologies | arxiv | [More Vulnerable than You Think: On the Stability of Tool-Integrated LLM Agents](https://arxiv.org/abs/2506.21967v1) | **Tool-Integrated Agents**&**Stability**&**Vulnerability** |
 
 
 ## 💻Presentations & Talks
