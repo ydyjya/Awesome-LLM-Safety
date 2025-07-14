@@ -95,6 +95,8 @@
 | 25.06 | University of Toronto | arxiv | Human-Aligned Faithfulness in Toxicity Explanations of LLMs | LLM Toxicity&Explainability&Human-Aligned Faithfulness |
 | 25.06 | Arizona State University | arxiv | [Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection](https://arxiv.org/abs/2506.21443v1) | **Fraud Detection**&**Concept Drift**&**Domain Knowledge** |
 | 25.07 | East China Normal University, Shanghai EastWonder Info-tech Co., Ltd. | arxiv | [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050v1) | **Detoxification**&**Semantic Preservation**&**Generalization** |
+| 25.07 | University of California, Los Angeles | arxiv | [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455v2) | **Toxicity Detection**&**Community Annotation**&**Context** |
+| 25.07 | Virginia Tech | arxiv | [TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660v1) | **Toxicity Mitigation**&**LLM Fine-tuning**&**Defense** |
 
 
 ## 💻Presentations & Talks

@@ -527,6 +527,12 @@
 | 25.06 | Technical University of Munich | FEVER @ ACL 2025 | [Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge](https://arxiv.org/abs/2506.19607v1) | **Hallucination Correction**&**News Summarization**&**Self-Correction** |
 | 25.06 | dBeta Labs, The Lane Crawford Joyce Group | arxiv | [Hallucination Detection with Small Language Models](https://arxiv.org/abs/2506.22486v1) | **Hallucination Detection**&**SLM**&**Verification** |
 | 25.07 | Java Innovations, Cognizant | ADCAIJ Pre-Print | [Using multi-agent architecture to mitigate the risk of LLM hallucinations](https://arxiv.org/abs/2507.01446v1) | **Hallucination Mitigation**&**Multi-Agent**&**Fuzzy Logic** |
+| 25.07 | Beijing University of Posts and Telecommunications | arxiv | [Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models](https://arxiv.org/abs/2507.02870v1) | **Hallucination**&**LLM**&**Survey** |
+| 25.07 | Stony Brook University | arxiv | [Token-Level Hallucination Detection via Variance in Language Models](https://arxiv.org/abs/2507.04137v1) | **Hallucination Detection**&**Token Variance**&**LLM** |
+| 25.07 | University of Sydney | ACM MM 2025 | [Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation](https://arxiv.org/abs/2507.04680v1) | **Hallucinations**&**LVLMs**&**Knowledge Distillation** |
+| 25.07 | University of Bristol | arxiv | [ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding](https://arxiv.org/abs/2507.04943v1) | **Hallucination Mitigation**&**Multimodal**&**Consistency** |
+| 25.07 | University of Chinese Academy of Sciences | arxiv | [INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](https://arxiv.org/abs/2507.05056v1) | **Hallucination**&**LVLMs**&**Interaction** |
+| 25.07 | Stanford University | arxiv | [Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/abs/2507.07505v1) | **Hallucination**&**Complexity**&**Agentic AI** |
 
 
 

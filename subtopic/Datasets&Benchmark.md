@@ -219,6 +219,12 @@
 | 25.06 | University of Illinois Urbana-Champaign | arxiv | [Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation](https://arxiv.org/abs/2506.20949v1) | **LLM Alignment**&**Long-Horizon Simulation**&**Risk-Aware** |
 | 25.06 | University of Illinois Urbana-Champaign | arxiv | [HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation](https://arxiv.org/abs/2506.21546v1) | **Hallucination**&**Segmentation**&**Counterfactual Reasoning** |
 | 25.07 | Inner Mongolia University | arxiv | [McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2507.02088v1) | **Bias Evaluation**&**Chinese LLM**&**Benchmark** |
+| 25.07 | University of Edinburgh | arxiv | [Controlling What You Share: Assessing Language Model Adherence to Privacy Preferences](https://arxiv.org/abs/2507.05391v1) | **Privacy Profile**&**LLM**&**PII** |
+| 25.07 | University of California, Los Angeles | arxiv | [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455v2) | **Toxicity Detection**&**Community Annotation**&**Context** |
+| 25.07 | Carnegie Mellon University | arxiv | [OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety](https://arxiv.org/abs/2507.06134v1) | **Agent Safety**&**Evaluation**&**Risk** |
+| 25.05 | ETH Zurich | ACL 2025 Findings | [ACE: Benchmarking Agent-based Code Execution Safety in LLMs](https://arxiv.org/abs/2505.06936) | **Agent Safety**&**Code Execution**&**Benchmark** |
+| 25.05 | National University of Singapore | ACL 2025 | [DORIS: A Fine-grained Benchmark for Detecting Hallucinations in Long-form Text Generation](https://arxiv.org/abs/2505.06382) | **Hallucination Detection**&**Long-form Generation**&**Benchmark** |
+| 25.05 | Tsinghua University | CoLM 2025 | [MEmoBench: Evaluating Memorization-based Security Risks in LLMs](https://arxiv.org/abs/2505.06944) | **Memorization**&**Security Risk**&**Benchmark** |
 
 
 ## 📚Resource

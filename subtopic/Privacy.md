@@ -297,7 +297,12 @@
 | 25.06 | Yangzhou University | arxiv | [CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models](https://arxiv.org/abs/2506.20926v1) | **Watermarking**&**Code Model**&**Backdoor** |
 | 25.06 | Hong Kong University of Science and Technology | CCS 2025 | [Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs](https://arxiv.org/abs/2506.17353v1) | **Data Extraction**&**SFT Attack**&**Defense** |
 | 25.06 | University of Technology Sydney, CSIRO Data61, Zhejiang Lab | arxiv | [SoK: Semantic Privacy in Large Language Models](https://arxiv.org/abs/2506.23603v1) | **Semantic Privacy**&**LLM Privacy**&**Attack** |
-| 24.06 | National Taiwan University, National Cheng Kung University, Mohamed bin Zayed University of Artificial Intelligence | RACS 2024 | [Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model](https://arxiv.org/abs/2506.23635v1) | **Expert Parallelism**&**Private LLM**&**Performance Analysis** |
+| 25.06 | National Taiwan University, National Cheng Kung University, Mohamed bin Zayed University of Artificial Intelligence | RACS 2024 | [Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model](https://arxiv.org/abs/2506.23635v1) | **Expert Parallelism**&**Private LLM**&**Performance Analysis** |
+| 25.07 | University of Utah | arxiv | [Blackbox Dataset Inference for LLM](https://arxiv.org/abs/2507.03619v1) | **Dataset Inference**&**Blackbox**&**Copyright** |
+| 25.07 | American Express | arxiv | [Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models](https://arxiv.org/abs/2507.04478v1) | **Model Inversion Attack**&**Privacy**&**PII** |
+| 25.07 | Mohamed bin Zayed University of Artificial Intelligence | arxiv | [DP-Fusion: Token-Level Differentially Private Inference for Large Language Models](https://arxiv.org/abs/2507.04531v1) | **Differential Privacy**&**Inference**&**Paraphrasing** |
+| 25.07 | University of California, Berkeley | arxiv | [The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation](https://arxiv.org/abs/2507.05578v1) | **Memorization**&**Privacy**&**Mitigation** |
+| 25.07 | The Chinese University of Hong Kong | arxiv | [Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs](https://arxiv.org/abs/2507.06056v1) | **Memorization**&**Entropy**&**Privacy** |
 
 
 

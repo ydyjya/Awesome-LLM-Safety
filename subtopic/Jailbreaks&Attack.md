@@ -623,6 +623,18 @@
 | 25.07 | Sun Yat-sen University, Simon Fraser University | arxiv | [Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](https://arxiv.org/abs/2507.02699v1) | **Email Agent**&**Security**&**Prompt Injection** |
 | 25.07 | Shanghai Artificial Intelligence Laboratory, Purdue University | arxiv | [Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](https://arxiv.org/abs/2507.02844v1) | **Jailbreak**&**Multimodal LLM**&**Visual Attack** |
 | 25.07 | MIT Computer Science and Artificial Intelligence Laboratory, IBM Research | arxiv | [LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users](https://arxiv.org/abs/2507.02850v1) | **Knowledge Injection**&**User Feedback**&**Security** |
+| 25.07 | Microsoft | arxiv | [A Representation Engineering Perspective on the Effectiveness of Multi-Turn Jailbreaks](https://arxiv.org/abs/2507.02956v1) | **Jailbreak**&**Representation Engineering**&**Alignment** |
+| 25.07 | Northeastern University | arxiv | [‘For Argument's Sake, Show Me How to Harm Myself!’: Jailbreaking LLMs in Suicide and Self-Harm Contexts](https://arxiv.org/abs/2507.02990v1) | **Jailbreak**&**Mental Health**&**Safety** |
+| 25.07 | Tsinghua University | arxiv | [Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](https://arxiv.org/abs/2507.04227v1) | **GUI Agent**&**Robustness**&**Adversarial Attack** |
+| 25.07 | Cornell University | arxiv | [Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](https://arxiv.org/abs/2507.04673v1) | **Jailbreak**&**Multimodal**&**Protocol Security** |
+| 25.07 | University of Padua | arxiv | [The Hidden Threat in Plain Text: Attacking RAG Data Loaders](https://arxiv.org/abs/2507.05093v1) | **RAG Security**&**Document Poisoning**&**LLM** |
+| 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models](https://arxiv.org/abs/2507.05248v1) | **Jailbreak**&**Contextual Priming**&**LLM** |
+| 25.07 | Wuhan University | arxiv | [CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations](https://arxiv.org/abs/2507.06043v1) | **Jailbreak**&**Defense**&**GAN** |
+| 25.07 | Google DeepMind | arxiv | [Attacker’s Noise Can Manipulate Your Audio-based LLM in the Real World](https://arxiv.org/abs/2507.06256v1) | **Audio-based LLM**&**Jailbreaking**&**Adversarial Attack** |
+| 25.07 | University of Calabria | arxiv | [The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](https://arxiv.org/abs/2507.06850v2) | **Agentic Attack**&**LLM Security**&**Takeover** |
+| 25.07 | University of Science and Technology of China | COLM 2025 | [VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](https://arxiv.org/abs/2507.06899v1) | **Backdoor Attack**&**GUI Agent**&**Visual Grounding** |
+| 25.07 | University of California, San Diego | arxiv | [May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks](https://arxiv.org/abs/2507.07417v1) | **Prompt Injection**&**Defense**&**Attention** |
+| 25.07 | Compumacy for Artificial Intelligence Solutions | GLSVLSI 2025 | [On Jailbreaking Quantized Language Models Through Fault Injection Attacks](https://arxiv.org/abs/2507.03236) | **Jailbreaking**&**Bitflip Attack**&**Quantization Robustness** |
 
 
 ## 💻Presentations & Talks

@@ -274,6 +274,9 @@
 | 25.06 | University of Zurich |                                ACL 2025                                | [Leveraging In-Context Learning for Political Bias Testing of LLMs](https://arxiv.org/abs/2506.22232v1) | **Political Bias**&**In-Context Learning**&**Questionnaire Modeling** |
 | 25.06 | Seoul National University |                              ACL 2025 SRW                              | [A Dual-Layered Evaluation of Geopolitical and Cultural Bias in LLMs](https://arxiv.org/abs/2506.21881v1) | **Bias Evaluation**&**Geopolitics**&**Multilingual LLM** |
 | 25.06 | Università della Svizzera italiana, University of Amsterdam | ICTIR 2025 | [Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement](https://arxiv.org/abs/2506.22372v1) | **Gender Bias**&**Fairness**&**Ranking** |
+| 25.07 | University of Malta | arxiv | [From Measurement to Mitigation: Exploring the Transferability of Debiasing Approaches to Gender Bias in Maltese Language Models](https://arxiv.org/abs/2507.03142v1) | **Debiasing**&**Gender Bias**&**Low-resource** |
+| 25.07 | UC San Diego | arxiv | [How Much Content Do LLMs Generate That Induces Cognitive Bias in Users?](https://arxiv.org/abs/2507.03194v1) | **Cognitive Bias**&**Summarization**&**Mitigation** |
+| 25.07 | N/A | arxiv | [Smoothie-Qwen: Post-Hoc Smoothing to Reduce Language Bias in Multilingual LLMs](https://arxiv.org/abs/2507.05686v1) | **Language Bias**&**Multilingual LLMs**&**Post-hoc** |
 
 
 

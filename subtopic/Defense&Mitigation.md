@@ -395,6 +395,15 @@
 | 25.07 | BUPT, HKBU, NUS, HKUST |                            ACL 2025                            | [AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness](https://arxiv.org/abs/2507.01702v1) | **Meme Harmfulness**&**Reasoning Probe**&**Multimodal LLM** |
 | 25.07 | Carnegie Mellon University |                           ICCV 2025                            | [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2507.00898v1) | **Hallucination**&**Vision-Language Model**&**Decoding** |
 | 25.07 | Nanyang Technological University, Beihang University | ICML 2025 | [ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks](https://arxiv.org/abs/2507.01321v1) | **In-Context Learning**&**Backdoor Attack**&**Defense** |
+| 25.07 | The Chinese University of Hong Kong | arxiv | [Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs](https://arxiv.org/abs/2507.04365v1) | **Jailbreak**&**Attention Mechanism**&**Defense** |
+| 25.07 | University of Wisconsin-Madison | arxiv | [How Not to Detect Prompt Injections with an LLM](https://arxiv.org/abs/2507.05630v1) | **Prompt Injection**&**Detection**&**LLM** |
+| 25.07 | Peking University | arxiv | [Enhancing LLM Watermark Resilience Against Both Scrubbing and Spoofing Attacks](https://arxiv.org/abs/2507.06274v1) | **Watermarking**&**Scrubbing Attack**&**Spoofing** |
+| 25.07 | University of North Texas | COLM 2025 | [Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation](https://arxiv.org/abs/2507.07307v1) | **Counterspeech**&**RAG**&**Multi-Agent** |
+| 25.07 | University of California, Berkeley | arxiv | [Detection is Not Enough: Defending Against Jailbreaks with Restrictive Generation](https://arxiv.org/abs/2507.07735v1) | **Jailbreak Defense**&**Restrictive Decoding**&**LLM Alignment** |
+| 25.07 | Beihang University | arxiv | [From Red to Green: Aligning Large Language Models via Jailbreak Sample Reuse](https://arxiv.org/abs/2507.07810v1) | **Jailbreak Defense**&**Alignment**&**Sample Reuse** |
+| 25.07 | Tsinghua University | arxiv | [Ctrl-Z for AI Models: Stealthy Backdoor Removal from the Lens of Data Attribution](https://arxiv.org/abs/2507.07916v1) | **Backdoor Removal**&**Data Attribution**&**Stealth** |
+| 25.07 | Stanford University | arxiv | [Beyond Prompt Injection: Jailbreaking via Adversarial Instruction Extraction](https://arxiv.org/abs/2507.07974v1) | **Jailbreaking**&**Instruction Extraction**&**LLM Security** |
+| 25.05 | University of Southern California | ICML 2025 | [LLM Auto Repair Shop: Repurposing Jailbreak Attacks for Improving LLM Safety](https://arxiv.org/abs/2505.06943) | **Jailbreaking**&**Safety Training**&**Repurposing** |
 
 
 ## 💻Presentations & Talk

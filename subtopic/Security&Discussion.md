@@ -283,6 +283,12 @@
 | 25.06 | The Ohio State University | arxiv | [AI Safety vs. AI Security: Demystifying the Distinction and Boundaries](https://arxiv.org/abs/2506.18932) | **AI Safety**&**AI Security**&**Risk Management** |
 | 25.06 | Zhejiang University | arxiv | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures | LLM-Driven Agents&Agent Communication&Security Risks |
 | 25.07 | University of Science and Technology of China, Douyin Co., Ltd. | arxiv | [SAFER: Probing Safety in Reward Models with Sparse Autoencoder](https://arxiv.org/abs/2507.00665v1) | **Reward Model**&**Interpretability**&**Safety** |
+| 25.07 | Princeton University | arxiv | [Re-Emergent Misalignment: How Narrow Fine-Tuning Erodes Safety Alignment in LLMs](https://arxiv.org/abs/2507.03662v1) | **Alignment Erosion**&**Fine-Tuning**&**Safety** |
+| 25.07 | AI Risk and Vulnerability Alliance | arxiv | [Red Teaming AI Red Teaming](https://arxiv.org/abs/2507.05538v1) | **Red Teaming**&**AI Security**&**Sociotechnical** |
+| 25.07 | Shandong University | arxiv | [We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems](https://arxiv.org/abs/2507.06250v1) | **MCP Security**&**API Measurement**&**Privilege** |
+| 25.07 | University College London | arxiv | [Emergent Misalignment as Prompt Sensitivity: A Research Note](https://arxiv.org/abs/2507.06253v1) | **Misalignment**&**Prompt Sensitivity**&**Finetuning** |
+| 25.07 | Ludwig-Maximilians-Universität in Munich | arxiv | [On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://arxiv.org/abs/2507.07341v1) | **Alignment**&**Filtering**&**Intractability** |
+| 25.07 | University of Wisconsin-Madison | arxiv | [Prompt-level Watermarking is Provably Impossible](https://arxiv.org/abs/2507.07871v1) | **Watermarking**&**Prompt Injection**&**Impossibility** |
 
 
 ## 💻Presentations & Talks
