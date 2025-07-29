@@ -225,6 +225,7 @@
 | 25.05 | ETH Zurich | ACL 2025 Findings | [ACE: Benchmarking Agent-based Code Execution Safety in LLMs](https://arxiv.org/abs/2505.06936) | **Agent Safety**&**Code Execution**&**Benchmark** |
 | 25.05 | National University of Singapore | ACL 2025 | [DORIS: A Fine-grained Benchmark for Detecting Hallucinations in Long-form Text Generation](https://arxiv.org/abs/2505.06382) | **Hallucination Detection**&**Long-form Generation**&**Benchmark** |
 | 25.05 | Tsinghua University | CoLM 2025 | [MEmoBench: Evaluating Memorization-based Security Risks in LLMs](https://arxiv.org/abs/2505.06944) | **Memorization**&**Security Risk**&**Benchmark** |
+| 25.07 | CISPA Helmholtz Center for Information Security | USENIX Security 2025 | [Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities](https://arxiv.org/abs/2507.11155v1) | **VLM**&**Safety**&**Alignment** |
 
 
 ## 📚Resource

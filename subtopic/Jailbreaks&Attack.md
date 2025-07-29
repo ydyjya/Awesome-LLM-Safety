@@ -635,6 +635,15 @@
 | 25.07 | University of Science and Technology of China | COLM 2025 | [VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](https://arxiv.org/abs/2507.06899v1) | **Backdoor Attack**&**GUI Agent**&**Visual Grounding** |
 | 25.07 | University of California, San Diego | arxiv | [May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks](https://arxiv.org/abs/2507.07417v1) | **Prompt Injection**&**Defense**&**Attention** |
 | 25.07 | Compumacy for Artificial Intelligence Solutions | GLSVLSI 2025 | [On Jailbreaking Quantized Language Models Through Fault Injection Attacks](https://arxiv.org/abs/2507.03236) | **Jailbreaking**&**Bitflip Attack**&**Quantization Robustness** |
+| 25.07 | Xi’an Jiaotong University | arxiv | [RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2507.08862) | **RAG**&**Poisoning**&**Robustness** |
+| 25.07 | Microsoft Corporation | arxiv | [Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers](https://arxiv.org/abs/2507.09406v1) | **Deception**&**Interpretability**&**Safety** |
+| 25.07 | Shanghai Jiao Tong University | arxiv | [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v1) | **GUI Agent**&**Defense**&**Scaling** |
+| 25.07 | University of Cambridge | arxiv | [Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs](https://arxiv.org/abs/2507.11112v1) | **Backdoor**&**Poisoning**&**LLM** |
+| 25.07 | FAR.AI | arxiv | [Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility](https://arxiv.org/abs/2507.11630v1) | **Jailbreak**&**Fine-tuning**&**Vulnerability** |
+| 25.07 | Indian Institute of Technology Jammu | arxiv | [Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks](https://arxiv.org/abs/2507.12185v1) | **Jailbreaking**&**Phishing**&**GenAI** |
+| 25.07 | Huzhou University | arxiv | [Thought Purity: Defense Paradigm For Chain-of-Thought Attack](https://arxiv.org/abs/2507.12314v1) | **Chain-of-Thought**&**Defense**&**Backdoor** |
+| 25.07 | Meridian Impact | arxiv | [Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework](https://arxiv.org/abs/2507.12872v1) | **Manipulation**&**Risk**&**Safety** |
+| 25.07 | Preamble, Inc. | arxiv | [Prompt Injection 2.0: Hybrid AI Threats](https://arxiv.org/abs/2507.13169v1) | **Prompt Injection**&**Hybrid Threat**&**Security** |
 
 
 ## 💻Presentations & Talks

@@ -533,6 +533,8 @@
 | 25.07 | University of Bristol | arxiv | [ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding](https://arxiv.org/abs/2507.04943v1) | **Hallucination Mitigation**&**Multimodal**&**Consistency** |
 | 25.07 | University of Chinese Academy of Sciences | arxiv | [INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](https://arxiv.org/abs/2507.05056v1) | **Hallucination**&**LVLMs**&**Interaction** |
 | 25.07 | Stanford University | arxiv | [Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/abs/2507.07505v1) | **Hallucination**&**Complexity**&**Agentic AI** |
+| 25.07 | BITS Pilani | arxiv | [AutoRAG-LoRA: Hallucination-Triggered Knowledge Retuning via Lightweight Adapters](https://arxiv.org/abs/2507.10586v1) | **RAG**&**Hallucination**&**LoRA** |
+| 25.07 | The University of Hong Kong | arxiv | [MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](https://arxiv.org/abs/2507.13038v1) | **Prompt Injection**&**MAD**&**Security** |
 
 
 

@@ -303,6 +303,7 @@
 | 25.07 | Mohamed bin Zayed University of Artificial Intelligence | arxiv | [DP-Fusion: Token-Level Differentially Private Inference for Large Language Models](https://arxiv.org/abs/2507.04531v1) | **Differential Privacy**&**Inference**&**Paraphrasing** |
 | 25.07 | University of California, Berkeley | arxiv | [The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation](https://arxiv.org/abs/2507.05578v1) | **Memorization**&**Privacy**&**Mitigation** |
 | 25.07 | The Chinese University of Hong Kong | arxiv | [Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs](https://arxiv.org/abs/2507.06056v1) | **Memorization**&**Entropy**&**Privacy** |
+| 25.07 | Nanyang Technological University | arxiv | [The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](https://arxiv.org/abs/2507.10016v1) | **Audio Privacy**&**MLLM**&**Profiling** |
 
 
 

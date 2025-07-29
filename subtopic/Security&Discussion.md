@@ -289,6 +289,8 @@
 | 25.07 | University College London | arxiv | [Emergent Misalignment as Prompt Sensitivity: A Research Note](https://arxiv.org/abs/2507.06253v1) | **Misalignment**&**Prompt Sensitivity**&**Finetuning** |
 | 25.07 | Ludwig-Maximilians-Universität in Munich | arxiv | [On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://arxiv.org/abs/2507.07341v1) | **Alignment**&**Filtering**&**Intractability** |
 | 25.07 | University of Wisconsin-Madison | arxiv | [Prompt-level Watermarking is Provably Impossible](https://arxiv.org/abs/2507.07871v1) | **Watermarking**&**Prompt Injection**&**Impossibility** |
+| 25.07 | UK AI Security Institute | arxiv | [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://arxiv.org/abs/2507.11473v1) | **Chain of Thought**&**Monitorability**&**Safety** |
+| 25.07 | Northeastern University | arxiv | [LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v1) | **Harmfulness**&**Refusal**&**Safety** |
 
 
 ## 💻Presentations & Talks

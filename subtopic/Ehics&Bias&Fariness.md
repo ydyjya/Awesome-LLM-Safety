@@ -277,6 +277,9 @@
 | 25.07 | University of Malta | arxiv | [From Measurement to Mitigation: Exploring the Transferability of Debiasing Approaches to Gender Bias in Maltese Language Models](https://arxiv.org/abs/2507.03142v1) | **Debiasing**&**Gender Bias**&**Low-resource** |
 | 25.07 | UC San Diego | arxiv | [How Much Content Do LLMs Generate That Induces Cognitive Bias in Users?](https://arxiv.org/abs/2507.03194v1) | **Cognitive Bias**&**Summarization**&**Mitigation** |
 | 25.07 | N/A | arxiv | [Smoothie-Qwen: Post-Hoc Smoothing to Reduce Language Bias in Multilingual LLMs](https://arxiv.org/abs/2507.05686v1) | **Language Bias**&**Multilingual LLMs**&**Post-hoc** |
+| 25.07 | Trier University | Proceedings of 0th Symposium on Moral and Legal AI Alignment of the IACAP/AISB Conference 2025 | [Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires](https://arxiv.org/abs/2507.10073v1) | **Cultural Bias**&**Moral Alignment**&**LLM** |
+| 25.07 | Independent Researcher | arxiv | [Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Résumé Screening](https://arxiv.org/abs/2507.11548) | **Fairness**&**Bias**&**Competence** |
+| 25.07 | Utrecht University | arxiv | [Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation](https://arxiv.org/abs/2507.13138v1) | **Bias**&**Annotation**&**Explainability** |
 
 
 

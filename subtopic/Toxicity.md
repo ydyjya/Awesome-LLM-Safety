@@ -97,6 +97,7 @@
 | 25.07 | East China Normal University, Shanghai EastWonder Info-tech Co., Ltd. | arxiv | [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050v1) | **Detoxification**&**Semantic Preservation**&**Generalization** |
 | 25.07 | University of California, Los Angeles | arxiv | [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455v2) | **Toxicity Detection**&**Community Annotation**&**Context** |
 | 25.07 | Virginia Tech | arxiv | [TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660v1) | **Toxicity Mitigation**&**LLM Fine-tuning**&**Defense** |
+| 25.07 | Huazhong University of Science and Technology | arxiv | [Circumventing Safety Alignment in Large Language Models Through Embedding Space Toxicity Attenuation](https://arxiv.org/abs/2507.08020) | **Large Language Model**&**Embedding Poisoning**&**Toxicity** |
 
 
 ## 💻Presentations & Talks

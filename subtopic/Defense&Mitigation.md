@@ -404,6 +404,12 @@
 | 25.07 | Tsinghua University | arxiv | [Ctrl-Z for AI Models: Stealthy Backdoor Removal from the Lens of Data Attribution](https://arxiv.org/abs/2507.07916v1) | **Backdoor Removal**&**Data Attribution**&**Stealth** |
 | 25.07 | Stanford University | arxiv | [Beyond Prompt Injection: Jailbreaking via Adversarial Instruction Extraction](https://arxiv.org/abs/2507.07974v1) | **Jailbreaking**&**Instruction Extraction**&**LLM Security** |
 | 25.05 | University of Southern California | ICML 2025 | [LLM Auto Repair Shop: Repurposing Jailbreak Attacks for Improving LLM Safety](https://arxiv.org/abs/2505.06943) | **Jailbreaking**&**Safety Training**&**Repurposing** |
+| 25.07 | Ant Group | arxiv | [Agent Safety Alignment via Reinforcement Learning](https://arxiv.org/abs/2507.08270) | **Agent**&**Safety**&**RL** |
+| 25.07 | Apple | arxiv | [Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training](https://arxiv.org/abs/2507.08284) | **Safety**&**Guardrail**&**Synthetic** |
+| 25.07 | University of Science and Technology of China | arxiv | [BURN: Backdoor Unlearning via Adversarial Boundary Analysis](https://arxiv.org/abs/2507.10491v1) | **Backdoor**&**Unlearning**&**Defense** |
+| 25.07 | University of Wisconsin-Madison | arxiv | [ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v1) | **LLM**&**Alignment**&**Jailbreak** |
+| 25.07 | Brown University | arxiv | [Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models](https://arxiv.org/abs/2507.12428v1) | **Alignment**&**Monitoring**&**CoT** |
+| 25.07 | Zhejiang University | arxiv | [Automating Steering for Safe Multimodal Large Language Models](https://arxiv.org/abs/2507.13255v1) | **MLLM**&**Safety**&**Steering** |
 
 
 ## 💻Presentations & Talk
