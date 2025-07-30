@@ -410,6 +410,13 @@
 | 25.07 | University of Wisconsin-Madison | arxiv | [ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v1) | **LLM**&**Alignment**&**Jailbreak** |
 | 25.07 | Brown University | arxiv | [Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models](https://arxiv.org/abs/2507.12428v1) | **Alignment**&**Monitoring**&**CoT** |
 | 25.07 | Zhejiang University | arxiv | [Automating Steering for Safe Multimodal Large Language Models](https://arxiv.org/abs/2507.13255v1) | **MLLM**&**Safety**&**Steering** |
+| 25.07 | University of Science and Technology of China | arxiv | [AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning](https://arxiv.org/abs/2507.14987v1) | **Safety Alignment**&**Reinforcement Learning**&**LLM** |
+| 25.07 | Modulabs | arxiv | [SIA: Enhancing Safety via Intent Awareness for Vision-Language Models](https://arxiv.org/abs/2507.16856v1) | **Safety**&**Intent Awareness**&**VLM** |
+| 25.07 | University of California, Los Angeles | arxiv | [LoRA is All You Need for Safety Alignment of Reasoning LLMs](https://arxiv.org/abs/2507.17075v1) | **Safety Alignment**&**LoRA**&**Reasoning** |
+| 25.07 | Xidian University | arxiv | [LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks](https://arxiv.org/abs/2507.17188v1) | **UAV**&**Security**&**Reinforcement Learning** |
+| 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](https://arxiv.org/abs/2507.18631v1) | **Safety Alignment**&**Data Filtering**&**LLM** |
+| 25.07 | POSTECH | ACL 2025 Findings | [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection](https://arxiv.org/abs/2507.18202v1) | **RAG**&**Poisoning Defense**&**Detection** |
+| 25.07 | Universiti Sains Malaysia | EAI ICDF2C 2025 | [PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation](https://arxiv.org/abs/2507.15419v1) | **Phishing**&**LLM**&**RAG** |
 
 
 ## 💻Presentations & Talk

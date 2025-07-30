@@ -644,6 +644,13 @@
 | 25.07 | Huzhou University | arxiv | [Thought Purity: Defense Paradigm For Chain-of-Thought Attack](https://arxiv.org/abs/2507.12314v1) | **Chain-of-Thought**&**Defense**&**Backdoor** |
 | 25.07 | Meridian Impact | arxiv | [Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework](https://arxiv.org/abs/2507.12872v1) | **Manipulation**&**Risk**&**Safety** |
 | 25.07 | Preamble, Inc. | arxiv | [Prompt Injection 2.0: Hybrid AI Threats](https://arxiv.org/abs/2507.13169v1) | **Prompt Injection**&**Hybrid Threat**&**Security** |
+| 25.07 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers](https://arxiv.org/abs/2507.13474v1) | **Jailbreaking**&**LLM Safety**&**Vulnerability** |
+| 25.07 | National University of Singapore | arxiv | [TopicAttack: An Indirect Prompt Injection Attack via Topic Transition](https://arxiv.org/abs/2507.13686v1) | **Prompt Injection**&**LLM Security**&**Attack** |
+| 25.07 | Indiana University | arxiv | [Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree](https://arxiv.org/abs/2507.14799v1) | **Prompt Injection**&**Web Agent**&**Adversarial Attack** |
+| 25.07 | UC Berkeley | arxiv | [PromptArmor: Simple yet Effective Prompt Injection Defenses](https://arxiv.org/abs/2507.15219v1) | **Prompt Injection**&**Defense**&**LLM** |
+| 25.07 | Ukrainian State University of Science and Technologies | arxiv | [Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems](https://arxiv.org/abs/2507.15613v1) | **Prompt Injection**&**Enterprise LLM**&**Defense** |
+| 25.07 | China Mobile Research Institute | arxiv | [RECALLED: An Unbounded Resource Consumption Attack on Large Vision-Language Models](https://arxiv.org/abs/2507.18053v1) | **Resource Consumption**&**Vision-Language Model**&**Attack** |
+| 25.07 | Universiti Sains Malaysia | EAI ICDF2C 2025 | [Talking Like a Phisher: LLM-Based Attacks on Voice Phishing Classifiers](https://arxiv.org/abs/2507.16291v1) | **Adversarial Attack**&**Phishing**&**LLM** |
 
 
 ## 💻Presentations & Talks

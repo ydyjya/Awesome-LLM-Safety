@@ -226,6 +226,9 @@
 | 25.05 | National University of Singapore | ACL 2025 | [DORIS: A Fine-grained Benchmark for Detecting Hallucinations in Long-form Text Generation](https://arxiv.org/abs/2505.06382) | **Hallucination Detection**&**Long-form Generation**&**Benchmark** |
 | 25.05 | Tsinghua University | CoLM 2025 | [MEmoBench: Evaluating Memorization-based Security Risks in LLMs](https://arxiv.org/abs/2505.06944) | **Memorization**&**Security Risk**&**Benchmark** |
 | 25.07 | CISPA Helmholtz Center for Information Security | USENIX Security 2025 | [Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities](https://arxiv.org/abs/2507.11155v1) | **VLM**&**Safety**&**Alignment** |
+| 25.07 | Maastricht University | arxiv | [Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch](https://arxiv.org/abs/2507.16442v1) | **Social Bias**&**Dataset**&**Dutch** |
+| 25.07 | Ben-Gurion University of the Negev | arxiv | [Tab-MIA: A Benchmark Dataset for Membership Inference Attacks on Tabular Data in LLMs](https://arxiv.org/abs/2507.17259v1) | **Membership Inference**&**Tabular Data**&**Privacy** |
+| 25.07 | RWTH Aachen University | GeBNLP @ ACL 2025 | [Exploring Gender Bias in Large Language Models: An In-depth Dive into the German Language](https://arxiv.org/abs/2507.16557v1) | **Gender Bias**&**German**&**LLM** |
 
 
 ## 📚Resource

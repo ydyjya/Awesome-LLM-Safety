@@ -304,6 +304,9 @@
 | 25.07 | University of California, Berkeley | arxiv | [The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation](https://arxiv.org/abs/2507.05578v1) | **Memorization**&**Privacy**&**Mitigation** |
 | 25.07 | The Chinese University of Hong Kong | arxiv | [Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs](https://arxiv.org/abs/2507.06056v1) | **Memorization**&**Entropy**&**Privacy** |
 | 25.07 | Nanyang Technological University | arxiv | [The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents](https://arxiv.org/abs/2507.10016v1) | **Audio Privacy**&**MLLM**&**Profiling** |
+| 25.07 | University of Wisconsin - Madison | arxiv | [Benchmarking LLM Privacy Recognition for Social Robot Decision Making](https://arxiv.org/abs/2507.16124v1) | **Privacy**&**LLM**&**Robotics** |
+| 25.07 | Tsinghua University | arxiv | [LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models](https://arxiv.org/abs/2507.18302v1) | **Membership Inference**&**LoRA**&**Privacy** |
+| 25.07 | Shanghai Jiao Tong University | USENIX Security 2025 | [Depth Gives a False Sense of Privacy: LLM Internal States Inversion](https://arxiv.org/abs/2507.16372v1) | **Privacy**&**Inversion Attack**&**LLM** |
 
 
 

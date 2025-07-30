@@ -65,6 +65,7 @@
 | 25.06 | University of Massachusetts Amherst | arxiv | [Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation](https://arxiv.org/abs/2506.06971v2) | **Code Generation**&**Reasoning Robustness**&**Adversarial Prompting**&**Semantic Perturbation** |
 | 25.06 | Peking University, Huawei Technologies | arxiv | [More Vulnerable than You Think: On the Stability of Tool-Integrated LLM Agents](https://arxiv.org/abs/2506.21967v1) | **Tool-Integrated Agents**&**Stability**&**Vulnerability** |
 | 25.07 | Queen’s University | arxiv | [On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks](https://arxiv.org/abs/2507.06489v1) | **Verbal Confidence**&**Adversarial Attack**&**Robustness** |
+| 25.07 | UC Berkeley | arxiv | [Small Edits, Big Consequences: Telling Good from Bad Robustness in Large Language Models](https://arxiv.org/abs/2507.15868v1) | **Robustness**&**LLM**&**Sensitivity** |
 
 
 ## 💻Presentations & Talks

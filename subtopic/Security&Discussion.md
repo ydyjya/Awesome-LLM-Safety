@@ -291,6 +291,9 @@
 | 25.07 | University of Wisconsin-Madison | arxiv | [Prompt-level Watermarking is Provably Impossible](https://arxiv.org/abs/2507.07871v1) | **Watermarking**&**Prompt Injection**&**Impossibility** |
 | 25.07 | UK AI Security Institute | arxiv | [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://arxiv.org/abs/2507.11473v1) | **Chain of Thought**&**Monitorability**&**Safety** |
 | 25.07 | Northeastern University | arxiv | [LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v1) | **Harmfulness**&**Refusal**&**Safety** |
+| 25.07 | Aymara | arxiv | [Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix](https://arxiv.org/abs/2507.14719v1) | **Safety Evaluation**&**LLM**&**Benchmark** |
+| 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://arxiv.org/abs/2507.16534v1) | **AI Risk**&**Safety**&**Benchmark** |
+| 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law](https://arxiv.org/abs/2507.18576v1) | **Safety**&**Reinforcement Learning**&**Multimodal** |
 
 
 ## 💻Presentations & Talks
