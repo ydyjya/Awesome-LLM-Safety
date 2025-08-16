@@ -307,6 +307,8 @@
 | 25.07 | University of Wisconsin - Madison | arxiv | [Benchmarking LLM Privacy Recognition for Social Robot Decision Making](https://arxiv.org/abs/2507.16124v1) | **Privacy**&**LLM**&**Robotics** |
 | 25.07 | Tsinghua University | arxiv | [LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models](https://arxiv.org/abs/2507.18302v1) | **Membership Inference**&**LoRA**&**Privacy** |
 | 25.07 | Shanghai Jiao Tong University | USENIX Security 2025 | [Depth Gives a False Sense of Privacy: LLM Internal States Inversion](https://arxiv.org/abs/2507.16372v1) | **Privacy**&**Inversion Attack**&**LLM** |
+| 25.07 | University of Luxembourg | arxiv | [Efficient Differentially Private Fine-Tuning of LLMs via Reinforcement Learning](https://arxiv.org/abs/2507.22565) | **DifferentialPrivacy**&**ReinforcementLearning**&**LLM** |
+| 25.07 | Meta | arxiv | [Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for Compliance AI Agents](https://arxiv.org/abs/2507.21142) | **Privacy**&**Embedding**&**Compliance** |
 
 
 

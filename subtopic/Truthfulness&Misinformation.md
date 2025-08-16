@@ -540,6 +540,13 @@
 | 25.07 | Nankai University |               arxiv                | [Towards Mitigation of Hallucination for LLM-empowered Agents: Progressive Generalization Bound Exploration and Watchdog Monitor](https://arxiv.org/abs/2507.15903v1) | **Hallucination**&**Generalization Bound**&**Agent** |
 | 25.07 | Konkuk University |              ACL 2025              | [Exploring the Impact of Instruction-Tuning on LLM’s Susceptibility to Misinformation](https://arxiv.org/abs/2507.18203v1) | **Instruction-Tuning**&**Misinformation**&**Hallucination** |
 | 25.07 | Peking University | ACL 2025 | [ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs](https://arxiv.org/abs/2507.16488v1) | **Hallucination Detection**&**LLM**&**Interpretability** |
+| 25.07 | Pegasi AI | arxiv | [FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models](https://arxiv.org/abs/2507.20930) | **Hallucination**&**Detection**&**Finance** |
+| 25.07 | University of California, Berkeley | arxiv | [MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](https://arxiv.org/abs/2507.21017) | **Hallucination**&**Agent**&**Benchmark** |
+| 25.07 | Xidian University | arxiv | [Trustworthy Reasoning: Evaluating and Enhancing Factual Accuracy in LLM Intermediate Thought Processes](https://arxiv.org/abs/2507.22940) | **Reasoning**&**Factuality**&**Interpretability** |
+| 25.07 | Chalmers University of Technology | arxiv | [Uncovering the Fragility of Trustworthy LLMs through Chinese Textual Ambiguity](https://arxiv.org/abs/2507.23121) | **Ambiguity**&**Trustworthiness**&**LLM** |
+| 25.07 | Tsinghua University | arxiv | [Mitigating Geospatial Knowledge Hallucination in Large Language Models: Benchmarking and Dynamic Factuality Aligning](https://arxiv.org/abs/2507.19586) | **Geospatial**&**Hallucination**&**Factuality** |
+| 25.07 | The University of New South Wales | arxiv | [Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136) | **Hallucination**&**Verification**&**RAG** |
+| 25.07 | University of Sana’a | arxiv | [Theoretical Foundations and Mitigation of Hallucination in Large Language Models](https://arxiv.org/abs/2507.22915) | **Hallucination**&**Theory**&**Mitigation** |
 
 
 

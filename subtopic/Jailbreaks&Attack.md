@@ -651,6 +651,13 @@
 | 25.07 | Ukrainian State University of Science and Technologies | arxiv | [Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems](https://arxiv.org/abs/2507.15613v1) | **Prompt Injection**&**Enterprise LLM**&**Defense** |
 | 25.07 | China Mobile Research Institute | arxiv | [RECALLED: An Unbounded Resource Consumption Attack on Large Vision-Language Models](https://arxiv.org/abs/2507.18053v1) | **Resource Consumption**&**Vision-Language Model**&**Attack** |
 | 25.07 | Universiti Sains Malaysia | EAI ICDF2C 2025 | [Talking Like a Phisher: LLM-Based Attacks on Voice Phishing Classifiers](https://arxiv.org/abs/2507.16291v1) | **Adversarial Attack**&**Phishing**&**LLM** |
+| 25.07 | Beijing University of Posts and Telecommunications | arxiv | [Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation](https://arxiv.org/abs/2507.19227) | **Jailbreak**&**Diffusion**&**Safety** |
+| 25.07 | Chinese Academy of Sciences, University of Chinese Academy of Sciences | arxiv | [Exploiting Synergistic Cognitive Biases to Bypass Safety in LLMs](https://arxiv.org/abs/2507.22564) | **CognitiveBias**&**Jailbreak**&**Safety** |
+| 25.07 | 360 AI Security Lab | arxiv | [PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540) | **Jailbreak**&**LVLM**&**ROP** |
+| 25.07 | North Carolina State University | arxiv | [Prompt Optimization and Evaluation for LLM Automated Red Teaming](https://arxiv.org/abs/2507.22133) | **RedTeaming**&**PromptOptimization**&**ASR** |
+| 25.07 | The Hong Kong University of Science and Technology | arxiv | [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](https://arxiv.org/abs/2507.22171v1) | **Persona**&**Jailbreak**&**Genetic** |
+| 25.07 | Independent Researcher | arxiv | [Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding](https://arxiv.org/abs/2507.22304v1) | **Steganography**&**PromptInjection**&**VLM** |
+| 25.07 | Kyoto University | arxiv | [Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems](https://arxiv.org/abs/2507.23453v1) | **PromptInjection**&**BlindAttack**&**Evaluation** |
 
 
 ## 💻Presentations & Talks

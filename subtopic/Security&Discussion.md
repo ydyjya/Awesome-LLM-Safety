@@ -294,6 +294,8 @@
 | 25.07 | Aymara | arxiv | [Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix](https://arxiv.org/abs/2507.14719v1) | **Safety Evaluation**&**LLM**&**Benchmark** |
 | 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://arxiv.org/abs/2507.16534v1) | **AI Risk**&**Safety**&**Benchmark** |
 | 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law](https://arxiv.org/abs/2507.18576v1) | **Safety**&**Reinforcement Learning**&**Multimodal** |
+| 25.07 | University of Illinois Urbana-Champaign | arxiv | [PurpCode: Reasoning for Safer Code Generation](https://arxiv.org/abs/2507.19060v2) | **SecureCode**&**Reasoning**&**Alignment** |
+| 25.07 | IBM Research | arxiv | [OneShield - the Next Generation of LLM Guardrails](https://arxiv.org/abs/2507.21170v1) | **Guardrails**&**Safety**&**Compliance** |
 
 
 ## 💻Presentations & Talks

@@ -229,6 +229,11 @@
 | 25.07 | Maastricht University | arxiv | [Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch](https://arxiv.org/abs/2507.16442v1) | **Social Bias**&**Dataset**&**Dutch** |
 | 25.07 | Ben-Gurion University of the Negev | arxiv | [Tab-MIA: A Benchmark Dataset for Membership Inference Attacks on Tabular Data in LLMs](https://arxiv.org/abs/2507.17259v1) | **Membership Inference**&**Tabular Data**&**Privacy** |
 | 25.07 | RWTH Aachen University | GeBNLP @ ACL 2025 | [Exploring Gender Bias in Large Language Models: An In-depth Dive into the German Language](https://arxiv.org/abs/2507.16557v1) | **Gender Bias**&**German**&**LLM** |
+| 25.07 | Chinese Academy of Sciences, University of Chinese Academy of Sciences | arxiv | [Libra: Large Chinese-based Safeguard for AI Content](https://arxiv.org/abs/2507.21929) | **Safeguard**&**Chinese**&**Safety** |
+| 25.07 | Peking University, Peking Union Medical College | arxiv | [A Novel Evaluation Benchmark for Medical LLMs: Illuminating Safety and Effectiveness in Clinical Domains](https://arxiv.org/abs/2507.23486) | **MedicalLLM**&**Safety**&**Effectiveness** |
+| 25.07 | Glass Box Medicine | arxiv | [Large language models provide unsafe answers to patient-posed medical questions](https://arxiv.org/abs/2507.18905) | **PatientSafety**&**MedicalAdvice**&**Chatbots** |
+| 25.07 | University of Cambridge | arxiv | [TRIDENT: Benchmarking LLM Safety in Finance, Medicine, and Law](https://arxiv.org/abs/2507.21134) | **Safety**&**Benchmark**&**Compliance** |
+| 25.07 | Mohamed bin Zayed University of Artificial Intelligence, University of Delhi | arxiv | [UnsafeChain: Enhancing Reasoning Model Safety via Hard Cases](https://arxiv.org/abs/2507.21652) | **SafetyAlignment**&**HardPrompts**&**Reasoning** |
 
 
 ## 📚Resource
