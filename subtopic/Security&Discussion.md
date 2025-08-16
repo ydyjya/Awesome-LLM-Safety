@@ -296,6 +296,9 @@
 | 25.07 | Shanghai Artificial Intelligence Laboratory | arxiv | [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45° Law](https://arxiv.org/abs/2507.18576v1) | **Safety**&**Reinforcement Learning**&**Multimodal** |
 | 25.07 | University of Illinois Urbana-Champaign | arxiv | [PurpCode: Reasoning for Safer Code Generation](https://arxiv.org/abs/2507.19060v2) | **SecureCode**&**Reasoning**&**Alignment** |
 | 25.07 | IBM Research | arxiv | [OneShield - the Next Generation of LLM Guardrails](https://arxiv.org/abs/2507.21170v1) | **Guardrails**&**Safety**&**Compliance** |
+| 25.08 | University of Maryland, College Park | arxiv | [Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation](https://arxiv.org/abs/2508.00912) | **Predictive Auditing**&**LLM APIs**&**Reasoning Token Count**&**Token Inflation**|
+| 25.08 | Independent Researcher, Arizona State University, University of California, Berkeley | arxiv | [Measuring Harmfulness of Computer-Using Agents](https://arxiv.org/abs/2508.00935) | **Computer-Using Agents**&**Safety Risks**&**CUAHarm Benchmark**&**Language Models**|
+| 25.08 | Jimei University, Wenzhou-Kean University, The Hong Kong University of Science and Technology (Guangzhou), New York University, Xiamen University | arxiv | [A Survey on Data Security in Large Language Models](https://arxiv.org/abs/2508.02312) | **Large language model (LLM)**&**Data security**&**LLM vulnerabilities**&**Prompt injection**|
 
 
 ## 💻Presentations & Talks

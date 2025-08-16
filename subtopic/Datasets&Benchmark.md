@@ -234,6 +234,7 @@
 | 25.07 | Glass Box Medicine | arxiv | [Large language models provide unsafe answers to patient-posed medical questions](https://arxiv.org/abs/2507.18905) | **PatientSafety**&**MedicalAdvice**&**Chatbots** |
 | 25.07 | University of Cambridge | arxiv | [TRIDENT: Benchmarking LLM Safety in Finance, Medicine, and Law](https://arxiv.org/abs/2507.21134) | **Safety**&**Benchmark**&**Compliance** |
 | 25.07 | Mohamed bin Zayed University of Artificial Intelligence, University of Delhi | arxiv | [UnsafeChain: Enhancing Reasoning Model Safety via Hard Cases](https://arxiv.org/abs/2507.21652) | **SafetyAlignment**&**HardPrompts**&**Reasoning** |
+| 25.08 |                                         AIM Intelligence, Seoul National University                                          |      arxiv      |      [Eliciting and Analyzing Emergent Misalignment in State-of-the-Art Large Language Models](https://arxiv.org/abs/2508.04196)      |      **LLM Alignment**&**Misalignment**&**Red-Teaming**&**Narrative Manipulation** |
 
 
 ## 📚Resource

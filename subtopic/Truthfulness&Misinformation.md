@@ -547,6 +547,10 @@
 | 25.07 | Tsinghua University | arxiv | [Mitigating Geospatial Knowledge Hallucination in Large Language Models: Benchmarking and Dynamic Factuality Aligning](https://arxiv.org/abs/2507.19586) | **Geospatial**&**Hallucination**&**Factuality** |
 | 25.07 | The University of New South Wales | arxiv | [Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136) | **Hallucination**&**Verification**&**RAG** |
 | 25.07 | University of Sana’a | arxiv | [Theoretical Foundations and Mitigation of Hallucination in Large Language Models](https://arxiv.org/abs/2507.22915) | **Hallucination**&**Theory**&**Mitigation** |
+| 25.08 |                                         University of Chinese Academy of Sciences, Peking University, Amazon.com, Inc.                                         |      arxiv      |      [Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity](https://arxiv.org/abs/2508.04182)      |      **Multimodal Large Language Models**&**Hallucination**&**Causal Inference** |
+| 25.08 |                                         Renmin University of China, University of California, San Diego, DataCanvas Alaya NeW                                         |      arxiv      |      [Analyzing and Mitigating Object Hallucination: A Training Bias Perspective](https://arxiv.org/abs/2508.04567)      |      **Large Vision-Language Models**&**Object Hallucination**&**Training Bias**&**Unlearning** |
+| 25.08 |                                         University of Melbourne, Imperial College London                                          |      arxiv      |      [Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination](https://arxiv.org/abs/2508.05188)      |      **Incident Response**&**Large Language Models**&**Hallucination Mitigation** |
+| 25.08 | Stanford University, University of California, Berkeley | arxiv | [Toward Verifiable Misinformation Detection: A Multi-Tool LLM Agent Framework](https://arxiv.org/abs/2508.03054) | **Misinformation Detection**&**LLM Agent**&**Verifiable Reasoning**|
 
 
 
