@@ -235,6 +235,14 @@
 | 25.07 | University of Cambridge | arxiv | [TRIDENT: Benchmarking LLM Safety in Finance, Medicine, and Law](https://arxiv.org/abs/2507.21134) | **Safety**&**Benchmark**&**Compliance** |
 | 25.07 | Mohamed bin Zayed University of Artificial Intelligence, University of Delhi | arxiv | [UnsafeChain: Enhancing Reasoning Model Safety via Hard Cases](https://arxiv.org/abs/2507.21652) | **SafetyAlignment**&**HardPrompts**&**Reasoning** |
 | 25.08 |                                         AIM Intelligence, Seoul National University                                          |      arxiv      |      [Eliciting and Analyzing Emergent Misalignment in State-of-the-Art Large Language Models](https://arxiv.org/abs/2508.04196)      |      **LLM Alignment**&**Misalignment**&**Red-Teaming**&**Narrative Manipulation** |
+| 25.08 | Shanghai Jiao Tong University | arxiv | [Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation](https://arxiv.org/abs/2508.06194v1) | **Jailbreak Evaluation**&**Scenario-Adaptivity**&**LLM Safety** |
+| 25.08 | Shanghai Jiao Tong University | arxiv | [MCSBench: Benchmarking Multimodal Commonsense Reasoning of Large Vision-Language Models](https://arxiv.org/abs/2508.06755v1) | **Multimodal Commonsense Reasoning**&**Large Vision-Language Models**&**Benchmark** |
+| 25.08 | Fordham University | arxiv | [Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach](https://arxiv.org/abs/2508.07063v1) | **AI Moderation**&**Bias Detection**&**Human-in-the-Loop** |
+| 25.08 | Apple | COLM 2025 | [Investigating Intersectional Bias in Large Language Models using Confidence Disparities in Coreference Resolution](https://arxiv.org/abs/2508.07111v1) | **Intersectional Bias**&**Coreference Resolution**&**Fairness Evaluation** |
+| 25.08 | Tsinghua University | arxiv | [Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models](https://arxiv.org/abs/2508.07173v1) | **Audio-Visual LLMs**&**Safety Evaluation**&**Cross-Modal Consistency** |
+| 25.08 | The Hong Kong University of Science and Technology (Guangzhou) | arxiv | [Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge](https://arxiv.org/abs/2508.08236v1) | **Mental Health Dialogues**&**Safety Alignment**&**LLM-as-Judge** |
+| 25.08 | Peking University | ACM MM 2025 | [Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models](https://arxiv.org/abs/2508.08926v1) | **Vision-Language Models**&**Implicit Reasoning Safety**&**In-Context Learning** |
+| 25.08 | Guizhou University | arxiv | [XFacta: Contemporary, Real-World Dataset and Evaluation for Multimodal Misinformation Detection with Multimodal LLMs](https://arxiv.org/abs/2508.09999v1) | **Multimodal Misinformation Detection**&**MLLM Evaluation**&**Contemporary Dataset** |
 
 
 ## 📚Resource

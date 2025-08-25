@@ -319,6 +319,13 @@
 | 25.08 | Emory University, Illinois Institute of Technology | arxiv | [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) | **Retrieval-Augmented Generation (RAG)**&**Privacy Leakage**&**Differential Privacy**&**Decoding Strategies**|
 | 25.08 | Institute of Information Engineering, CAS & School of Cyberspace Security, UCAS, Northeastern University, Nanyang Technological University, Sun Yat-sen University | arxiv | [GEOSHIELD: SAFEGUARDING GEOLOCATION PRIVACY FROM VISION-LANGUAGE MODELS VIA ADVERSARIAL PERTURBATIONS](https://arxiv.org/abs/2508.03209) | **Vision-Language Models**&**Geolocation Privacy**&**Adversarial Perturbations**&**Feature Disentanglement**|
 | 25.08 | Carnegie Mellon University, University of Bristol, Clemson University, Portland State University | arxiv | [Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents](https://arxiv.org/abs/2508.03991) | **LLM Agents**&**Cognitive Architecture**&**Proactive Behavior**&**Privacy-Preserving**&**Self-Evolving Systems**|
+| 25.08 | Harbin Engineering University | arxiv | [Adaptive Backtracking for Privacy Protection in Large Language Models](https://arxiv.org/abs/2508.06087v1) | **Privacy Protection**&**Adaptive Backtracking**&**Retrieval-Augmented Generation** |
+| 25.08 | Université Toulouse Capitole | arxiv | [Leveraging LLMs for Privacy-Aware Predictions in Participatory Budgeting](https://arxiv.org/abs/2508.06577v1) | **Participatory Budgeting**&**Privacy Preservation**&**Computational Social Choice** |
+| 25.08 | Carnegie Mellon University | arxiv | [1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning](https://arxiv.org/abs/2508.07667v1) | **Contextual Privacy**&**Multi-Agent Reasoning**&**Information Flow** |
+| 25.08 | Superset Labs PBC | arxiv | [Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams](https://arxiv.org/abs/2508.09036v1) | **AI Governance**&**Privacy Certification**&**LLM Benchmarking** |
+| 25.08 | Hainan University | arxiv | [Security Analysis of ChatGPT: Threats and Privacy Risks](https://arxiv.org/abs/2508.09426v1) | **ChatGPT**&**Privacy Risks**&**Security Threats** |
+| 25.08 | Zhejiang University | arxiv | [Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442v1) | **KV-cache Privacy**&**Inversion/Collision/Injection Attacks**&**Obfuscation Defense** |
+| 25.08 | Georgia Tech | arxiv | [Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880v1) | **LLM Agents**&**Privacy Risks**&**Simulation Framework** |
 
 
 

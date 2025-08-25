@@ -431,6 +431,17 @@
 | 25.08 | NVIDIA | arxiv | [CultureGuard: Towards Culturally-Aware Dataset and Guard Model for Multilingual Safety Applications](https://arxiv.org/abs/2508.01710) | **Multilingual Safety**&**Culturally-Aware Datasets**&**Guard Models**&**Synthetic Data Generation**|
 | 25.08 | Microsoft Security Response Center | arxiv | [Highlight & Summarize: RAG without the jailbreaks](https://arxiv.org/abs/2508.02872) | **Retrieval-Augmented Generation (RAG)**&**Jailbreaking**&**Model Hijacking**&**System Design**&**LLM Security**|
 | 25.08 | Zhejiang University, Xiamen University, Shanghai Jiao Tong University | arxiv | [HARMONYGUARD: TOWARD SAFETY AND UTILITY IN WEB AGENTS VIA ADAPTIVE POLICY ENHANCEMENT AND DUAL-OBJECTIVE OPTIMIZATION](https://arxiv.org/abs/2508.04010) | **Web Agents**&**LLM Safety**&**Dual-Objective Optimization**&**Adaptive Policy**&**Multi-Agent Systems**|
+| 25.08 | IBM | arxiv | [A Framework for Inherently Safer AGI through Language-Mediated Active Inference](https://arxiv.org/abs/2508.05766v1) | **Active Inference**&**AGI Safety**&**Large Language Models** |
+| 25.08 | University of Bonn | arxiv | [In-Training Defenses against Emergent Misalignment in Language Models](https://arxiv.org/abs/2508.06249v1) | **Emergent Misalignment**&**Fine-Tuning Safety**&**Regularization** |
+| 25.08 | EleutherAI | arxiv | [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601v1) | **Open-Weight LLMs**&**Tamper-Resistance**&**Data Filtering** |
+| 25.08 | Nankai University | arxiv | [SafeGrad: Gradient Surgery for Safe LLM Fine-Tuning](https://arxiv.org/abs/2508.07172v1) | **Safe Fine-Tuning**&**Gradient Surgery**&**LLM Safety** |
+| 25.08 | Jilin University | arxiv | [BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks](https://arxiv.org/abs/2508.08127v1) | **Multi-Agent Systems Security**&**Unsupervised Defense**&**Graph Anomaly Detection** |
+| 25.08 | Chinese Academy of Sciences | arxiv | [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org/abs/2508.09190v1) | **Fine-Grained Safety Neurons**&**Continual Projection**&**LLM Fine-Tuning Risks** |
+| 25.08 | Renmin University of China | arxiv | [Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models: A Unified and Accurate Approach](https://arxiv.org/abs/2508.09201v1) | **Jailbreak Detection**&**Vision-Language Models**&**Anomaly Detection** |
+| 25.08 | OpenAI | arxiv | [From Hard Refusals to Safe-Completions: Toward Output-Centric Safety Training](https://arxiv.org/abs/2508.09224v1) | **Safe-Completions**&**Output-Centric Safety**&**Dual-Use Prompts** |
+| 25.08 | Wuhan University | arxiv | [NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs](https://arxiv.org/abs/2508.09473v1) | **Safety-Utility Alignment**&**Neuron Modulation**&**Meta-Learning** |
+| 25.08 | Southeast University | arxiv | [Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation](https://arxiv.org/abs/2508.09666v1) | **Chain-of-Thought Distillation**&**Safety Alignment**&**Small Language Models** |
+| 25.08 | University of California, Irvine | arxiv | [Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v1) | **Context Filtering**&**Jailbreak Defense**&**Safety-Helpfulness Trade-off** |
 
 
 ## 💻Presentations & Talk

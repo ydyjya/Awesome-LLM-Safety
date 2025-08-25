@@ -66,6 +66,7 @@
 | 25.06 | Peking University, Huawei Technologies | arxiv | [More Vulnerable than You Think: On the Stability of Tool-Integrated LLM Agents](https://arxiv.org/abs/2506.21967v1) | **Tool-Integrated Agents**&**Stability**&**Vulnerability** |
 | 25.07 | Queen’s University | arxiv | [On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks](https://arxiv.org/abs/2507.06489v1) | **Verbal Confidence**&**Adversarial Attack**&**Robustness** |
 | 25.07 | UC Berkeley | arxiv | [Small Edits, Big Consequences: Telling Good from Bad Robustness in Large Language Models](https://arxiv.org/abs/2507.15868v1) | **Robustness**&**LLM**&**Sensitivity** |
+| 25.08 | York University | IEEE VIS 2025 | [The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models](https://arxiv.org/abs/2508.09716v1) | **Misleading Visualizations**&**Vision-Language Models**&**Chart Reasoning** |
 
 
 ## 💻Presentations & Talks

@@ -299,6 +299,8 @@
 | 25.08 | University of Maryland, College Park | arxiv | [Predictive Auditing of Hidden Tokens in LLM APIs via Reasoning Length Estimation](https://arxiv.org/abs/2508.00912) | **Predictive Auditing**&**LLM APIs**&**Reasoning Token Count**&**Token Inflation**|
 | 25.08 | Independent Researcher, Arizona State University, University of California, Berkeley | arxiv | [Measuring Harmfulness of Computer-Using Agents](https://arxiv.org/abs/2508.00935) | **Computer-Using Agents**&**Safety Risks**&**CUAHarm Benchmark**&**Language Models**|
 | 25.08 | Jimei University, Wenzhou-Kean University, The Hong Kong University of Science and Technology (Guangzhou), New York University, Xiamen University | arxiv | [A Survey on Data Security in Large Language Models](https://arxiv.org/abs/2508.02312) | **Large language model (LLM)**&**Data security**&**LLM vulnerabilities**&**Prompt injection**|
+| 25.08 | University of South Florida | arxiv | [Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM](https://arxiv.org/abs/2508.05775v2) | **Harmful Content**&**LLM Safety**&**Jailbreak Mitigation** |
+| 25.08 | Monash University | ACM CCS 2025 | [Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks](https://arxiv.org/abs/2508.08029v1) | **O-RAN Security**&**Anomaly Detection**&**Data Manipulation Attacks** |
 
 
 ## 💻Presentations & Talks
