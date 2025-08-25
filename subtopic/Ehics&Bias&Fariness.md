@@ -291,6 +291,8 @@
 | 25.08 | University of Copenhagen | arxiv | [Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models](https://arxiv.org/abs/2508.08879v1) | **Cultural Bias**&**Mechanistic Interpretability**&**Cultural Flattening** |
 | 25.08 | Indian Institute of Technology Madras | arxiv | [Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs](https://arxiv.org/abs/2508.09019v1) | **Bias Mitigation**&**Activation Steering**&**Mechanistic Interpretability** |
 | 25.08 | Universidade Estadual de Campinas | arxiv | [Yet another algorithmic bias: A Discursive Analysis of Large Language Models Reinforcing Dominant Discourses on Gender and Race](https://arxiv.org/abs/2508.10304v1) | **Algorithmic Bias**&**Discursive Analysis**&**Gender and Race** |
+| 25.08 | Zhejiang University | arxiv | [SproutBench: A Benchmark for Safe and Ethical Large Language Models for Youth](https://arxiv.org/abs/2508.11009) | **LLM Safety**&**Child-AI Interaction**&**Developmentally-Informed Benchmark** |
+| 25.08 | University of Malta | arxiv | [The Cultural Gene of Large Language Models: A Study on the Impact of Cross-Corpus Training on Model Values and Biases](https://arxiv.org/abs/2508.12411v1) | **Cultural Bias**&**Cross-Corpus Training**&**AI Ethics** |
 
 
 

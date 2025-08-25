@@ -326,6 +326,7 @@
 | 25.08 | Hainan University | arxiv | [Security Analysis of ChatGPT: Threats and Privacy Risks](https://arxiv.org/abs/2508.09426v1) | **ChatGPT**&**Privacy Risks**&**Security Threats** |
 | 25.08 | Zhejiang University | arxiv | [Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442v1) | **KV-cache Privacy**&**Inversion/Collision/Injection Attacks**&**Obfuscation Defense** |
 | 25.08 | Georgia Tech | arxiv | [Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880v1) | **LLM Agents**&**Privacy Risks**&**Simulation Framework** |
+| 25.08 | Technical University of Munich | HAIPS @ CCS 2025 | [LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data](httpshttps://arxiv.org/abs/2508.12158) | **LLM-as-a-Judge**&**Privacy**&**User Study** |
 
 
 

@@ -676,6 +676,9 @@
 | 25.08 | Zhejiang University |                                   arxiv                                   | [Latent Fusion Jailbreak: Blending Harmful and Harmless Representations to Elicit Unsafe LLM Outputs](https://arxiv.org/abs/2508.10029v1) | **Latent Fusion Jailbreak**&**Hidden State Interpolation**&**Adversarial Training Defense** |
 | 25.08 | Jinan University |                                   arxiv                                   | [The Cost of Thinking: Increased Jailbreak Risk in Large Language Models](https://arxiv.org/abs/2508.10032v1) | **Thinking Mode**&**Jailbreak Attacks**&**Safe Thinking Intervention** |
 | 25.08 | Nanjing University of Aeronautics and Astronautics | arxiv | [Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts](https://arxiv.org/abs/2508.10390v1) | **Jailbreak Attacks**&**Malicious Content Detection**&**Developer Message Exploits** |
+| 25.08 | Zhejiang University | arxiv | [MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies](https://arxiv.org/abs/2508.13048v1) | **Jailbreaking Attacks**&**Black-box LLMs**&**Markov Chain Adaptation** |
+| 25.08 | University of Notre Dame, Florida State University, Northwestern University, Duke University, University of Southern California | arxiv | [A Systematic Survey of Model Extraction Attacks and Defenses: State-of-the-Art and Perspectives](https://arxiv.org/abs/2508.15031) | **Model Extraction Attacks**&**AI Security**&**Survey** |
+| 25.08 | Louisiana State University, Northeastern University, Yale University | arxiv | [MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs](https://arxiv.org/abs/2508.15036) | **Mixture-of-Experts**&**Side-Channel Attacks**&**LLM Privacy** |
 
 
 ## 💻Presentations & Talks

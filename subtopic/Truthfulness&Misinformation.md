@@ -558,6 +558,10 @@
 | 25.08 | Fidelity Investments | arxiv | [Prompt-Response Semantic Divergence Metrics for Faithfulness Hallucination and Misalignment Detection in Large Language Models](https://arxiv.org/abs/2508.10192v1) | **Faithfulness Hallucination**&**Semantic Divergence Metrics**&**Misalignment Detection** |
 | 25.08 | Xi’an Jiaotong University | arxiv | [DiFaR: Enhancing Multimodal Misinformation Detection with Diverse, Factual, and Relevant Rationales](https://arxiv.org/abs/2508.10444v1) | **Multimodal Misinformation Detection**&**Chain-of-Thought Rationales**&**Post-hoc Filtering** |
 | 25.08 | Peking University | CIKM 2025 | [Exploring Causal Effect of Social Bias on Faithfulness Hallucinations in Large Language Models](https://arxiv.org/abs/2508.07753v1) | **Faithfulness Hallucinations**&**Causal Inference**&**Social Bias** |
+| 25.08 | Technical University of Munich | arxiv | [Hallucination in LLM-Based Code Generation: An Automotive Case Study](https://arxiv.org/abs/2508.11257) | **Code Generation**&**LLM Hallucination**&**Automotive Software** |
+| 25.08 | University of Southern California | arxiv | [Mitigating Hallucinations in Large Language Models via Causal Reasoning](https://arxiv.org/abs/2508.12495v1) | **Hallucination Mitigation**&**Causal Reasoning**&**Supervised Fine-Tuning** |
+| 25.08 | Chongqing University | arxiv | [Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection](https://arxiv.org/abs/2508.12632v1) | **Fake News Detection**&**Linguistic Fingerprints**&**LLM Security** |
+| 25.08 | Harbin Institute of Technology, Zhejiang University, Tsinghua University | arxiv | [Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](https://arxiv.org/abs/2508.15442) | **Text-to-Speech**&**Hallucination Mitigation**&**GFlowNets** |
 
 
 

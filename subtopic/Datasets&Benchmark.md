@@ -243,6 +243,10 @@
 | 25.08 | The Hong Kong University of Science and Technology (Guangzhou) | arxiv | [Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge](https://arxiv.org/abs/2508.08236v1) | **Mental Health Dialogues**&**Safety Alignment**&**LLM-as-Judge** |
 | 25.08 | Peking University | ACM MM 2025 | [Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models](https://arxiv.org/abs/2508.08926v1) | **Vision-Language Models**&**Implicit Reasoning Safety**&**In-Context Learning** |
 | 25.08 | Guizhou University | arxiv | [XFacta: Contemporary, Real-World Dataset and Evaluation for Multimodal Misinformation Detection with Multimodal LLMs](https://arxiv.org/abs/2508.09999v1) | **Multimodal Misinformation Detection**&**MLLM Evaluation**&**Contemporary Dataset** |
+| 25.08 | Shanghai Artificial Intelligence Laboratory | arxiv | [LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models](https://arxiv.org/abs/2508.12733v1) | **Multilingual Safety**&**Benchmark**&**LLM Evaluation** |
+| 25.08 | University of Science and Technology of China, Beihang University | arxiv | [MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers](https://arxiv.org/abs/2508.14925) | **Tool Poisoning**&**LLM Agent**&**Benchmark** |
+| 25.08 | Tsinghua University, Beihang University, RealAI | arxiv | [Unveiling Trust in Multimodal Large Language Models: Evaluation, Analysis, and Mitigation](https://arxiv.org/abs/2508.15370) | **Multimodal LLMs**&**Trustworthiness**&**Benchmark** |
+| 25.08 | Shanghai AI Lab, East China Normal University | arxiv | [SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](https://arxiv.org/abs/2508.15526) | **LLM Safety**&**Automated Benchmarking**&**Agent System** |
 
 
 ## 📚Resource

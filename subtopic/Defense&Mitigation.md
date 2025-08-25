@@ -442,6 +442,19 @@
 | 25.08 | Wuhan University | arxiv | [NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs](https://arxiv.org/abs/2508.09473v1) | **Safety-Utility Alignment**&**Neuron Modulation**&**Meta-Learning** |
 | 25.08 | Southeast University | arxiv | [Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation](https://arxiv.org/abs/2508.09666v1) | **Chain-of-Thought Distillation**&**Safety Alignment**&**Small Language Models** |
 | 25.08 | University of California, Irvine | arxiv | [Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v1) | **Context Filtering**&**Jailbreak Defense**&**Safety-Helpfulness Trade-off** |
+| 25.08 | Macquarie University | arxiv | [SafeConstellations: Steering LLM Safety to Reduce Over-Refusals Through Task-Specific Trajectory](https://arxiv.org/abs/2508.11290v1) | **LLM Safety**&**Over-Refusal Mitigation**&**Representation Steering** |
+| 25.08 | National University of Singapore | arxiv | [SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication](https://arxiv.org/abs/2508.11733v1) | **Multi-Agent Systems**&**Progressive Pruning**&**LLM Communication Efficiency** |
+| 25.08 | Nanyang Technological University | arxiv | [Mitigating Jailbreaks with Intent-Aware LLMs](https://arxiv.org/abs/2508.12072v1) | **LLM Safety**&**Jailbreak Defense**&**Intent-Aware Fine-Tuning** |
+| 25.08 | Microsoft Research | COLM 2025 | [Rethinking Safety in LLM Fine-tuning: An Optimization Perspective](https://arxiv.org/abs/2508.12531v1) | **LLM Safety**&**Fine-tuning Optimization**&**Exponential Moving Average** |
+| 25.08 | University College London | arxiv | [CorrSteer: Steering Improves Task Performance and Safety in LLMs through Correlation-based Sparse Autoencoder Feature Selection](https://arxiv.org/abs/2508.12535v1) | **Sparse Autoencoders**&**LLM Steering**&**Correlation-based Feature Selection** |
+| 25.08 | Wuhan University | arxiv | [FuSaR: A Fuzzification-Based Method for LRM Safety-Reasoning Balance](https://arxiv.org/abs/2508.12897v1) | **Large Reasoning Models**&**Safety-Reasoning Trade-off**&**Fuzzification Alignment** |
+| 25.08 | Zhejiang University, Antgroup, Quantstamp | arxiv | [ORFUZZ: Fuzzing the "Other Side" of LLM Safety](https://arxiv.org/abs/2508.11222) | **Over-Refusal**&**Fuzzing**&**LLM Safety** |
+| 25.08 | Qiyuan Tech | arxiv | [EFFICIENT SWITCHABLE | 25.08 | Nanjing University, Meituan Inc., Dalian University of Technology | arxiv | [SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models](https://arxiv.org/abs/2508.15648) | **LLM Safety**&**Reinforcement Learning**&**Self-Improvement** |SAFETY CONTROL IN LLMS VIA MAGIC-TOKEN-GUIDED CO-TRAINING](https://arxiv.org/abs/2508.14904) | **LLM Safety**&**Controllable Behavior**&**Magic Token** |
+| 25.08 | University of Southampton | arxiv | [S³LORA: Safe Spectral Sharpness-Guided Pruning in Adaptation of Agent Planner](https://arxiv.org/abs/2508.15068) | **LLM Agent Safety**&**LoRA**&**Model Pruning** |
+| 25.08 | Nanjing University, Meituan Inc., Dalian University of Technology | arxiv | [SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models](https://arxiv.org/abs/2508.15648) | **LLM Safety**&**Reinforcement Learning**&**Self-Improvement** |
+| 25.08 | Zhejiang University, University of California, Los Angeles, Westlake University | arxiv | [IPIGUARD: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2508.15310) | **LLM Agents**&**Indirect Prompt Injection**&**Cybersecurity** |
+
+
 
 
 ## 💻Presentations & Talk
