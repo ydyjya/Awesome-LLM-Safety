@@ -247,6 +247,10 @@
 | 25.08 | University of Science and Technology of China, Beihang University | arxiv | [MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers](https://arxiv.org/abs/2508.14925) | **Tool Poisoning**&**LLM Agent**&**Benchmark** |
 | 25.08 | Tsinghua University, Beihang University, RealAI | arxiv | [Unveiling Trust in Multimodal Large Language Models: Evaluation, Analysis, and Mitigation](https://arxiv.org/abs/2508.15370) | **Multimodal LLMs**&**Trustworthiness**&**Benchmark** |
 | 25.08 | Shanghai AI Lab, East China Normal University | arxiv | [SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](https://arxiv.org/abs/2508.15526) | **LLM Safety**&**Automated Benchmarking**&**Agent System** |
+| 25.08 | Oregon State University | arxiv | [Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents](https://arxiv.org/abs/2508.17155v1) | **LLM Agents**&**TOCTOU Vulnerabilities**&**Security Mitigation** |
+| 25.08 | University of Wisconsin-Madison | arxiv | [PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality](https://arxiv.org/abs/2508.18649v1) | **Vision-Language Models**&**Multimodal Safety**&**Chain-of-Thought Alignment** |
+| 25.08 | Shandong University | arxiv | [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493v1) | **Smartphone Agents**&**Privacy Awareness**&**SAPA-Bench** |
+| 25.08 | CISPA Helmholtz Center for Information Security | arxiv | [JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring](https://arxiv.org/abs/2508.20848v1) | **Jailbreak Assessment**&**Decompositional Scoring**&**Fact-Checking** |
 
 
 ## 📚Resource

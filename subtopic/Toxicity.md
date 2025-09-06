@@ -98,6 +98,7 @@
 | 25.07 | University of California, Los Angeles | arxiv | [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455v2) | **Toxicity Detection**&**Community Annotation**&**Context** |
 | 25.07 | Virginia Tech | arxiv | [TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data](https://arxiv.org/abs/2507.05660v1) | **Toxicity Mitigation**&**LLM Fine-tuning**&**Defense** |
 | 25.07 | Huazhong University of Science and Technology | arxiv | [Circumventing Safety Alignment in Large Language Models Through Embedding Space Toxicity Attenuation](https://arxiv.org/abs/2507.08020) | **Large Language Model**&**Embedding Poisoning**&**Toxicity** |
+| 25.08 | EPFL | MM 2025 | [Specializing General-purpose LLM Embeddings for Implicit Hate Speech Detection across Datasets](https://arxiv.org/abs/2508.20750v1) | **Implicit Hate Speech**&**LLM Embeddings**&**Cross-Dataset Generalization** |
 
 
 ## 💻Presentations & Talks

@@ -327,6 +327,10 @@
 | 25.08 | Zhejiang University | arxiv | [Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference](https://arxiv.org/abs/2508.09442v1) | **KV-cache Privacy**&**Inversion/Collision/Injection Attacks**&**Obfuscation Defense** |
 | 25.08 | Georgia Tech | arxiv | [Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880v1) | **LLM Agents**&**Privacy Risks**&**Simulation Framework** |
 | 25.08 | Technical University of Munich | HAIPS @ CCS 2025 | [LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data](httpshttps://arxiv.org/abs/2508.12158) | **LLM-as-a-Judge**&**Privacy**&**User Study** |
+| 25.08 | The Pennsylvania State University | arxiv | [Exposing Privacy Risks in Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2508.17222v1) | **Graph RAG**&**Privacy Risks**&**Data Extraction Attacks** |
+| 25.08 | University of Maryland, Baltimore County | arxiv | [Membership Inference Attacks on LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665v1) | **Membership Inference**&**LLM Recommender Systems**&**Privacy Attacks** |
+| 25.08 | Santa Clara University | arxiv | [RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting](https://arxiv.org/abs/2508.19286v1) | **Privacy-Preserving Rewriting**&**Reinforcement Learning**&**Stylometric Obfuscation** |
+| 25.08 | Shandong University | arxiv | [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493v1) | **Smartphone Agents**&**Privacy Awareness**&**SAPA-Bench** |
 
 
 

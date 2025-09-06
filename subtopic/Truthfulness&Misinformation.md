@@ -562,10 +562,14 @@
 | 25.08 | University of Southern California | arxiv | [Mitigating Hallucinations in Large Language Models via Causal Reasoning](https://arxiv.org/abs/2508.12495v1) | **Hallucination Mitigation**&**Causal Reasoning**&**Supervised Fine-Tuning** |
 | 25.08 | Chongqing University | arxiv | [Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection](https://arxiv.org/abs/2508.12632v1) | **Fake News Detection**&**Linguistic Fingerprints**&**LLM Security** |
 | 25.08 | Harbin Institute of Technology, Zhejiang University, Tsinghua University | arxiv | [Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](https://arxiv.org/abs/2508.15442) | **Text-to-Speech**&**Hallucination Mitigation**&**GFlowNets** |
+| 25.08 | JP Morgan AI Research | arxiv | [QueryBandits for Hallucination Mitigation: Exploiting Semantic Features for No-Regret Rewriting](https://arxiv.org/abs/2508.16697v1) | **Hallucination Mitigation**&**Query Rewriting**&**Contextual Bandits** |
+| 25.08 | Yonsei University | arxiv | [Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs](https://arxiv.org/abs/2508.16921v1) | **Affective Hallucination**&**Emotional Safety**&**Benchmarking** |
+| 25.08 | University of Illinois Urbana-Champaign | arxiv | [Principled Detection of Hallucinations in Large Language Models via Multiple Testing](https://arxiv.org/abs/2508.18473v2) | **Hallucination Detection**&**Multiple Testing**&**OOD Methods** |
 
 
 
-## 💻Presentations & Talks
+## 💻Presentations & Talks| 25.08 | University of Modena and Reggio Emilia | BMVC 2025 | [Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization](https://arxiv.org/abs/2508.20181v1) | **Multimodal LLMs**&**Hallucination Mitigation**&**Preference Optimization** |
+
 
 
 

@@ -293,6 +293,9 @@
 | 25.08 | Universidade Estadual de Campinas | arxiv | [Yet another algorithmic bias: A Discursive Analysis of Large Language Models Reinforcing Dominant Discourses on Gender and Race](https://arxiv.org/abs/2508.10304v1) | **Algorithmic Bias**&**Discursive Analysis**&**Gender and Race** |
 | 25.08 | Zhejiang University | arxiv | [SproutBench: A Benchmark for Safe and Ethical Large Language Models for Youth](https://arxiv.org/abs/2508.11009) | **LLM Safety**&**Child-AI Interaction**&**Developmentally-Informed Benchmark** |
 | 25.08 | University of Malta | arxiv | [The Cultural Gene of Large Language Models: A Study on the Impact of Cross-Corpus Training on Model Values and Biases](https://arxiv.org/abs/2508.12411v1) | **Cultural Bias**&**Cross-Corpus Training**&**AI Ethics** |
+| 25.08 | IIT Delhi | arxiv | [SMITE: Enhancing Fairness in LLMs through Optimal In-Context Example Selection via Dynamic Validation](https://arxiv.org/abs/2508.17735v1) | **Fairness**&**In-Context Learning**&**Dynamic Validation** |
+| 25.08 | UC Riverside | arxiv | [Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in LLMs](https://arxiv.org/abs/2508.20333v1) | **Poisoning Attack**&**Subversive Alignment Injection**&**Bias Injection** |
+| 25.08 | University of Birmingham | EMNLP 2025 | [Social Bias in Multilingual Language Models: A Survey](https://arxiv.org/abs/2508.20201v1) | **Multilingual LMs**&**Social Bias**&**Fairness in NLP** |
 
 
 

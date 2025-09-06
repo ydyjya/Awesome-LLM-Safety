@@ -303,6 +303,8 @@
 | 25.08 | Monash University | ACM CCS 2025 | [Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks](https://arxiv.org/abs/2508.08029v1) | **O-RAN Security**&**Anomaly Detection**&**Data Manipulation Attacks** |
 | 25.08 | Zhejiang University | arxiv | [Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends](https://arxiv.org/abs/2508.11548v1) | **Copyright Protection**&**Model Fingerprinting**&**Text Watermarking** |
 | 25.08 | Global Center on AI Governance | arxiv | [Toward an African Agenda for AI Safety](https://arxiv.org/abs/2508.13179v1) | **AI Safety in Africa**&**Governance**&**Socio-Technical Risks** |
+| 25.08 | PeopleTec, Inc. | arxiv | [SERVANT, STALKER, PREDATOR: How an Honest, Helpful, and Harmless (3H) Agent Unlocks Adversarial Skills](https://arxiv.org/abs/2508.19500v1) | **Multi-Agent Systems**&**Service Orchestration**&**Composite Threats** |
+| 25.08 | Nanyang Technological University | EMNLP 2025 Findings | [Improving Alignment in LVLMs with Debiased Self-Judgment](https://arxiv.org/abs/2508.20655v1) | **LVLM Alignment**&**Debiased Self-Judgment**&**Hallucination Mitigation** |
 
 
 ## 💻Presentations & Talks
