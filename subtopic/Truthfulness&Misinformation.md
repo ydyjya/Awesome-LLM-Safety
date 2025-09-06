@@ -565,6 +565,11 @@
 | 25.08 | JP Morgan AI Research | arxiv | [QueryBandits for Hallucination Mitigation: Exploiting Semantic Features for No-Regret Rewriting](https://arxiv.org/abs/2508.16697v1) | **Hallucination Mitigation**&**Query Rewriting**&**Contextual Bandits** |
 | 25.08 | Yonsei University | arxiv | [Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs](https://arxiv.org/abs/2508.16921v1) | **Affective Hallucination**&**Emotional Safety**&**Benchmarking** |
 | 25.08 | University of Illinois Urbana-Champaign | arxiv | [Principled Detection of Hallucinations in Large Language Models via Multiple Testing](https://arxiv.org/abs/2508.18473v2) | **Hallucination Detection**&**Multiple Testing**&**OOD Methods** |
+| 25.08 | North Carolina State University | arxiv | [Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection](https://arxiv.org/abs/2508.21228v1) | **Large Language Models**&**Hallucination Detection**&**Efficient Inference** |
+| 25.09 | Beijing Institute of Technology | arxiv | [Exploring and Mitigating Fawning Hallucinations in Large Language Models](https://arxiv.org/abs/2509.00869v1) | **Fawning Hallucination**&**Contrastive Decoding**&**Large Language Models** |
+| 25.09 | NVIDIA | arxiv | [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/abs/2509.03113v1) | **Multimodal Hallucination**&**Gradient-based Self-Reflection**&**Contrastive Decoding** |
+| 25.09 | ETH Zürich | arxiv | [Real-Time Detection of Hallucinated Entities in Long-Form Generation](https://arxiv.org/abs/2509.03531v1) | **Hallucination Detection**&**Long-Form Generation**&**Linear/LoRA Probes** |
+| 25.09 | Emory University | arxiv | [Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction](https://arxiv.org/abs/2509.03540v1) | **Factuality**&**Knowledge Graph Construction**&**Retrieval-Augmented Generation** |
 
 
 

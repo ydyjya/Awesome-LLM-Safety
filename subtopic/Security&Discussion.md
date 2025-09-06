@@ -305,6 +305,9 @@
 | 25.08 | Global Center on AI Governance | arxiv | [Toward an African Agenda for AI Safety](https://arxiv.org/abs/2508.13179v1) | **AI Safety in Africa**&**Governance**&**Socio-Technical Risks** |
 | 25.08 | PeopleTec, Inc. | arxiv | [SERVANT, STALKER, PREDATOR: How an Honest, Helpful, and Harmless (3H) Agent Unlocks Adversarial Skills](https://arxiv.org/abs/2508.19500v1) | **Multi-Agent Systems**&**Service Orchestration**&**Composite Threats** |
 | 25.08 | Nanyang Technological University | EMNLP 2025 Findings | [Improving Alignment in LVLMs with Debiased Self-Judgment](https://arxiv.org/abs/2508.20655v1) | **LVLM Alignment**&**Debiased Self-Judgment**&**Hallucination Mitigation** |
+| 25.09 | Zhejiang University | arxiv | [Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](https://arxiv.org/abs/2509.01211v1) | **Multi-Agent Systems**&**Web Fraud Attack**&**Security** |
+| 25.09 | Alibaba AAIG | arxiv | [Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models](https://arxiv.org/abs/2509.01909v2) | **Constructive Safety Alignment**&**Safety Benchmark**&**Game-Theoretic Modeling** |
+| 25.09 | Kennesaw State University | IEEE Internet of Things Journal | [A Survey: Towards Privacy and Security in Mobile Large Language Models](https://arxiv.org/abs/2509.02411v1) | **Mobile LLMs**&**Privacy**&**Security** |
 
 
 ## 💻Presentations & Talks

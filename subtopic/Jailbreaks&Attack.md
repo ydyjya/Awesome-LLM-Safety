@@ -689,6 +689,9 @@
 | 25.08 | National University of Defense and Technology | arxiv | [Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience](https://arxiv.org/abs/2508.19292v1) | **Jailbreak Attacks**&**Experience Formalization**&**Automated Red-Teaming** |
 | 25.08 | University of Science and Technology of China | arxiv | [MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](https://arxiv.org/abs/2508.20412v1) | **Tool Poisoning Attack**&**Decision Dependence Graph**&**Agent Security** |
 | 25.08 | University of Padua | arxiv | [Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](https://arxiv.org/abs/2508.20863v1) | **Prompt Injection**&**Peer Review**&**LLM Security** |
+| 25.09 | HydroX AI | arxiv | [The Resurgence of GCG Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2509.00391v1) | **Adversarial Attack**&**Large Language Models**&**GCG Algorithm** |
+| 25.09 | Zhejiang University | IEEE Transactions on Visualization and Computer Graphics | [NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](https://arxiv.org/abs/2509.03985v1) | **Jailbreak Attacks**&**Visual Analytics**&**Safety Neurons** |
+| 25.09 | Embry-Riddle Aeronautical University | IEEE TPS 2025 | [Clone What You Can’t Steal: Black-Box LLM Replication via Logit Leakage and Distillation](https://arxiv.org/abs/2509.00973v1) | **Model Extraction**&**Logit Leakage**&**Knowledge Distillation** |
 
 
 ## 💻Presentations & Talks

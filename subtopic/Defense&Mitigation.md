@@ -470,6 +470,12 @@
 | 25.08 | Nanyang Technological University | arxiv | [Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](https://arxiv.org/abs/2508.21004v1) | **Backdoor Defense**&**Knowledge Dilution**&**Model Purification** |
 | 25.08 | Utah State University | CIKM 2025 | [Pruning Strategies for Backdoor Defense in LLMs](https://arxiv.org/abs/2508.20032v1) | **Backdoor Defense**&**Attention Head Pruning**&**LLM Security** |
 | 25.08 | Beijing Institute of Technology | EMNLP 2025 | [Speculative Safety-Aware Decoding](https://arxiv.org/abs/2508.17739v1) | **Decoding-Time Defense**&**Deep Safety Alignment**&**Speculative Sampling** |
+| 25.09 | University of Liverpool | arxiv | [Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models](https://arxiv.org/abs/2509.00373v1) | **Vision Language Models**&**Activation Steering**&**Adversarial Attack** |
+| 25.09 | Suzhou University of Technology | arxiv | [LLM Encoder vs. Decoder: Robust Detection of Chinese AI-Generated Text with LoRA](https://arxiv.org/abs/2509.00731v1) | **Chinese AI-Generated Text Detection**&**LoRA**&**Transformer** |
+| 25.09 | Zhejiang University | arxiv | [PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](https://arxiv.org/abs/2509.00918v1) | **Fingerprint Editing**&**Knowledge Prefix Enhancement**&**Model Protection** |
+| 25.09 | Duke Kunshan University | arxiv | [Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](https://arxiv.org/abs/2509.01631v1) | **Jailbreak Attacks**&**Safety Knowledge Neurons**&**SafeTuning** |
+| 25.09 | University of Toronto | arxiv | [Poisoned at Scale: A Scalable Audit Uncovers Hidden Scam Endpoints in Production LLMs](https://arxiv.org/abs/2509.02372v1) | **Data Poisoning**&**Malicious Code Generation**&**Security Audit** |
+| 25.09 | University of Hull | arxiv | [RAGuard: A Novel Approach for in-context Safe Retrieval Augmented Generation for LLMs](https://arxiv.org/abs/2509.03768v1) | **Retrieval-Augmented Generation**&**AI Safety**&**Decision Support** |
 
 
 

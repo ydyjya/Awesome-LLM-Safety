@@ -251,6 +251,8 @@
 | 25.08 | University of Wisconsin-Madison | arxiv | [PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality](https://arxiv.org/abs/2508.18649v1) | **Vision-Language Models**&**Multimodal Safety**&**Chain-of-Thought Alignment** |
 | 25.08 | Shandong University | arxiv | [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493v1) | **Smartphone Agents**&**Privacy Awareness**&**SAPA-Bench** |
 | 25.08 | CISPA Helmholtz Center for Information Security | arxiv | [JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring](https://arxiv.org/abs/2508.20848v1) | **Jailbreak Assessment**&**Decompositional Scoring**&**Fact-Checking** |
+| 25.09 | Shanghai Artificial Intelligence Laboratory | EMNLP 2025 Findings | [Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](https://arxiv.org/abs/2509.04403v1) | **Multimodal Safety**&**Dataset Construction**&**Risk Evaluation** |
+| 25.09 | Sichuan University | EMNLP 2025 Findings | [CANDY: Benchmarking LLMs' Limitations and Assistive Potential in Chinese Misinformation Fact-Checking](https://arxiv.org/abs/2509.04404v1) | **Misinformation Fact-Checking**&**Chinese LLMs**&**Benchmark Dataset** |
 
 
 ## 📚Resource

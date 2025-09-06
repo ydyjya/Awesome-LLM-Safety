@@ -296,6 +296,8 @@
 | 25.08 | IIT Delhi | arxiv | [SMITE: Enhancing Fairness in LLMs through Optimal In-Context Example Selection via Dynamic Validation](https://arxiv.org/abs/2508.17735v1) | **Fairness**&**In-Context Learning**&**Dynamic Validation** |
 | 25.08 | UC Riverside | arxiv | [Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in LLMs](https://arxiv.org/abs/2508.20333v1) | **Poisoning Attack**&**Subversive Alignment Injection**&**Bias Injection** |
 | 25.08 | University of Birmingham | EMNLP 2025 | [Social Bias in Multilingual Language Models: A Survey](https://arxiv.org/abs/2508.20201v1) | **Multilingual LMs**&**Social Bias**&**Fairness in NLP** |
+| 25.09 | University of Chinese Academy of Sciences | arxiv | [A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models](https://arxiv.org/abs/2509.03871v1) | **Trustworthiness**&**Reasoning**&**Chain-of-Thought** |
+| 25.09 | The University of Chicago | arxiv | [Measuring Bias or Measuring the Task: Understanding the Brittle Nature of LLM Gender Biases](https://arxiv.org/abs/2509.04373v1) | **Gender Bias**&**Prompt Sensitivity**&**Evaluation Robustness** |
 
 
 

@@ -331,6 +331,7 @@
 | 25.08 | University of Maryland, Baltimore County | arxiv | [Membership Inference Attacks on LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665v1) | **Membership Inference**&**LLM Recommender Systems**&**Privacy Attacks** |
 | 25.08 | Santa Clara University | arxiv | [RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting](https://arxiv.org/abs/2508.19286v1) | **Privacy-Preserving Rewriting**&**Reinforcement Learning**&**Stylometric Obfuscation** |
 | 25.08 | Shandong University | arxiv | [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493v1) | **Smartphone Agents**&**Privacy Awareness**&**SAPA-Bench** |
+| 25.09 | Kennesaw State University | IEEE Internet of Things Journal | [A Survey: Towards Privacy and Security in Mobile Large Language Models](https://arxiv.org/abs/2509.02411v1) | **Mobile LLMs**&**Privacy**&**Security** |
 
 
 
