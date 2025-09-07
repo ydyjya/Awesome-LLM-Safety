@@ -570,6 +570,7 @@
 | 25.09 | NVIDIA | arxiv | [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/abs/2509.03113v1) | **Multimodal Hallucination**&**Gradient-based Self-Reflection**&**Contrastive Decoding** |
 | 25.09 | ETH Zürich | arxiv | [Real-Time Detection of Hallucinated Entities in Long-Form Generation](https://arxiv.org/abs/2509.03531v1) | **Hallucination Detection**&**Long-Form Generation**&**Linear/LoRA Probes** |
 | 25.09 | Emory University | arxiv | [Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction](https://arxiv.org/abs/2509.03540v1) | **Factuality**&**Knowledge Graph Construction**&**Retrieval-Augmented Generation** |
+| 07.09 | Indiana University | arxiv | [CAIN: Hijacking LLM-Humans Conversations via Malicious System Prompts](https://arxiv.org/abs/2505.16888) | **Hijacking LLM**&**Controllable Generation**&**Adversarial Robustness** |
 
 
 
