@@ -692,6 +692,12 @@
 | 25.09 | HydroX AI | arxiv | [The Resurgence of GCG Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2509.00391v1) | **Adversarial Attack**&**Large Language Models**&**GCG Algorithm** |
 | 25.09 | Zhejiang University | IEEE Transactions on Visualization and Computer Graphics | [NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](https://arxiv.org/abs/2509.03985v1) | **Jailbreak Attacks**&**Visual Analytics**&**Safety Neurons** |
 | 25.09 | Embry-Riddle Aeronautical University | IEEE TPS 2025 | [Clone What You Can’t Steal: Black-Box LLM Replication via Logit Leakage and Distillation](https://arxiv.org/abs/2509.00973v1) | **Model Extraction**&**Logit Leakage**&**Knowledge Distillation** |
+| 25.09 | Tsinghua University | arxiv | [Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs](https://arxiv.org/abs/2509.05367v1) | **Jailbreak Attacks**&**Ethical Reasoning**&**AI Safety** |
+| 25.09 | Manipal University Jaipur | arxiv | [Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization](https://arxiv.org/abs/2509.05831v1) | **Prompt Injection**&**HTML Attacks**&**Web Summarization** |
+| 25.09 | Soongsil University | arxiv | [Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs](https://arxiv.org/abs/2509.05883v1) | **Prompt Injection**&**Multimodal Attacks**&**AI Security** |
+| 25.09 | University of Electronic Science and Technology of China | arxiv | [Embedding Poisoning: Bypassing Safety Alignment via Embedding Semantic Shift](https://arxiv.org/abs/2509.06338v1) | **Embedding Poisoning**&**Safety Alignment**&**Adversarial Attacks** |
+| 25.09 | Politecnico di Milano | arxiv | [Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?](https://arxiv.org/abs/2509.06350v1) | **Jailbreak Attacks**&**Token Redundancy**&**Adversarial Optimization** |
+| 25.09 | AIM Intelligence | arxiv | [X-Teaming Evolutionary M2S: Automated Discovery of Multi-turn to Single-turn Jailbreak Templates](https://arxiv.org/abs/2509.08729v1) | **Jailbreak Attacks**&**M2S Templates**&**Automated Red Teaming** |
 
 
 ## 💻Presentations & Talks

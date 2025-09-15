@@ -332,6 +332,13 @@
 | 25.08 | Santa Clara University | arxiv | [RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting](https://arxiv.org/abs/2508.19286v1) | **Privacy-Preserving Rewriting**&**Reinforcement Learning**&**Stylometric Obfuscation** |
 | 25.08 | Shandong University | arxiv | [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://arxiv.org/abs/2508.19493v1) | **Smartphone Agents**&**Privacy Awareness**&**SAPA-Bench** |
 | 25.09 | Kennesaw State University | IEEE Internet of Things Journal | [A Survey: Towards Privacy and Security in Mobile Large Language Models](https://arxiv.org/abs/2509.02411v1) | **Mobile LLMs**&**Privacy**&**Security** |
+| 25.09 | University of Texas at El Paso | arxiv | [AI-in-the-Loop: Privacy Preserving Real-Time Scam Detection and Conversational Scambaiting by Leveraging LLMs and Federated Learning](https://arxiv.org/abs/2509.05362v1) | **Scam Detection**&**Privacy-Preserving AI**&**Federated Learning** |
+| 25.09 | Microsoft | arxiv | [Cross-Service Threat Intelligence in LLM Services using Privacy-Preserving Fingerprints](https://arxiv.org/abs/2509.05608v1) | **Prompt Injection**&**Threat Intelligence**&**Privacy-Preserving Fingerprints** |
+| 25.09 | Shandong University | arxiv | [Dataset Ownership in the Era of Large Language Models](https://arxiv.org/abs/2509.05921v1) | **Dataset Ownership**&**Watermarking**&**Copyright Protection** |
+| 25.09 | IBM Research | arxiv | [Efficient Decoding Methods for Language Models on Encrypted Data](https://arxiv.org/abs/2509.08383v1) | **Homomorphic Encryption**&**Secure LLM Inference**&**Efficient Decoding** |
+| 25.09 | Kennesaw State University | arxiv | [DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models](https://arxiv.org/abs/2509.09097v1) | **Federated Learning**&**Differential Privacy**&**LoRA** |
+| 25.09 | National University of Defense Technology | arxiv | [ENSI: Efficient Non-Interactive Secure Inference for Large Language Models](https://arxiv.org/abs/2509.09424v1) | **Homomorphic Encryption**&**Secure Inference**&**LLMs** |
+| 25.09 | Chinese Academy of Sciences | DASFAA 2025 | [Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](https://arxiv.org/abs/2509.09091v1) | **Trusted Execution Environment**&**Differential Privacy**&**Private Inference** |
 
 
 

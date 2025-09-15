@@ -298,6 +298,13 @@
 | 25.08 | University of Birmingham | EMNLP 2025 | [Social Bias in Multilingual Language Models: A Survey](https://arxiv.org/abs/2508.20201v1) | **Multilingual LMs**&**Social Bias**&**Fairness in NLP** |
 | 25.09 | University of Chinese Academy of Sciences | arxiv | [A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models](https://arxiv.org/abs/2509.03871v1) | **Trustworthiness**&**Reasoning**&**Chain-of-Thought** |
 | 25.09 | The University of Chicago | arxiv | [Measuring Bias or Measuring the Task: Understanding the Brittle Nature of LLM Gender Biases](https://arxiv.org/abs/2509.04373v1) | **Gender Bias**&**Prompt Sensitivity**&**Evaluation Robustness** |
+| 25.09 | Portland State University | arxiv | [Mitigation of Gender and Ethnicity Bias in AI-Generated Stories through Model Explanations](https://arxiv.org/abs/2509.04515v1) | **Bias Mitigation**&**Model Explanations**&**Fairness in LLMs** |
+| 25.09 | The University of Melbourne | arxiv | [Benchmarking Gender and Political Bias in Large Language Models](https://arxiv.org/abs/2509.06164v1) | **Gender Bias**&**Political Bias**&**Fairness in LLMs** |
+| 25.09 | Max Planck Institute for Intelligent Systems | arxiv | [Bias Out of the Box: Probing Intersectional Gender Biases in Foundational Vision-Language Models](https://arxiv.org/abs/2509.07553v1) | **Vision-Language Models**&**Intersectional Bias**&**Fairness** |
+| 25.09 | Apple | arxiv | [Bias after Prompting: Persistent Discrimination in Large Language Models](https://arxiv.org/abs/2509.08146v1) | **Bias Transfer**&**Prompting**&**Fairness in LLMs** |
+| 25.09 | Marburg University | EMNLP 2025 Findings | [Acquiescence Bias in Large Language Models](https://arxiv.org/abs/2509.08480v1) | **Acquiescence Bias**&**Prompt Sensitivity**&**Human-Like Biases** |
+| 25.09 | Vrije Universiteit Amsterdam, Università di Bologna, University of Groningen | EMNLP 2025 Findings | [Simulating Identity, Propagating Bias: Abstraction and Stereotypes in LLM-Generated Text](https://arxiv.org/abs/2509.08484v1) | **Persona-Prompting**&**Stereotypes**&**Linguistic Abstraction** |
+| 25.09 | South China Normal University | NLPCC 2025 | [From Detection to Mitigation: Addressing Gender Bias in Chinese Texts via Efficient Tuning and Voting-Based Rebalancing](https://arxiv.org/abs/2509.07889v1) | **Gender Bias Detection**&**LoRA Fine-Tuning**&**Voting-Based Rebalancing** |
 
 
 

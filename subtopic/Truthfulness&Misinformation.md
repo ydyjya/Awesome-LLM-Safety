@@ -570,6 +570,9 @@
 | 25.09 | NVIDIA | arxiv | [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/abs/2509.03113v1) | **Multimodal Hallucination**&**Gradient-based Self-Reflection**&**Contrastive Decoding** |
 | 25.09 | ETH Zürich | arxiv | [Real-Time Detection of Hallucinated Entities in Long-Form Generation](https://arxiv.org/abs/2509.03531v1) | **Hallucination Detection**&**Long-Form Generation**&**Linear/LoRA Probes** |
 | 25.09 | Emory University | arxiv | [Improving Factuality in LLMs via Inference-Time Knowledge Graph Construction](https://arxiv.org/abs/2509.03540v1) | **Factuality**&**Knowledge Graph Construction**&**Retrieval-Augmented Generation** |
+| 25.09 | Artefact Research Center, CentraleSupélec Université Paris-Saclay | arxiv | [Learned Hallucination Detection in Black-Box LLMs using Token-level Entropy Production Rate](https://arxiv.org/abs/2509.04492v1) | **Hallucination Detection**&**Entropy Production Rate**&**Black-Box LLMs** |
+| 25.09 | People’s Public Security University of China | arxiv | [HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models](https://arxiv.org/abs/2509.06596v1) | **Hallucination Mitigation**&**Attention Mechanisms**&**Faithful Decoding** |
+| 25.09 | The Chinese University of Hong Kong | arxiv | [MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](https://arxiv.org/abs/2509.08538v2) | **Large Video Models**&**Video Hallucination**&**Benchmark** |
 
 
 

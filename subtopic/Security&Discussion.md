@@ -308,6 +308,7 @@
 | 25.09 | Zhejiang University | arxiv | [Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](https://arxiv.org/abs/2509.01211v1) | **Multi-Agent Systems**&**Web Fraud Attack**&**Security** |
 | 25.09 | Alibaba AAIG | arxiv | [Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models](https://arxiv.org/abs/2509.01909v2) | **Constructive Safety Alignment**&**Safety Benchmark**&**Game-Theoretic Modeling** |
 | 25.09 | Kennesaw State University | IEEE Internet of Things Journal | [A Survey: Towards Privacy and Security in Mobile Large Language Models](https://arxiv.org/abs/2509.02411v1) | **Mobile LLMs**&**Privacy**&**Security** |
+| 25.09 | University of Wisconsin-Madison | arxiv | [Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](https://arxiv.org/abs/2509.04615v1) | **Prompt Injection**&**Threat Model**&**LLM Security** |
 
 
 ## 💻Presentations & Talks
