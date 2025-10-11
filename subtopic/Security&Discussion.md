@@ -309,6 +309,8 @@
 | 25.09 | Alibaba AAIG | arxiv | [Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models](https://arxiv.org/abs/2509.01909v2) | **Constructive Safety Alignment**&**Safety Benchmark**&**Game-Theoretic Modeling** |
 | 25.09 | Kennesaw State University | IEEE Internet of Things Journal | [A Survey: Towards Privacy and Security in Mobile Large Language Models](https://arxiv.org/abs/2509.02411v1) | **Mobile LLMs**&**Privacy**&**Security** |
 | 25.09 | University of Wisconsin-Madison | arxiv | [Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](https://arxiv.org/abs/2509.04615v1) | **Prompt Injection**&**Threat Model**&**LLM Security** |
+| 25.09 | Tennessee Tech University, University of Nebraska at Omaha | arxiv | [Safety and Security Analysis of Large Language Models: Risk Profile and Harm Potential](https://arxiv.org/abs/2509.10655) | **Safety and Security**&**Risk Profiling**&**Adversarial Prompts** |
+| 25.09 | Instituto de Pesquisas Eldorado, SRI International | arxiv | [LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems](https://arxiv.org/abs/2509.10682) | **LLM Security**&**Threat Modeling**&**Systematic Review** |
 
 
 ## 💻Presentations & Talks

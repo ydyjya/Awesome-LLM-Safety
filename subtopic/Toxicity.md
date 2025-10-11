@@ -101,6 +101,8 @@
 | 25.08 | EPFL | MM 2025 | [Specializing General-purpose LLM Embeddings for Implicit Hate Speech Detection across Datasets](https://arxiv.org/abs/2508.20750v1) | **Implicit Hate Speech**&**LLM Embeddings**&**Cross-Dataset Generalization** |
 | 25.09 | The University of Western Australia | arxiv | [Confident, Calibrated, or Complicit: Probing the Trade-offs between Safety Alignment and Ideological Bias in Language Models in Detecting Hate Speech](https://arxiv.org/abs/2509.00673v1) | **Hate Speech Detection**&**Safety Alignment**&**Ideological Bias** |
 | 25.09 | Universidade de Santiago de Compostela | AAAI | [Are LLMs Enough for Hyperpartisan, Fake, Polarized and Harmful Content Detection? Evaluating In-Context Learning vs. Fine-Tuning](https://arxiv.org/abs/2509.07768v1) | **Hyperpartisan Detection**&**Fake News**&**Fine-Tuning vs. In-Context Learning** |
+| 25.09 | Tsinghua University, National University of Singapore | AAAI 2026 (arxiv preprint) | [When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity](https://arxiv.org/abs/2509.11141) | **Emoji-induced Toxicity**&**LLM Safety**&**Interpretability** |
+| 25.09 | University of Maryland | arxiv | [SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models](https://arxiv.org/abs/2509.15174) | **Toxicity Detection**&**Self-Augmenting LLMs**&**Explainable Moderation** |
 
 
 ## 💻Presentations & Talks

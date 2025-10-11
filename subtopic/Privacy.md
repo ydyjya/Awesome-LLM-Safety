@@ -339,6 +339,12 @@
 | 25.09 | Kennesaw State University | arxiv | [DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models](https://arxiv.org/abs/2509.09097v1) | **Federated Learning**&**Differential Privacy**&**LoRA** |
 | 25.09 | National University of Defense Technology | arxiv | [ENSI: Efficient Non-Interactive Secure Inference for Large Language Models](https://arxiv.org/abs/2509.09424v1) | **Homomorphic Encryption**&**Secure Inference**&**LLMs** |
 | 25.09 | Chinese Academy of Sciences | DASFAA 2025 | [Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](https://arxiv.org/abs/2509.09091v1) | **Trusted Execution Environment**&**Differential Privacy**&**Private Inference** |
+| 25.09 | Microsoft | arxiv | [AVEC: Bootstrapping Privacy for Local LLMs](https://arxiv.org/abs/2509.10561) | **Differential Privacy**&**Edge LLMs**&**Verifiable Computation** |
+| 25.09 | University of Missouri, SRI International | arxiv | [Privacy-Aware In-Context Learning for Large Language Models](https://arxiv.org/abs/2509.13625) | **Differential Privacy**&**In-Context Learning**&**Synthetic Data Generation** |
+| 25.09 | China University of Petroleum | arxiv | [DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models](https://arxiv.org/abs/2509.13702) | **Hallucination Suppression**&**Contrastive Proxy Models**&**Dynamic Inference Steering** |
+| 25.09 | University of Maryland Baltimore County | arxiv | [FedMentor: Domain-Aware Differential Privacy for Heterogeneous Federated LLMs in Mental Health](https://arxiv.org/abs/2509.14275) | **Federated Learning**&**Differential Privacy**&**Mental Health LLMs** |
+| 25.09 | Purdue University, Alibaba Group | IEEE Bulletin on Data Engineering | [Beyond Data Privacy: New Privacy Risks for Large Language Models](https://arxiv.org/abs/2509.14278) | **LLM Privacy Risks**&**Information Exfiltration**&**Automated Social Engineering** |
+| 25.09 | UNC Chapel Hill, The University of Texas at Austin | arxiv | [The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/abs/2509.14284) | **Compositional Privacy Leakage**&**Multi-Agent LLM Systems**&**Collaborative Defense** |
 
 
 

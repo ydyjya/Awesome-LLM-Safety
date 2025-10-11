@@ -305,6 +305,9 @@
 | 25.09 | Marburg University | EMNLP 2025 Findings | [Acquiescence Bias in Large Language Models](https://arxiv.org/abs/2509.08480v1) | **Acquiescence Bias**&**Prompt Sensitivity**&**Human-Like Biases** |
 | 25.09 | Vrije Universiteit Amsterdam, Università di Bologna, University of Groningen | EMNLP 2025 Findings | [Simulating Identity, Propagating Bias: Abstraction and Stereotypes in LLM-Generated Text](https://arxiv.org/abs/2509.08484v1) | **Persona-Prompting**&**Stereotypes**&**Linguistic Abstraction** |
 | 25.09 | South China Normal University | NLPCC 2025 | [From Detection to Mitigation: Addressing Gender Bias in Chinese Texts via Efficient Tuning and Voting-Based Rebalancing](https://arxiv.org/abs/2509.07889v1) | **Gender Bias Detection**&**LoRA Fine-Tuning**&**Voting-Based Rebalancing** |
+| 25.09 | Columbia University | arxiv | [Don’t Change My View: Ideological Bias Auditing in Large Language Models](https://arxiv.org/abs/2509.12652) | **Ideological Bias**&**Prompt Manipulation Detection**&**Black-box Auditing** |
+| 25.09 | Bowling Green State University, University of Nebraska–Lincoln, Stevens Institute of Technology, University of South Carolina | arxiv | [Simulating a Bias Mitigation Scenario in Large Language Models](https://arxiv.org/abs/2509.14438) | **Bias Mitigation**&**Fairness in NLP**&**Causal Modeling** |
+| 25.09 | Université Lumière Lyon 2, Université Claude Bernard Lyon 1, École Centrale de Lyon | arxiv | [Fair-GPTQ: Bias-Aware Quantization for Large Language Models](https://arxiv.org/abs/2509.15206) | **Quantization**&**Fairness**&**Bias Mitigation** |
 
 
 
