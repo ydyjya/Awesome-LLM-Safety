@@ -488,7 +488,11 @@
 | 25.09 | City University of Hong Kong, The University of Hong Kong, Hong Kong Baptist University, The Chinese University of Hong Kong | arxiv | [LLM Jailbreak Detection for (Almost) Free!](https://arxiv.org/abs/2509.14558) | **Jailbreak Detection**&**Safety Alignment**&**Logit-based Detection** |
 | 25.09 | Apple, Cohere, DeepMind, Meta, MongoDB | arxiv | [Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection](https://arxiv.org/abs/2509.14622) | **Malicious Intent Detection**&**Retrieval-Augmented Guard**&**Adversarial Distillation** |
 | 25.09 | Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences | arxiv | [Beyond Surface Alignment: Rebuilding LLMs Safety Mechanism via Probabilistically Ablating Refusal Direction](https://arxiv.org/abs/2509.15202) | **Safety Alignment**&**Refusal Direction**&**Jailbreak Defense** |
-
+| 25.09 | Keio University, Universitat Politècnica de València, Center for AI Safety, Carnegie Mellon University | arxiv | [Psychometric Personality Shaping Modulates Capabilities and Safety in Language Models](https://arxiv.org/abs/2509.16332) | **Personality Shaping**&**AI Safety**&**Large Language Models** |
+| 25.09 | Monash University, The University of Melbourne, Transurban | arxiv | [DecipherGuard: Understanding and Deciphering Jailbreak Prompts for a Safer Deployment of Intelligent Software Systems](https://arxiv.org/abs/2509.16870) | **LLM Security**&**Jailbreak Attacks**&**Runtime Guardrails** |
+| 25.09 | ELLIS Institute Tübingen, MPI for Intelligent Systems, Fraunhofer HHI | arxiv | [Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](https://arxiv.org/abs/2509.18058) | **Strategic Dishonesty**&**Safety Evaluation**&**Deception Detection** |
+| 25.09 | University of Notre Dame, University of Washington, Johns Hopkins University, Georgia Institute of Technology | arxiv | [Steering Multimodal Large Language Models Decoding for Context-Aware Safety](https://arxiv.org/abs/2509.19212) | **Multimodal Large Language Models**&**Context-Aware Safety**&**Contrastive Decoding** |
+| 25.09 | Cisco Systems | arxiv | [A Framework for Rapidly Developing and Deploying Protection Against Large Language Model Attacks](https://arxiv.org/abs/2509.20639) | **LLM Security**&**Threat Intelligence**&**Detection Framework** |
 
 
 

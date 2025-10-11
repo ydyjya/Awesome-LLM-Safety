@@ -308,7 +308,10 @@
 | 25.09 | Columbia University | arxiv | [Don’t Change My View: Ideological Bias Auditing in Large Language Models](https://arxiv.org/abs/2509.12652) | **Ideological Bias**&**Prompt Manipulation Detection**&**Black-box Auditing** |
 | 25.09 | Bowling Green State University, University of Nebraska–Lincoln, Stevens Institute of Technology, University of South Carolina | arxiv | [Simulating a Bias Mitigation Scenario in Large Language Models](https://arxiv.org/abs/2509.14438) | **Bias Mitigation**&**Fairness in NLP**&**Causal Modeling** |
 | 25.09 | Université Lumière Lyon 2, Université Claude Bernard Lyon 1, École Centrale de Lyon | arxiv | [Fair-GPTQ: Bias-Aware Quantization for Large Language Models](https://arxiv.org/abs/2509.15206) | **Quantization**&**Fairness**&**Bias Mitigation** |
-
+| 25.09 | Purdue University & Vanderbilt University & Johns Hopkins University & MBZUAI & University of Toronto & The University of Melbourne | arxiv | [Gender and Political Bias in Large Language Models: A Demonstration Platform](https://arxiv.org/abs/2509.16264) | **Bias Evaluation**&**Political Analysis**&**LLM Fairness** |
+| 25.XX | University of Tehran, Tehran Institute for Advanced Studies | WiNLP 2025 @ EMNLP | [Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian](https://arxiv.org/abs/2509.20168) | **Gender Bias**&**Multilingual LLMs**&**Low-Resource Languages** |
+| 25.09 | MILA - Quebec AI Institute, HEC Montreal, McGill University | arxiv | [Intrinsic Meets Extrinsic Fairness: Assessing the Downstream Impact of Bias Mitigation in Large Language Models](https://arxiv.org/abs/2509.16462) | **Bias Mitigation**&**Fairness in LLMs**&**Concept Unlearning** |
+| 25.09 | Independent Researcher | arxiv | [The Secret Agenda: LLMs Strategically Lie and Our Current Safety Tools Are Blind](https://arxiv.org/abs/2509.20393) | **Strategic Deception**&**Large Language Models (LLMs)**&**Interpretability**&**Sparse Autoencoders (SAE)** |
 
 
 ## 💻Presentations & Talks

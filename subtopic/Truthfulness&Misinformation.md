@@ -583,6 +583,15 @@
 | 25.09 | Huazhong University of Science and Technology | arxiv | [LLM Hallucination Detection: A Fast Fourier Transform Method Based on Hidden Layer Temporal Signals](https://arxiv.org/abs/2509.13154) | **Hallucination Detection**&**Fast Fourier Transform**&**Hidden Layer Temporal Signals** |
 | 25.09 | University of Glasgow, Stanford Law School, University of Sheffield | arxiv | [Accuracy Paradox in Large Language Models: Regulating Hallucination Risks in Generative AI](https://arxiv.org/abs/2509.13345) | **Accuracy Paradox**&**LLM Hallucination**&**AI Regulation** |
 | 25.09 | University of Oxford, GlaxoSmithKline | arxiv | [Geometric Uncertainty for Detecting and Correcting Hallucinations in LLMs](https://arxiv.org/abs/2509.13813) | **Geometric Uncertainty**&**Hallucination Detection**&**Archetypal Analysis** |
+| 25.09 | Fraunhofer Institute for Applied Information Technology & RWTH Aachen University | GenAI4PM 2025 | [Knowledge-Driven Hallucination in Large Language Models: An Empirical Study on Process Modeling](https://arxiv.org/abs/2509.15336) | **Large Language Models**&**Hallucination**&**Process Modeling** |
+| 25.09 | University of West Florida, New York University, United States Military Academy | arxiv | [ORCA: AN AGENTIC REASONING FRAMEWORK FOR HALLUCINATION MITIGATION AND ADVERSARIAL ROBUSTNESS IN VISION-LANGUAGE MODELS](https://arxiv.org/abs/2509.15435) | **Agentic Reasoning**&**Vision-Language Models**&**Hallucination Mitigation** |
+| 25.09 | RA Software, Sofia University | arxiv | [How Large Language Models are Designed to Hallucinate](https://arxiv.org/abs/2509.16297) | **Hallucination**&**Large Language Models (LLMs)**&**Ontology** |
+| 25.09 | Tsinghua University, iFLYTEK | arxiv | [CHARTHAL: A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](https://arxiv.org/abs/2509.17481) | **Chart Understanding**&**Hallucination Evaluation**&**Large Vision-Language Models** |
+| 25.09 | University of Science and Technology of China, Alibaba Group | arxiv | [Eliminating Stability Hallucinations in LLM-Based TTS Models via Attention Guidance](https://arxiv.org/abs/2509.19852) | **Text-to-Speech**&**Large Language Model**&**Attention Mechanism** |
+| 25.09 | Amirkabir University of Technology & King’s College London | arxiv | [PerHalluEval: Persian Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2509.21104) | **Hallucination Evaluation**&**Persian LLMs**&**Benchmark** |
+| 25.09 | Samsung AI Research Center, Warsaw | EMNLP 2025 Findings | [Representation-based Broad Hallucination Detectors Fail to Generalize Out of Distribution](https://arxiv.org/abs/2509.19372) | **Hallucination Detection**&**Representation Learning**&**Generalization** |
+| 25.09 | Sharif University of Technology | NeurIPS 2025 Workshop | [Hallucination as an Upper Bound: A New Perspective on Text-to-Image Evaluation](https://arxiv.org/abs/2509.21257) | **Text-to-Image Generation**&**Hallucination Evaluation**&**Bias Analysis** |
+
 
 
 

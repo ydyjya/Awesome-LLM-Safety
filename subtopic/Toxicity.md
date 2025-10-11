@@ -103,6 +103,7 @@
 | 25.09 | Universidade de Santiago de Compostela | AAAI | [Are LLMs Enough for Hyperpartisan, Fake, Polarized and Harmful Content Detection? Evaluating In-Context Learning vs. Fine-Tuning](https://arxiv.org/abs/2509.07768v1) | **Hyperpartisan Detection**&**Fake News**&**Fine-Tuning vs. In-Context Learning** |
 | 25.09 | Tsinghua University, National University of Singapore | AAAI 2026 (arxiv preprint) | [When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity](https://arxiv.org/abs/2509.11141) | **Emoji-induced Toxicity**&**LLM Safety**&**Interpretability** |
 | 25.09 | University of Maryland | arxiv | [SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models](https://arxiv.org/abs/2509.15174) | **Toxicity Detection**&**Self-Augmenting LLMs**&**Explainable Moderation** |
+| 25.09 | IIIT Delhi & IIIT Dharwad | NeurIPS 2025 | [Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation](https://arxiv.org/abs/2509.16660) | **Toxicity Mitigation**&**Interpretability**&**Eigen-Decomposition** |
 
 
 ## 💻Presentations & Talks

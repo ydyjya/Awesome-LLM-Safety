@@ -345,6 +345,12 @@
 | 25.09 | University of Maryland Baltimore County | arxiv | [FedMentor: Domain-Aware Differential Privacy for Heterogeneous Federated LLMs in Mental Health](https://arxiv.org/abs/2509.14275) | **Federated Learning**&**Differential Privacy**&**Mental Health LLMs** |
 | 25.09 | Purdue University, Alibaba Group | IEEE Bulletin on Data Engineering | [Beyond Data Privacy: New Privacy Risks for Large Language Models](https://arxiv.org/abs/2509.14278) | **LLM Privacy Risks**&**Information Exfiltration**&**Automated Social Engineering** |
 | 25.09 | UNC Chapel Hill, The University of Texas at Austin | arxiv | [The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/abs/2509.14284) | **Compositional Privacy Leakage**&**Multi-Agent LLM Systems**&**Collaborative Defense** |
+| 25.09 | Studio Legale Fabiano, International Institute of Informatics and Systemics (IIIS) | arxiv | [Affective Computing and Emotional Data: Challenges and Implications in Privacy Regulations, The AI Act, and Ethics in Large Language Models](https://arxiv.org/abs/2509.20153) | **Artificial Intelligence**&**Emotional Data**&**Large Language Models (LLM)**&**Data Protection**&**Privacy**&**Ethics** |
+| 25.09 | University of South Florida | arxiv | [RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](https://arxiv.org/abs/2509.20324) | **Retrieval augmented generation**&**large language models**&**privacy**&**differential privacy** |
+| 25.09 | Beihang University & University at Buffalo & University of North Texas | arxiv | [Can Federated Learning Safeguard Private Data in LLM Training? Vulnerabilities, Attacks, and Defense Evaluation](https://arxiv.org/abs/2509.20680) | **Federated Learning**&**Privacy Leakage**&**LLM Security** |
+| 25.09 | The Arctic University of Norway | arxiv | [GEP: A GCG-Based Method for Extracting Personally Identifiable Information from Chatbots Built on Small Language Models](https://arxiv.org/abs/2509.21192) | **Small Language Models**&**PII Leakage**&**Gradient-based Extraction** |
+| 25.09 | Wuhan University & Microsoft | EMNLP 2025 Findings | [Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents](https://arxiv.org/abs/2509.17488) | **Privacy Mitigation**&**Model Context Protocol**&**Agent2Agent Framework** |
+
 
 
 

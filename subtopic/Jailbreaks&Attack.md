@@ -706,6 +706,14 @@
 | 25.09 | KTH Royal Institute of Technology | GameSec 2025 | [Jailbreaking Large Language Models Through Content Concretization](https://arxiv.org/abs/2509.12937) | **Jailbreaking**&**Content Concretization**&**Malicious Code Generation** |
 | 25.09 | Harbin Institute of Technology, Hong Kong Polytechnic University, Shenzhen University | arxiv | [A Simple and Efficient Jailbreak Method Exploiting LLMs’ Helpfulness](https://arxiv.org/abs/2509.14297) | **LLM Jailbreak**&**Safety Alignment**&**Helpfulness Exploitation** |
 | 25.09 | East China Normal University, Xi’an Jiaotong University, Meituan, Zhejiang University | arxiv | [MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models](https://arxiv.org/abs/2509.14651) | **Multi-Turn Jailbreak**&**Red Teaming**&**Safety Alignment** |
+| 25.09 | The Hong Kong Polytechnic University, Northwestern Polytechnical University | arxiv | [Semantic Representation Attack against Aligned Large Language Models](https://arxiv.org/abs/2509.19360) | **Adversarial Attack**&**Large Language Models**&**Semantic Representation** |
+| 25.09 | University of Science and Technology of China | arxiv | [BI-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](https://arxiv.org/abs/2509.19775) | **Jailbreak Backdoor Attack**&**Reinforcement Learning**&**Large Language Models** |
+| 25.09 | Singapore Management University & Alibaba Group & Dalian University of Technology | arxiv | [Benchmarking Gaslighting Attacks Against Speech Large Language Models](https://arxiv.org/abs/2509.19858) | **Speech-LLM**&**Adversarial Attacks**&**Behavioral Robustness** |
+| 25.09 | Shanghai Jiao Tong University & National University of Defense Technology | arxiv | [RLCracker: Exposing the Vulnerability of LLM Watermarks with Adaptive RL Attacks](https://arxiv.org/abs/2509.20924) | **LLM Watermarking**&**Reinforcement Learning Attack**&**Robustness Evaluation** |
+| 25.09 | Zhejiang University & Palo Alto Networks | arxiv | [Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools](https://arxiv.org/abs/2509.21011) | **Model Context Protocol**&**LLM Security**&**Red Teaming Framework** |
+| 25.09 | University of California, Los Angeles | arxiv | [Which Cultural Lens Do Models Adopt? On Cultural Positioning Bias and Agentic Mitigation in LLMs](https://arxiv.org/abs/2509.21080) | **Cultural Positioning Bias**&**CULTURELENS**&**Agentic Mitigation** |
+
+
 
 
 ## 💻Presentations & Talks

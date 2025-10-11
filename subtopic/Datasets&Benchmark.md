@@ -261,6 +261,8 @@
 | 25.09 | Beijing Institute of Technology | arxiv | [SafeToolBench: Pioneering a Prospective Benchmark to Evaluating Tool Utilization Safety in LLMs](https://arxiv.org/abs/2509.07315v1) | **Tool Safety**&**LLM Agents**&**Prospective Evaluation** |
 | 25.09 | Peking University, TeleAI (China Telecom), UCAS | arxiv | [When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models](https://arxiv.org/abs/2509.12060) | **Multimodal Safety**&**Reasoning Path Optimization**&**Implicit Reasoning Risk** |
 | 25.09 | University of Washington, IAEA | arxiv | [Automated Triaging and Transfer Learning of Incident Learning Safety Reports Using Large Language Representational Models](https://arxiv.org/abs/2509.13706) | **Incident Learning Systems**&**Transfer Learning**&**BlueBERT** |
+| 25.09 | EPFL & Tampere University & University of Tokyo & National Institute of Informatics | EMNLP 2025 | [TactfulToM: Do LLMs Have the Theory of Mind Ability to Understand White Lies?](https://arxiv.org/abs/2509.17054) | **Theory of Mind**&**White Lies**&**Social Reasoning** |
+
 
 
 ## 📚Resource

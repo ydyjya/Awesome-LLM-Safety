@@ -70,6 +70,7 @@
 | 25.08 | National University of Singapore, Nanyang Technological University, Tsinghua University | arxiv | [When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies](https://arxiv.org/abs/2508.15407) | **Audio-Language Models**&**Text Bias**&**Benchmark** |
 | 25.09 | Independent researcher | arxiv | [BioBlue: Notable runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format](https://arxiv.org/abs/2509.02655v1) | **AI Safety**&**Runaway Optimisation**&**Alignment Benchmarks** |
 | 25.09 | Bocconi University | arxiv | [Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/abs/2509.08825v1) | **LLM Hacking**&**Data Annotation**&**Statistical Validity** |
+| 25.09 | MIT & Google DeepMind | arxiv | [Rethinking the Role of Repetition in Instruction Tuning](https://arxiv.org/abs/2509.15478) | **Instruction Tuning**&**Repetition**&**Alignment** |
 
 
 ## 💻Presentations & Talks

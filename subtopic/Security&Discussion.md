@@ -311,6 +311,9 @@
 | 25.09 | University of Wisconsin-Madison | arxiv | [Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](https://arxiv.org/abs/2509.04615v1) | **Prompt Injection**&**Threat Model**&**LLM Security** |
 | 25.09 | Tennessee Tech University, University of Nebraska at Omaha | arxiv | [Safety and Security Analysis of Large Language Models: Risk Profile and Harm Potential](https://arxiv.org/abs/2509.10655) | **Safety and Security**&**Risk Profiling**&**Adversarial Prompts** |
 | 25.09 | Instituto de Pesquisas Eldorado, SRI International | arxiv | [LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems](https://arxiv.org/abs/2509.10682) | **LLM Security**&**Threat Modeling**&**Systematic Review** |
+| 25.09 | Alibaba Group, Zhejiang University | arxiv | [Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127) | **Sparse Autoencoder**&**Safety Interpretation**&**LLM Interpretability** |
+| 25.09 | Argonne National Laboratory | arxiv | [Evaluating the Safety and Skill Reasoning of Large Reasoning Models Under Compute Constraints](https://arxiv.org/abs/2509.18382) | **Reasoning Models**&**Safety Evaluation**&**Compute Constraints** |
+| 25.09 | Chinese Academy of Sciences, Wuhan University, Renmin University of China, Macquarie University, Griffith University, Xiaomi Inc. | arxiv | [LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions](https://arxiv.org/abs/2509.18970) | **LLM-based Agents**&**Hallucinations**&**Trustworthiness** |
 
 
 ## 💻Presentations & Talks
