@@ -358,6 +358,10 @@
 | 25.10 | Zhejiang University & NTU & CityU | arxiv | [Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation](https://arxiv.org/abs/2510.06605) | **Model Fingerprinting**&**AI Copyright Protection**&**Zeroth-order Gradient Estimation** |
 | 25.10 | NEC Corporation, Institute of Science Tokyo | arxiv | [Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2510.06719) | **Differential Privacy**&**Retrieval-Augmented Generation (RAG)**&**Synthetic Data Generation** |
 | 25.10 | University of Sheffield, University of Waterloo | arxiv | [PATCH: Mitigating PII Leakage in Language Models with Privacy-Aware Targeted Circuit PatcHing](https://arxiv.org/abs/2510.07452) | **PII Leakage**&**Mechanistic Interpretability**&**Model Editing** |
+| 25.10 | ST Engineering Cybersecurity Strategic Technology Centre | arxiv | [CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137) | **Data Extraction**&**Soft Prompt**&**Defense** |
+| 25.10 | East China Normal University & Fudan University | arxiv | [Large Language Models Are Effective Code Watermarkers](https://arxiv.org/abs/2510.11251) | **Code Watermarking**&**Semantic Embedding**&**LLM Robustness** |
+| 25.10 | Middlebury College & New York University | arxiv | [SimKey: A Semantically Aware Key Module for Watermarking Language Models](https://arxiv.org/abs/2510.12828) | **Watermarking**&**Semantic Robustness**&**LLM Provenance** |
+| 25.10 | University of Massachusetts Amherst & ELLIS Institute Tübingen | arxiv | [Terrarium: Revisiting the Blackboard for Multi-Agent Safety, Privacy, and Security Studies](https://arxiv.org/abs/2510.14312) | **Multi-Agent Systems**&**Security Evaluation**&**Blackboard Architecture** |
 
 
 

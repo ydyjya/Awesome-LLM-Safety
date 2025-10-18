@@ -274,6 +274,8 @@
 | 25.10 |                                                                       AITRICS, KAIST, Severance Hospital (Yonsei University)                                                                        |            EMNLP 2025            |                                                                      [Taxonomy of Comprehensive Safety for Clinical Agents](https://arxiv.org/abs/2509.22041v3)                                                                       |                      **Clinical Safety**&**Taxonomy**&**Intent Classification**&**LLM Safety**                       |
 | 25.10 | Rutgers University | arxiv | [Read the Scene, Not the Script: Outcome-Aware Safety for LLMs](https://arxiv.org/abs/2510.04320) | **LLM Safety Alignment**&**Consequence-Blindness**&**Outcome-Aware Reasoning** |
 | 25.10 | University of California, San Diego | arxiv | [When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation](https://arxiv.org/abs/2510.07238) | **Benchmark Aging**&**Factuality Evaluation**&**Temporal Misalignment** |
+| 25.10 | Beihang University & Chinese Academy of Sciences & China University of Petroleum (East China) & Zhejiang University of Technology & 360 AI Security Lab & University of Sydney | arxiv | [SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents](https://arxiv.org/abs/2510.10073) | **Web Agent Security**&**LVLM Benchmark**&**Adversarial Evaluation**&**Prompt Injection** |
+| 25.10 | Carnegie Mellon University & Amazon AGI | arxiv | [RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models](https://arxiv.org/abs/2510.10390) | **Selective Refusal**&**RAG Evaluation**&**Generative Benchmark** |
 
 
 
