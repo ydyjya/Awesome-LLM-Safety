@@ -636,6 +636,11 @@
 | 25.10 | South Park Commons | arxiv | [Neural Diversity Regularizes Hallucinations in Small Language Models](https://arxiv.org/abs/2510.20690) | **Neural Diversity**&**Hallucination Reduction**&**Small Language Models** |
 | 25.10 | Korea University | EMNLP 2025 | [The Impact of Negated Text on Hallucination with Large Language Models](https://arxiv.org/abs/2510.20375) | **Negation Understanding**&**Hallucination Detection**&**Large Language Models** |
 | 25.10 | Sun Yat-sen University, ShanghaiTech University | ICCV 2025 | [Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context](https://arxiv.org/abs/2510.20229) | **LVLMs**&**Hallucination Mitigation**&**Contextual Reasoning** |
+| 25.10 | ByteDance | arxiv | [OlaMind: Towards Human-Like and Hallucination-Safe Customer Service for Retrieval-Augmented Dialogue](https://arxiv.org/abs/2510.22143v1) | **Retrieval-Augmented Dialogue**&**Hallucination Mitigation**&**Human-Like Customer Service** |
+| 25.10 | Université de Lorraine, Charles University, University of Helsinki, Université Sorbonne Paris Nord, IIIT Hyderabad, Politecnico di Torino, UiT Tromsø, University of British Columbia, Chosun University | arxiv | [Confabulations from ACL Publications (CAP): A Dataset for Scientific Hallucination Detection](https://arxiv.org/abs/2510.22395v1) | **Scientific Hallucination Detection**&**Multilingual NLP**&**Benchmark Dataset** |
+| 25.10 | Tianjin University, Alibaba International Digital Commerce | arxiv | [Challenging Multilingual LLMs: A New Taxonomy and Benchmark for Unraveling Hallucination in Translation](https://arxiv.org/abs/2510.24073v1) | **Multilingual LLMs**&**Translation Hallucination**&**Benchmark Dataset** |
+| 25.10 | Technion – IIT, Google Research, Oxford University, Hebrew University, Harvard University | arxiv | [HACK: Hallucinations Along Certainty and Knowledge Axes](https://arxiv.org/abs/2510.24222v1) | **Hallucination Taxonomy**&**Knowledge-Certainty Framework**&**LLM Reliability** |
+| 25.10 | Wuhan University, Dublin City University, University of Galway | arxiv | [Mitigating Hallucination in Large Language Models (LLMs): An Application-Oriented Survey on RAG, Reasoning, and Agentic Systems](https://arxiv.org/abs/2510.24476v1) | **Hallucination Mitigation**&**Retrieval-Augmented Generation**&**Reasoning Enhancement** |
 
 
 

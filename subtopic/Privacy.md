@@ -368,6 +368,9 @@
 | 25.10 |                                                                  University of Southern California, Max Planck Institute for Software Systems                                                                   |                   arxiv                   |                                            [Hubble: A Model Suite to Advance the Study of LLM Memorization](https://arxiv.org/abs/2510.19811)                                            |                                   **LLM Memorization**&**Benchmark Suite**&**Data Perturbation**                                   |
 | 25.10 | Google | arxiv | [VaultGemma: A Differentially Private Gemma Model](https://arxiv.org/abs/2510.15001v2) | **Differential Privacy**&**Large Language Model**&**Memorization Mitigation** |
 | 25.10 | Fujitsu Research of America Inc., Carnegie Mellon University | arxiv | [User Perceptions of Privacy and Helpfulness in LLM Responses to Privacy-Sensitive Scenarios](https://arxiv.org/abs/2510.20721) | **Privacy-Preserving LLMs**&**User Perception**&**Human-Centered Evaluation** |
+| 25.10 | INSA Lyon, Inria, CITI | arxiv | [Leverage Unlearning to Sanitize LLMs](https://arxiv.org/abs/2510.21322v1) | **LLM Sanitization**&**Machine Unlearning**&**Privacy Preservation** |
+| 25.10 | University at Albany, New Jersey Institute of Technology, Microsoft, Kent State University | ACML 2025 | [δ-STEAL: LLM Stealing Attack with Local Differential Privacy](https://arxiv.org/abs/2510.21946v1) | **LLM Stealing Attack**&**Watermark Evasion**&**Local Differential Privacy** |
+| 25.10 | UCAS, Institute of Computing Technology CAS, Academy of Mathematics and Systems Science CAS | arxiv | [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117v1) | **Machine Unlearning**&**Large Language Models**&**Model Safety** |
 
 
 
