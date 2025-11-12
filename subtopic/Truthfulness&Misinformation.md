@@ -641,6 +641,11 @@
 | 25.10 | Tianjin University, Alibaba International Digital Commerce | arxiv | [Challenging Multilingual LLMs: A New Taxonomy and Benchmark for Unraveling Hallucination in Translation](https://arxiv.org/abs/2510.24073v1) | **Multilingual LLMs**&**Translation Hallucination**&**Benchmark Dataset** |
 | 25.10 | Technion – IIT, Google Research, Oxford University, Hebrew University, Harvard University | arxiv | [HACK: Hallucinations Along Certainty and Knowledge Axes](https://arxiv.org/abs/2510.24222v1) | **Hallucination Taxonomy**&**Knowledge-Certainty Framework**&**LLM Reliability** |
 | 25.10 | Wuhan University, Dublin City University, University of Galway | arxiv | [Mitigating Hallucination in Large Language Models (LLMs): An Application-Oriented Survey on RAG, Reasoning, and Agentic Systems](https://arxiv.org/abs/2510.24476v1) | **Hallucination Mitigation**&**Retrieval-Augmented Generation**&**Reasoning Enhancement** |
+| 25.10 | National University of Singapore | arxiv | [Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning](https://arxiv.org/abs/2510.26829) | **Continual Pre-Training**&**Belief Shift**&**Misinformation Robustness** |
+| 25.11 | The University of Hong Kong | arxiv | [Diagnosing Hallucination Risk in AI Surgical Decision-Support: A Sequential Framework for Sequential Validation](https://arxiv.org/abs/2511.00588) | **Clinical Hallucination**&**Sequential Validation**&**AI Surgical Decision-Support** |
+| 25.11 | Princeton University | NeurIPS 2025 Workshop | [Demo: Statistically Significant Results On Biases and Errors of LLMs Do Not Guarantee Generalizable Results](https://arxiv.org/abs/2511.02246) | **LLM Bias**&**Medical Chatbot**&**Evaluation Reliability** |
+| 25.11 | China Telecom Research Institute | arxiv | [HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://arxiv.org/abs/2511.03506) | **Memory System**&**Hallucination Evaluation**&**Benchmark** |
+| 25.11 | Deakin University | arxiv | [GRAD: Graph-Retrieved Adaptive Decoding for Hallucination Mitigation](https://arxiv.org/abs/2511.03900) | **Hallucination Mitigation**&**Graph Retrieval**&**Adaptive Decoding** |
 
 
 

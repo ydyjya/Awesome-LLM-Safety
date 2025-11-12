@@ -557,6 +557,9 @@
 | 25.10 | National University of Singapore, University of Louisville, University of North Texas, Drexel University | arxiv | [Secure Retrieval-Augmented Generation against Poisoning Attacks](https://arxiv.org/abs/2510.25025v1) | **Retrieval-Augmented Generation**&**Poisoning Attack Defense**&**RAG Robustness** |
 | 25.10 | Macquarie University | arxiv | [Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models](https://arxiv.org/abs/2510.25179v1) | **Agentic AI**&**Safety Alignment**&**Vision-Language Models** |
 | 25.10 | Beijing University of Posts and Telecommunications; NUS; CSIRO’s Data61; University of Adelaide; Tsinghua University | NeurIPS 2025 | [ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio–Language Models](https://arxiv.org/abs/2510.26096v1) | **Audio-Language Models**&**Jailbreak Defense**&**Shortcut Learning** |
+| 25.10 | Google DeepMind | arxiv | [Consistency Training Helps Stop Sycophancy and Jailbreaks](https://arxiv.org/abs/2510.27062) | **Consistency Training**&**Sycophancy**&**Jailbreak Defense** |
+| 25.11 | National University of Singapore | arxiv | [DRIP: Defending Prompt Injection via De-instruction Training and Residual Fusion Model Architecture](https://arxiv.org/abs/2511.00447) | **Prompt Injection Defense**&**De-instruction Training**&**Residual Fusion** |
+| 25.11 | Wuhan University | arxiv | [Reimagining Safety Alignment with An Image](https://arxiv.org/abs/2511.00509) | **Safety Alignment**&**Multimodal LLM**&**Visual Prompt Optimization** |
 
 
 

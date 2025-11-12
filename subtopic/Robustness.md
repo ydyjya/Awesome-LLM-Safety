@@ -72,6 +72,10 @@
 | 25.09 |                                                                                        Bocconi University                                                                                        |                                        arxiv                                        |                                    [Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/abs/2509.08825v1)                                     |                   **LLM Hacking**&**Data Annotation**&**Statistical Validity**                   |
 | 25.09 | Dalian Maritime University, The Chinese University of Hong Kong, Tsinghua Shenzhen International Graduate School, Renmin University of China, Nanyang Technological University, Wuhan University |                                        arxiv                                        |                                             [Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://arxiv.org/abs/2509.21782v1)                                             |  **Multimodal Large Language Models**&**Web Understanding**&**Robustness and Safety Benchmark**  |
 | 25.10 | Carnegie Mellon University | arxiv | [RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts](https://arxiv.org/abs/2510.05310) | **Guardrail Robustness**&**Retrieval-Augmented Generation (RAG)**&**Safety Alignment** |
+| 25.10 | Duke Kunshan University | arxiv | [SmoothGuard: Defending Multimodal Large Language Models with Noise Perturbation and Clustering Aggregation](https://arxiv.org/abs/2510.26830) | **Multimodal Large Language Model**&**Adversarial Defense**&**Randomized Smoothing** |
+| 25.11 | Astana IT University | arxiv | [Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models](https://arxiv.org/abs/2511.01634) | **Prompt Injection**&**Resilience Evaluation**&**Safety Compliance** |
+
+
 
 
 ## 💻Presentations & Talks

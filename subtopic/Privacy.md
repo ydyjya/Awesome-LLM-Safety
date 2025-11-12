@@ -371,6 +371,11 @@
 | 25.10 | INSA Lyon, Inria, CITI | arxiv | [Leverage Unlearning to Sanitize LLMs](https://arxiv.org/abs/2510.21322v1) | **LLM Sanitization**&**Machine Unlearning**&**Privacy Preservation** |
 | 25.10 | University at Albany, New Jersey Institute of Technology, Microsoft, Kent State University | ACML 2025 | [δ-STEAL: LLM Stealing Attack with Local Differential Privacy](https://arxiv.org/abs/2510.21946v1) | **LLM Stealing Attack**&**Watermark Evasion**&**Local Differential Privacy** |
 | 25.10 | UCAS, Institute of Computing Technology CAS, Academy of Mathematics and Systems Science CAS | arxiv | [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117v1) | **Machine Unlearning**&**Large Language Models**&**Model Safety** |
+| 25.11 | Tsinghua University | NeurIPS 2025 | [Black-Box Membership Inference Attack for LVLMs via Prior Knowledge-Calibrated Memory Probing](https://arxiv.org/abs/2511.01952) | **Membership Inference**&**LVLM Privacy**&**Black-Box Attack** |
+| 25.11 | Guangzhou University | arxiv | [Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework](https://arxiv.org/abs/2511.03248) | **Multi-modal LLM**&**Privacy Risk**&**Benchmark** |
+| 25.11 | Microsoft | arxiv | [Whisper Leak: A Side-Channel Attack on Large Language Models](https://arxiv.org/abs/2511.03675) | **Side-Channel Attack**&**Network Traffic Analysis**&**LLM Security** |
+| 25.11 | Nokia Bell Labs | arxiv | [Differentially Private In-Context Learning with Nearest Neighbor Search](https://arxiv.org/abs/2511.04332) | **Differential Privacy**&**In-Context Learning**&**kNN Retrieval** |
+| 25.11 | University of Pittsburgh | IEEE Big Data 2025 | [Semantically-Aware LLM Agent to Enhance Privacy in Conversational AI Services](https://arxiv.org/abs/2510.27016) | **Privacy Preservation**&**Pseudonymization**&**Conversational AI** |
 
 
 

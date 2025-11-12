@@ -782,6 +782,16 @@
 | 25.10 | The Hong Kong University of Science and Technology, Fudan University | arxiv | [QueryIPI: Query-agnostic Indirect Prompt Injection on Coding Agents](https://arxiv.org/abs/2510.23675v1) | **Indirect Prompt Injection**&**LLM Agent Security**&**Query-Agnostic Attack** |
 | 25.10 | University of California, Santa Cruz; Microsoft Responsible AI Research | arxiv | [SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning](https://arxiv.org/abs/2510.26037v1) | **Red-Teaming**&**Structured Reasoning**&**LLM Agents Safety** |
 | 25.10 | CISPA Helmholtz Center for Information Security | NeurIPS 2025 | [Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](https://arxiv.org/abs/2510.21189v1) | **Jailbreak Attack**&**Task Concurrency**&**LLM Safety** |
+| 25.11 | Federal University of Rio Grande do Sul | arxiv | [Exploiting Latent Space Discontinuities for Building Universal LLM Jailbreaks and Data Extraction Attacks](https://arxiv.org/abs/2511.00346) | **Latent Space**&**Universal Jailbreak**&**Data Extraction Attack** |
+| 25.11 | Nanjing University | arxiv | [Friend or Foe: How LLMs’ Safety Mind Gets Fooled by Intent Shift Attack](https://arxiv.org/abs/2511.00556) | **Intent Shift Attack**&**Jailbreak Defense**&**Safety Alignment** |
+| 25.11 | HiddenLayer, Inc. | Applied Machine Learning for Information Security (PMLR) | [ShadowLogic: Backdoors in Any Whitebox LLM](https://arxiv.org/abs/2511.00664) | **Whitebox LLM**&**Computational Graph**&**Backdoor Injection** |
+| 25.11 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [“Give a Positive Review Only”: An Early Investigation Into In-Paper Prompt Injection Attacks and Defenses for AI Reviewers](https://arxiv.org/abs/2511.01287) | **Prompt Injection**&**AI Review Systems**&**Adversarial Defense** |
+| 25.11 | Yonsei University | arxiv | [Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](https://arxiv.org/abs/2511.01375) | **Jailbreak Optimization**&**Meta-Optimization**&**LLM Safety** |
+| 25.11 | University of California, Berkeley | arxiv | [AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](https://arxiv.org/abs/2511.02376) | **Jailbreak Attack**&**Adversarial Prompting**&**Multi-Turn Interaction** |
+| 25.11 | University of Agder | arxiv | [On The Dangers of Poisoned LLMs in Security Automation](https://arxiv.org/abs/2511.02600) | **LLM Poisoning**&**Security Automation**&**Fine-tuning Vulnerability** |
+| 25.11 | Harvard University | arxiv | [Verifying LLM Inference to Prevent Model Weight Exfiltration](https://arxiv.org/abs/2511.02620) | **Model Weight Exfiltration**&**Inference Verification**&**LLM Security** |
+| 25.11 | Communication University of China | arxiv | [Let the Bees Find the Weak Spots: A Path Planning Perspective on Multi-Turn Jailbreak Attacks against LLMs](https://arxiv.org/abs/2511.03271) | **Multi-turn Jailbreak**&**Path Planning**&**Swarm Intelligence** |
+| 25.11 | City University of Hong Kong | arxiv | [Black-Box Guardrail Reverse-engineering Attack](https://arxiv.org/abs/2511.04215) | **Guardrail Reverse Engineering**&**Reinforcement Learning**&**Model Extraction** |
 
 
 

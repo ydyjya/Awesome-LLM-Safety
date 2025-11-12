@@ -284,6 +284,13 @@
 | 25.10 |                                                                 Beihang University, Tsinghua University, Shanghai Qi Zhi Institute                                                                  |           NeurIPS 2025           |                                                   [DeceptionBench: A Comprehensive Benchmark for AI Deception Behaviors in Real-world Scenarios](https://arxiv.org/abs/2510.15501)                                                    |                                 **Deception Behavior**&**Benchmark**&**LLM Safety**                                  |
 | 25.10 | Manchester Metropolitan University | arxiv | [Safeguarding Efficacy in Large Language Models: Evaluating Resistance to Human-Written and Algorithmic Adversarial Prompts](https://arxiv.org/abs/2510.15973) | **Large Language Models**&**Adversarial Attacks**&**AI Safety** |
 | 25.10 | Lakera AI, ETH Zürich, UK AI Security Institute, University of Oxford | arxiv | [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620v1) | **AI Agent Security**&**Backbone LLM Benchmarking**&**Threat Modeling** |
+| 25.10 | William & Mary | arxiv | [Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](https://arxiv.org/abs/2510.27140) | **Mobile LLM Agent**&**Adversarial Prompt**&**Security Evaluation** |
+| 25.10 | Hong Kong Baptist University | arxiv | [MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models](https://arxiv.org/abs/2510.27196) | **Multimodal Large Language Model**&**Harmfulness Evaluation**&**Agent-based Framework** |
+| 25.11 | Penn State University | arxiv | [Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](https://arxiv.org/abs/2511.00689) | **Multilingual Jailbreak**&**Cross-lingual Safety**&**Defense Robustness** |
+| 25.11 | Tsinghua University | arxiv | [LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context](https://arxiv.org/abs/2511.02366) | **AI Safety Benchmark**&**Chinese LLM Evaluation**&**Cultural Alignment** |
+| 25.11 | Nanjing University | arxiv | [Understanding New-Knowledge-Induced Factual Hallucinations in LLMs: Analysis, Solution, and Interpretation](https://arxiv.org/abs/2511.02626) | **Factual Hallucination**&**New Knowledge**&**Attention Mechanism** |
+
+
 
 
 
