@@ -338,6 +338,9 @@
 | 25.11 | BRAC University | arxiv | [Exploring and Mitigating Gender Bias in Encoder-Based Transformer Models](https://arxiv.org/abs/2511.00519) | **Gender Bias**&**Encoder Models**&**BERT Debiasing** |
 | 25.11 | Wuhan University of Technology | arxiv | [TriCon-Fair: Triplet Contrastive Learning for Mitigating Social Bias in Pre-trained Language Models](https://arxiv.org/abs/2511.00854) | **Social Bias**&**Contrastive Learning**&**Fairness in PLMs** |
 | 25.11 | Technion - Israel Institute of Technology | arxiv | [Silenced Biases: The Dark Side LLMs Learned to Refuse](https://arxiv.org/abs/2511.03369) | **Fairness Evaluation**&**Silenced Bias**&**Activation Steering** |
+| 25.11 | Tsinghua University | arxiv | [When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318) | **Spurious Correlation**&**Hallucination Detection**&**LLM Robustness** |
+| 25.11 | University College London | arxiv | [Benchmarking Educational LLMs with Analytics: A Case Study on Gender Bias in Feedback](https://arxiv.org/abs/2511.08225) | **Educational LLMs**&**Gender Bias**&**Embedding-based Benchmarking** |
+| 25.11 | University of Sheffield | AACL 2025 | [LLMs Do Not See Age: Assessing Demographic Bias in Automated Systematic Review Synthesis](https://arxiv.org/abs/2511.06000) | **Demographic Bias**&**Biomedical Summarisation**&**Age-related Fidelity** |
 
 
 

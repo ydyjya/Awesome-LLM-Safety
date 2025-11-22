@@ -560,6 +560,13 @@
 | 25.10 | Google DeepMind | arxiv | [Consistency Training Helps Stop Sycophancy and Jailbreaks](https://arxiv.org/abs/2510.27062) | **Consistency Training**&**Sycophancy**&**Jailbreak Defense** |
 | 25.11 | National University of Singapore | arxiv | [DRIP: Defending Prompt Injection via De-instruction Training and Residual Fusion Model Architecture](https://arxiv.org/abs/2511.00447) | **Prompt Injection Defense**&**De-instruction Training**&**Residual Fusion** |
 | 25.11 | Wuhan University | arxiv | [Reimagining Safety Alignment with An Image](https://arxiv.org/abs/2511.00509) | **Safety Alignment**&**Multimodal LLM**&**Visual Prompt Optimization** |
+| 25.11 | East China Normal University | arxiv | [KG-DF: A Black-box Defense Framework against Jailbreak Attacks Based on Knowledge Graphs](https://arxiv.org/abs/2511.07480) | **Knowledge Graph Defense**&**Jailbreak Mitigation**&**Semantic Parsing** |
+| 25.11 | Seoul National University | arxiv | [Alignment-Aware Quantization for LLM Safety](https://arxiv.org/abs/2511.07842) | **LLM Quantization**&**Safety Alignment**&**Contrastive Loss** |
+| 25.11 | Rensselaer Polytechnic Institute | arxiv | [Patching LLM Like Software: A Lightweight Method for Improving Safety Policy in Large Language Models](https://arxiv.org/abs/2511.08484) | **Safety Patching**&**Prompt Prefix Tuning**&**LLM Safety Alignment** |
+| 25.11 | Carnegie Mellon University | arxiv | [Stabilizing Reinforcement Learning for Honesty Alignment in Language Models on Deductive Reasoning](https://arxiv.org/abs/2511.09222) | **Honesty Alignment**&**Deductive Reasoning**&**RLVR/ANCHOR** |
+| 25.11 | Case Western Reserve University | AAAI 2026 | [EASE: Practical and Efficient Safety Alignment for Small Language Models](https://arxiv.org/abs/2511.06512) | **SLM Safety Alignment**&**Safety Reasoning**&**Selective Activation** |
+| 25.11 | Nanjing University of Posts and Telecommunications | AAAI 2026 | [Differentiated Directional Intervention: A Framework for Evading LLM Safety Alignment](https://arxiv.org/abs/2511.06852) | **Activation Steering**&**Safety Alignment Bypass**&**Bi-Directional Safety Mechanism** |
+| 25.11 | Ant Group | IEEE Symposium on Security and Privacy 2026 | [ENCHTABLE: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880) | **Safety Vector Distillation**&**NTK-based Model Editing**&**Post-hoc Safety Alignment** |
 
 
 

@@ -289,6 +289,10 @@
 | 25.11 | Penn State University | arxiv | [Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](https://arxiv.org/abs/2511.00689) | **Multilingual Jailbreak**&**Cross-lingual Safety**&**Defense Robustness** |
 | 25.11 | Tsinghua University | arxiv | [LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context](https://arxiv.org/abs/2511.02366) | **AI Safety Benchmark**&**Chinese LLM Evaluation**&**Cultural Alignment** |
 | 25.11 | Nanjing University | arxiv | [Understanding New-Knowledge-Induced Factual Hallucinations in LLMs: Analysis, Solution, and Interpretation](https://arxiv.org/abs/2511.02626) | **Factual Hallucination**&**New Knowledge**&**Attention Mechanism** |
+| 25.11 | German Research Center for Artificial Intelligence | arxiv | [CONVERSE: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://arxiv.org/abs/2511.05359) | **Agent-to-Agent Safety**&**Privacy Leakage**&**Security Attacks** |
+| 25.11 | Southern University of Science and Technology | arxiv | [MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?](https://arxiv.org/abs/2511.05867) | **MCP Security**&**System Log Analysis**&**Risk Detection Benchmark** |
+| 25.11 | Beijing Institute of AI Safety and Governance | arxiv | [Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396) | **LLM Safety Evaluation**&**Multi-Agent Debate**&**Jailbreak Benchmark** |
+| 25.11 | Xi’an Jiaotong University | arxiv | [How Brittle is Agent Safety? Rethinking Agent Risk under Intent Concealment and Task Complexity](https://arxiv.org/abs/2511.08487) | **Agent Safety**&**Intent Concealment**&**Task Complexity** |
 
 
 

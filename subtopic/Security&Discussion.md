@@ -329,6 +329,7 @@
 | 25.10 | École Normale Supérieure (ENS) - Université Paris Sciences et Lettres (PSL), CNRS, Université Sorbonne Nouvelle | arxiv | [On the Detectability of LLM-Generated Text: What Exactly Is LLM-Generated Text?](https://arxiv.org/abs/2510.20810) | **AI-Generated Text Detection**&**Watermarking**&**Ethical AI Evaluation** |
 | 25.11 | University of Pennsylvania | arxiv | [Watermarking Discrete Diffusion Language Models](https://arxiv.org/abs/2511.02083) | **Discrete Diffusion**&**Watermarking**&**Generative Model Security** |
 | 25.11 | CEA Paris-Saclay | arxiv | [Watermarking Large Language Models in Europe: Interpreting the AI Act in Light of Technology](https://arxiv.org/abs/2511.03641) | **Watermarking**&**AI Act**&**Compliance Evaluation** |
+| 25.11 | Shandong University | AAAI 2026 | [HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection](https://arxiv.org/abs/2511.06942) | **Human Language Preference Optimization**&**Machine-Revised Text Detection**&**Adversarial Multi-Task Detection** |
 
 
 

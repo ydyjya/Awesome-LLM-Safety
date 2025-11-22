@@ -792,6 +792,15 @@
 | 25.11 | Harvard University | arxiv | [Verifying LLM Inference to Prevent Model Weight Exfiltration](https://arxiv.org/abs/2511.02620) | **Model Weight Exfiltration**&**Inference Verification**&**LLM Security** |
 | 25.11 | Communication University of China | arxiv | [Let the Bees Find the Weak Spots: A Path Planning Perspective on Multi-Turn Jailbreak Attacks against LLMs](https://arxiv.org/abs/2511.03271) | **Multi-turn Jailbreak**&**Path Planning**&**Swarm Intelligence** |
 | 25.11 | City University of Hong Kong | arxiv | [Black-Box Guardrail Reverse-engineering Attack](https://arxiv.org/abs/2511.04215) | **Guardrail Reverse Engineering**&**Reinforcement Learning**&**Model Extraction** |
+| 25.11 | Carnegie Mellon University | arxiv | [Jailbreaking in the Haystack](https://arxiv.org/abs/2511.04707) | **Jailbreaking**&**Long-context Safety**&**NINJA Attack** |
+| 25.11 | University of California | IEEE Symposium on Security and Privacy 2026 | [When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins](https://arxiv.org/abs/2511.05797) | **Prompt Injection**&**Web Chatbot Plugins**&**LLM Security** |
+| 25.11 | Technical University of Munich | arxiv | [Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs](https://arxiv.org/abs/2511.05919) | **Prompt Injection**&**Man-in-the-Middle Attack**&**Factual Recall** |
+| 25.11 | Tsinghua University | arxiv | [JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework](https://arxiv.org/abs/2511.07315) | **Multimodal Jailbreak**&**Multi-Agent Collaboration**&**VLM Security** |
+| 25.11 | Tsinghua University | arxiv | [Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/abs/2511.08367) | **VLM Jailbreak**&**Weak-OOD**&**OCR Robustness** |
+| 25.11 | Soongsil University | arxiv | [Self-HarmLLM: Can Large Language Model Harm Itself?](https://arxiv.org/abs/2511.08597) | **Self-HarmLLM**&**Jailbreak**&**LLM Safety** |
+| 25.11 | Independent Researcher | arxiv | [Say It Differently: Linguistic Styles as Jailbreak Vectors](https://arxiv.org/abs/2511.10519) | **Linguistic Style**&**Jailbreak Attacks**&**LLM Safety** |
+| 25.11 | China Academy of Engineering Physics | AAAI 2026 | [LoopLLM: Transferable Energy-Latency Attacks in LLMs via Repetitive Generation](https://arxiv.org/abs/2511.07876) | **Energy-Latency Attacks**&**Repetitive Generation**&**Transferable Adversarial Prompts** |
+| 25.11 | Tongji University | AAAI 2026 | [Uncovering Pretraining Code in LLMs: A Syntax-Aware Attribution Approach](https://arxiv.org/abs/2511.07033) | **Membership Inference**&**Code Copyright Auditing**&**Syntax-aware Attribution** |
 
 
 

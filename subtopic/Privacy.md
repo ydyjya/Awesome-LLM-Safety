@@ -376,6 +376,10 @@
 | 25.11 | Microsoft | arxiv | [Whisper Leak: A Side-Channel Attack on Large Language Models](https://arxiv.org/abs/2511.03675) | **Side-Channel Attack**&**Network Traffic Analysis**&**LLM Security** |
 | 25.11 | Nokia Bell Labs | arxiv | [Differentially Private In-Context Learning with Nearest Neighbor Search](https://arxiv.org/abs/2511.04332) | **Differential Privacy**&**In-Context Learning**&**kNN Retrieval** |
 | 25.11 | University of Pittsburgh | IEEE Big Data 2025 | [Semantically-Aware LLM Agent to Enhance Privacy in Conversational AI Services](https://arxiv.org/abs/2510.27016) | **Privacy Preservation**&**Pseudonymization**&**Conversational AI** |
+| 25.11 | Rochester Institute of Technology | arxiv | [AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents](https://arxiv.org/abs/2511.07441) | **AI Agents**&**Privacy Auditing**&**Policy Compliance** |
+| 25.11 | University of California San Diego | arxiv | [PRIVATE-RAG: Answering Multiple Queries with LLMs While Keeping Your Data Private](https://arxiv.org/abs/2511.07637) | **Differential Privacy**&**Multi-Query RAG**&**Privacy Filters** |
+| 25.11 | Stevens Institute of Technology | AAAI 2026 | [iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905) | **LLM Fingerprinting**&**Ownership Verification**&**Verification Robustness** |
+| 25.11 | East China Normal University | NeurIPS 2025 | [FedRW: Efficient Privacy-Preserving Data Reweighting for Enhancing Federated Learning of Language Models](https://arxiv.org/abs/2511.07505) | **Federated Learning**&**Privacy-Preserving Deduplication**&**Data Reweighting** |
 
 
 
