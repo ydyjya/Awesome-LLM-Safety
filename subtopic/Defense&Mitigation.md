@@ -567,6 +567,12 @@
 | 25.11 | Case Western Reserve University | AAAI 2026 | [EASE: Practical and Efficient Safety Alignment for Small Language Models](https://arxiv.org/abs/2511.06512) | **SLM Safety Alignment**&**Safety Reasoning**&**Selective Activation** |
 | 25.11 | Nanjing University of Posts and Telecommunications | AAAI 2026 | [Differentiated Directional Intervention: A Framework for Evading LLM Safety Alignment](https://arxiv.org/abs/2511.06852) | **Activation Steering**&**Safety Alignment Bypass**&**Bi-Directional Safety Mechanism** |
 | 25.11 | Ant Group | IEEE Symposium on Security and Privacy 2026 | [ENCHTABLE: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880) | **Safety Vector Distillation**&**NTK-based Model Editing**&**Post-hoc Safety Alignment** |
+| 25.11 | University of Luxembourg, Institut National Polytechnique de Toulouse, Foyer S.A. | arxiv | [NegBLEURT Forest: Leveraging Inconsistencies for Detecting Jailbreak Attacks](https://arxiv.org/abs/2511.11784) | **Jailbreak Detection**&**Negation-aware Evaluation**&**Isolation Forest** |
+| 25.11 | Samsung SDS Technology Research | arxiv | [SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497) | **Safety Guardrail**&**Content Filtering**&**Jailbreak Detection** |
+| 25.11 | Wuhan University / MiLM Plus, Xiaomi Inc. | arxiv | [SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization](https://arxiv.org/abs/2511.12982) | **Multimodal Safety Alignment**&**GRPO**&**Rule-based Reward Modeling** |
+| 25.11 | The Hong Kong Polytechnic University | arxiv | [ExplainableGuard: Interpretable Adversarial Defense for LLMs Using Chain-of-Thought Reasoning](https://arxiv.org/abs/2511.13771) | **Adversarial Defense**&**Chain-of-Thought Reasoning**&**Explainable AI** |
+| 25.11 | Unknown | arxiv | [Securing AI Agents Against Prompt Injection Attacks: A Comprehensive Benchmark and Defense Framework](https://arxiv.org/abs/2511.15759) | **Prompt Injection**&**Retrieval-Augmented Generation**&**AI Agent Security** |
+| 25.11 | Capgemini Invent | arxiv | [PSM: Prompt Sensitivity Minimization via LLM-Guided Black-Box Optimization](https://arxiv.org/abs/2511.16209) | **Prompt Sensitivity Minimization**&**Prompt Extraction Defense**&**LLM-as-Optimizer** |
 
 
 

@@ -293,6 +293,8 @@
 | 25.11 | Southern University of Science and Technology | arxiv | [MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?](https://arxiv.org/abs/2511.05867) | **MCP Security**&**System Log Analysis**&**Risk Detection Benchmark** |
 | 25.11 | Beijing Institute of AI Safety and Governance | arxiv | [Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396) | **LLM Safety Evaluation**&**Multi-Agent Debate**&**Jailbreak Benchmark** |
 | 25.11 | Xi’an Jiaotong University | arxiv | [How Brittle is Agent Safety? Rethinking Agent Risk under Intent Concealment and Task Complexity](https://arxiv.org/abs/2511.08487) | **Agent Safety**&**Intent Concealment**&**Task Complexity** |
+| 25.11 | Fudan University / City University of Hong Kong / Singapore Management University | arxiv | [AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision–Language–Action Models](https://arxiv.org/abs/2511.12149) | **Vision–Language–Action Models**&**Adversarial Attacks**&**Backdoor Attacks** |
+| 25.11 | Nanjing University | arxiv | [SAFERBENCH: A COMPREHENSIVE BENCHMARK FOR SAFETY ASSESSMENT IN LARGE REASONING MODELS](https://arxiv.org/abs/2511.15169) | **Safety Benchmark**&**Large Reasoning Models**&**Chain-of-Thought Safety** |
 
 
 

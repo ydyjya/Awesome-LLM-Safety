@@ -341,6 +341,11 @@
 | 25.11 | Tsinghua University | arxiv | [When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs](https://arxiv.org/abs/2511.07318) | **Spurious Correlation**&**Hallucination Detection**&**LLM Robustness** |
 | 25.11 | University College London | arxiv | [Benchmarking Educational LLMs with Analytics: A Case Study on Gender Bias in Feedback](https://arxiv.org/abs/2511.08225) | **Educational LLMs**&**Gender Bias**&**Embedding-based Benchmarking** |
 | 25.11 | University of Sheffield | AACL 2025 | [LLMs Do Not See Age: Assessing Demographic Bias in Automated Systematic Review Synthesis](https://arxiv.org/abs/2511.06000) | **Demographic Bias**&**Biomedical Summarisation**&**Age-related Fidelity** |
+| 25.11 | Ludwig-Maximilians-Universität München | arxiv | [Can AI Models be Jailbroken to Phish Elderly Victims? An End-to-End Evaluation](https://arxiv.org/abs/2511.11759) | **Jailbreak Attacks**&**Phishing Detection**&**AI Safety** |
+| 25.11 | Technical University of Munich | arxiv | [Operationalizing Pluralistic Values in Large Language Model Alignment Reveals Trade-offs in Safety, Inclusivity, and Model Behavior](https://arxiv.org/abs/2511.14476) | **Pluralistic Value Alignment**&**Human Feedback Diversity**&**RLHF Design Choices** |
+| 25.11 | Manchester Metropolitan University | arxiv | [Bias in, Bias out: Annotation Bias in Multilingual Large Language Models](https://arxiv.org/abs/2511.14662) | **Annotation Bias**&**Multilingual LLMs**&**Bias Mitigation** |
+| 25.11 | Peking University | AAAI 2026 | [From Single to Societal: Analyzing Persona-Induced Bias in Multi-Agent Interactions](https://arxiv.org/abs/2511.11789) | **Persona-Induced Bias**&**Multi-Agent Systems**&**Social Traits** |
+| 25.11 | Seoul National University | arxiv | [A Multifaceted Analysis of Negative Bias in Large Language Models through the Lens of Parametric Knowledge](https://arxiv.org/abs/2511.10881) | **Negative Bias**&**Parametric Knowledge**&**Binary Decision Tasks** |
 
 
 

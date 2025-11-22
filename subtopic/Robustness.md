@@ -74,6 +74,8 @@
 | 25.10 | Carnegie Mellon University | arxiv | [RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts](https://arxiv.org/abs/2510.05310) | **Guardrail Robustness**&**Retrieval-Augmented Generation (RAG)**&**Safety Alignment** |
 | 25.10 | Duke Kunshan University | arxiv | [SmoothGuard: Defending Multimodal Large Language Models with Noise Perturbation and Clustering Aggregation](https://arxiv.org/abs/2510.26830) | **Multimodal Large Language Model**&**Adversarial Defense**&**Randomized Smoothing** |
 | 25.11 | Astana IT University | arxiv | [Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models](https://arxiv.org/abs/2511.01634) | **Prompt Injection**&**Resilience Evaluation**&**Safety Compliance** |
+| 25.11 | Graduate School of Data Science, Seoul National University | arxiv | [Mitigating Length Bias in RLHF through a Causal Lens](https://arxiv.org/abs/2511.12573) | **RLHF Length Bias**&**Counterfactual Data Augmentation**&**Causal Reward Modeling** |
+| 25.11 | Johannes Gutenberg University Mainz / University of Colorado Boulder | arxiv | [Mitigating Label Length Bias in Large Language Models](https://arxiv.org/abs/2511.14385) | **Label Length Bias**&**Normalized Contextual Calibration**&**In-context Learning** |
 
 
 
