@@ -76,6 +76,7 @@
 | 25.11 | Astana IT University | arxiv | [Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models](https://arxiv.org/abs/2511.01634) | **Prompt Injection**&**Resilience Evaluation**&**Safety Compliance** |
 | 25.11 | Graduate School of Data Science, Seoul National University | arxiv | [Mitigating Length Bias in RLHF through a Causal Lens](https://arxiv.org/abs/2511.12573) | **RLHF Length Bias**&**Counterfactual Data Augmentation**&**Causal Reward Modeling** |
 | 25.11 | Johannes Gutenberg University Mainz / University of Colorado Boulder | arxiv | [Mitigating Label Length Bias in Large Language Models](https://arxiv.org/abs/2511.14385) | **Label Length Bias**&**Normalized Contextual Calibration**&**In-context Learning** |
+| 25.11 | NewMind AI | arxiv | [PARROT: Persuasion and Agreement Robustness Rating of Output Truth — A Sycophancy Robustness Benchmark for LLMs](https://arxiv.org/abs/2511.17220) | **Sycophancy Robustness**&**LLM Evaluation**&**Social Manipulation** |
 
 
 

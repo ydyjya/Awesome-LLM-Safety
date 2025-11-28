@@ -295,6 +295,10 @@
 | 25.11 | Xi’an Jiaotong University | arxiv | [How Brittle is Agent Safety? Rethinking Agent Risk under Intent Concealment and Task Complexity](https://arxiv.org/abs/2511.08487) | **Agent Safety**&**Intent Concealment**&**Task Complexity** |
 | 25.11 | Fudan University / City University of Hong Kong / Singapore Management University | arxiv | [AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision–Language–Action Models](https://arxiv.org/abs/2511.12149) | **Vision–Language–Action Models**&**Adversarial Attacks**&**Backdoor Attacks** |
 | 25.11 | Nanjing University | arxiv | [SAFERBENCH: A COMPREHENSIVE BENCHMARK FOR SAFETY ASSESSMENT IN LARGE REASONING MODELS](https://arxiv.org/abs/2511.15169) | **Safety Benchmark**&**Large Reasoning Models**&**Chain-of-Thought Safety** |
+| 25.11 | École Polytechnique, Sorbonne Paris Nord University, Crédit Agricole SA | arxiv | [MUCH: A Multilingual Claim Hallucination Benchmark](https://arxiv.org/abs/2511.17081) | **Uncertainty Quantification**&**Hallucination Detection**&**Multilingual Benchmark** |
+| 25.11 | Intuit AI Security Research | arxiv | [ASTRA: Agentic Steerability and Risk Assessment Framework](https://arxiv.org/abs/2511.18114) | **Agentic AI Security**&**Steerability Evaluation**&**Risk Assessment Framework** |
+| 25.11 | Scale AI, University of Maryland, UNC, Google DeepMind, Netflix, UT Austin | arxiv | [PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach](https://arxiv.org/abs/2511.20703) | **LLM Safety**&**Risk Propensity**&**Agentic Evaluation** |
+| 25.11 | University at Buffalo, SUNY | arxiv | [DUALGAUGE: Automated Joint Security–Functionality Benchmarking for Secure Code Generation](https://arxiv.org/abs/2511.20709) | **Secure Code Generation**&**Benchmarking**&**LLM Evaluation** |
 
 
 

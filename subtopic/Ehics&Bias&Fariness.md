@@ -346,6 +346,10 @@
 | 25.11 | Manchester Metropolitan University | arxiv | [Bias in, Bias out: Annotation Bias in Multilingual Large Language Models](https://arxiv.org/abs/2511.14662) | **Annotation Bias**&**Multilingual LLMs**&**Bias Mitigation** |
 | 25.11 | Peking University | AAAI 2026 | [From Single to Societal: Analyzing Persona-Induced Bias in Multi-Agent Interactions](https://arxiv.org/abs/2511.11789) | **Persona-Induced Bias**&**Multi-Agent Systems**&**Social Traits** |
 | 25.11 | Seoul National University | arxiv | [A Multifaceted Analysis of Negative Bias in Large Language Models through the Lens of Parametric Knowledge](https://arxiv.org/abs/2511.10881) | **Negative Bias**&**Parametric Knowledge**&**Binary Decision Tasks** |
+| 25.11 | Harvard University, MIT | arxiv | [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](https://arxiv.org/abs/2511.18123) | **Vision-Language Models**&**Fairness**&**Subspace Debiasing** |
+| 25.11 | University of Southern California | arxiv | [No Free Lunch in Language Model Bias Mitigation? Targeted Bias Reduction Can Exacerbate Unmitigated LLM Biases](https://arxiv.org/abs/2511.18635) | **Bias Mitigation**&**Fairness Evaluation**&**Cross-Dimensional Trade-offs** |
+| 25.11 | Simon Fraser University | arxiv | [Gender Bias in Emotion Recognition by Large Language Models](https://arxiv.org/abs/2511.19785) | **Gender Bias**&**Emotion Recognition**&**LLM Fairness** |
+| 25.11 | Nanyang Technological University, National University of Singapore, VinUniversity | SAC 2026 | [More Bias, Less Bias: BiasPrompting for Enhanced Multiple-Choice Question Answering](https://arxiv.org/abs/2511.20086) | **Multiple-Choice Question Answering**&**Prompting**&**Reasoning Enhancement** |
 
 
 

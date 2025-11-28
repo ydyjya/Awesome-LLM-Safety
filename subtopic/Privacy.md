@@ -380,6 +380,10 @@
 | 25.11 | University of California San Diego | arxiv | [PRIVATE-RAG: Answering Multiple Queries with LLMs While Keeping Your Data Private](https://arxiv.org/abs/2511.07637) | **Differential Privacy**&**Multi-Query RAG**&**Privacy Filters** |
 | 25.11 | Stevens Institute of Technology | AAAI 2026 | [iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905) | **LLM Fingerprinting**&**Ownership Verification**&**Verification Robustness** |
 | 25.11 | East China Normal University | NeurIPS 2025 | [FedRW: Efficient Privacy-Preserving Data Reweighting for Enhancing Federated Learning of Language Models](https://arxiv.org/abs/2511.07505) | **Federated Learning**&**Privacy-Preserving Deduplication**&**Data Reweighting** |
+| 25.11 | Xidian University, Nanyang Technological University | arxiv | [MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](https://arxiv.org/abs/2511.16940) | **Vision-Language Models**&**Privacy Reasoning**&**Benchmark** |
+| 25.11 | The University of Alabama | arxiv | [Are Neuro-Inspired Multi-Modal Vision-Language Models Resilient to Membership Inference Privacy Leakage?](https://arxiv.org/abs/2511.20710) | **Vision-Language Models**&**Membership Inference Attack**&**Neuro-Inspired Regularization** |
+| 25.11 | University of Central Florida | arxiv | [Memories Retrieved from Many Paths: A Multi-Prefix Framework for Robust Detection of Training Data Leakage in Large Language Models](https://arxiv.org/abs/2511.20799) | **Training Data Leakage**&**LLM Memorization**&**Adversarial Prefix Search** |
+| 25.11 | Washington University in St. Louis, University of California Irvine, University of Washington, Georgetown University | S & P 2026 | [Towards Automating Data Access Permissions in AI Agents](https://arxiv.org/abs/2511.17959) | **AI Agents**&**Permission Management**&**Data Access Control** |
 
 
 

@@ -332,6 +332,12 @@
 | 25.11 | Shandong University | AAAI 2026 | [HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection](https://arxiv.org/abs/2511.06942) | **Human Language Preference Optimization**&**Machine-Revised Text Detection**&**Adversarial Multi-Task Detection** |
 | 25.11 | Massachusetts Institute of Technology | arxiv | [Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming](https://arxiv.org/abs/2511.15998) | **Model Context Protocol**&**Agentic Red Teaming**&**Command and Control** |
 | 25.11 | Zhejiang University | AAAI 2026 | [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/abs/2511.10712) | **Model Merging Stealing**&**LLM IP Protection**&**Proactive Defense** |
+| 25.11 | Beijing Institute of Technology | arxiv | [Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion](https://arxiv.org/abs/2511.19171) | **Existential Risk**&**Prefix Completion**&**LLM Safety Evaluation** |
+| 25.11 | ETH Zurich, Huawei Technologies Switzerland AG | arxiv | [Can LLMs Make (Personalized) Access Control Decisions?](https://arxiv.org/abs/2511.20284) | **Access Control**&**Personalization**&**LLM Security** |
+| 25.11 | Purdue University, Perplexity AI | arxiv | [BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](https://arxiv.org/abs/2511.20597) | **Prompt Injection**&**AI Browser Agents**&**Benchmarking** |
+| 25.11 | University of Tennessee, Sungkyunkwan University | arxiv | [Supporting Students in Navigating LLM-Generated Insecure Code](https://arxiv.org/abs/2511.20878) | **Insecure Code Generation**&**Cybersecurity Education**&**Bifröst Framework** |
+| 25.11 | Vanta, MintMCP, Darktrace | arxiv | [Securing the Model Context Protocol (MCP): Risks, Controls, and Governance](https://arxiv.org/abs/2511.20920) | **Model Context Protocol**&**AI Governance**&**Agent Security** |
+| 25.11 | Renmin University of China, Ant Group | AAAI 2026 | [Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems](https://arxiv.org/abs/2511.18467) | **LLM Multi-Agent Systems**&**Security Risks**&**Adversarial Defense** |
 
 
 
