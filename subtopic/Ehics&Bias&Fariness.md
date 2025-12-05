@@ -350,6 +350,13 @@
 | 25.11 | University of Southern California | arxiv | [No Free Lunch in Language Model Bias Mitigation? Targeted Bias Reduction Can Exacerbate Unmitigated LLM Biases](https://arxiv.org/abs/2511.18635) | **Bias Mitigation**&**Fairness Evaluation**&**Cross-Dimensional Trade-offs** |
 | 25.11 | Simon Fraser University | arxiv | [Gender Bias in Emotion Recognition by Large Language Models](https://arxiv.org/abs/2511.19785) | **Gender Bias**&**Emotion Recognition**&**LLM Fairness** |
 | 25.11 | Nanyang Technological University, National University of Singapore, VinUniversity | SAC 2026 | [More Bias, Less Bias: BiasPrompting for Enhanced Multiple-Choice Question Answering](https://arxiv.org/abs/2511.20086) | **Multiple-Choice Question Answering**&**Prompting**&**Reasoning Enhancement** |
+| 25.11 | Singapore Management University, University of Trieste, AREA Science Park, Carnegie Mellon University, University of Toronto, Vector Institute, Max Planck Institute for Intelligent Systems, University of Michigan | arxiv | [Are LLMs Good Safety Agents or a Propaganda Engine?](https://arxiv.org/abs/2511.23174) | **LLM Refusal Behavior**&**Political Censorship**&**Safety Alignment** |
+| 25.12 | University of Calgary, York University, Case Western Reserve University | TOSEM | [Bias Testing and Mitigation in Black Box LLMs using Metamorphic Relations](https://arxiv.org/abs/2512.00556) | **Bias Detection**&**Metamorphic Testing**&**Bias Mitigation in LLMs** |
+| 25.12 | National University of Singapore | arxiv | [Bias Injection Attacks on RAG Databases and Sanitization Defenses](https://arxiv.org/abs/2512.00804) | **RAG Security**&**Bias Injection Attack**&**Database Sanitization Defense** |
+| 25.12 | University of Vermont, Santa Fe Institute | arxiv | [Misalignment of LLM-Generated Personas with Human Perceptions in Low-Resource Settings](https://arxiv.org/abs/2512.02058) | **LLM Personas**&**Cultural Alignment**&**Low-Resource Evaluation** |
+| 25.12 | Mitsubishi Electric Corporation, Otaru University of Commerce | arxiv | [An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/abs/2512.02689) | **Social Bias Mitigation**&**Model Merging**&**Large Language Models** |
+| 25.12 | Polytechnique Montréal, Concordia University | DSE 2026 | [The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models](https://arxiv.org/abs/2512.03026) | **Ethical AI**&**Moral Consistency**&**Computational Ethics**&**LLM Evaluation** |
+| 25.12 | BRAC University | arxiv | [Is Lying Only Sinful in Islam? Exploring Religious Bias in Multilingual Large Language Models Across Major Religions](https://arxiv.org/abs/2512.03943) | **Religious Bias**&**Multilingual LLMs**&**Ethical AI** |
 
 
 

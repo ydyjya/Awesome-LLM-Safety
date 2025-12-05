@@ -581,6 +581,13 @@
 | 25.11 | Duke University, AWS Generative AI Innovation Center | arxiv | [Breaking the Safety–Capability Tradeoff: Reinforcement Learning with Verifiable Rewards Maintains Safety Guardrails in LLMs](https://arxiv.org/abs/2511.21050) | **Reinforcement Learning with Verifiable Rewards**&**Safety–Capability Tradeoff**&**LLM Alignment** |
 | 25.11 | Beijing Jiaotong University, University of International Business and Economics | arxiv | [Self-Guided Defense: Adaptive Safety Alignment for Reasoning Models via Synthesized Guidelines](https://arxiv.org/abs/2511.21214) | **Reasoning Models**&**Safety Alignment**&**Self-Alignment** |
 | 25.11 | University of Central Florida, SAFERR AI Lab | arxiv | [SafeR-CLIP: Mitigating NSFW Content in Vision-Language Models While Preserving Pre-Trained Knowledge](https://arxiv.org/abs/2511.16743) | **NSFW Mitigation**&**Vision-Language Models**&**Representation-Aware Fine-tuning** |
+| 25.11 | Aptima, Inc. | arxiv | [Proactive Defense: Compound AI for Detecting Persuasion Attacks and Measuring Inoculation Effectiveness](https://arxiv.org/abs/2511.21749) | **Persuasion Attack Detection**&**Inoculation Theory**&**Compound AI Framework** |
+| 25.11 | George Washington University | arxiv | [Semantics as a Shield: Label Disguise Defense (LDD) against Prompt Injection in LLM Sentiment Classification](https://arxiv.org/abs/2511.21752) | **Prompt Injection Defense**&**Label Disguise Defense (LDD)**&**Adversarial Robustness** |
+| 25.12 | NVIDIA, University of Illinois Urbana-Champaign, Johns Hopkins University | arxiv | [Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis](https://arxiv.org/abs/2512.00966) | **Prompt Injection Defense**&**Instruction-Following Intent Analysis**&**LLM Agent Security** |
+| 25.12 | University of Galway | arxiv | [Securing Large Language Models (LLMs) from Prompt Injection Attacks](https://arxiv.org/abs/2512.01326) | **Prompt Injection Defense**&**Fine-tuning Security**&**Adversarial Robustness** |
+| 25.12 | Fudan University, University of California Davis, Uniphore | arxiv | [OMNIGUARD: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306) | **Omni-Modal Guardrails**&**Safety Reasoning**&**Cross-Modal Alignment** |
+| 25.12 | Algoverse, New Jersey Institute of Technology | AAAI 2026 | [When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents](https://arxiv.org/abs/2512.02445) | **LLM Agent Safety**&**Long-Context Evaluation**&**Refusal Behavior** |
+| 25.12 | Repello AI | arxiv | [CREST: Universal Safety Guardrails Through Cluster-Guided Cross-Lingual Transfer](https://arxiv.org/abs/2512.02711) | **Multilingual Safety**&**Cross-Lingual Transfer**&**Low-Resource Languages**&**Guardrails** |
 
 
 

@@ -299,6 +299,11 @@
 | 25.11 | Intuit AI Security Research | arxiv | [ASTRA: Agentic Steerability and Risk Assessment Framework](https://arxiv.org/abs/2511.18114) | **Agentic AI Security**&**Steerability Evaluation**&**Risk Assessment Framework** |
 | 25.11 | Scale AI, University of Maryland, UNC, Google DeepMind, Netflix, UT Austin | arxiv | [PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach](https://arxiv.org/abs/2511.20703) | **LLM Safety**&**Risk Propensity**&**Agentic Evaluation** |
 | 25.11 | University at Buffalo, SUNY | arxiv | [DUALGAUGE: Automated Joint Security–Functionality Benchmarking for Secure Code Generation](https://arxiv.org/abs/2511.20709) | **Secure Code Generation**&**Benchmarking**&**LLM Evaluation** |
+| 25.12 | Bangladesh University of Engineering and Technology | arxiv | [When Safety Blocks Sense: Measuring Semantic Confusion in LLM Refusals](https://arxiv.org/abs/2512.01037) | **Safety Alignment**&**Semantic Confusion**&**False Refusal Analysis** |
+| 25.12 | BITS Pilani, Hyderabad Campus | arxiv | [BHRAM-IL: A Benchmark for Hallucination Recognition and Assessment in Multiple Indian Languages](https://arxiv.org/abs/2512.01852) | **Multilingual Hallucination Detection**&**Indic Languages**&**Benchmark Dataset** |
+| 25.12 | University of Leeds, Ben-Gurion University of the Negev | arxiv | [DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses](https://arxiv.org/abs/2512.02282) | **Psychosocial Safety**&**Multi-Agent Evaluation**&**LLM-as-a-Judge** |
+| 25.12 | Carnegie Mellon University, Columbia University, Johns Hopkins University, HydroX AI | arxiv | [Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262) | **Vibe Coding**&**AI Agents**&**Secure Code Generation**&**Benchmarking** |
+| 25.12 | Harbin Institute of Technology (Shenzhen) | NeurIPS 2025 / arxiv | [Context-Aware Hierarchical Learning: A Two-Step Paradigm Towards Safer LLMs](https://arxiv.org/abs/2512.03720) | **LLM Security**&**Prompt Injection Defense**&**Tool-Augmented Models**&**Context-Aware Hierarchical Learning (CAHL)** |
 
 
 

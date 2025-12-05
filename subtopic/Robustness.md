@@ -77,6 +77,8 @@
 | 25.11 | Graduate School of Data Science, Seoul National University | arxiv | [Mitigating Length Bias in RLHF through a Causal Lens](https://arxiv.org/abs/2511.12573) | **RLHF Length Bias**&**Counterfactual Data Augmentation**&**Causal Reward Modeling** |
 | 25.11 | Johannes Gutenberg University Mainz / University of Colorado Boulder | arxiv | [Mitigating Label Length Bias in Large Language Models](https://arxiv.org/abs/2511.14385) | **Label Length Bias**&**Normalized Contextual Calibration**&**In-context Learning** |
 | 25.11 | NewMind AI | arxiv | [PARROT: Persuasion and Agreement Robustness Rating of Output Truth — A Sycophancy Robustness Benchmark for LLMs](https://arxiv.org/abs/2511.17220) | **Sycophancy Robustness**&**LLM Evaluation**&**Social Manipulation** |
+| 25.12 | University of Illinois Urbana-Champaign, University of Michigan | arxiv | [Cross-Lingual Prompt Steerability: Towards Accurate and Robust LLM Behavior across Languages](https://arxiv.org/abs/2512.02841) | **Cross-Lingual Prompting**&**Prompt Optimization**&**Multilingual LLMs**&**Reasoning Consistency** |
+| 25.12 | Zhejiang University, Nanyang Technological University | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
 
 
 
