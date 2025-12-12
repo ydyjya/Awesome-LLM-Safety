@@ -833,6 +833,14 @@
 | 25.12 | Mentaleap, UC Berkeley | arxiv | [IN-CONTEXT REPRESENTATION HIJACKING](https://arxiv.org/abs/2512.03771) | **In-Context Learning**&**Representation Hijacking**&**LLM Safety** |
 | 25.12 | University of Luxembourg | arxiv | [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124) | **Psychometric Jailbreak**&**Synthetic Psychopathology**&**AI Safety** |
 | 25.12 | Wuhan University; Nanyang Technological University; Beijing Institute of Technology | arxiv | [Tipping the Dominos: Topology-Aware Multi-Hop Attacks on LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2512.04129) | **LLM-based MASs**&**Multi-hop Attacks**&**Topology-aware Security** |
+| 25.12 | Shandong University, City University of Hong Kong | arxiv | [Beyond Model Jailbreak: Systematic Dissection of the “Ten Deadly Sins” in Embodied Intelligence](https://arxiv.org/abs/2512.06387) | **Embodied AI Security**&**System-Level Vulnerabilities**&**Robotics Safety** |
+| 25.12 | University of Science and Technology of China | arxiv | [RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models](https://arxiv.org/abs/2512.07761) | **Multi-Turn Jailbreak**&**Reinforcement Learning**&**LLM Safety** |
+| 25.12 | University of California Berkeley | arxiv | [Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742) | **LLM Generalization**&**Inductive Backdoors**&**Model Misalignment** |
+| 25.12 | University of Missouri–Columbia | arxiv | [FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872) | **Bit-Flip Attacks**&**Hardware Security**&**Reinforcement Learning** |
+| 25.12 | BITS Pilani | arxiv | [How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415) | **Academic Jailbreaking**&**LLM-as-a-Judge**&**Code Evaluation Security** |
+| 25.12 | BITS Pilani | arxiv | [When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449) | **LLM-as-a-Judge**&**Indirect Prompt Injection**&**Scientific Peer Review Security** |
+| 25.12 | Duke University | NDSS 2026 | [ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09549) | **Prompt Injection**&**LLM Agents**&**Multi-source Data Security** |
+| 25.12 | Shanghai Jiao Tong University | NDSS 2026 | [ThinkTrap: Denial-of-Service Attacks against Black-box LLM Services via Infinite Thinking](https://arxiv.org/abs/2512.07086) | **Denial-of-Service Attack**&**Black-box LLM Security**&**Infinite Generation** |
 
 
 

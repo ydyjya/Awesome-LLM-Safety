@@ -392,6 +392,14 @@
 | 25.12 | Université de Rennes, Inria, CNRS/IRISA; LAAS, CNRS | arxiv | [LOG PROBABILITY TRACKING OF LLM APIS](https://arxiv.org/abs/2512.03816) | **LLM API Monitoring**&**Log Probability Analysis**&**Model Change Detection** |
 | 25.12 | University of Southern California | arxiv | [Personalizing Agent Privacy Decisions via Logical Entailment](https://arxiv.org/abs/2512.05065) | **Personal AI Agents**&**Personalized Privacy**&**Entailment Logic** |
 | 25.11 | University of Pennsylvania | AAAI 2026 | [PRISM: Privacy-Aware Routing for Adaptive Cloud–Edge LLM Inference via Semantic Sketch Collaboration](https://arxiv.org/abs/2511.22788) | **Cloud–Edge Inference**&**Local Differential Privacy**&**Privacy-Aware Routing** |
+| 25.12 | Universitat Politècnica de València, University of Cambridge | arxiv | [Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380) | **Large Audio Language Models**&**Bystander Privacy**&**Selective Hearing** |
+| 25.12 | University of Science and Technology Beijing | arxiv | [PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance](https://arxiv.org/abs/2512.06747) | **Privacy-Preserving LLMs**&**UAV Swarms**&**Secure Multi-Party Computation** |
+| 25.12 | University of California, San Diego | arxiv | [Privacy Practices of Browser Agents](https://arxiv.org/abs/2512.07725) | **Browser Agents**&**Privacy Evaluation**&**LLM Applications** |
+| 25.12 | Nanyang Technological University | arxiv | [Disrupting Hierarchical Reasoning: Adversarial Protection for Geographic Privacy in Multimodal Reasoning Models](https://arxiv.org/abs/2512.08503) | **Geographic Privacy**&**Multimodal Reasoning Models**&**Adversarial Perturbation** |
+| 25.12 | Zhejiang University | arxiv | [Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents](https://arxiv.org/abs/2512.08870) | **Federated Learning**&**LLM Agents**&**Self-Evolution** |
+| 25.12 | King Abdullah University of Science and Technology | arxiv | [Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning](https://arxiv.org/abs/2512.10150) | **Safety Alignment**&**Continual Learning**&**Fine-tuning Security** |
+| 25.12 | City University of Hong Kong | arxiv | [PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device–Cloud Collaboration](https://arxiv.org/abs/2512.08809) | **Privacy-Preserving Fine-Tuning**&**Split Learning**&**Device–Cloud Collaboration** |
+| 25.12 | University of Virginia | NDSS 2026 | [PrivCode: When Code Generation Meets Differential Privacy](https://arxiv.org/abs/2512.05459) | **Differential Privacy**&**Code Generation**&**Privacy-Preserving LLMs** |
 
 
 

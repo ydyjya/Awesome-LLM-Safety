@@ -118,6 +118,7 @@
 | 25.10 | University of Pittsburgh | arxiv | [Automated Extraction of Fluoropyrimidine Treatment and Treatment-Related Toxicities from Clinical Notes Using Natural Language Processing](https://arxiv.org/abs/2510.20727) | **Clinical NLP**&**Adverse Drug Event Extraction**&**LLM in Healthcare** |
 | 25.11 | Dublin City University, University of Isfahan | arxiv | [SynBullying: A Multi-LLM Synthetic Conversational Dataset for Cyberbullying Detection](https://arxiv.org/abs/2511.11599) | **Cyberbullying Detection**&**Synthetic Dataset**&**Large Language Models** |
 | 25.11 | Rochester Institute of Technology | arxiv | [ToxSearch: Evolving Prompts for Toxicity Search in Large Language Models](https://arxiv.org/abs/2511.12487) | **Toxicity Search**&**Evolutionary Prompt Optimization**&**Adversarial Prompt Attacks** |
+| 25.12 | Dalian University of Technology | arxiv | [Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563) | **Chinese Hate Speech Detection**&**Prompt Engineering**&**LLM Merging** |
 
 
 ## 💻Presentations & Talks

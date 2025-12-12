@@ -357,6 +357,10 @@
 | 25.12 | Mitsubishi Electric Corporation, Otaru University of Commerce | arxiv | [An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/abs/2512.02689) | **Social Bias Mitigation**&**Model Merging**&**Large Language Models** |
 | 25.12 | Polytechnique Montréal, Concordia University | DSE 2026 | [The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models](https://arxiv.org/abs/2512.03026) | **Ethical AI**&**Moral Consistency**&**Computational Ethics**&**LLM Evaluation** |
 | 25.12 | BRAC University | arxiv | [Is Lying Only Sinful in Islam? Exploring Religious Bias in Multilingual Large Language Models Across Major Religions](https://arxiv.org/abs/2512.03943) | **Religious Bias**&**Multilingual LLMs**&**Ethical AI** |
+| 25.12 | The Hong Kong University of Science and Technology | arxiv | [Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines](https://arxiv.org/abs/2512.09483) | **LLM-based Search Engines**&**Citation Bias**&**Information Reliability** |
+| 25.12 | Lahore University of Management Sciences | arxiv | [Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement](https://arxiv.org/abs/2512.09854) | **Social Bias Mitigation**&**Inference-Time Debiasing**&**Low-Resource Languages** |
+| 25.12 | Carnegie Mellon University | arxiv | [Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research](https://arxiv.org/abs/2512.10058) | **AI Safety**&**AI Ethics**&**Alignment Research** |
+| 25.12 | Saarland University | arxiv | [Challenges of Evaluating LLM Safety for User Welfare](https://arxiv.org/abs/2512.10687) | **User Welfare Safety**&**LLM Safety Evaluation**&**Context-Aware Assessment** |
 
 
 

@@ -588,6 +588,14 @@
 | 25.12 | Fudan University, University of California Davis, Uniphore | arxiv | [OMNIGUARD: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306) | **Omni-Modal Guardrails**&**Safety Reasoning**&**Cross-Modal Alignment** |
 | 25.12 | Algoverse, New Jersey Institute of Technology | AAAI 2026 | [When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents](https://arxiv.org/abs/2512.02445) | **LLM Agent Safety**&**Long-Context Evaluation**&**Refusal Behavior** |
 | 25.12 | Repello AI | arxiv | [CREST: Universal Safety Guardrails Through Cluster-Guided Cross-Lingual Transfer](https://arxiv.org/abs/2512.02711) | **Multilingual Safety**&**Cross-Lingual Transfer**&**Low-Resource Languages**&**Guardrails** |
+| 25.12 | University of Illinois Urbana-Champaign | arxiv | [Matching Ranks over Probability Yields Truly Deep Safety Alignment](https://arxiv.org/abs/2512.05518) | **LLM Safety Alignment**&**Prefilling Attack**&**Attention Regularization** |
+| 25.12 | South China University of Technology | arxiv | [ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](https://arxiv.org/abs/2512.05745) | **Multimodal LLM Safety**&**Indirect Prompt Injection**&**Activation Steering** |
+| 25.12 | Technical University of Munich | arxiv | [Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951) | **Trusted AI Agents**&**Confidential Computing**&**Cloud Security** |
+| 25.12 | Polytechnique Montréal | arxiv | [Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks](https://arxiv.org/abs/2512.06556) | **Model Context Protocol**&**Tool Poisoning**&**LLM Agent Security** |
+| 25.12 | University of Illinois Urbana-Champaign, CENTAI Institute | arxiv | [GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering](https://arxiv.org/abs/2512.06655) | **LLM Safety Steering**&**Sparse Autoencoders**&**Graph Regularization** |
+| 25.12 | Shanghai Jiao Tong University | arxiv | [Patronus: Identifying and Mitigating Transferable Backdoors in Pre-trained Language Models](https://arxiv.org/abs/2512.06899) | **Transferable Backdoor**&**Pre-trained Language Models**&**Backdoor Defense** |
+| 25.12 | Amazon AGI Foundations | arxiv | [SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents](https://arxiv.org/abs/2512.07850) | **LLM Agents**&**Safety Safeguards**&**Tool-Using Reliability** |
+| 25.12 | Zhejiang University | NDSS 2026 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417) | **Indirect Prompt Injection**&**LLM Security**&**Attention-based Defense** |
 
 
 

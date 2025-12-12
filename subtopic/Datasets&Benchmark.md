@@ -304,6 +304,9 @@
 | 25.12 | University of Leeds, Ben-Gurion University of the Negev | arxiv | [DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses](https://arxiv.org/abs/2512.02282) | **Psychosocial Safety**&**Multi-Agent Evaluation**&**LLM-as-a-Judge** |
 | 25.12 | Carnegie Mellon University, Columbia University, Johns Hopkins University, HydroX AI | arxiv | [Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262) | **Vibe Coding**&**AI Agents**&**Secure Code Generation**&**Benchmarking** |
 | 25.12 | Harbin Institute of Technology (Shenzhen) | NeurIPS 2025 / arxiv | [Context-Aware Hierarchical Learning: A Two-Step Paradigm Towards Safer LLMs](https://arxiv.org/abs/2512.03720) | **LLM Security**&**Prompt Injection Defense**&**Tool-Augmented Models**&**Context-Aware Hierarchical Learning (CAHL)** |
+| 25.12 | Institute of Artificial Intelligence (TeleAI) of China Telecom | arxiv | [TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations](https://arxiv.org/abs/2512.05485) | **Large Language Model**&**Jailbreak**&**Safety Benchmark** |
+| 25.12 | Vidyasirimedhi Institute of Science and Technology | arxiv | [SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures](https://arxiv.org/abs/2512.05501) | **AI Safety Benchmark**&**Southeast Asian Languages**&**Cultural Safety** |
+| 25.12 | Nanyang Technological University | arxiv | [OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack–Defense Evaluation](https://arxiv.org/abs/2512.06589) | **Multimodal LLM Safety**&**Jailbreak Benchmark**&**Attack–Defense Evaluation** |
 
 
 

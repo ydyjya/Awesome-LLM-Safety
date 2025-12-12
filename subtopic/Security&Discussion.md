@@ -349,6 +349,11 @@
 | 25.12 | University of Maryland, Oracle Labs, Oracle Health AI | ML4H 2025 | [Balancing Safety and Helpfulness in Healthcare AI Assistants through Iterative Preference Alignment](https://arxiv.org/abs/2512.04210) | **Healthcare AI Assistants**&**Iterative Alignment**&**Safety vs Helpfulness** |
 | 25.12 | Old Dominion University | arxiv | [ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications](/mnt/data/2512.04785v1.pdf) | **Threat Modeling**&**Agentic AI**&**Vision-Language Models** |
 | 25.12 | Singapore Management University | arxiv | [SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security](https://arxiv.org/abs/2512.04841) | **Causality Analysis**&**LLM Security**&**Jailbreak Detection** |
+| 25.12 | FAIR at Meta | arxiv | [Self-Improving AI & Human Co-Improvement for Safer Co-Superintelligence](https://arxiv.org/abs/2512.05356) | **Self-Improving AI**&**Human-AI Collaboration**&**Co-Superintelligence** |
+| 25.12 | University of North Carolina Wilmington | arxiv | [From Description to Score: Can LLMs Quantify Vulnerabilities?](https://arxiv.org/abs/2512.06781) | **Vulnerability Scoring**&**CVSS**&**Large Language Models** |
+| 25.12 | Beihang University | arxiv | [SoK: Trust-Authorization Mismatch in LLM Agent Interactions](https://arxiv.org/abs/2512.06914) | **LLM Agents**&**Trust and Authorization**&**Agent Security** |
+| 25.12 | Tribhuvan University | arxiv | [Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2512.08290) | **Model Context Protocol**&**LLM Security**&**Agentic AI Safety** |
+| 25.12 | CISPA Helmholtz Center for Information Security | NDSS 2026 | [Chasing Shadows: Pitfalls in LLM Security Research](https://arxiv.org/abs/2512.09549) | **LLM Security Research**&**Reproducibility Pitfalls**&**Evaluation Methodology** |
 
 
 

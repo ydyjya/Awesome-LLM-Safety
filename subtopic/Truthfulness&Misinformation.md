@@ -686,6 +686,12 @@
 | 25.12 | The Chinese University of Hong Kong, Shenzhen | arxiv | [DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation](https://arxiv.org/abs/2512.03992) | **Vision-Language Models**&**Hallucination Persistence**&**Robustness Benchmarking** |
 | 25.12 | National Taiwan University | arxiv | [Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment](https://arxiv.org/abs/2512.04356) | **Multimodal LLMs**&**Hallucination Mitigation**&**Contrastive Alignment** |
 | 25.12 | National Taiwan University | arxiv | [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](https://arxiv.org/abs/2512.04643) | **VideoLLMs**&**Temporal Hallucination**&**Contrastive Decoding** |
+| 25.12 | Brunel University London | arxiv | [Faithfulness Metric Fusion: Improving the Evaluation of LLM Trustworthiness Across Domains](https://arxiv.org/abs/2512.05700) | **LLM Faithfulness**&**Evaluation Metrics**&**Metric Fusion** |
+| 25.12 | University of Technology Sydney | arxiv | [SPAD: Seven-Source Token Probability Attribution with Syntactic Aggregation for Detecting Hallucinations in RAG](https://arxiv.org/abs/2512.07515) | **Hallucination Detection**&**Retrieval-Augmented Generation**&**Mechanistic Interpretability** |
+| 25.12 | University of California Santa Barbara | arxiv | [VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection](https://arxiv.org/abs/2512.07533) | **Vulnerability Detection**&**Reasoning LLM**&**AI Agent** |
+| 25.12 | ESEO Engineering School, Le Mans Université | arxiv | [Toward More Reliable Artificial Intelligence: Reducing Hallucinations in Vision-Language Models](https://arxiv.org/abs/2512.07564) | **Vision-Language Models**&**Hallucination Mitigation**&**Uncertainty-Guided Self-Correction** |
+| 25.12 | Netaji Subhash Engineering College, Indian Statistical Institute | arxiv | [HALLUSHIFT++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs](https://arxiv.org/abs/2512.07687) | **Hallucination Detection**&**Multimodal Large Language Models**&**Internal Representation Analysis** |
+| 25.12 | University of Illinois Chicago | arxiv | [Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment](https://arxiv.org/abs/2512.09148) | **GraphRAG**&**Hallucination Detection**&**Mechanistic Interpretability** |
 
 
 
