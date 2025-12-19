@@ -361,6 +361,9 @@
 | 25.12 | Lahore University of Management Sciences | arxiv | [Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement](https://arxiv.org/abs/2512.09854) | **Social Bias Mitigation**&**Inference-Time Debiasing**&**Low-Resource Languages** |
 | 25.12 | Carnegie Mellon University | arxiv | [Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research](https://arxiv.org/abs/2512.10058) | **AI Safety**&**AI Ethics**&**Alignment Research** |
 | 25.12 | Saarland University | arxiv | [Challenges of Evaluating LLM Safety for User Welfare](https://arxiv.org/abs/2512.10687) | **User Welfare Safety**&**LLM Safety Evaluation**&**Context-Aware Assessment** |
+| 25.12 | Nanyang Technological University | arxiv | [A Systematic Analysis of Biases in Large Language Models](https://arxiv.org/abs/2512.15792) | **BiasAnalysis**&**Fairness**&**Evaluation** |
+| 25.12 | Georgia Institute of Technology | arxiv | [Cross-Language Bias Examination in Large Language Models](https://arxiv.org/abs/2512.16029) | **CrossLingualBias**&**ImplicitBias**&**Fairness** |
+| 25.12 | Universidad Politécnica de Madrid | ECAI 2025 | [Value Lens: Using Large Language Models to Understand Human Values](https://arxiv.org/abs/2512.15722) | **ValueDetection**&**ValueAlignment**&**LLMEvaluation** |
 
 
 

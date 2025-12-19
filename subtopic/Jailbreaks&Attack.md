@@ -841,6 +841,10 @@
 | 25.12 | BITS Pilani | arxiv | [When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449) | **LLM-as-a-Judge**&**Indirect Prompt Injection**&**Scientific Peer Review Security** |
 | 25.12 | Duke University | NDSS 2026 | [ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09549) | **Prompt Injection**&**LLM Agents**&**Multi-source Data Security** |
 | 25.12 | Shanghai Jiao Tong University | NDSS 2026 | [ThinkTrap: Denial-of-Service Attacks against Black-box LLM Services via Infinite Thinking](https://arxiv.org/abs/2512.07086) | **Denial-of-Service Attack**&**Black-box LLM Security**&**Infinite Generation** |
+| 25.12 | University of Science and Technology of China | arxiv | [IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol](https://arxiv.org/abs/2512.14166) | **IntentInversion**&**PrivacyLeakage**&**AgentSecurity** |
+| 25.12 | University of Chinese Academy of Sciences | arxiv | [Persistent Backdoor Attacks under Continual Fine-Tuning of LLMs](https://arxiv.org/abs/2512.14741) | **BackdoorAttacks**&**ContinualLearning**&**ModelSecurity** |
+| 25.12 | Institute of Science Tokyo | arxiv | [One Leak Away: How Pretrained Model Exposure Amplifies Jailbreak Risks in Finetuned LLMs](https://arxiv.org/abs/2512.14751) | **Jailbreak**&**Transferability**&**ModelSecurity** |
+| 25.12 | Center for Cybersecurity Systems & Networks, Amrita Vishwa Vidyapeetham | USENIX Security 2026 | [Love, Lies, and Language Models: Investigating AI’s Role in Romance-Baiting Scams](https://arxiv.org/abs/2512.16280) | **ScamAutomation**&**SocialEngineering**&**LLMSafety** |
 
 
 

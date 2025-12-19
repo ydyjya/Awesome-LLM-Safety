@@ -79,6 +79,7 @@
 | 25.11 | NewMind AI | arxiv | [PARROT: Persuasion and Agreement Robustness Rating of Output Truth — A Sycophancy Robustness Benchmark for LLMs](https://arxiv.org/abs/2511.17220) | **Sycophancy Robustness**&**LLM Evaluation**&**Social Manipulation** |
 | 25.12 | University of Illinois Urbana-Champaign, University of Michigan | arxiv | [Cross-Lingual Prompt Steerability: Towards Accurate and Robust LLM Behavior across Languages](https://arxiv.org/abs/2512.02841) | **Cross-Lingual Prompting**&**Prompt Optimization**&**Multilingual LLMs**&**Reasoning Consistency** |
 | 25.12 | Zhejiang University, Nanyang Technological University | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
+| 25.12 | Centre for Assuring Autonomy, University of York | arxiv | [Evaluating Metrics for Safety with LLM-as-Judges](https://arxiv.org/abs/2512.15617) | **LLMJudging**&**SafetyMetrics**&**Evaluation** |
 
 
 

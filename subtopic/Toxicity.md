@@ -119,6 +119,8 @@
 | 25.11 | Dublin City University, University of Isfahan | arxiv | [SynBullying: A Multi-LLM Synthetic Conversational Dataset for Cyberbullying Detection](https://arxiv.org/abs/2511.11599) | **Cyberbullying Detection**&**Synthetic Dataset**&**Large Language Models** |
 | 25.11 | Rochester Institute of Technology | arxiv | [ToxSearch: Evolving Prompts for Toxicity Search in Large Language Models](https://arxiv.org/abs/2511.12487) | **Toxicity Search**&**Evolutionary Prompt Optimization**&**Adversarial Prompt Attacks** |
 | 25.12 | Dalian University of Technology | arxiv | [Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563) | **Chinese Hate Speech Detection**&**Prompt Engineering**&**LLM Merging** |
+| 25.12 | Graduate School of Information Science and Technology, The University of Tokyo | arxiv | [SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification](https://arxiv.org/abs/2512.15052) | **MultimodalSafety**&**NeuronControl**&**Detoxification** |
+| 25.12 | Fudan University | arxiv | [Prefix Probing: Lightweight Harmful Content Detection for Large Language Models](https://arxiv.org/abs/2512.16650) | **ContentDetection**&**PrefixCaching**&**LLMSafety** |
 
 
 ## 💻Presentations & Talks

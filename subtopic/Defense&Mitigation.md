@@ -596,6 +596,12 @@
 | 25.12 | Shanghai Jiao Tong University | arxiv | [Patronus: Identifying and Mitigating Transferable Backdoors in Pre-trained Language Models](https://arxiv.org/abs/2512.06899) | **Transferable Backdoor**&**Pre-trained Language Models**&**Backdoor Defense** |
 | 25.12 | Amazon AGI Foundations | arxiv | [SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents](https://arxiv.org/abs/2512.07850) | **LLM Agents**&**Safety Safeguards**&**Tool-Using Reliability** |
 | 25.12 | Zhejiang University | NDSS 2026 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417) | **Indirect Prompt Injection**&**LLM Security**&**Attention-based Defense** |
+| 25.12 | Washington University in St. Louis | arxiv | [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069) | **JailbreakDetection**&**LVLMs**&**OODDetection** |
+| 25.12 | University of St. Thomas | arxiv | [Auto-Tuning Safety Guardrails for Black-Box Large Language Models](https://arxiv.org/abs/2512.15782) | **SafetyGuardrails**&**HyperparameterOptimization**&**BlackBoxLLMs** |
+| 25.12 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack](https://arxiv.org/abs/2512.16182) | **Watermarking**&**SpoofingDefense**&**ModelAttribution** |
+| 25.12 | The Chinese University of Hong Kong | arxiv | [QUADSENTINEL: Sequent Safety for Machine-Checkable Control in Multi-Agent Systems](https://arxiv.org/abs/2512.16279) | **MultiAgentSafety**&**FormalVerification**&**Guardrails** |
+| 25.12 | Rensselaer Polytechnic Institute | arxiv | [In-Context Probing for Membership Inference in Fine-Tuned Language Models](https://arxiv.org/abs/2512.16292) | **MembershipInference**&**PrivacyAuditing**&**InContextLearning** |
+| 25.12 | Multiverse Computing | arxiv | [Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602) | **RefusalControl**&**ActivationSteering**&**InferenceAlignment** |
 
 
 

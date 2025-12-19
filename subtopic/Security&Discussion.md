@@ -354,6 +354,8 @@
 | 25.12 | Beihang University | arxiv | [SoK: Trust-Authorization Mismatch in LLM Agent Interactions](https://arxiv.org/abs/2512.06914) | **LLM Agents**&**Trust and Authorization**&**Agent Security** |
 | 25.12 | Tribhuvan University | arxiv | [Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2512.08290) | **Model Context Protocol**&**LLM Security**&**Agentic AI Safety** |
 | 25.12 | CISPA Helmholtz Center for Information Security | NDSS 2026 | [Chasing Shadows: Pitfalls in LLM Security Research](https://arxiv.org/abs/2512.09549) | **LLM Security Research**&**Reproducibility Pitfalls**&**Evaluation Methodology** |
+| 25.12 | Cisco AI Threat and Security Research | arxiv | [Cisco Integrated AI Security and Safety Framework Report](https://arxiv.org/abs/2512.12921) | **AISecurity**&**ThreatTaxonomy**&**Governance** |
+| 25.12 | The Beacom College of Computer & Cyber Sciences, Dakota State University | arxiv | [Quantifying Return on Security Controls in LLM Systems](https://arxiv.org/abs/2512.15081) | **RiskModeling**&**SecurityControls**&**LLMSafety** |
 
 
 

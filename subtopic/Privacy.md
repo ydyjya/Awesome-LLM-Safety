@@ -400,6 +400,10 @@
 | 25.12 | King Abdullah University of Science and Technology | arxiv | [Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning](https://arxiv.org/abs/2512.10150) | **Safety Alignment**&**Continual Learning**&**Fine-tuning Security** |
 | 25.12 | City University of Hong Kong | arxiv | [PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device–Cloud Collaboration](https://arxiv.org/abs/2512.08809) | **Privacy-Preserving Fine-Tuning**&**Split Learning**&**Device–Cloud Collaboration** |
 | 25.12 | University of Virginia | NDSS 2026 | [PrivCode: When Code Generation Meets Differential Privacy](https://arxiv.org/abs/2512.05459) | **Differential Privacy**&**Code Generation**&**Privacy-Preserving LLMs** |
+| 25.12 | University of Zurich | arxiv | [Towards Privacy-Preserving Code Generation: Differentially Private Code Language Models](https://arxiv.org/abs/2512.11482) | **DifferentialPrivacy**&**CodeLLMs**&**Memorization** |
+| 25.12 | University of Southern California | arxiv | [ContextLeak: Auditing Leakage in Private In-Context Learning Methods](https://arxiv.org/abs/2512.16059) | **PrivacyAuditing**&**InContextLearning**&**DifferentialPrivacy** |
+| 25.12 | School of Computing, Macquarie University | ACSAC 2025 | [CTIGuardian: A Few-Shot Framework for Mitigating Privacy Leakage in Fine-Tuned LLMs](https://arxiv.org/abs/2512.12914) | **PrivacyLeakage**&**FewShotAlignment**&**LLMSafety** |
+| 25.12 | City University of Hong Kong | APSEC 2025 | [PerProb: Indirectly Evaluating Memorization in Large Language Models](https://arxiv.org/abs/2512.14600) | **MembershipInference**&**PrivacyEvaluation**&**LLMSafety** |
 
 
 

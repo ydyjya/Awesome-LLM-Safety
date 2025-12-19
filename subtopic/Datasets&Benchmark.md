@@ -307,6 +307,8 @@
 | 25.12 | Institute of Artificial Intelligence (TeleAI) of China Telecom | arxiv | [TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations](https://arxiv.org/abs/2512.05485) | **Large Language Model**&**Jailbreak**&**Safety Benchmark** |
 | 25.12 | Vidyasirimedhi Institute of Science and Technology | arxiv | [SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures](https://arxiv.org/abs/2512.05501) | **AI Safety Benchmark**&**Southeast Asian Languages**&**Cultural Safety** |
 | 25.12 | Nanyang Technological University | arxiv | [OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack–Defense Evaluation](https://arxiv.org/abs/2512.06589) | **Multimodal LLM Safety**&**Jailbreak Benchmark**&**Attack–Defense Evaluation** |
+| 25.12 | East China Normal University | arxiv | [MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers](https://arxiv.org/abs/2512.15163) | **MCPSecurity**&**SafetyBenchmark**&**LLMAgents** |
+| 25.12 | BRAC University, Bangladesh | arxiv | [Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks](https://arxiv.org/abs/2512.16307) | **PromptInjection**&**DefenseGeneration**&**LLMSecurity** |
 
 
 
