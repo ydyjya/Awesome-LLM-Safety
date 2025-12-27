@@ -602,6 +602,15 @@
 | 25.12 | The Chinese University of Hong Kong | arxiv | [QUADSENTINEL: Sequent Safety for Machine-Checkable Control in Multi-Agent Systems](https://arxiv.org/abs/2512.16279) | **MultiAgentSafety**&**FormalVerification**&**Guardrails** |
 | 25.12 | Rensselaer Polytechnic Institute | arxiv | [In-Context Probing for Membership Inference in Fine-Tuned Language Models](https://arxiv.org/abs/2512.16292) | **MembershipInference**&**PrivacyAuditing**&**InContextLearning** |
 | 25.12 | Multiverse Computing | arxiv | [Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602) | **RefusalControl**&**ActivationSteering**&**InferenceAlignment** |
+| 25.12 | Griffith University | arxiv | [Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection](https://arxiv.org/abs/2512.18733) | **Multi-Agent Safety**&**Graph Anomaly**&**Explainable Defense** |
+| 25.12 | Birla Institute of Technology and Science, Pilani | arxiv | [Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011) | **Jailbreak Mitigation**&**Prompt Injection**&**Semantic Defense** |
+| 25.12 | National University of Singapore | arxiv | [SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision–Language Models](https://arxiv.org/abs/2512.19317) | **Medical VQA**&**Adversarial Training**&**Robust Reasoning** |
+| 25.12 | ServiceNow | arxiv | [AprielGuard](https://arxiv.org/abs/2512.20293) | **LLM Safeguards**&**Content Moderation**&**Adversarial Defense** |
+| 25.12 | Meta | arxiv | [Safety Alignment of LMs via Non-cooperative Games](https://arxiv.org/abs/2512.20806) | **Safety Alignment**&**Adversarial Games**&**Preference Optimization** |
+| 25.12 | City University of Hong Kong | arxiv | [AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs](https://arxiv.org/abs/2512.20986) | **Prompt Injection**&**Autonomous Defense**&**LLM-HAR Security** |
+| 25.12 | Politehnica Bucharest | arxiv | [Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107) | **LLM Safety**&**Content Moderation**&**Semi-Supervised Learning** |
+| 25.12 | Beihang University | arxiv | [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220) | **Embodied Safety**&**Runtime Guardrails**&**Executable Logic** |
+| 25.12 | Beijing University of Posts and Telecommunications | arxiv | [CoTDeceptor: Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250) | **Code Obfuscation**&**Chain-of-Thought**&**LLM Security** |
 
 
 

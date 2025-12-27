@@ -404,6 +404,8 @@
 | 25.12 | University of Southern California | arxiv | [ContextLeak: Auditing Leakage in Private In-Context Learning Methods](https://arxiv.org/abs/2512.16059) | **PrivacyAuditing**&**InContextLearning**&**DifferentialPrivacy** |
 | 25.12 | School of Computing, Macquarie University | ACSAC 2025 | [CTIGuardian: A Few-Shot Framework for Mitigating Privacy Leakage in Fine-Tuned LLMs](https://arxiv.org/abs/2512.12914) | **PrivacyLeakage**&**FewShotAlignment**&**LLMSafety** |
 | 25.12 | City University of Hong Kong | APSEC 2025 | [PerProb: Indirectly Evaluating Memorization in Large Language Models](https://arxiv.org/abs/2512.14600) | **MembershipInference**&**PrivacyEvaluation**&**LLMSafety** |
+| 25.12 | Iowa State University | arxiv | [Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models](https://arxiv.org/abs/2512.18035) | **Machine Unlearning**&**Privacy Benchmark**&**Selective Forgetting** |
+| 25.12 | East China Normal University | arxiv | [Who Can See Through You? Adversarial Shielding Against VLM-Based Attribute Inference Attacks](https://arxiv.org/abs/2512.18264) | **VLM Privacy**&**Attribute Inference**&**Adversarial Shielding** |
 
 
 

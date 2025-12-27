@@ -309,6 +309,7 @@
 | 25.12 | Nanyang Technological University | arxiv | [OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack–Defense Evaluation](https://arxiv.org/abs/2512.06589) | **Multimodal LLM Safety**&**Jailbreak Benchmark**&**Attack–Defense Evaluation** |
 | 25.12 | East China Normal University | arxiv | [MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers](https://arxiv.org/abs/2512.15163) | **MCPSecurity**&**SafetyBenchmark**&**LLMAgents** |
 | 25.12 | BRAC University, Bangladesh | arxiv | [Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks](https://arxiv.org/abs/2512.16307) | **PromptInjection**&**DefenseGeneration**&**LLMSecurity** |
+| 25.12 | i.AI | arxiv | [A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care](https://arxiv.org/abs/2512.21127) | **Medical Safety**&**Real-World Evaluation**&**Failure Analysis** |
 
 
 

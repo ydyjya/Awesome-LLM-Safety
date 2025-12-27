@@ -701,6 +701,10 @@
 | 25.12 | Independent Researcher (Stanford AI Professional Program) | arxiv | [Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling](https://arxiv.org/abs/2512.14474) | **ExplicitModeling**&**Planning**&**Hallucination** |
 | 25.12 | RA Software | arxiv | [Incentives or Ontology? A Structural Rebuttal to OpenAI’s Hallucination Thesis](https://arxiv.org/abs/2512.14801) | **Hallucination**&**Ontology**&**AISafety** |
 | 25.12 | Applied Artificial Intelligence and Intelligent Systems (AAIINS) Laboratory, United International University | arxiv | [Mitigating Hallucinations in Healthcare LLMs with Granular Fact-Checking and Domain-Specific Adaptation](https://arxiv.org/abs/2512.16189) | **HallucinationMitigation**&**HealthcareAI**&**FactChecking** |
+| 25.12 | ByteDance Seed | arxiv | [Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning](https://arxiv.org/abs/2512.19920) | **Hallucination Mitigation**&**Behavioral Calibration**&**Reinforcement Learning** |
+| 25.12 | Tsinghua University | arxiv | [FaithLens: Detecting and Explaining Faithfulness Hallucination](https://arxiv.org/abs/2512.20182) | **Faithfulness Detection**&**Explainable Safety**&**Hallucination** |
+| 25.12 | Harbin Institute of Technology | arxiv | [Neural Probe–Based Hallucination Detection for Large Language Models](https://arxiv.org/abs/2512.20949) | **Hallucination Detection**&**Neural Probes**&**Token-Level Analysis** |
+| 25.12 | Sun Yat-sen University | AAAI 2026 | [LLM-CAS: Dynamic Neuron Perturbation for Real-Time Hallucination Correction](https://arxiv.org/abs/2512.18623) | **Hallucination Correction**&**Dynamic Intervention**&**Hierarchical RL** |
 
 
 
