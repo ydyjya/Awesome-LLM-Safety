@@ -852,6 +852,12 @@
 | 25.12 | Southeast University | NDSS 2026 | [Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/abs/2512.20168) | **Multimodal Jailbreak**&**Steganography**&**MLLM Security** |
 | 25.12 | ShanghaiTech University | NDSS 2026 | [Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models](https://arxiv.org/abs/2512.19297) | **LoRA Backdoors**&**Causal Analysis**&**Weight Poisoning** |
 | 25.12 | Technical University of Darmstadt | USENIX Security 2026 | [GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs](https://arxiv.org/abs/2512.21008) | **MoE Security**&**Alignment Attacks**&**Neuron Pruning** |
+| 25.12 | International School of Athens | arxiv | [Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing](https://arxiv.org/abs/2512.23684) | **Prompt Injection**&**Peer Review**&**Multilingual Robustness** |
+| 25.12 | Ben-Gurion University of the Negev | arxiv | [Breaking Audio Large Language Models by Attacking Only the Encoder: A Universal Targeted Latent-Space Audio Attack](https://arxiv.org/abs/2512.23881) | **Audio Attacks**&**Encoder Security**&**Universal Perturbations** |
+| 25.12 | Hong Kong University of Science and Technology | arxiv | [RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress](https://arxiv.org/abs/2512.23995) | **Mixture-of-Experts**&**Denial-of-Service**&**System Attacks** |
+| 25.12 | CISPA Helmholtz Center for Information Security | arxiv | [Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044) | **Jailbreak Attacks**&**Safety Filters**&**System Evaluation** |
+| 25.12 | African Institute for Mathematical Science | arxiv | [Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs](https://arxiv.org/abs/2512.24556) | **Multilingual Safety**&**Temporal Vulnerability**&**LLM Alignment** |
+| 25.12 | Zhejiang Sci-Tech University | AAAI 2026 | [EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion](https://arxiv.org/abs/2512.23173) | **Jailbreak Attacks**&**Multi-Strategy**&**LLM Safety** |
 
 
 

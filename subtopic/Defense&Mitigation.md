@@ -611,6 +611,9 @@
 | 25.12 | Politehnica Bucharest | arxiv | [Semi-Supervised Learning for Large Language Models Safety and Content Moderation](https://arxiv.org/abs/2512.21107) | **LLM Safety**&**Content Moderation**&**Semi-Supervised Learning** |
 | 25.12 | Beihang University | arxiv | [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220) | **Embodied Safety**&**Runtime Guardrails**&**Executable Logic** |
 | 25.12 | Beijing University of Posts and Telecommunications | arxiv | [CoTDeceptor: Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250) | **Code Obfuscation**&**Chain-of-Thought**&**LLM Security** |
+| 25.12 | Peking University | AAAI 2026 | [Reflection-Driven Control for Trustworthy Code Agents](https://arxiv.org/abs/2512.21354) | **Reflection**&**Secure Coding**&**Code Agents** |
+| 25.12 | Beijing University of Posts and Telecommunications | arxiv | [Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation](https://arxiv.org/abs/2512.23260) | **Interpretable Alignment**&**Safety Tuning**&**Sparse Autoencoders** |
+| 25.12 | Islamic University of Madinah | arxiv | [Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks](https://arxiv.org/abs/2512.23557) | **Prompt Injection**&**Agentic Security**&**Multimodal Defense** |
 
 
 

@@ -705,6 +705,11 @@
 | 25.12 | Tsinghua University | arxiv | [FaithLens: Detecting and Explaining Faithfulness Hallucination](https://arxiv.org/abs/2512.20182) | **Faithfulness Detection**&**Explainable Safety**&**Hallucination** |
 | 25.12 | Harbin Institute of Technology | arxiv | [Neural Probe–Based Hallucination Detection for Large Language Models](https://arxiv.org/abs/2512.20949) | **Hallucination Detection**&**Neural Probes**&**Token-Level Analysis** |
 | 25.12 | Sun Yat-sen University | AAAI 2026 | [LLM-CAS: Dynamic Neuron Perturbation for Real-Time Hallucination Correction](https://arxiv.org/abs/2512.18623) | **Hallucination Correction**&**Dynamic Intervention**&**Hierarchical RL** |
+| 25.12 | Carnegie Mellon University | arxiv | [A Unified Definition of Hallucination, Or: It’s the World Model, Stupid](https://arxiv.org/abs/2512.21577) | **Hallucination**&**World Models**&**Benchmarking** |
+| 25.12 | University of California, Los Angeles | arxiv | [Hallucination Detection and Evaluation of Large Language Model](https://arxiv.org/abs/2512.22416) | **Hallucination Detection**&**Factual Evaluation**&**LLM Reliability** |
+| 25.12 | Chinese Academy of Sciences | arxiv | [HaluNet: Multi-Granular Uncertainty Modeling for Efficient Hallucination Detection in LLM Question Answering](https://arxiv.org/abs/2512.24562) | **Hallucination Detection**&**Uncertainty Modeling**&**Question Answering** |
+| 25.12 | Virginia Tech | AAAI 2026 | [Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models](https://arxiv.org/abs/2512.24058) | **LLM Reliability**&**Calibration**&**Uncertainty** |
+| 25.12 | Wuhan University of Technology | KDD 2026 | [Heaven-Sent or Hell-Bent? Benchmarking the Intelligence and Defectiveness of LLM Hallucinations](https://arxiv.org/abs/2512.21635) | **Hallucination Benchmark**&**LLM Creativity**&**Scientific Innovation** |
 
 
 

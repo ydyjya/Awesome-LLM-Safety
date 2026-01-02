@@ -367,6 +367,7 @@
 | 25.12 | Featurespace Innovation Lab, Visa Inc. Cambridge, UK | arxiv | [Emergent Bias and Fairness in Multi-Agent Decision Systems](https://arxiv.org/abs/2512.16433) | **Emergent Bias**&**Multi-Agent**&**Fairness Metrics** |
 | 25.12 | University of Leeds | arxiv | [Fair Voting Methods as a Catalyst for Democratic Resilience: A Trilogy on Legitimacy, Impact and AI Safeguarding](https://arxiv.org/abs/2512.17461) | **Fair Voting**&**Democratic Resilience**&**AI Governance** |
 | 25.12 | University of Washington | arxiv | [Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation](https://arxiv.org/abs/2512.19238) | **Social Bias**&**Stigmatized Groups**&**Guardrail Models** |
+| 25.12 | Sorbonne University | arxiv | [MORALITY IS CONTEXTUAL: LEARNING INTERPRETABLE MORAL CONTEXTS FROM HUMAN DATA WITH PROBABILISTIC CLUSTERING AND LARGE LANGUAGE MODELS](https://arxiv.org/abs/2512.21439) | **Moral Contexts**&**Probabilistic Clustering**&**Interpretability** |
 
 
 

@@ -356,6 +356,8 @@
 | 25.12 | CISPA Helmholtz Center for Information Security | NDSS 2026 | [Chasing Shadows: Pitfalls in LLM Security Research](https://arxiv.org/abs/2512.09549) | **LLM Security Research**&**Reproducibility Pitfalls**&**Evaluation Methodology** |
 | 25.12 | Cisco AI Threat and Security Research | arxiv | [Cisco Integrated AI Security and Safety Framework Report](https://arxiv.org/abs/2512.12921) | **AISecurity**&**ThreatTaxonomy**&**Governance** |
 | 25.12 | The Beacom College of Computer & Cyber Sciences, Dakota State University | arxiv | [Quantifying Return on Security Controls in LLM Systems](https://arxiv.org/abs/2512.15081) | **RiskModeling**&**SecurityControls**&**LLMSafety** |
+| 25.12 | National University of Defense Technology | arxiv | [Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2512.21681) | **Retriever Backdoors**&**RAG Security**&**Code Generation** |
+| 25.12 | BITS Pilani | arxiv | [Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection](https://arxiv.org/abs/2512.22306) | **Multi-Vulnerability**&**LLM Benchmarking**&**Code Security** |
 
 
 
