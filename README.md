@@ -244,6 +244,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+- Red Teaming & Evaluation - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM red teaming and evaluation framework. Adaptive multi-turn attacks (PAIR, tree-of-attacks, crescendo), jailbreak detection, and CI/CD integration.
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
