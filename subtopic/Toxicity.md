@@ -121,6 +121,8 @@
 | 25.12 | Dalian University of Technology | arxiv | [Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563) | **Chinese Hate Speech Detection**&**Prompt Engineering**&**LLM Merging** |
 | 25.12 | Graduate School of Information Science and Technology, The University of Tokyo | arxiv | [SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification](https://arxiv.org/abs/2512.15052) | **MultimodalSafety**&**NeuronControl**&**Detoxification** |
 | 25.12 | Fudan University | arxiv | [Prefix Probing: Lightweight Harmful Content Detection for Large Language Models](https://arxiv.org/abs/2512.16650) | **ContentDetection**&**PrefixCaching**&**LLMSafety** |
+| 26.01 | University of South Carolina | arxiv | [Boosting Accuracy and Interpretability in Multilingual Hate Speech Detection Through Layer Freezing and Explainable AI](https://arxiv.org/abs/2601.02697) | **Hate Speech Detection**&**Explainable AI**&**Multilingual NLP** |
+| 26.01 | Freie Universität Berlin | arxiv | [ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation](https://arxiv.org/abs/2601.03121) | **Toxicity Augmentation**&**Adversarial Generation**&**LLM Guidance** |
 
 
 ## 💻Presentations & Talks

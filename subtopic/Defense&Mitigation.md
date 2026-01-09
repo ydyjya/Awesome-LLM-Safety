@@ -614,6 +614,19 @@
 | 25.12 | Peking University | AAAI 2026 | [Reflection-Driven Control for Trustworthy Code Agents](https://arxiv.org/abs/2512.21354) | **Reflection**&**Secure Coding**&**Code Agents** |
 | 25.12 | Beijing University of Posts and Telecommunications | arxiv | [Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation](https://arxiv.org/abs/2512.23260) | **Interpretable Alignment**&**Safety Tuning**&**Sparse Autoencoders** |
 | 25.12 | Islamic University of Madinah | arxiv | [Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks](https://arxiv.org/abs/2512.23557) | **Prompt Injection**&**Agentic Security**&**Multimodal Defense** |
+| 26.01 | University of Glasgow | arxiv | [MCP-SandboxScan: WASM-based Secure Execution and Runtime Analysis for MCP Tools](https://arxiv.org/abs/2601.01241) | **MCP Security**&**WASM Sandboxing**&**Dynamic Analysis** |
+| 26.01 | Zhejiang University | arxiv | [Safety at One Shot: Patching Fine-Tuned LLMs with a Single Instance](https://arxiv.org/abs/2601.01887) | **One-Shot Alignment**&**Fine-Tuning Defense**&**Safety Recovery** |
+| 26.01 | Harbin Institute of Technology | arxiv | [STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules](https://arxiv.org/abs/2601.03537) | **Safety Alignment**&**Self-Taught Reasoning**&**Jailbreak Defense** |
+| 26.01 | University of Illinois Urbana-Champaign | arxiv | [ALERT: Zero-shot LLM Jailbreak Detection via Internal Discrepancy Amplification](https://arxiv.org/abs/2601.03600) | **Zero-Shot Detection**&**Jailbreak Defense**&**Internal Signals** |
+| 26.01 | Yonsei University | arxiv | [How Does the Thinking Step Influence Model Safety? An Entropy-based Safety Reminder for LRMs](https://arxiv.org/abs/2601.03662) | **Reasoning Safety**&**Entropy-Based Defense**&**LRMs** |
+| 26.01 | Huawei Technologies Co., Ltd. | arxiv | [What Matters For Safety Alignment?](https://arxiv.org/abs/2601.03868) | **Safety Alignment**&**Empirical Study**&**Reasoning Models** |
+| 26.01 | Shanghai Jiao Tong University | arxiv | [HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense](https://arxiv.org/abs/2601.04034) | **Jailbreak Defense**&**Multi-Agent**&**Deceptive Safety** |
+| 26.01 | Indian Statistical Institute Kolkata | arxiv | [ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models](https://arxiv.org/abs/2601.04394) | **Safety Alignment**&**Hallucination Mitigation**&**Representation Control** |
+| 26.01 | Stanford University | arxiv | [Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs](https://arxiv.org/abs/2601.04435) | **Epistemic Vigilance**&**Pragmatics**&**LLM Safety** |
+| 26.01 | Anthropic | arxiv | [Constitutional Classifiers++: Efficient Production-Grade Defenses Against Universal Jailbreaks](https://arxiv.org/abs/2601.04603) | **Jailbreak Defense**&**Constitutional Classifiers**&**Production Safety** |
+| 26.01 | State Key Laboratory of Complex System Modeling and Simulation Technology, Beijing | arxiv | [Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning](https://arxiv.org/abs/2601.04666) | **Prompt Injection**&**Chain-of-Thought**&**Safety Alignment** |
+| 26.01 | Hong Kong University of Science and Technology | arxiv | [AM3Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs](https://arxiv.org/abs/2601.04736) | **Multimodal Safety**&**Dialogue Alignment**&**Data Efficiency** |
+| 26.01 | Harbin Institute of Technology | arxiv | [Defense Against Indirect Prompt Injection via Tool Result Parsing](https://arxiv.org/abs/2601.04795) | **Indirect Prompt Injection**&**LLM Agents**&**Tool Parsing** |
 
 
 

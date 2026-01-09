@@ -406,6 +406,17 @@
 | 25.12 | City University of Hong Kong | APSEC 2025 | [PerProb: Indirectly Evaluating Memorization in Large Language Models](https://arxiv.org/abs/2512.14600) | **MembershipInference**&**PrivacyEvaluation**&**LLMSafety** |
 | 25.12 | Iowa State University | arxiv | [Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models](https://arxiv.org/abs/2512.18035) | **Machine Unlearning**&**Privacy Benchmark**&**Selective Forgetting** |
 | 25.12 | East China Normal University | arxiv | [Who Can See Through You? Adversarial Shielding Against VLM-Based Attribute Inference Attacks](https://arxiv.org/abs/2512.18264) | **VLM Privacy**&**Attribute Inference**&**Adversarial Shielding** |
+| 26.01 | East China University of Science and Technology | arxiv | [MindChat: A Privacy-preserving Large Language Model for Mental Health Support](https://arxiv.org/abs/2601.01993) | **Mental Health LLM**&**Privacy Preservation**&**Federated Learning** |
+| 26.01 | Purdue University | arxiv | [Window-based Membership Inference Attacks Against Fine-tuned Large Language Models](https://arxiv.org/abs/2601.02751) | **Membership Inference**&**Fine-Tuning Privacy**&**Window-Based Attack** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [AgentMark: Utility-Preserving Behavioral Watermarking for Agents](https://arxiv.org/abs/2601.03294) | **Agent Watermarking**&**Provenance**&**Behavioral Security** |
+| 26.01 | Singapore Management University | arxiv | [Rendering Data Unlearnable by Exploiting LLM Alignment Mechanisms](https://arxiv.org/abs/2601.03401) | **Unlearnable Data**&**Alignment Mechanisms**&**Data Protection** |
+| 26.01 | Arizona State University | arxiv | [Value–Action Alignment in Large Language Models under Privacy–Prosocial Conflict](https://arxiv.org/abs/2601.03546) | **Value–Action Alignment**&**Privacy Conflict**&**Behavioral Evaluation** |
+| 26.01 | Xidian University | arxiv | [HearSay Benchmark: Do Audio LLMs Leak What They Hear?](https://arxiv.org/abs/2601.03783) | **Audio Privacy**&**Voiceprint Leakage**&**Safety Benchmark** |
+| 26.01 | Aalborg University | arxiv | [Do LLMs Really Memorize Personally Identifiable Information? Revisiting PII Leakage with a Cue-Controlled Memorization Framework](https://arxiv.org/abs/2601.03791) | **PII Memorization**&**Privacy Evaluation**&**Cue Control** |
+| 26.01 | Technical University of Munich | arxiv | [SoK: Privacy Risks and Mitigations in Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2601.03979) | **RAG Privacy**&**Systematization**&**Risk Mitigation** |
+| 26.01 | China Agricultural University | arxiv | [Inhibitory Attacks on Backdoor-based Fingerprinting for Large Language Models](https://arxiv.org/abs/2601.04261) | **LLM Fingerprinting**&**Model Ensemble**&**IP Protection** |
+| 26.01 | TCS Research, Hyderabad | arxiv | [Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs](https://arxiv.org/abs/2601.04275) | **Machine Unlearning**&**Privacy Preservation**&**Activation-Space Methods** |
+| 26.01 | The Hong Kong Polytechnic University | arxiv | [From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning](https://arxiv.org/abs/2601.04278) | **LLM Unlearning**&**Synthetic Data**&**Benchmarking** |
 
 
 

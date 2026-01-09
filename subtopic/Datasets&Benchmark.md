@@ -312,6 +312,18 @@
 | 25.12 | i.AI | arxiv | [A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care](https://arxiv.org/abs/2512.21127) | **Medical Safety**&**Real-World Evaluation**&**Failure Analysis** |
 | 25.12 | Western Sydney University | arxiv | [Prompt-Induced Over-Generation as Denial-of-Service: A Black-Box Attack-Side Benchmark](https://arxiv.org/abs/2512.23779) | **Over-Generation**&**Denial-of-Service**&**Prompt Attacks** |
 | 25.12 | International Institute of Information Technology Hyderabad | arxiv | [PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI](https://arxiv.org/abs/2512.24848) | **Privacy Benchmark**&**Personalized AI**&**RAG Systems** |
+| 26.01 | Xidian University | arxiv | [Overlooked Safety Vulnerability in LLMs: Malicious Intelligent Optimization Algorithm Request and its Jailbreak](https://arxiv.org/abs/2601.00213) | **Algorithm Design**&**Jailbreak**&**Optimization Safety** |
+| 26.01 | Nanyang Technological University | arxiv | [CSSBench: Evaluating the Safety of Lightweight LLMs against Chinese-Specific Adversarial Patterns](https://arxiv.org/abs/2601.00588) | **Chinese Safety**&**Adversarial Evaluation**&**Over-Refusal** |
+| 26.01 | Kyoto University | arxiv | [JMedEthicBench: A Multi-Turn Conversational Benchmark for Evaluating Medical Safety in Japanese Large Language Models](https://arxiv.org/abs/2601.01627) | **Medical Safety**&**Multi-Turn Evaluation**&**Japanese Benchmark** |
+| 26.01 | Indian Institute of Technology Indore | AAAI 2026 | [X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework](https://arxiv.org/abs/2601.03194) | **Explainable AI**&**Hate Speech Detection**&**Multilingual NLP** |
+| 26.01 | Fordham University | arxiv | [GuardEval: A Multi-Perspective Benchmark for Evaluating Safety, Fairness, and Robustness in LLM Moderators](https://arxiv.org/abs/2601.03273) | **LLM Moderation**&**Safety Benchmark**&**Fairness Robustness** |
+| 26.01 | United Arab Emirates University | arxiv | [α³-Bench: A Unified Benchmark of Safety, Robustness, and Efficiency for LLM-Based UAV Agents over 6G Networks](https://arxiv.org/abs/2601.03281) | **UAV Agents**&**6G Networks**&**Safety Benchmark** |
+| 26.01 | Monash University | arxiv | [PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics](https://arxiv.org/abs/2601.03578) | **Mental Health Ethics**&**Ethical Benchmark**&**Jurisdiction Awareness** |
+| 26.01 | VNU University of Science | arxiv | [RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models](https://arxiv.org/abs/2601.03699) | **Red Teaming**&**Safety Benchmark**&**Risk Taxonomy** |
+| 26.01 | Xidian University | arxiv | [HearSay Benchmark: Do Audio LLMs Leak What They Hear?](https://arxiv.org/abs/2601.03783) | **Audio Privacy**&**Voiceprint Leakage**&**Safety Benchmark** |
+| 26.01 | Beijing Jiaotong University | arxiv | [When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life](https://arxiv.org/abs/2601.04043) | **Multimodal Safety**&**Daily Life Risks**&**Safety Benchmark** |
+| 26.01 | National University of Defense Technology | arxiv | [The Forgotten Shield: Safety Grafting in Parameter-Space for Medical MLLMs](https://arxiv.org/abs/2601.04199) | **Medical Safety**&**Parameter Alignment**&**Safety Grafting** |
+| 26.01 | Federal University of Goiás | arxiv | [MiJaBench: Revealing Minority Biases in Large Language Models via Hate Speech Jailbreaking](https://arxiv.org/abs/2601.04389) | **Demographic Bias**&**Hate Speech Safety**&**Jailbreak Benchmark** |
 
 
 

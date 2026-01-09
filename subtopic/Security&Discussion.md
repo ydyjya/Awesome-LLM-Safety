@@ -358,6 +358,7 @@
 | 25.12 | The Beacom College of Computer & Cyber Sciences, Dakota State University | arxiv | [Quantifying Return on Security Controls in LLM Systems](https://arxiv.org/abs/2512.15081) | **RiskModeling**&**SecurityControls**&**LLMSafety** |
 | 25.12 | National University of Defense Technology | arxiv | [Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2512.21681) | **Retriever Backdoors**&**RAG Security**&**Code Generation** |
 | 25.12 | BITS Pilani | arxiv | [Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection](https://arxiv.org/abs/2512.22306) | **Multi-Vulnerability**&**LLM Benchmarking**&**Code Security** |
+| 26.01 | Zhejiang University | arxiv | [RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation](https://arxiv.org/abs/2601.04740) | **Domain-Specific Safety**&**Harmful Prompt Synthesis**&**Knowledge Graph** |
 
 
 

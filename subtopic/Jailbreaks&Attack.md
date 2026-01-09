@@ -858,6 +858,23 @@
 | 25.12 | CISPA Helmholtz Center for Information Security | arxiv | [Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044) | **Jailbreak Attacks**&**Safety Filters**&**System Evaluation** |
 | 25.12 | African Institute for Mathematical Science | arxiv | [Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs](https://arxiv.org/abs/2512.24556) | **Multilingual Safety**&**Temporal Vulnerability**&**LLM Alignment** |
 | 25.12 | Zhejiang Sci-Tech University | AAAI 2026 | [EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion](https://arxiv.org/abs/2512.23173) | **Jailbreak Attacks**&**Multi-Strategy**&**LLM Safety** |
+| 26.01 | Purdue University | arxiv | [The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition](https://arxiv.org/abs/2601.00065) | **Tokenizer Transplant**&**Supply Chain**&**Breaker Token** |
+| 26.01 | Shandong University | arxiv | [Low Rank Comes with Low Security: Gradient Assembly Poisoning Attacks against Distributed LoRA-based LLM Systems](https://arxiv.org/abs/2601.00566) | **LoRA Security**&**Federated Learning**&**Model Poisoning** |
+| 26.01 | SAP | arxiv | [Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models](https://arxiv.org/abs/2601.00848) | **Agentic Security**&**Temporal Detection**&**Trace Analysis** |
+| 26.01 | CPF3.org | arxiv | [The Silicon Psyche: Anthropomorphic Vulnerabilities in Large Language Models](https://arxiv.org/abs/2601.00867) | **Psychological Attacks**&**Agentic Security**&**Anthropomorphic Risk** |
+| 26.01 | Vishnu Institute of Technology | arxiv | [Emoji-Based Jailbreaking of Large Language Models](https://arxiv.org/abs/2601.00936) | **Emoji Jailbreak**&**Adversarial Prompting**&**LLM Safety** |
+| 26.01 | University of Pennsylvania | arxiv | [Aggressive Compression Enables LLM Weight Theft](https://arxiv.org/abs/2601.01296) | **Model Exfiltration**&**Weight Security**&**Compression Risk** |
+| 26.01 | Shanghai Artificial Intelligence Laboratory | arxiv | [OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs](https://arxiv.org/abs/2601.01592) | **Red Teaming**&**Multimodal Safety**&**Jailbreak Evaluation** |
+| 26.01 | Jönköping University | arxiv | [From Chat Control to Robot Control: The Backdoors Left Open for the Sake of Safety](https://arxiv.org/abs/2601.02205) | **Chat Control**&**HRI Security**&**Surveillance Backdoors** |
+| 26.01 | Amazon | arxiv | [Multi-Turn Jailbreaking of Aligned LLMs via Lexical Anchor Tree Search](https://arxiv.org/abs/2601.02670) | **Multi-Turn Jailbreak**&**Lexical Anchors**&**Query Efficiency** |
+| 26.01 | Tsinghua University | arxiv | [Adversarial Contrastive Learning for LLM Quantization Attacks](https://arxiv.org/abs/2601.02680) | **Quantization Attack**&**Contrastive Learning**&**Model Backdoor** |
+| 26.01 | National University of Defense Technology | arxiv | [JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification](https://arxiv.org/abs/2601.03005) | **Jailbreak Defense**&**Machine Unlearning**&**Path Rectification** |
+| 26.01 | Meta Superintelligence Labs | arxiv | [Jailbreak-Zero: A Path to Pareto Optimal Red Teaming for Large Language Models](https://arxiv.org/abs/2601.03265) | **Red Teaming**&**Jailbreak Attacks**&**Pareto Optimization** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [How Real is Your Jailbreak? Fine-grained Jailbreak Evaluation with Anchored Reference](https://arxiv.org/abs/2601.03288) | **Jailbreak Evaluation**&**Anchored Reference**&**Fine-Grained Analysis** |
+| 26.01 | University of Bonn | arxiv | [Jailbreaking LLMs Without Gradients or Priors: Effective and Transferable Attacks](https://arxiv.org/abs/2601.03420) | **Gradient-Free Attacks**&**Transferability**&**Red Teaming** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defenses](https://arxiv.org/abs/2601.03594) | **Jailbreak Survey**&**Multimodal Safety**&**Unified Defenses** |
+| 26.01 | University of Electronic Science and Technology of China | arxiv | [State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space](https://arxiv.org/abs/2601.04266) | **VLA Security**&**Backdoor Attacks**&**Embodied AI** |
+| 26.01 | Fudan University | arxiv | [BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents](https://arxiv.org/abs/2601.04566) | **LLM Agents**&**Backdoor Attacks**&**Security Benchmark** |
 
 
 
