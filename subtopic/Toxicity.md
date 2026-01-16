@@ -123,6 +123,9 @@
 | 25.12 | Fudan University | arxiv | [Prefix Probing: Lightweight Harmful Content Detection for Large Language Models](https://arxiv.org/abs/2512.16650) | **ContentDetection**&**PrefixCaching**&**LLMSafety** |
 | 26.01 | University of South Carolina | arxiv | [Boosting Accuracy and Interpretability in Multilingual Hate Speech Detection Through Layer Freezing and Explainable AI](https://arxiv.org/abs/2601.02697) | **Hate Speech Detection**&**Explainable AI**&**Multilingual NLP** |
 | 26.01 | Freie Universität Berlin | arxiv | [ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation](https://arxiv.org/abs/2601.03121) | **Toxicity Augmentation**&**Adversarial Generation**&**LLM Guidance** |
+| 26.01 | Delft University of Technology | arxiv | [Characterising Toxicity in Generative Large Language Models](https://arxiv.org/abs/2601.06700) | **Toxicity**&**LinguisticTriggers**&**Evaluation** |
+| 26.01 | Warsaw University of Technology | arxiv | [Improving Implicit Hate Speech Detection via a Community-Driven Multi-Agent Framework](https://arxiv.org/abs/2601.09342) | **HateSpeech**&**MultiAgent**&**Fairness** |
+| 26.01 | RMIT University | WWW 2026 | [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250) | **Fairness**&**Toxicity**&**InferenceTime** |
 
 
 ## 💻Presentations & Talks

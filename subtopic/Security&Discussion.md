@@ -359,6 +359,16 @@
 | 25.12 | National University of Defense Technology | arxiv | [Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2512.21681) | **Retriever Backdoors**&**RAG Security**&**Code Generation** |
 | 25.12 | BITS Pilani | arxiv | [Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection](https://arxiv.org/abs/2512.22306) | **Multi-Vulnerability**&**LLM Benchmarking**&**Code Security** |
 | 26.01 | Zhejiang University | arxiv | [RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation](https://arxiv.org/abs/2601.04740) | **Domain-Specific Safety**&**Harmful Prompt Synthesis**&**Knowledge Graph** |
+| 26.01 | Stanford University | arxiv | [Toward Safe and Responsible AI Agents: A Three-Pillar Model for Transparency, Accountability, and Trustworthiness](https://arxiv.org/abs/2601.06223) | **ResponsibleAI**&**AgentGovernance**&**Transparency** |
+| 26.01 | Chinese Academy of Sciences | arxiv | [Lightweight Yet Secure: Secure Scripting Language Generation via Lightweight LLMs](https://arxiv.org/abs/2601.06419) | **SecureScripting**&**PowerShell**&**LightweightModels** |
+| 26.01 | Unknown | arxiv | [SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations](https://arxiv.org/abs/2601.07835) | **PromptInjection**&**ConstitutionalAI**&**Cybersecurity** |
+| 26.01 | Xi’an Jiaotong University | arxiv | [Small Symbols, Big Risks: Exploring Emoticon Semantic Confusion in Large Language Models](https://arxiv.org/abs/2601.07885) | **EmoticonConfusion**&**LLMSafety**&**Robustness** |
+| 26.01 | Zhejiang University | arxiv | [ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning in Language Models](https://arxiv.org/abs/2601.08189) | **ModelFingerprinting**&**Unlearning**&**Copyright** |
+| 26.01 | Zhejiang University | arxiv | [DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection](https://arxiv.org/abs/2601.08223) | **ModelFingerprinting**&**IPProtection**&**Backdoor** |
+| 26.01 | Peking University | arxiv | [ToolSafe: Enhancing Tool Invocation Safety of LLM-based Agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156) | **ToolSafety**&**AgentGuardrails**&**PromptInjection** |
+| 26.01 | Nanyang Technological University | arxiv | [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/abs/2601.10338) | **AgentSecurity**&**SupplyChainRisk**&**VulnerabilityAnalysis** |
+| 26.01 | Ben-Gurion University of the Negev | arxiv | [AgentGuardian: Learning Access Control Policies to Govern AI Agent Behavior](https://arxiv.org/abs/2601.10440) | **AgentGovernance**&**AccessControl**&**ExecutionFlow** |
+| 26.01 | Fudan University | arxiv | [A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5](https://arxiv.org/abs/2601.10527) | **SafetyEvaluation**&**MultimodalLLM**&**AdversarialTesting** |
 
 
 

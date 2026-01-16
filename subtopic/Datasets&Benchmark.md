@@ -324,6 +324,12 @@
 | 26.01 | Beijing Jiaotong University | arxiv | [When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life](https://arxiv.org/abs/2601.04043) | **Multimodal Safety**&**Daily Life Risks**&**Safety Benchmark** |
 | 26.01 | National University of Defense Technology | arxiv | [The Forgotten Shield: Safety Grafting in Parameter-Space for Medical MLLMs](https://arxiv.org/abs/2601.04199) | **Medical Safety**&**Parameter Alignment**&**Safety Grafting** |
 | 26.01 | Federal University of Goiás | arxiv | [MiJaBench: Revealing Minority Biases in Large Language Models via Hate Speech Jailbreaking](https://arxiv.org/abs/2601.04389) | **Demographic Bias**&**Hate Speech Safety**&**Jailbreak Benchmark** |
+| 26.01 | Dongguk University | arxiv | [Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529) | **RoboticsSafety**&**SpatialReasoning**&**LLMReliability** |
+| 26.01 | University of California, Riverside | arxiv | [PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739) | **PIISafety**&**VLMPrivacy**&**Benchmark** |
+| 26.01 | University of California, Santa Cruz | arxiv | [SafePro: Evaluating the Safety of Professional-Level AI Agents](https://arxiv.org/abs/2601.06663) | **AgentSafety**&**ProfessionalTasks**&**Benchmark** |
+| 26.01 | University of Notre Dame | arxiv | [MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757) | **MultimodalSafety**&**MultiTurn**&**Benchmark** |
+| 26.01 | Shanghai University of Finance and Economics | arxiv | [FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments](https://arxiv.org/abs/2601.07853) | **FinancialAgents**&**SecurityBenchmark**&**AgentSafety** |
+| 26.01 | Fudan University | arxiv | [WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents](https://arxiv.org/abs/2601.08406) | **WebAgents**&**SecurityEvaluation**&**Benchmark** |
 
 
 

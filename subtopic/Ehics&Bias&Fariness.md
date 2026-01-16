@@ -368,6 +368,19 @@
 | 25.12 | University of Leeds | arxiv | [Fair Voting Methods as a Catalyst for Democratic Resilience: A Trilogy on Legitimacy, Impact and AI Safeguarding](https://arxiv.org/abs/2512.17461) | **Fair Voting**&**Democratic Resilience**&**AI Governance** |
 | 25.12 | University of Washington | arxiv | [Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation](https://arxiv.org/abs/2512.19238) | **Social Bias**&**Stigmatized Groups**&**Guardrail Models** |
 | 25.12 | Sorbonne University | arxiv | [MORALITY IS CONTEXTUAL: LEARNING INTERPRETABLE MORAL CONTEXTS FROM HUMAN DATA WITH PROBABILISTIC CLUSTERING AND LARGE LANGUAGE MODELS](https://arxiv.org/abs/2512.21439) | **Moral Contexts**&**Probabilistic Clustering**&**Interpretability** |
+| 26.01 | The University of Manchester | arxiv | [Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection](https://arxiv.org/abs/2601.05403) | **FinancialBias**&**Misinformation**&**Multilingual** |
+| 26.01 | Masaryk University | arxiv | [Gender Bias in LLMs: Preliminary Evidence from Shared Parenting Scenario in Czech Family Law](https://arxiv.org/abs/2601.05879) | **GenderBias**&**LegalAI**&**Fairness** |
+| 26.01 | Islamic University of Technology | arxiv | [Political Alignment in Large Language Models: A Multidimensional Audit of Psychometric Identity and Behavioral Bias](https://arxiv.org/abs/2601.06194) | **PoliticalBias**&**AlignmentAudit**&**Evaluation** |
+| 26.01 | University of Maryland | arxiv | [Manifold-based Sampling for In-Context Hallucination Detection in Large Language Models](https://arxiv.org/abs/2601.06196) | **Hallucination**&**ICLSampling**&**Manifold** |
+| 26.01 | Johns Hopkins University | arxiv | [Probing Multimodal Large Language Models on Cognitive Biases in Chinese Short-Video Misinformation](https://arxiv.org/abs/2601.06600) | **MultimodalBias**&**Misinformation**&**CognitiveBias** |
+| 26.01 | Tsinghua University | arxiv | [BiasLab: A Multilingual, Dual-Framing Framework for Robust Measurement of Output-Level Bias in Large Language Models](https://arxiv.org/abs/2601.06861) | **BiasEvaluation**&**Multilingual**&**DualFraming** |
+| 26.01 | University of Tartu | arxiv | [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs](https://arxiv.org/abs/2601.07806) | **Calibration**&**GenderBias**&**Fairness** |
+| 26.01 | Technical University of Munich | arxiv | [Moral Lenses, Political Coordinates: Towards Ideological Positioning of Morally Conditioned LLMs](https://arxiv.org/abs/2601.08634) | **MoralConditioning**&**PoliticalBias**&**Alignment** |
+| 26.01 | TU Dresden | arxiv | [Analyzing Bias in False Refusal Behavior of Large Language Models for Hate Speech Detoxification](https://arxiv.org/abs/2601.08668) | **FalseRefusal**&**Detoxification**&**BiasAnalysis** |
+| 26.01 | Kenyon College | arxiv | [Syntactic Framing Fragility: An Audit of Robustness in LLM Ethical Decisions](https://arxiv.org/abs/2601.09724) | **EthicalRobustness**&**NegationSensitivity**&**Evaluation** |
+| 26.01 | Dalian University of Technology | arxiv | [The Straight and Narrow: Do LLMs Possess an Internal Moral Path?](https://arxiv.org/abs/2601.10307) | **MoralAlignment**&**ActivationSteering**&**Interpretability** |
+| 26.01 | German Research Center for Artificial Intelligence | arxiv | [Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment](https://arxiv.org/abs/2601.10520) | **NeuroSymbolic**&**EthicalAlignment**&**AgentArchitecture** |
+| 26.01 | Konkuk University | COLING 2025 | [Can Large Language Models Differentiate Harmful from Argumentative Essays? Steps Toward Ethical Essay Scoring](https://arxiv.org/abs/2601.05545) | **EthicalScoring**&**HarmfulContent**&**EssayEvaluation** |
 
 
 

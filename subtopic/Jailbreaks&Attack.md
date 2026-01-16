@@ -875,6 +875,16 @@
 | 26.01 | Beijing University of Posts and Telecommunications | arxiv | [Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defenses](https://arxiv.org/abs/2601.03594) | **Jailbreak Survey**&**Multimodal Safety**&**Unified Defenses** |
 | 26.01 | University of Electronic Science and Technology of China | arxiv | [State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space](https://arxiv.org/abs/2601.04266) | **VLA Security**&**Backdoor Attacks**&**Embodied AI** |
 | 26.01 | Fudan University | arxiv | [BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents](https://arxiv.org/abs/2601.04566) | **LLM Agents**&**Backdoor Attacks**&**Security Benchmark** |
+| 26.01 | Florida International University | arxiv | [Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models](https://arxiv.org/abs/2601.05339) | **Multi-Turn**&**Jailbreaking**&**Multimodal** |
+| 26.01 | Southeast University | arxiv | [Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models](https://arxiv.org/abs/2601.05445) | **Multi-Turn**&**Jailbreaking**&**Knowledge-Driven** |
+| 26.01 | Beijing Institute of Technology | arxiv | [Jailbreaking Large Language Models through Iterative Tool-Disguised Attacks via Reinforcement Learning](https://arxiv.org/abs/2601.05466) | **Tool-Disguised**&**ReinforcementLearning**&**Jailbreaking** |
+| 26.01 | University of Massachusetts Amherst | arxiv | [Memory Poisoning Attack and Defense on Memory Based LLM-Agents](https://arxiv.org/abs/2601.05504) | **MemoryPoisoning**&**LLMAgents**&**Defense** |
+| 26.01 | NeuralTrust | arxiv | [The Echo Chamber Multi-Turn LLM Jailbreak](https://arxiv.org/abs/2601.05742) | **MultiTurn**&**Jailbreaking**&**Security** |
+| 26.01 | Mohamed bin Zayed University of Artificial Intelligence | arxiv | [Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems](https://arxiv.org/abs/2601.07072) | **PromptInjection**&**RetrievalSecurity**&**RAG** |
+| 26.01 | Zhejiang University | arxiv | [SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails](https://arxiv.org/abs/2601.09321) | **JailbreakAttack**&**Guardrails**&**SpatialSemantics** |
+| 26.01 | Washington University in St. Louis | arxiv | [ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack](https://arxiv.org/abs/2601.10173) | **PromptInjection**&**ReasoningAlignment**&**AgentSecurity** |
+| 26.01 | National University of Singapore | arxiv | [Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294) | **ReasoningHijacking**&**PromptInjection**&**LLMSecurity** |
+| 26.01 | Beihang University | arxiv | [Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589) | **SelfPlay**&**JailbreakDefense**&**SafetyAlignment** |
 
 
 

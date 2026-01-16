@@ -732,6 +732,13 @@
 | 26.01 | The University of Texas at Austin | arxiv | [Mechanisms of Prompt-Induced Hallucination in Vision–Language Models](https://arxiv.org/abs/2601.05201) | **Prompt-Induced Hallucination**&**Vision-Language Models**&**Mechanistic Analysis** |
 | 26.01 | Amazon | arxiv | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](https://arxiv.org/abs/2601.05214) | **Tool-Calling Hallucination**&**Agent Reliability**&**Internal States** |
 | 25.12 | ShanghaiTech University | TMLR 2025 | [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations](https://arxiv.org/abs/2601.00623) | **Multimodal Hallucination**&**Preference Optimization**&**Difficulty-Aware Training** |
+| 26.01 | Zhejiang University | arxiv | [Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency](https://arxiv.org/abs/2601.05905) | **Truthfulness**&**BeliefRobustness**&**Evaluation** |
+| 26.01 | Kean University | arxiv | [Tone Matters: The Impact of Linguistic Tone on Hallucination in VLMs](https://arxiv.org/abs/2601.06460) | **VLMHallucination**&**PromptTone**&**SafetyEvaluation** |
+| 26.01 | Tsinghua University | arxiv | [InFi-Check: Interpretable and Fine-Grained Fact-Checking of LLMs](https://arxiv.org/abs/2601.06666) | **FactChecking**&**Hallucination**&**Interpretability** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [AgentHallu: Benchmarking Automated Hallucination Attribution of LLM-based Agents](https://arxiv.org/abs/2601.06818) | **AgentHallucination**&**Attribution**&**Benchmark** |
+| 26.01 | Independent Researcher | arxiv | [MemTrust: A Zero-Trust Architecture for Unified AI Memory System](https://arxiv.org/abs/2601.07004) | **AIMemory**&**ZeroTrust**&**ConfidentialComputing** |
+| 26.01 | Peking University | arxiv | [Two Pathways to Truthfulness: On the Intrinsic Encoding of LLM Hallucinations](https://arxiv.org/abs/2601.07422) | **Hallucination**&**Truthfulness**&**Interpretability** |
+| 26.01 | Northeastern University | arxiv | [From Detection to Diagnosis: Advancing Hallucination Analysis with Automated Data Synthesis](https://arxiv.org/abs/2601.09734) | **Hallucination**&**Diagnosis**&**DataSynthesis** |
 
 
 

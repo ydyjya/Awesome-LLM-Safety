@@ -80,6 +80,7 @@
 | 25.12 | University of Illinois Urbana-Champaign, University of Michigan | arxiv | [Cross-Lingual Prompt Steerability: Towards Accurate and Robust LLM Behavior across Languages](https://arxiv.org/abs/2512.02841) | **Cross-Lingual Prompting**&**Prompt Optimization**&**Multilingual LLMs**&**Reasoning Consistency** |
 | 25.12 | Zhejiang University, Nanyang Technological University | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
 | 25.12 | Centre for Assuring Autonomy, University of York | arxiv | [Evaluating Metrics for Safety with LLM-as-Judges](https://arxiv.org/abs/2512.15617) | **LLMJudging**&**SafetyMetrics**&**Evaluation** |
+| 26.01 | University of Luxembourg | arxiv | [How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test](https://arxiv.org/abs/2601.07084) | **SecureCode**&**AdversarialAudit**&**Robustness** |
 
 
 

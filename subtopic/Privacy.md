@@ -417,6 +417,18 @@
 | 26.01 | China Agricultural University | arxiv | [Inhibitory Attacks on Backdoor-based Fingerprinting for Large Language Models](https://arxiv.org/abs/2601.04261) | **LLM Fingerprinting**&**Model Ensemble**&**IP Protection** |
 | 26.01 | TCS Research, Hyderabad | arxiv | [Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs](https://arxiv.org/abs/2601.04275) | **Machine Unlearning**&**Privacy Preservation**&**Activation-Space Methods** |
 | 26.01 | The Hong Kong Polytechnic University | arxiv | [From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning](https://arxiv.org/abs/2601.04278) | **LLM Unlearning**&**Synthetic Data**&**Benchmarking** |
+| 26.01 | International Digital Economy Academy | arxiv | [Continual Pretraining on Encrypted Synthetic Data for Privacy-Preserving LLMs](https://arxiv.org/abs/2601.05635) | **PrivacyPreserving**&**EncryptedData**&**ContinualPretraining** |
+| 26.01 | Binghamton University | arxiv | [SafeGPT: Preventing Data Leakage and Unethical Outputs in Enterprise LLM Use](https://arxiv.org/abs/2601.06366) | **EnterpriseSafety**&**DataLeakage**&**Guardrails** |
+| 26.01 | Seoul National University | arxiv | [PRISP: Privacy-Safe Few-Shot Personalization via Lightweight Adaptation](https://arxiv.org/abs/2601.06471) | **Personalization**&**PrivacySafe**&**FewShot** |
+| 26.01 | New York University | arxiv | [Cross-Border Data Security and Privacy Risks in Large Language Models and IoT Systems](https://arxiv.org/abs/2601.06612) | **CrossBorderData**&**PrivacyByDesign**&**Compliance** |
+| 26.01 | University of Florida | arxiv | [Leveraging Soft Prompts for Privacy Attacks in Federated Prompt Tuning](https://arxiv.org/abs/2601.06641) | **FederatedLearning**&**MembershipInference**&**PromptTuning** |
+| 26.01 | Alibaba Group | arxiv | [PDR: A Plug-and-Play Positional Decay Framework for LLM Pre-training Data Detection](https://arxiv.org/abs/2601.06827) | **PretrainingData**&**MembershipInference**&**LikelihoodBased** |
+| 26.01 | Polytechnique Montréal | arxiv | [LLMs Can’t Play Hangman: On the Necessity of a Private Working Memory for Language Agents](https://arxiv.org/abs/2601.06973) | **PrivateMemory**&**LanguageAgents**&**Consistency** |
+| 26.01 | Hainan University | arxiv | [Safe-FedLLM: Delving into the Safety of Federated Large Language Models](https://arxiv.org/abs/2601.07177) | **FederatedLearning**&**LLMSafety**&**LoRA** |
+| 26.01 | Chinese Academy of Sciences | arxiv | [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209) | **KnowledgeInjection**&**RetrievalFree**&**ModularLLM** |
+| 26.01 | University of New South Wales | arxiv | [PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation](https://arxiv.org/abs/2601.08739) | **PrivacyRAG**&**KnowledgeGraphs**&**MemoryAugmentation** |
+| 26.01 | University of Louisiana at Lafayette | arxiv | [SoK: Privacy-aware LLM in Healthcare: Threat Model, Privacy Techniques, Challenges and Recommendations](https://arxiv.org/abs/2601.10004) | **HealthcarePrivacy**&**ThreatModel**&**LLMSecurity** |
+| 26.01 | Zhejiang University | arxiv | [Understanding and Preserving Safety in Fine-Tuned LLMs](https://arxiv.org/abs/2601.10141) | **FineTuning**&**SafetyAlignment**&**GradientProjection** |
 
 
 

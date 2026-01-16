@@ -627,6 +627,15 @@
 | 26.01 | State Key Laboratory of Complex System Modeling and Simulation Technology, Beijing | arxiv | [Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning](https://arxiv.org/abs/2601.04666) | **Prompt Injection**&**Chain-of-Thought**&**Safety Alignment** |
 | 26.01 | Hong Kong University of Science and Technology | arxiv | [AM3Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs](https://arxiv.org/abs/2601.04736) | **Multimodal Safety**&**Dialogue Alignment**&**Data Efficiency** |
 | 26.01 | Harbin Institute of Technology | arxiv | [Defense Against Indirect Prompt Injection via Tool Result Parsing](https://arxiv.org/abs/2601.04795) | **Indirect Prompt Injection**&**LLM Agents**&**Tool Parsing** |
+| 26.01 | University of Science and Technology of China | arxiv | [VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit](https://arxiv.org/abs/2601.05755) | **AgentSecurity**&**ToolInjection**&**Verification** |
+| 26.01 | University of Southern California | arxiv | [Defenses Against Prompt Attacks Learn Surface Heuristics](https://arxiv.org/abs/2601.07185) | **PromptDefense**&**OverRefusal**&**Evaluation** |
+| 26.01 | Jilin University | arxiv | [Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment](https://arxiv.org/abs/2601.07200) | **SafeFinetuning**&**OptimalTransport**&**DataSelection** |
+| 26.01 | Fudan University | arxiv | [When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent](https://arxiv.org/abs/2601.07263) | **WebAgents**&**SocialEngineering**&**RuntimeDefense** |
+| 26.01 | Rutgers University | arxiv | [Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety](https://arxiv.org/abs/2601.08000) | **DeliberativeAlignment**&**CaseBasedReasoning**&**LLMSafety** |
+| 26.01 | Soongsil University | arxiv | [STAR: Detecting Inference-time Backdoors in LLM Reasoning via State-Transition Amplification Ratio](https://arxiv.org/abs/2601.08511) | **InferenceBackdoors**&**ReasoningSecurity**&**AnomalyDetection** |
+| 26.01 | Ca’ Foscari University of Venice | arxiv | [Blue Teaming Function-Calling Agents](https://arxiv.org/abs/2601.09292) | **FunctionCalling**&**AgentSecurity**&**DefenseEvaluation** |
+| 26.01 | Suffolk University | arxiv | [Forgetting as a Feature: Cognitive Alignment of Large Language Models](https://arxiv.org/abs/2601.09726) | **CognitiveAlignment**&**Forgetting**&**InContextLearning** |
+| 26.01 | Northeastern University | arxiv | [Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing](https://arxiv.org/abs/2601.10543) | **JailbreakDefense**&**DecodingSafety**&**SafetyAwareness** |
 
 
 
