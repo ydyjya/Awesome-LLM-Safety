@@ -899,6 +899,13 @@
 | 26.01 | Canadian Institute for Cybersecurity | arxiv | [LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation](https://arxiv.org/abs/2601.14528) | **PromptObfuscation**&**LLMJailbreak**&**SecurityEvaluation** |
 | 26.01 | Beijing University of Posts and Telecommunications | arxiv | [Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs](https://arxiv.org/abs/2601.15698) | **MultimodalJailbreak**&**VisualSafety**&**HarmfulImageGeneration** |
 | 26.01 | Zhejiang University | ICASSP 2026 | [PINA: Prompt Injection Attack Against Navigation Agents](https://arxiv.org/abs/2601.13612) | **PromptInjection**&**NavigationAgents**&**EmbodiedLLMSecurity** |
+| 26.01 | Southeast University | arxiv | [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](https://arxiv.org/abs/2601.15801) | **LLM Safety**&**Safety Vectors**&**Jailbreak Attacks** |
+| 26.01 | University of Sheffield | arxiv | [LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems](https://arxiv.org/abs/2601.16890) | **Fact Checking**&**Adversarial Attacks**&**Persuasion** |
+| 26.01 | Harbin Institute of Technology | arxiv | [When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents](https://arxiv.org/abs/2601.17887) | **Personalized Agents**&**Intent Legitimation**&**LLM Safety** |
+| 26.01 | Zhejiang University | arxiv | [ICON: Intent-Context Coupling for Efficient Multi-Turn Jailbreak Attack](https://arxiv.org/abs/2601.20903) | **Multi-turn Jailbreak**&**Intent-Context Coupling**&**LLM Security** |
+| 26.01 | The Hong Kong Polytechnic University | arxiv | [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531) | **Adversarial Robustness**&**Vision Language Models**&**Token Compression** |
+| 26.01 | Kyoto University | EACL 2026 Findings | [Persona Jailbreaking in Large Language Models](https://arxiv.org/abs/2601.16466) | **Persona Jailbreaking**&**Adversarial History**&**LLM Safety** |
+| 26.01 | Purdue University | ICLR 2026 | [Membership Inference Attacks against Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2601.20125) | **Membership Inference**&**Diffusion Models**&**Privacy Leakage** |
 
 
 

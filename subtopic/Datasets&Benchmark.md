@@ -337,6 +337,13 @@
 | 26.01 | Shanghai Qi Zhi Institute | arxiv | [VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981) | **AgenticCrime**&**SandboxSimulation**&**LLMSafety** |
 | 26.01 | Tsinghua University | arxiv | [The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning](https://arxiv.org/abs/2601.14127) | **MultiImageReasoning**&**MLLMSafety**&**SafetyBenchmarks** |
 | 26.01 | Eindhoven University of Technology | arxiv | [AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511) | **AdversarialFactuality**&**HighRiskDomains**&**LLMBenchmark** |
+| 26.01 | Nanyang Technological University | CCS 2026 | [The Shadow Self: Intrinsic Value Misalignment in Large Language Model Agents](https://arxiv.org/abs/2601.17344) | **LLM Agents**&**Value Misalignment**&**Safety Benchmark** |
+| 26.01 | Beijing Normal University | arxiv | [GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents](https://arxiv.org/abs/2601.18842) | **GUI Agents**&**Privacy Preservation**&**Agent Safety** |
+| 26.01 | Shanghai AI Lab | arxiv | [Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs](https://arxiv.org/abs/2601.19507) | **LVLM Safety**&**Automated Benchmarking**&**Multi-agent Systems** |
+| 26.01 | The Chinese University of Hong Kong | arxiv | [VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956) | **Interactional Privacy**&**Speech LLMs**&**Safety Benchmark** |
+| 26.01 | Unknown | arxiv | [SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models](https://arxiv.org/abs/2601.21235) | **Social Harm**&**Tail Risk**&**Fairness Evaluation** |
+| 26.01 | Tehran Institute for Advanced Studies | arxiv | [FFE-HALLU: Hallucinations in Fixed Figurative Expressions: Benchmark of Idioms and Proverbs in the Persian Language](https://arxiv.org/abs/2601.20105) | **Figurative Hallucination**&**Idioms Benchmark**&**Cultural Grounding** |
+| 26.01 | University of Illinois | WWW 2026 | [Mind the Ambiguity: Aleatoric Uncertainty Quantification in LLMs for Safe Medical Question Answering](https://arxiv.org/abs/2601.17284) | **Aleatoric Uncertainty**&**Medical QA**&**Ambiguity Detection** |
 
 
 

@@ -435,6 +435,14 @@
 | 26.01 | The Chinese University of Hong Kong | arxiv | [Membership Inference on LLMs in the Wild](https://arxiv.org/abs/2601.11314) | **MembershipInference**&**BlackBoxLLMs**&**PrivacyAuditing** |
 | 26.01 | University of Virginia | arxiv | [NEUROFILTER: Privacy Guardrails for Conversational LLM Agents](https://arxiv.org/abs/2601.14660) | **ContextualPrivacy**&**ActivationProbing**&**AgenticLLMs** |
 | 26.01 | Parameter Lab | arxiv | [Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models](https://arxiv.org/abs/2601.15220) | **ContextualPrivacy**&**FineTuningRisk**&**SilentFailure** |
+| 26.01 | China Telecom | arxiv | [Single-Pixel Vision-Language Model for Intrinsic Privacy-Preserving Behavioral Intelligence](https://arxiv.org/abs/2601.17050) | **Privacy Preservation**&**Vision-Language**&**Behavioral Intelligence** |
+| 26.01 | University of Massachusetts Amherst | SIGIR 2026 | [Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations](https://arxiv.org/abs/2601.17569) | **Privacy Preservation**&**Personalized Generation**&**Retrieval Augmentation** |
+| 26.01 | The Pennsylvania State University | arxiv | [A Systemic Evaluation of Multimodal RAG Privacy](https://arxiv.org/abs/2601.17644) | **Multimodal RAG**&**Privacy Leakage**&**Membership Inference** |
+| 26.01 | University of Luxembourg | arxiv | [Towards Sensitivity-Aware Language Models](https://arxiv.org/abs/2601.20901) | **Sensitivity Awareness**&**Differential Privacy**&**Access Control** |
+| 26.01 | The Hong Kong Polytechnic University | arxiv | [FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning](https://arxiv.org/abs/2601.21682) | **Continual Unlearning**&**Catastrophic Forgetting**&**LLM Safety** |
+| 26.01 | Technical University of Munich | arxiv | [Unintended Memorization of Sensitive Information in Fine-Tuned Language Models](https://arxiv.org/abs/2601.17480) | **PII Memorization**&**Privacy Leakage**&**Model Fine-Tuning** |
+| 26.01 | New Jersey Institute of Technology | arxiv | [NOIR: Privacy-Preserving Generation of Code with Open-Source LLMs](https://arxiv.org/abs/2601.16354) | **Privacy Preserving**&**Code Generation**&**Open Source LLMs** |
+| 26.01 | National University of Defense Technology | WWW 2026 | [Reconstructing Training Data from Adapter-based Federated Large Language Models](https://arxiv.org/abs/2601.17533) | **Federated LLMs**&**Gradient Inversion**&**Privacy Leakage** |
 
 
 

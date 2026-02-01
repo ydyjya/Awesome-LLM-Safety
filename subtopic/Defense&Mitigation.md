@@ -643,6 +643,13 @@
 | 26.01 | Alibaba | arxiv | [YuFeng-XGuard: A Reasoning-Centric, Interpretable, and Flexible Guardrail Model for Large Language Models](https://arxiv.org/abs/2601.15588) | **GuardrailModels**&**InterpretableSafety**&**RiskPerception** |
 | 26.01 | Zhejiang University | arxiv | [Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning](https://arxiv.org/abs/2601.15595) | **DataFreeUnlearning**&**PrivacyPreservation**&**ModelInversion** |
 | 26.01 | Zhejiang University | ICASSP 2026 | [KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986) | **ModelFingerprinting**&**CopyrightProtection**&**LLMSecurity** |
+| 26.01 | Peking University | arxiv | [TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment](https://arxiv.org/abs/2601.18292) | **Safety Alignment**&**Reinforcement Learning**&**Red Teaming** |
+| 26.01 | Shanghai Artificial Intelligence Laboratory | arxiv | [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://arxiv.org/abs/2601.18491) | **Agent Safety**&**Guardrail Frameworks**&**Risk Diagnosis** |
+| 26.01 | The University of Sydney | arxiv | [SHIELD: An Auto-Healing Agentic Defense Framework for LLM Resource Exhaustion Attacks](https://arxiv.org/abs/2601.19174) | **Resource Exhaustion**&**Agentic Defense**&**LLM Security** |
+| 26.01 | ETH Zurich | ICLR 2026 | [Safe Exploration via Policy Priors](https://arxiv.org/abs/2601.19612) | **Safe Exploration**&**Reinforcement Learning**&**Policy Priors** |
+| 26.01 | University of Virginia | arxiv | [Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed](https://arxiv.org/abs/2601.21094) | **Safe RL**&**Distribution Shift**&**Runtime Shielding** |
+| 26.01 | Zhejiang University | arxiv | [RerouteGuard: Understanding and Mitigating Adversarial Risks for LLM Routing](https://arxiv.org/abs/2601.21380) | **LLM Routing**&**Adversarial Attacks**&**Security Guardrails** |
+| 26.01 | Ben-Gurion University of the Negev | ICLR 2026 | [GAVEL: Towards Rule-Based Safety through Activation Monitoring](https://arxiv.org/abs/2601.19768) | **Activation Safety**&**Rule-Based Governance**&**LLM Monitoring** |
 
 
 

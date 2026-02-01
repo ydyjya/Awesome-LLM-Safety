@@ -392,6 +392,10 @@
 | 26.01 | Bar-Ilan University | arxiv | [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) | **ProAIBias**&**DecisionSupport**&**LLMEvaluation** |
 | 26.01 | University of Alberta | arxiv | [Multi-Persona Thinking for Bias Mitigation in Large Language Models](https://arxiv.org/abs/2601.15488) | **BiasMitigation**&**MultiPersona**&**InferenceDebiasing** |
 | 26.01 | Emory University | arxiv | [Common to Whom? Regional Cultural Commonsense and LLM Bias in India](https://arxiv.org/abs/2601.15550) | **CulturalCommonsense**&**RegionalBias**&**LLMEvaluation** |
+| 26.01 | Vishnu Institute of Technology | arxiv | [REGIONAL BIAS IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2601.16349) | **Regional Bias**&**AI Fairness**&**Bias Evaluation** |
+| 26.01 | University of Illinois Urbana-Champaign | arxiv | [Do VLMs Have a Moral Backbone? A Study on the Fragile Morality of Vision-Language Models](https://arxiv.org/abs/2601.17082) | **Moral Robustness**&**Vision Language Models**&**Multimodal Safety** |
+| 26.01 | Amazon AI | arxiv | [PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation](https://arxiv.org/abs/2601.18777) | **LLM Evaluation**&**Bias Reduction**&**Ranking Estimation** |
+| 26.01 | Centrum Wiskunde & Informatica | arxiv | [QueerGen: How LLMs Reflect Societal Norms on Gender and Sexuality in Sentence Completion Tasks](https://arxiv.org/abs/2601.20731) | **Queer Bias**&**Gender Norms**&**LLM Fairness** |
 
 
 

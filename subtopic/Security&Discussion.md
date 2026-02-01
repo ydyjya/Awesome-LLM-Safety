@@ -370,6 +370,8 @@
 | 26.01 | Ben-Gurion University of the Negev | arxiv | [AgentGuardian: Learning Access Control Policies to Govern AI Agent Behavior](https://arxiv.org/abs/2601.10440) | **AgentGovernance**&**AccessControl**&**ExecutionFlow** |
 | 26.01 | Fudan University | arxiv | [A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5](https://arxiv.org/abs/2601.10527) | **SafetyEvaluation**&**MultimodalLLM**&**AdversarialTesting** |
 | 26.01 | Fujitsu Research of Europe | arxiv | [AgenTRIM: Tool Risk Mitigation for Agentic AI](https://arxiv.org/abs/2601.12449) | **AgenticAI**&**ToolSecurity**&**LeastPrivilege** |
+| 26.01 | Nanjing University of Aeronautics and Astronautics | arxiv | [SafeThinker: Reasoning about Risk to Deepen Safety Beyond Shallow Alignment](https://arxiv.org/abs/2601.16506) | **LLM Safety**&**Jailbreak Defense**&**Adaptive Alignment** |
+| 26.01 | Unknown | arxiv | [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](https://arxiv.org/abs/2601.17549) | **Model Context Protocol**&**Prompt Injection**&**Agent Security** |
 
 
 
