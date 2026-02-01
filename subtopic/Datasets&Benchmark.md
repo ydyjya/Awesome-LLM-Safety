@@ -330,6 +330,13 @@
 | 26.01 | University of Notre Dame | arxiv | [MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2601.06757) | **MultimodalSafety**&**MultiTurn**&**Benchmark** |
 | 26.01 | Shanghai University of Finance and Economics | arxiv | [FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments](https://arxiv.org/abs/2601.07853) | **FinancialAgents**&**SecurityBenchmark**&**AgentSafety** |
 | 26.01 | Fudan University | arxiv | [WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents](https://arxiv.org/abs/2601.08406) | **WebAgents**&**SecurityEvaluation**&**Benchmark** |
+| 26.01 | The University of Texas at Austin | arxiv | [Faithfulness vs. Safety: Evaluating LLM Behavior Under Counterfactual Medical Evidence](https://arxiv.org/abs/2601.11886) | **MedicalSafety**&**CounterfactualEvidence**&**LLMBehavior** |
+| 26.01 | The Alan Turing Institute | arxiv | [DriveSafe: A Hierarchical Risk Taxonomy for Safety-Critical LLM-Based Driving Assistants](https://arxiv.org/abs/2601.12138) | **DrivingSafety**&**RiskTaxonomy**&**LLMEvaluation** |
+| 26.01 | Brown University | arxiv | [UbuntuGuard: A Culturally-Grounded Policy Benchmark for Equitable AI Safety in African Languages](https://arxiv.org/abs/2601.12696) | **MultilingualSafety**&**CulturalGrounding**&**GuardianModels** |
+| 26.01 | INSAIT | arxiv | [ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983) | **ChartSecurity**&**MultimodalJailbreak**&**VisualizationAttacks** |
+| 26.01 | Shanghai Qi Zhi Institute | arxiv | [VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981) | **AgenticCrime**&**SandboxSimulation**&**LLMSafety** |
+| 26.01 | Tsinghua University | arxiv | [The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning](https://arxiv.org/abs/2601.14127) | **MultiImageReasoning**&**MLLMSafety**&**SafetyBenchmarks** |
+| 26.01 | Eindhoven University of Technology | arxiv | [AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains](https://arxiv.org/abs/2601.15511) | **AdversarialFactuality**&**HighRiskDomains**&**LLMBenchmark** |
 
 
 

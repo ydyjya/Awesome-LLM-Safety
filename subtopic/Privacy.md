@@ -429,6 +429,12 @@
 | 26.01 | University of New South Wales | arxiv | [PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation](https://arxiv.org/abs/2601.08739) | **PrivacyRAG**&**KnowledgeGraphs**&**MemoryAugmentation** |
 | 26.01 | University of Louisiana at Lafayette | arxiv | [SoK: Privacy-aware LLM in Healthcare: Threat Model, Privacy Techniques, Challenges and Recommendations](https://arxiv.org/abs/2601.10004) | **HealthcarePrivacy**&**ThreatModel**&**LLMSecurity** |
 | 26.01 | Zhejiang University | arxiv | [Understanding and Preserving Safety in Fine-Tuned LLMs](https://arxiv.org/abs/2601.10141) | **FineTuning**&**SafetyAlignment**&**GradientProjection** |
+| 26.01 | Institute of Cyber Security for Society (iCSS) & School of Computing, University of Kent | arxiv | [LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies](https://arxiv.org/abs/2601.10413) | **PrivacyPolicies**&**DataFlows**&**RAG** |
+| 26.01 | Purdue University | arxiv | [Chatting with Confidants or Corporations? Privacy Management with AI Companions](https://arxiv.org/abs/2601.10754) | **AICompanions**&**PrivacyManagement**&**HumanAI** |
+| 26.01 | Xidian University | arxiv | [Differentially Private Subspace Fine-Tuning for Large Language Models](https://arxiv.org/abs/2601.11113) | **DifferentialPrivacy**&**SubspaceLearning**&**LLMFineTuning** |
+| 26.01 | The Chinese University of Hong Kong | arxiv | [Membership Inference on LLMs in the Wild](https://arxiv.org/abs/2601.11314) | **MembershipInference**&**BlackBoxLLMs**&**PrivacyAuditing** |
+| 26.01 | University of Virginia | arxiv | [NEUROFILTER: Privacy Guardrails for Conversational LLM Agents](https://arxiv.org/abs/2601.14660) | **ContextualPrivacy**&**ActivationProbing**&**AgenticLLMs** |
+| 26.01 | Parameter Lab | arxiv | [Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models](https://arxiv.org/abs/2601.15220) | **ContextualPrivacy**&**FineTuningRisk**&**SilentFailure** |
 
 
 

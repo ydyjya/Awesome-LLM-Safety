@@ -739,6 +739,12 @@
 | 26.01 | Independent Researcher | arxiv | [MemTrust: A Zero-Trust Architecture for Unified AI Memory System](https://arxiv.org/abs/2601.07004) | **AIMemory**&**ZeroTrust**&**ConfidentialComputing** |
 | 26.01 | Peking University | arxiv | [Two Pathways to Truthfulness: On the Intrinsic Encoding of LLM Hallucinations](https://arxiv.org/abs/2601.07422) | **Hallucination**&**Truthfulness**&**Interpretability** |
 | 26.01 | Northeastern University | arxiv | [From Detection to Diagnosis: Advancing Hallucination Analysis with Automated Data Synthesis](https://arxiv.org/abs/2601.09734) | **Hallucination**&**Diagnosis**&**DataSynthesis** |
+| 26.01 | University of Santiago de Compostela | arxiv | [MultiCaption: Detecting Disinformation Using Multilingual Visual Claims](https://arxiv.org/abs/2601.11220) | **Multilingual**&**Misinformation**&**VisualClaims** |
+| 26.01 | Sun Yat-sen University | arxiv | [Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence](https://arxiv.org/abs/2601.11956) | **UncertaintyCalibration**&**KGRAG**&**TrustworthyLLMs** |
+| 26.01 | University of Maryland | arxiv | [HALT: Hallucination Assessment via Latent Testing](https://arxiv.org/abs/2601.14210) | **HallucinationDetection**&**LatentUncertainty**&**LLMReliability** |
+| 26.01 | Singapore Management University | arxiv | [CORVUS: Red-Teaming Hallucination Detectors via Internal Signal Camouflage in Large Language Models](https://arxiv.org/abs/2601.14310) | **HallucinationDetection**&**TelemetryEvasion**&**RedTeaming** |
+| 26.01 | TIB – Leibniz Information Centre for Science and Technology | arxiv | [Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277) | **FakeNewsDetection**&**SentimentAttacks**&**LLMRobustness** |
+| 26.01 | Nanjing University of Aeronautics and Astronautics | arxiv | [Hallucination Mitigating for Medical Report Generation](https://arxiv.org/abs/2601.15745) | **MedicalReportGeneration**&**HallucinationMitigation**&**VisionLanguageModels** |
 
 
 

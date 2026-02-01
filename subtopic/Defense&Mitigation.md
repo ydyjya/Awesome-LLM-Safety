@@ -636,6 +636,13 @@
 | 26.01 | Ca’ Foscari University of Venice | arxiv | [Blue Teaming Function-Calling Agents](https://arxiv.org/abs/2601.09292) | **FunctionCalling**&**AgentSecurity**&**DefenseEvaluation** |
 | 26.01 | Suffolk University | arxiv | [Forgetting as a Feature: Cognitive Alignment of Large Language Models](https://arxiv.org/abs/2601.09726) | **CognitiveAlignment**&**Forgetting**&**InContextLearning** |
 | 26.01 | Northeastern University | arxiv | [Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing](https://arxiv.org/abs/2601.10543) | **JailbreakDefense**&**DecodingSafety**&**SafetyAwareness** |
+| 26.01 | Monash University | arxiv | [Too Helpful to Be Safe: User-Mediated Attacks on Planning and Web-Use Agents](https://arxiv.org/abs/2601.10758) | **LLMAgents**&**AgentSecurity**&**UserMediatedAttacks** |
+| 26.01 | Algoverse AI Research | NeurIPS 2025 | [Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs](https://arxiv.org/abs/2601.12359) | **PromptInjection**&**EmbeddingDrift**&**LLMSecurity** |
+| 26.01 | AWS | Journal of Science & Technology 2023 | [Guardrails for trust, safety, and ethical development and deployment of Large Language Models (LLM)](https://arxiv.org/abs/2601.14298) | **Guardrails**&**PrivacySafety**&**PromptDefense** |
+| 26.01 | Shanghai Jiao Tong University | arxiv | [INFA-GUARD: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2601.14667) | **MultiAgentSecurity**&**MaliciousPropagation**&**InfectionAwareDefense** |
+| 26.01 | Alibaba | arxiv | [YuFeng-XGuard: A Reasoning-Centric, Interpretable, and Flexible Guardrail Model for Large Language Models](https://arxiv.org/abs/2601.15588) | **GuardrailModels**&**InterpretableSafety**&**RiskPerception** |
+| 26.01 | Zhejiang University | arxiv | [Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning](https://arxiv.org/abs/2601.15595) | **DataFreeUnlearning**&**PrivacyPreservation**&**ModelInversion** |
+| 26.01 | Zhejiang University | ICASSP 2026 | [KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986) | **ModelFingerprinting**&**CopyrightProtection**&**LLMSecurity** |
 
 
 

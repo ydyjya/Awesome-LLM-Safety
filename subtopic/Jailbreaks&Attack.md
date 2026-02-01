@@ -885,6 +885,20 @@
 | 26.01 | Washington University in St. Louis | arxiv | [ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack](https://arxiv.org/abs/2601.10173) | **PromptInjection**&**ReasoningAlignment**&**AgentSecurity** |
 | 26.01 | National University of Singapore | arxiv | [Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294) | **ReasoningHijacking**&**PromptInjection**&**LLMSecurity** |
 | 26.01 | Beihang University | arxiv | [Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589) | **SelfPlay**&**JailbreakDefense**&**SafetyAlignment** |
+| 26.01 | Nanyang Technological University | arxiv | [Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents](https://arxiv.org/abs/2601.10955) | **LLMAgents**&**ToolCalling**&**EconomicDoS** |
+| 26.01 | Southeast University | arxiv | [AJAR: Adaptive Jailbreak Architecture for Red-Teaming](https://arxiv.org/abs/2601.10971) | **Jailbreak**&**RedTeaming**&**AgentSecurity** |
+| 26.01 | JetBrains Research | arxiv | [Powerful Training-Free Membership Inference Against Autoregressive Language Models](https://arxiv.org/abs/2601.12104) | **MembershipInference**&**PrivacyAuditing**&**FineTuning** |
+| 26.01 | Nanjing University | arxiv | [Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349) | **GUIAgents**&**ActionRebinding**&**TOCTOU** |
+| 26.01 | Nanyang Technological University | arxiv | [TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning](https://arxiv.org/abs/2601.12460) | **FinetuningJailbreak**&**BenignData**&**LLMSafety** |
+| 26.01 | University of Amsterdam | arxiv | [Sockpuppetting: Jailbreaking LLMs Without Optimization Through Output Prefix Injection](https://arxiv.org/abs/2601.13359) | **JailbreakAttacks**&**OutputPrefixInjection**&**OpenWeightLLMs** |
+| 26.01 | MATS | arxiv | [Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded Outputs](https://arxiv.org/abs/2601.13528) | **ElicitationAttacks**&**EcosystemRisk**&**FineTuningSafety** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models](https://arxiv.org/abs/2601.13607) | **MembershipInference**&**ReasoningTraces**&**PrivacyLeakage** |
+| 26.01 | University of Illinois at Urbana-Champaign | arxiv | [GCG Attack on a Diffusion LLM](https://arxiv.org/abs/2601.14266) | **DiffusionLLMs**&**GCGAttack**&**ModelRobustness** |
+| 26.01 | University of Southern California | arxiv | [SILENTDRIFT: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2601.14323) | **VLABackdoor**&**ActionChunking**&**StealthyAttacks** |
+| 26.01 | Chinese Academy of Sciences | arxiv | [Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340) | **StructuralBackdoors**&**MultiTurnLLMs**&**SupplyChainRisk** |
+| 26.01 | Canadian Institute for Cybersecurity | arxiv | [LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation](https://arxiv.org/abs/2601.14528) | **PromptObfuscation**&**LLMJailbreak**&**SecurityEvaluation** |
+| 26.01 | Beijing University of Posts and Telecommunications | arxiv | [Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs](https://arxiv.org/abs/2601.15698) | **MultimodalJailbreak**&**VisualSafety**&**HarmfulImageGeneration** |
+| 26.01 | Zhejiang University | ICASSP 2026 | [PINA: Prompt Injection Attack Against Navigation Agents](https://arxiv.org/abs/2601.13612) | **PromptInjection**&**NavigationAgents**&**EmbodiedLLMSecurity** |
 
 
 

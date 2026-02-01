@@ -81,6 +81,8 @@
 | 25.12 | Zhejiang University, Nanyang Technological University | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
 | 25.12 | Centre for Assuring Autonomy, University of York | arxiv | [Evaluating Metrics for Safety with LLM-as-Judges](https://arxiv.org/abs/2512.15617) | **LLMJudging**&**SafetyMetrics**&**Evaluation** |
 | 26.01 | University of Luxembourg | arxiv | [How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test](https://arxiv.org/abs/2601.07084) | **SecureCode**&**AdversarialAudit**&**Robustness** |
+| 26.01 | Griffith University | arxiv | [Less Is More — Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models](https://arxiv.org/abs/2601.12042) | **VisionSecurity**&**TokenCompression**&**LVLMs** |
+| 26.01 | University of Cincinnati | arxiv | [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/abs/2601.12639) | **FineTuningObjectives**&**AdversarialRobustness**&**PersonaDrift** |
 
 
 

@@ -369,6 +369,7 @@
 | 26.01 | Nanyang Technological University | arxiv | [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/abs/2601.10338) | **AgentSecurity**&**SupplyChainRisk**&**VulnerabilityAnalysis** |
 | 26.01 | Ben-Gurion University of the Negev | arxiv | [AgentGuardian: Learning Access Control Policies to Govern AI Agent Behavior](https://arxiv.org/abs/2601.10440) | **AgentGovernance**&**AccessControl**&**ExecutionFlow** |
 | 26.01 | Fudan University | arxiv | [A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5](https://arxiv.org/abs/2601.10527) | **SafetyEvaluation**&**MultimodalLLM**&**AdversarialTesting** |
+| 26.01 | Fujitsu Research of Europe | arxiv | [AgenTRIM: Tool Risk Mitigation for Agentic AI](https://arxiv.org/abs/2601.12449) | **AgenticAI**&**ToolSecurity**&**LeastPrivilege** |
 
 
 

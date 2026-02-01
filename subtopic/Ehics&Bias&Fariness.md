@@ -381,6 +381,17 @@
 | 26.01 | Dalian University of Technology | arxiv | [The Straight and Narrow: Do LLMs Possess an Internal Moral Path?](https://arxiv.org/abs/2601.10307) | **MoralAlignment**&**ActivationSteering**&**Interpretability** |
 | 26.01 | German Research Center for Artificial Intelligence | arxiv | [Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment](https://arxiv.org/abs/2601.10520) | **NeuroSymbolic**&**EthicalAlignment**&**AgentArchitecture** |
 | 26.01 | Konkuk University | COLING 2025 | [Can Large Language Models Differentiate Harmful from Argumentative Essays? Steps Toward Ethical Essay Scoring](https://arxiv.org/abs/2601.05545) | **EthicalScoring**&**HarmfulContent**&**EssayEvaluation** |
+| 26.01 | Universitas Indonesia | arxiv | [Preserving Fairness and Safety in Quantized LLMs Through Critical Weight Protection](https://arxiv.org/abs/2601.12033) | **Quantization**&**FairnessSafety**&**ModelCompression** |
+| 26.01 | Université Paris-Saclay | arxiv | [A Scalable Entity-Based Framework for Auditing Bias in LLMs](https://arxiv.org/abs/2601.12374) | **BiasAuditing**&**EntityBasedEvaluation**&**LLMFairness** |
+| 26.01 | East China University of Science and Technology | arxiv | [PsycheChat: An Empathic Framework Focused on Emotion Shift Tracking and Safety Risk Analysis in Psychological Counseling](https://arxiv.org/abs/2601.12392) | **PsychologicalCounseling**&**EmotionShift**&**SafetyAnalysis** |
+| 26.01 | Yale University | arxiv | [BioPulse-QA: A Dynamic Biomedical Question-Answering Benchmark for Evaluating Factuality, Robustness, and Bias in Large Language Models](https://arxiv.org/abs/2601.12632) | **BiomedicalQA**&**DynamicBenchmark**&**LLMEvaluation** |
+| 26.01 | University of Colorado Anschutz | arxiv | [Race, Ethnicity and Their Implication on Bias in Large Language Models](https://arxiv.org/abs/2601.12868) | **DemographicBias**&**MechanisticInterpretability**&**LLMFairness** |
+| 26.01 | UMass Amherst | arxiv | [Trust Me, I’m an Expert: Decoding and Steering Authority Bias in Large Language Models](https://arxiv.org/abs/2601.13433) | **AuthorityBias**&**ExpertEndorsement**&**LLMReasoning** |
+| 26.01 | Seoul National University | arxiv | [When Wording Steers the Evaluation: Framing Bias in LLM Judges](https://arxiv.org/abs/2601.13537) | **FramingBias**&**LLMJudges**&**EvaluationRobustness** |
+| 26.01 | University of Southern California | arxiv | [Fairness or Fluency? An Investigation into Language Bias of Pairwise LLM-as-a-Judge](https://arxiv.org/abs/2601.13649) | **LanguageBias**&**LLMJudge**&**MultilingualEvaluation** |
+| 26.01 | Bar-Ilan University | arxiv | [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) | **ProAIBias**&**DecisionSupport**&**LLMEvaluation** |
+| 26.01 | University of Alberta | arxiv | [Multi-Persona Thinking for Bias Mitigation in Large Language Models](https://arxiv.org/abs/2601.15488) | **BiasMitigation**&**MultiPersona**&**InferenceDebiasing** |
+| 26.01 | Emory University | arxiv | [Common to Whom? Regional Cultural Commonsense and LLM Bias in India](https://arxiv.org/abs/2601.15550) | **CulturalCommonsense**&**RegionalBias**&**LLMEvaluation** |
 
 
 
