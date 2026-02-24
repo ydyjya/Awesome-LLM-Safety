@@ -217,6 +217,7 @@ I can offer you a promotional spot here for up to one month.
 
 | Date  |    Type    |         Title         |                              URL                              |
 |:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
+| 24.01 | Repository | BodAIGuard | [link](https://github.com/AxonLabsDev/BodAIGuard) |
 | 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
 
 ### Other
