@@ -344,6 +344,11 @@
 | 26.01 | Unknown | arxiv | [SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models](https://arxiv.org/abs/2601.21235) | **Social Harm**&**Tail Risk**&**Fairness Evaluation** |
 | 26.01 | Tehran Institute for Advanced Studies | arxiv | [FFE-HALLU: Hallucinations in Fixed Figurative Expressions: Benchmark of Idioms and Proverbs in the Persian Language](https://arxiv.org/abs/2601.20105) | **Figurative Hallucination**&**Idioms Benchmark**&**Cultural Grounding** |
 | 26.01 | University of Illinois | WWW 2026 | [Mind the Ambiguity: Aleatoric Uncertainty Quantification in LLMs for Safe Medical Question Answering](https://arxiv.org/abs/2601.17284) | **Aleatoric Uncertainty**&**Medical QA**&**Ambiguity Detection** |
+| 26.02 | National University of Singapore | arxiv | [Risky-Bench: Probing Agentic Safety Risks under Real-World Deployment](https://arxiv.org/abs/2602.03100) | **Agent Safety**&**Deployment**&**Benchmark** |
+| 26.02 | ShanghaiTech University, Shanghai, China | arxiv | [LPS-BENCH: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios](https://arxiv.org/abs/2602.03255) | **Computer-Use Agents**&**Planning Safety**&**Benchmark** |
+| 26.02 | Zhejiang University | arxiv | [CSR-Bench: A Benchmark for Evaluating the Cross-modal Safety and Reliability of MLLMs](https://arxiv.org/abs/2602.03263) | **Cross-modal Safety**&**MLLM Reliability**&**Benchmark** |
+| 26.02 | Qatar Computing Research Institute, HBKU, Doha, Qatar | arxiv | [Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models](https://arxiv.org/abs/2602.05437) | **Counterfactual Hallucination**&**Multilingual VLMs**&**Benchmark** |
+| 26.02 | Zhejiang University | ICLR 2026 | [WHEN AGENTS “MISREMEMBER” COLLECTIVELY: EXPLORING THE MANDELA EFFECT IN LLM-BASED MULTI-AGENT SYSTEMS](https://arxiv.org/abs/2602.00428) | **Mandela Effect**&**Multi-Agent Systems**&**False Memory** |
 
 
 

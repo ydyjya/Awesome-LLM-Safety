@@ -396,6 +396,12 @@
 | 26.01 | University of Illinois Urbana-Champaign | arxiv | [Do VLMs Have a Moral Backbone? A Study on the Fragile Morality of Vision-Language Models](https://arxiv.org/abs/2601.17082) | **Moral Robustness**&**Vision Language Models**&**Multimodal Safety** |
 | 26.01 | Amazon AI | arxiv | [PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation](https://arxiv.org/abs/2601.18777) | **LLM Evaluation**&**Bias Reduction**&**Ranking Estimation** |
 | 26.01 | Centrum Wiskunde & Informatica | arxiv | [QueerGen: How LLMs Reflect Societal Norms on Gender and Sexuality in Sentence Completion Tasks](https://arxiv.org/abs/2601.20731) | **Queer Bias**&**Gender Norms**&**LLM Fairness** |
+| 26.02 | Computational Modeling and Simulation, University of Pittsburgh | arxiv | [Equal Access, Unequal Interaction: A Counterfactual Audit of LLM Fairness](https://arxiv.org/abs/2602.02932) | **LLM Fairness**&**Counterfactual**&**Interaction Quality** |
+| 26.02 | KAIST | arxiv | [DEFRAME: DEBIASING LARGE LANGUAGE MODELS AGAINST FRAMING EFFECTS](https://arxiv.org/abs/2602.04306) | **Framing Effects**&**Fairness**&**Debiasing** |
+| 26.02 | Oxford Digital Health Labs, Nuffield Department of Women’s and Reproductive Health, University of Oxford, Oxford, UK | arxiv | [Evaluating the Presence of Sex Bias in Clinical Reasoning by Large Language Models](https://arxiv.org/abs/2602.04392) | **Clinical Reasoning**&**Sex Bias**&**Healthcare** |
+| 26.02 | School of Informatics, Xiamen University, China | arxiv | [BI-DIRECTIONAL BIAS ATTRIBUTION: DEBIASING LARGE LANGUAGE MODELS WITHOUT MODIFYING PROMPTS](https://arxiv.org/abs/2602.04398) | **Bias Attribution**&**Neuron Intervention**&**Debiasing** |
+| 26.02 | Annenberg School for Communication and Journalism, University of Southern California, Los Angeles, CA, USA | arxiv | [Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility](https://arxiv.org/abs/2602.04674) | **Misinformation**&**Simulation**&**Biases** |
+| 26.02 | Cognitive Science Program, Department of Psychological & Brain Sciences, Indiana University | arxiv | [Inference-Time Reasoning Selectively Reduces Implicit Social Bias in Large Language Models](https://arxiv.org/abs/2602.04742) | **Implicit Bias**&**Reasoning**&**Fairness** |
 
 
 

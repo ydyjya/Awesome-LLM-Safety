@@ -756,6 +756,9 @@
 | 26.01 | Indian Institute of Technology Kharagpur | EACL 2026 | [Do LLM Hallucination Detectors Suffer from Low-Resource Effect?](https://arxiv.org/abs/2601.16766) | **Hallucination Detection**&**Low Resource Languages**&**Multilingual Robustness** |
 | 26.01 | Beijing University of Posts and Telecommunications | ICLR 2026 | [TOKEN-GUARD: TOWARDS TOKEN-LEVEL HALLUCINATION CONTROL VIA SELF-CHECKING DECODING](https://arxiv.org/abs/2601.21969) | **Hallucination Control**&**Decoding Methods**&**LLM Reliability** |
 | 26.01 | Virginia Tech | ICLR 2026 | [HALLUGUARD: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs](https://arxiv.org/abs/2601.18753) | **Hallucination Detection**&**Theoretical Analysis**&**NTK Methods** |
+| 26.02 | EPFL | arxiv | [HALLUHARD: A Hard Multi-Turn Hallucination Benchmark](https://arxiv.org/abs/2602.01031) | **Hallucination**&**Multi-Turn**&**Grounding** |
+| 26.02 | Future Living Lab of Alibaba | arxiv | [PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning](https://arxiv.org/abs/2602.01875) | **Factual Hallucination**&**Pretraining RL**&**Debiasing** |
+| 26.02 | School of Information Engineering, Yangzhou University, China | arxiv | [HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning](https://arxiv.org/abs/2602.02147) | **Backdoor Attack**&**Federated Learning**&**Entanglement** |
 
 
 

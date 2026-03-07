@@ -443,6 +443,11 @@
 | 26.01 | Technical University of Munich | arxiv | [Unintended Memorization of Sensitive Information in Fine-Tuned Language Models](https://arxiv.org/abs/2601.17480) | **PII Memorization**&**Privacy Leakage**&**Model Fine-Tuning** |
 | 26.01 | New Jersey Institute of Technology | arxiv | [NOIR: Privacy-Preserving Generation of Code with Open-Source LLMs](https://arxiv.org/abs/2601.16354) | **Privacy Preserving**&**Code Generation**&**Open Source LLMs** |
 | 26.01 | National University of Defense Technology | WWW 2026 | [Reconstructing Training Data from Adapter-based Federated Large Language Models](https://arxiv.org/abs/2601.17533) | **Federated LLMs**&**Gradient Inversion**&**Privacy Leakage** |
+| 26.01 | Department of Industrial Engineering, Seoul National University, South Korea | arxiv | [AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](https://arxiv.org/abs/2601.22710) | **API Privacy**&**Black-Box**&**Alienization** |
+| 26.02 | NYU | arxiv | [PRIVATELY FINE-TUNED LLMs PRESERVE TEMPORAL DYNAMICS IN TABULAR DATA](https://arxiv.org/abs/2602.02766) | **Differential Privacy**&**Tabular Data**&**Temporal Dynamics** |
+| 26.02 | George Mason University, Fairfax, VA, USA | arxiv | [CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference Alignment](https://arxiv.org/abs/2602.02824) | **LLM Unlearning**&**Negative Preference**&**Calibration** |
+| 26.02 | Georgia Institute of Technology | arxiv | [HALT: Hallucination Assessment via Log-probs as Time series](https://arxiv.org/abs/2602.02888) | **Hallucination Detection**&**Log-Probs**&**Time Series** |
+| 26.02 | UC Berkeley | arxiv | [AgenticPay: A Multi-Agent LLM Negotiation System for Buyer–Seller Transactions](https://arxiv.org/abs/2602.06008) | **Multi-Agent Negotiation**&**Buyer-Seller**&**Markets** |
 
 
 

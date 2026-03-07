@@ -372,6 +372,8 @@
 | 26.01 | Fujitsu Research of Europe | arxiv | [AgenTRIM: Tool Risk Mitigation for Agentic AI](https://arxiv.org/abs/2601.12449) | **AgenticAI**&**ToolSecurity**&**LeastPrivilege** |
 | 26.01 | Nanjing University of Aeronautics and Astronautics | arxiv | [SafeThinker: Reasoning about Risk to Deepen Safety Beyond Shallow Alignment](https://arxiv.org/abs/2601.16506) | **LLM Safety**&**Jailbreak Defense**&**Adaptive Alignment** |
 | 26.01 | Unknown | arxiv | [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](https://arxiv.org/abs/2601.17549) | **Model Context Protocol**&**Prompt Injection**&**Agent Security** |
+| 26.01 | School of Automation, Northwestern Polytechnical University, Xi'an, China | arxiv | [FNF: Functional Network Fingerprint for Large Language Models](https://arxiv.org/abs/2601.22692) | **Model Fingerprinting**&**Intellectual Property**&**Functional Networks** |
+| 26.01 | University of Science and Technology of China | arxiv | [Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures](https://arxiv.org/abs/2601.23081) | **Misalignment**&**Persona**&**Safety** |
 
 
 
