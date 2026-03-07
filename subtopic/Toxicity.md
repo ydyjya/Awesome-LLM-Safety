@@ -126,6 +126,8 @@
 | 26.01 | Delft University of Technology | arxiv | [Characterising Toxicity in Generative Large Language Models](https://arxiv.org/abs/2601.06700) | **Toxicity**&**LinguisticTriggers**&**Evaluation** |
 | 26.01 | Warsaw University of Technology | arxiv | [Improving Implicit Hate Speech Detection via a Community-Driven Multi-Agent Framework](https://arxiv.org/abs/2601.09342) | **HateSpeech**&**MultiAgent**&**Fairness** |
 | 26.01 | RMIT University | WWW 2026 | [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250) | **Fairness**&**Toxicity**&**InferenceTime** |
+| 26.02 | Department of Computer Science and Engineering, IIIT Delhi | arxiv | [Do Prompts Guarantee Safety? Mitigating Toxicity from LLM Generations through Subspace Intervention](https://arxiv.org/abs/2602.06623) | **Toxicity Mitigation**&**Representation Intervention**&**Safe Generation** |
+| 26.02 | National University of Singapore, Singapore | arxiv | [VIDEOSTF: Stress-Testing Output Repetition in Video Large Language Models](https://arxiv.org/abs/2602.10639) | **VideoLLMs**&**Output Repetition**&**Stress Testing** |
 
 
 ## 💻Presentations & Talks

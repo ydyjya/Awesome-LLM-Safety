@@ -349,6 +349,15 @@
 | 26.02 | Zhejiang University | arxiv | [CSR-Bench: A Benchmark for Evaluating the Cross-modal Safety and Reliability of MLLMs](https://arxiv.org/abs/2602.03263) | **Cross-modal Safety**&**MLLM Reliability**&**Benchmark** |
 | 26.02 | Qatar Computing Research Institute, HBKU, Doha, Qatar | arxiv | [Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models](https://arxiv.org/abs/2602.05437) | **Counterfactual Hallucination**&**Multilingual VLMs**&**Benchmark** |
 | 26.02 | Zhejiang University | ICLR 2026 | [WHEN AGENTS “MISREMEMBER” COLLECTIVELY: EXPLORING THE MANDELA EFFECT IN LLM-BASED MULTI-AGENT SYSTEMS](https://arxiv.org/abs/2602.00428) | **Mandela Effect**&**Multi-Agent Systems**&**False Memory** |
+| 26.02 | Seoul National University College of Medicine | arxiv | [MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs](https://arxiv.org/abs/2602.06268) | **Prompt Injection**&**Clinical Safety**&**RAG** |
+| 26.02 | School of Software, Shandong University, Jinan, China | arxiv | [TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents](https://arxiv.org/abs/2602.06443) | **LLM Agents**&**Anomaly Detection**&**Process Supervision** |
+| 26.02 | Critical ML Lab | arxiv | [TAMPERBENCH: SYSTEMATICALLY STRESS-TESTING LLM SAFETY UNDER FINE-TUNING AND TAMPERING](https://arxiv.org/abs/2602.06911) | **Tamper Resistance**&**Safety Evaluation**&**Fine-Tuning Attacks** |
+| 26.02 | Texas A&M University, College Station, TX, USA | arxiv | [Halluverse-M3: A multitask multilingual benchmark for hallucination in LLMs](https://arxiv.org/abs/2602.06920) | **Hallucination Benchmark**&**Multilingual Evaluation**&**Detection** |
+| 26.02 | Computer Science Department, Southern Illinois University, Carbondale, IL, United States | arxiv | [AGENT-FENCE: MAPPING SECURITY VULNERABILITIES ACROSS DEEP RESEARCH AGENTS](https://arxiv.org/abs/2602.07652) | **Agent Security**&**Trust Boundaries**&**Architectural Evaluation** |
+| 26.02 | Xidian University | arxiv | [FROM ASSISTANT TO DOUBLE AGENT: FORMALIZING AND BENCHMARKING ATTACKS ON OPENCLAW FOR PERSONALIZED LOCAL AI AGENT.](https://arxiv.org/abs/2602.08412) | **Personalized Agents**&**Security Benchmarking**&**OpenClaw** |
+| 26.02 | University of Oregon | arxiv | [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319) | **Retrieval-Augmented Generation**&**Knowledge Extraction**&**Benchmarking** |
+| 26.02 | Sentient Labs | arxiv | [CryptoAnalystBench: Failures in Multi-Tool Long-Form LLM Analysis](https://arxiv.org/abs/2602.11304) | **Analyst Agents**&**Tool Use**&**Long-Form Evaluation** |
+| 26.02 | Macquarie University, Sydney, Australia | arxiv | [Are Aligned Large Language Models Still Misaligned?](https://arxiv.org/abs/2602.11305) | **Misalignment Benchmark**&**Safety**&**Culture** |
 
 
 

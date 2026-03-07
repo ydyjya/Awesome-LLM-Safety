@@ -448,6 +448,13 @@
 | 26.02 | George Mason University, Fairfax, VA, USA | arxiv | [CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference Alignment](https://arxiv.org/abs/2602.02824) | **LLM Unlearning**&**Negative Preference**&**Calibration** |
 | 26.02 | Georgia Institute of Technology | arxiv | [HALT: Hallucination Assessment via Log-probs as Time series](https://arxiv.org/abs/2602.02888) | **Hallucination Detection**&**Log-Probs**&**Time Series** |
 | 26.02 | UC Berkeley | arxiv | [AgenticPay: A Multi-Agent LLM Negotiation System for Buyer–Seller Transactions](https://arxiv.org/abs/2602.06008) | **Multi-Agent Negotiation**&**Buyer-Seller**&**Markets** |
+| 26.02 | Tsinghua University | arxiv | [MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](https://arxiv.org/abs/2602.07517) | **Memory Security**&**Honeypots**&**Agent Defense** |
+| 26.02 | Microsoft Security Response Center (MSRC) | arxiv | [Position: Stateless Yet Not Forgetful: Implicit Memory as a Hidden Channel in LLMs](https://arxiv.org/abs/2602.08563) | **Implicit Memory**&**Temporal Backdoors**&**Hidden Channels** |
+| 26.02 | Blavatnik School of Computer Science and AI, Tel Aviv University | arxiv | [We Should Separate Memorization from Copyright](https://arxiv.org/abs/2602.08632) | **Copyright**&**Memorization**&**Policy** |
+| 26.02 | New York University, New York, NY, USA | arxiv | [Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs](https://arxiv.org/abs/2602.08997) | **Privacy**&**De-identification**&**Clinical Notes** |
+| 26.02 | Department of Computer Science, Texas Tech University | arxiv | [A Behavioral Fingerprint for Large Language Models: Provenance Tracking via Refusal Vectors](https://arxiv.org/abs/2602.09434) | **Model Provenance**&**Fingerprinting**&**Refusal Vectors** |
+| 26.02 | School of Artificial Intelligence, University of Chinese Academy of Sciences | ICLR 2026 | [STOP TRACKING ME! PROACTIVE DEFENSE AGAINST ATTRIBUTE INFERENCE ATTACK IN LLMS](https://arxiv.org/abs/2602.11528) | **Privacy Defense**&**Attribute Inference**&**Anonymization** |
+| 26.02 | Department of Electrical Engineering, The Pennsylvania State University, University Park, PA 16802, USA | IEEE VR 2026 | [PRISM-XR: Empowering Privacy-Aware XR Collaboration with Multimodal Large Language Models](https://arxiv.org/abs/2602.10154) | **XR Collaboration**&**Privacy**&**Multimodal Models** |
 
 
 

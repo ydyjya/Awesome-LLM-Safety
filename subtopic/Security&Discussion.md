@@ -374,6 +374,12 @@
 | 26.01 | Unknown | arxiv | [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](https://arxiv.org/abs/2601.17549) | **Model Context Protocol**&**Prompt Injection**&**Agent Security** |
 | 26.01 | School of Automation, Northwestern Polytechnical University, Xi'an, China | arxiv | [FNF: Functional Network Fingerprint for Large Language Models](https://arxiv.org/abs/2601.22692) | **Model Fingerprinting**&**Intellectual Property**&**Functional Networks** |
 | 26.01 | University of Science and Technology of China | arxiv | [Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures](https://arxiv.org/abs/2601.23081) | **Misalignment**&**Persona**&**Safety** |
+| 26.02 | eBay Inc | arxiv | [ZERO-TRUST RUNTIME VERIFICATION FOR AGENTIC PAYMENT PROTOCOLS: MITIGATING REPLAY AND CONTEXT-BINDING FAILURES IN AP2](https://arxiv.org/abs/2602.06345) | **Agentic Payments**&**Runtime Verification**&**Replay Attacks** |
+| 26.02 | Huazhong University of Science and Technology | arxiv | [Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models](https://arxiv.org/abs/2602.06687) | **Vulnerability Reasoning**&**Benchmarking**&**RLVR** |
+| 26.02 | Technical University of Darmstadt | arxiv | [GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778) | **Code Security**&**Neuron-Level Tuning**&**Code Generation** |
+| 26.02 | Canadian Institute for Cybersecurity (CIC), University of New Brunswick, New Brunswick, Canada | arxiv | [Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP](https://arxiv.org/abs/2602.11327) | **AI-Agent Protocols**&**Threat Modeling**&**MCP** |
+| 26.02 | DiSTA, University of Insubria, Italy | arxiv | [LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection](https://arxiv.org/abs/2602.11655) | **Malware Detection**&**Edge Computing**&**Continuous Learning** |
+| 26.02 | Unknown | arxiv | [Agentic AI for Cybersecurity: A Meta-Cognitive Architecture for Governable Autonomy](https://arxiv.org/abs/2602.11897) | **Cybersecurity**&**Agentic AI**&**Governable Autonomy** |
 
 
 

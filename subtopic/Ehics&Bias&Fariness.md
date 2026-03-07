@@ -402,6 +402,14 @@
 | 26.02 | School of Informatics, Xiamen University, China | arxiv | [BI-DIRECTIONAL BIAS ATTRIBUTION: DEBIASING LARGE LANGUAGE MODELS WITHOUT MODIFYING PROMPTS](https://arxiv.org/abs/2602.04398) | **Bias Attribution**&**Neuron Intervention**&**Debiasing** |
 | 26.02 | Annenberg School for Communication and Journalism, University of Southern California, Los Angeles, CA, USA | arxiv | [Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility](https://arxiv.org/abs/2602.04674) | **Misinformation**&**Simulation**&**Biases** |
 | 26.02 | Cognitive Science Program, Department of Psychological & Brain Sciences, Indiana University | arxiv | [Inference-Time Reasoning Selectively Reduces Implicit Social Bias in Large Language Models](https://arxiv.org/abs/2602.04742) | **Implicit Bias**&**Reasoning**&**Fairness** |
+| 26.02 | UC Berkeley & UCSF | arxiv | [Uncertainty Drives Social Bias Changes in Quantized Large Language Models](https://arxiv.org/abs/2602.06181) | **Quantization**&**Social Bias**&**LLM Evaluation** |
+| 26.02 | University of Victoria, British Columbia, Canada | arxiv | [Gender and Race Bias in Consumer Product Recommendations by Large Language Models](https://arxiv.org/abs/2602.08124) | **Recommendation Bias**&**Fairness**&**Consumer Products** |
+| 26.02 | University of Tokyo | arxiv | [Digital Linguistic Bias in Spanish: Evidence from Lexical Variation in LLMs](https://arxiv.org/abs/2602.09346) | **Linguistic Bias**&**Dialect Variation**&**Spanish** |
+| 26.02 | Questrom School of Business, Boston University | arxiv | [Behavioral Economics of AI: LLM Biases and Corrections](https://arxiv.org/abs/2602.09362) | **Behavioral Biases**&**Economic Decisions**&**Bias Mitigation** |
+| 26.02 | University of Washington | arxiv | [Are Language Models Sensitive to Morally Irrelevant Distractors?](https://arxiv.org/abs/2602.09416) | **Moral Reasoning**&**Cognitive Biases**&**Evaluation** |
+| 26.02 | University of Illinois at Chicago | arxiv | [Context-Aware Counterfactual Data Augmentation for Gender Bias Mitigation in Language Models](https://arxiv.org/abs/2602.09590) | **Bias Mitigation**&**Counterfactual Data Augmentation**&**Gender Bias** |
+| 26.02 | Macquarie University, Sydney, Australia | EACL Findings 2026 | [Do Large Language Models Reflect Demographic Pluralism in Safety?](https://arxiv.org/abs/2602.07376) | **Safety Evaluation**&**Demographic Pluralism**&**Alignment** |
+| 26.02 | Southern University of Science and Technology | ICLR 2026 | [BIASSCOPE: TOWARDS AUTOMATED DETECTION OF BIAS IN LLM-AS-A-JUDGE EVALUATION](https://arxiv.org/abs/2602.09383) | **LLM-as-a-Judge**&**Bias Detection**&**Evaluation Robustness** |
 
 
 

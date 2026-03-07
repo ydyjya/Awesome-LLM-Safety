@@ -759,6 +759,15 @@
 | 26.02 | EPFL | arxiv | [HALLUHARD: A Hard Multi-Turn Hallucination Benchmark](https://arxiv.org/abs/2602.01031) | **Hallucination**&**Multi-Turn**&**Grounding** |
 | 26.02 | Future Living Lab of Alibaba | arxiv | [PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning](https://arxiv.org/abs/2602.01875) | **Factual Hallucination**&**Pretraining RL**&**Debiasing** |
 | 26.02 | School of Information Engineering, Yangzhou University, China | arxiv | [HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning](https://arxiv.org/abs/2602.02147) | **Backdoor Attack**&**Federated Learning**&**Entanglement** |
+| 26.02 | Department of Computer Science, University of Oxford | arxiv | [TDGNet: Hallucination Detection in Diffusion Language Models via Temporal Dynamic Graphs](https://arxiv.org/abs/2602.08048) | **Hallucination Detection**&**Diffusion Language Models**&**Dynamic Graphs** |
+| 26.02 | Pacific Northwest National Laboratory | arxiv | [What do Geometric Hallucination Detection Metrics Actually Measure?](https://arxiv.org/abs/2602.09158) | **Hallucination Detection**&**Geometric Metrics**&**Evaluation** |
+| 26.02 | Stevens Institute of Technology, Hoboken, NJ, USA | arxiv | [Listen to the Layers: Mitigating Hallucinations with Inter-Layer Disagreement](https://arxiv.org/abs/2602.09486) | **Hallucination Mitigation**&**Decoding**&**Inter-Layer Signals** |
+| 26.02 | College of Computer Science, Chongqing University | arxiv | [RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation](https://arxiv.org/abs/2602.10799) | **Remote Sensing**&**Hallucination Evaluation**&**Multimodal Models** |
+| 26.02 | The University of Texas at Dallas | arxiv | [Small Updates, Big Doubts: Does Parameter-Efficient Fine-tuning Enhance Hallucination Detection ?](https://arxiv.org/abs/2602.11166) | **Hallucination Detection**&**PEFT**&**Uncertainty** |
+| 26.02 | The Harker School | arxiv | [Visualizing and Benchmarking LLM Factual Hallucination Tendencies via Internal State Analysis and Clustering](https://arxiv.org/abs/2602.11167) | **Hallucination Benchmarking**&**Internal States**&**Clustering** |
+| 26.02 | Dell Technologies, CSG CTO Team | arxiv | [The Energy of Falsehood: Detecting Hallucinations via Diffusion Model Likelihoods](https://arxiv.org/abs/2602.11364) | **Hallucination Detection**&**Diffusion Models**&**Fact Verification** |
+| 26.02 | University of Maryland College Park | EACL 2026 | [Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions](https://arxiv.org/abs/2602.06256) | **Model Steering**&**Inference-Time Intervention**&**Robustness** |
+| 26.02 | Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany | ECIR 2026 | [Towards Reliable Machine Translation: Scaling LLMs for Critical Error Detection and Safety](https://arxiv.org/abs/2602.11444) | **Machine Translation**&**Error Detection**&**Safety** |
 
 
 
