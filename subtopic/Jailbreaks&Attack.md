@@ -950,6 +950,13 @@
 | 26.02 | Algoverse AI Research | arxiv | [Response-Based Knowledge Distillation for Multilingual Jailbreak Prevention Unwittingly Compromises Safety](https://arxiv.org/abs/2602.11157) | **Knowledge Distillation**&**Multilingual Safety**&**Jailbreak Prevention** |
 | 26.02 | Duke University | arxiv | [MalTool: Malicious Tool Attacks on LLM Agents](https://arxiv.org/abs/2602.12194) | **Tool Attacks**&**LLM Agents**&**Malicious Code Generation** |
 | 26.02 | University of Rochester | ICLR 2026 | [SEMA: SIMPLE YET EFFECTIVE LEARNING FOR MULTI-TURN JAILBREAK ATTACKS](https://arxiv.org/abs/2602.06854) | **Jailbreak Attacks**&**Multi-Turn Learning**&**Red Teaming** |
+| 26.02 | Beijing University of Technology | arxiv | [AISA: Awakening Intrinsic Safety Awareness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2602.13547) | **Jailbreak Defense**&**Internal Activation**&**Safety Alignment** |
+| 26.02 | University of North Carolina at Chapel Hill | arxiv | [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/abs/2602.13576) | **LLM Judges**&**Preference Drift**&**Alignment Risk** |
+| 26.02 | Nanyang Technological University, Singapore | arxiv | [SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211) | **Prompt Injection**&**Coding Agents**&**Closed-Loop Attack** |
+| 26.02 | Yonsei University | arxiv | [Overthinking Loops in Agents: A Structural Risk via MCP Tools](https://arxiv.org/abs/2602.14798) | **MCP Tools**&**Overthinking Loops**&**Supply-Chain Attacks** |
+| 26.02 | School of Computing, National University of Singapore | arxiv | [ZOMBIE AGENTS: PERSISTENT CONTROL OF SELF-EVOLVING LLM AGENTS VIA SELF-REINFORCING INJECTIONS](https://arxiv.org/abs/2602.15654) | **Persistent Attacks**&**Self-Evolving Agents**&**Memory Poisoning** |
+| 26.02 | The University of Queensland, Brisbane, Australia | arxiv | [The Vulnerability of LLM Rankers to Prompt Injection Attacks](https://arxiv.org/abs/2602.16752) | **LLM Rankers**&**Prompt Injection**&**Ranking Robustness** |
+| 26.02 | Oracle America Inc. | EACL 2026 | [IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages](TODO) | **Multilingual Safety**&**Jailbreak Benchmark**&**South Asian Languages** |
 
 
 

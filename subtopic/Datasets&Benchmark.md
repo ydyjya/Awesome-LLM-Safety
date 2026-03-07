@@ -358,6 +358,16 @@
 | 26.02 | University of Oregon | arxiv | [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319) | **Retrieval-Augmented Generation**&**Knowledge Extraction**&**Benchmarking** |
 | 26.02 | Sentient Labs | arxiv | [CryptoAnalystBench: Failures in Multi-Tool Long-Form LLM Analysis](https://arxiv.org/abs/2602.11304) | **Analyst Agents**&**Tool Use**&**Long-Form Evaluation** |
 | 26.02 | Macquarie University, Sydney, Australia | arxiv | [Are Aligned Large Language Models Still Misaligned?](https://arxiv.org/abs/2602.11305) | **Misalignment Benchmark**&**Safety**&**Culture** |
+| 26.02 | ETH Zürich | arxiv | [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](https://arxiv.org/abs/2602.12316) | **AI Safety Benchmark**&**Game Theory**&**Multi-Agent Risks** |
+| 26.02 | Unknown | arxiv | [ProMoral-Bench: Evaluating Prompting Strategies for Moral Reasoning and Safety in LLMs](https://arxiv.org/abs/2602.13274) | **Moral Reasoning**&**Prompt Engineering**&**Safety Benchmark** |
+| 26.02 | Northeastern University | arxiv | [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](https://arxiv.org/abs/2602.13379) | **Tool-Using Agents**&**Multi-Turn Safety**&**Defense** |
+| 26.02 | Beijing Institute of AI Safety and Governance, China. | arxiv | [ForesightSafety Bench: A Frontier Risk Evaluation and Governance Framework towards Safe AI](https://arxiv.org/abs/2602.14135) | **AI Safety Benchmark**&**Frontier Risks**&**Governance** |
+| 26.02 | KI-Werkstatt / FB2, University of Applied Sciences Berlin | arxiv | [LLMStructBench: Benchmarking Large Language Model Structured Data Extraction](https://arxiv.org/abs/2602.14743) | **Structured Extraction**&**Benchmark**&**JSON Generation** |
+| 26.02 | TSINGHUA UNIVERSITY, BEIJING, CHINA | arxiv | [SecCodeBench-V2 Technical Report](https://arxiv.org/abs/2602.15485) | **Secure Code Generation**&**Benchmark**&**Code Security** |
+| 26.02 | University of Tübingen & Max-Planck Institute for Intelligent Systems | arxiv | [NESSIE: THE NECESSARY SAFETY BENCHMARK - IDENTIFYING ERRORS THAT SHOULD NOT EXIST](https://arxiv.org/abs/2602.16756) | **Safety Benchmark**&**Instruction Following**&**Necessary Condition** |
+| 26.02 | Independent Researcher | arxiv | [Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents](https://arxiv.org/abs/2602.16943) | **Tool-Call Safety**&**Benchmark**&**Agent Alignment** |
+| 26.02 | Oregon State University, Corvallis, OR USA | arxiv | [Fail-Closed Alignment for Large Language Models](https://arxiv.org/abs/2602.16977) | **Fail-Closed Safety**&**Refusal Robustness**&**Jailbreak Defense** |
+| 26.02 | Oracle America Inc. | EACL 2026 | [IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages](https://arxiv.org/abs/2602.16832) | **Multilingual Safety**&**Jailbreak Benchmark**&**South Asian Languages** |
 
 
 

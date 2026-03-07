@@ -768,6 +768,7 @@
 | 26.02 | Dell Technologies, CSG CTO Team | arxiv | [The Energy of Falsehood: Detecting Hallucinations via Diffusion Model Likelihoods](https://arxiv.org/abs/2602.11364) | **Hallucination Detection**&**Diffusion Models**&**Fact Verification** |
 | 26.02 | University of Maryland College Park | EACL 2026 | [Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions](https://arxiv.org/abs/2602.06256) | **Model Steering**&**Inference-Time Intervention**&**Robustness** |
 | 26.02 | Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany | ECIR 2026 | [Towards Reliable Machine Translation: Scaling LLMs for Critical Error Detection and Safety](https://arxiv.org/abs/2602.11444) | **Machine Translation**&**Error Detection**&**Safety** |
+| 26.02 | King-Abdullah University of Science and Technology (KAUST), CEMSE division, Thuwal, Saudi Arabia | arxiv | [A Geometric Analysis of Small-sized Language Model Hallucinations](https://arxiv.org/abs/2602.14778) | **Hallucinations**&**Geometry Analysis**&**Small LMs** |
 
 
 

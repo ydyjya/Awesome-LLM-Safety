@@ -380,6 +380,11 @@
 | 26.02 | Canadian Institute for Cybersecurity (CIC), University of New Brunswick, New Brunswick, Canada | arxiv | [Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP](https://arxiv.org/abs/2602.11327) | **AI-Agent Protocols**&**Threat Modeling**&**MCP** |
 | 26.02 | DiSTA, University of Insubria, Italy | arxiv | [LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection](https://arxiv.org/abs/2602.11655) | **Malware Detection**&**Edge Computing**&**Continuous Learning** |
 | 26.02 | Unknown | arxiv | [Agentic AI for Cybersecurity: A Meta-Cognitive Architecture for Governable Autonomy](https://arxiv.org/abs/2602.11897) | **Cybersecurity**&**Agentic AI**&**Governable Autonomy** |
+| 26.02 | University of Luxembourg, Interdisciplinary Center for Security, Reliability, and Trust (SnT), Trustworthy Software Engineering Group (TruX), Luxembourg | arxiv | [Assessing Spear-Phishing Website Generation in Large Language Model Coding Agents](https://arxiv.org/abs/2602.13363) | **Spear-Phishing**&**Coding Agents**&**Cyber Misuse** |
+| 26.02 | ShanghaiTech University, Shanghai, China | arxiv | [A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)](https://arxiv.org/abs/2602.14364) | **Agent Safety Audit**&**Trajectory Analysis**&**OpenClaw** |
+| 26.02 | State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China | arxiv | [Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective](https://arxiv.org/abs/2602.15290) | **Agentic AI**&**Wireless Security**&**Privacy** |
+| 26.02 | Applied Machine Learning Research | arxiv | [Intent Laundering: AI Safety Datasets Are Not What They Seem](https://arxiv.org/abs/2602.16729) | **Safety Datasets**&**Intent Laundering**&**Evaluation Robustness** |
+| 26.02 | Fraunhofer ISST | arxiv | [DAVE: A Policy-Enforcing LLM Spokesperson for Secure Multi-Document Data Sharing](https://arxiv.org/abs/2602.17413) | **Data Sharing**&**Policy Enforcement**&**LLM Spokesperson** |
 
 
 

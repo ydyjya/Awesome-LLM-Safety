@@ -691,6 +691,20 @@
 | 26.02 | School of Electrical Engineering and Computer Science, University of Ottawa, Canada | arxiv | [Unknown Attack Detection in IoT Networks using Large Language Models: A Robust, Data-efficient Approach](https://arxiv.org/abs/2602.12183) | **IoT Security**&**Unknown Attack Detection**&**Meta-Learning** |
 | 26.02 | Unknown | ICLR 2026 | [EMERGENT MISALIGNMENT IS EASY, NARROW MISALIGNMENT IS HARD](https://arxiv.org/abs/2602.07852) | **Misalignment**&**Generalization**&**Inductive Biases** |
 | 26.02 | School of Cyber Engineering, Xidian University | ICLR 2026 | [GROUNDING GENERATIVE PLANNERS IN VERIFIABLE LOGIC: A HYBRID ARCHITECTURE FOR TRUSTWORTHY EMBODIED AI](https://arxiv.org/abs/2602.08373) | **Embodied AI**&**Neuro-Symbolic Planning**&**Safety Verification** |
+| 26.02 | Apple | arxiv | [Sparse Autoencoders are Capable LLM Jailbreak Mitigators](https://arxiv.org/abs/2602.12418) | **Jailbreak Defense**&**Sparse Autoencoders**&**Safety Steering** |
+| 26.02 | Baidu Inc. | arxiv | [Stay in Character, Stay Safe: Dual-Cycle Adversarial Self-Evolution for Safety Role-Playing Agents](https://arxiv.org/abs/2602.13234) | **Role-Playing Agents**&**Jailbreak Defense**&**Self-Evolution** |
+| 26.02 | School of Artificial Intelligence, University of Chinese Academy of Sciences | arxiv | [Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](https://arxiv.org/abs/2602.13562) | **Safety-Utility Trade-off**&**Reasoning Models**&**Alignment** |
+| 26.02 | Duke University | arxiv | [AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks](https://arxiv.org/abs/2602.13597) | **Prompt Injection**&**Detection**&**Alignment Awareness** |
+| 26.02 | NTU | arxiv | [MCPShield: A Security Cognition Layer for Adaptive Trust Calibration in Model Context Protocol Agents](https://arxiv.org/abs/2602.14281) | **MCP Security**&**Trust Calibration**&**LLM Agents** |
+| 26.02 | Algoverse AI Research | arxiv | [WEIGHT SPACE DETECTION OF BACKDOORS IN LORA ADAPTERS](https://arxiv.org/abs/2602.15195) | **LoRA Backdoors**&**Weight Analysis**&**Backdoor Detection** |
+| 26.02 | University of Zurich | arxiv | [A CONTENT-BASED FRAMEWORK FOR CYBERSECURITY REFUSAL DECISIONS IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2602.15689) | **Cyber Refusal Policy**&**Dual-Use Safety**&**Content-Based Framework** |
+| 26.02 | Princeton University | arxiv | [The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety](https://arxiv.org/abs/2602.15799) | **Alignment Collapse**&**Fine-Tuning Safety**&**Geometric Analysis** |
+| 26.02 | The University of Queensland | arxiv | [Mitigating Gradient Inversion Risks in Language Models via Token Obfuscation](https://arxiv.org/abs/2602.15897) | **Gradient Inversion**&**Privacy Defense**&**Token Obfuscation** |
+| 26.02 | Technical University of Darmstadt | arxiv | [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) | **Safety Alignment**&**Selective Tuning**&**Neuron-Level Control** |
+| 26.02 | University of California, Berkeley | arxiv | [NARROW FINE-TUNING ERODES SAFETY ALIGNMENT IN VISION-LANGUAGE AGENTS](https://arxiv.org/abs/2602.16931) | **Vision-Language Agents**&**Fine-Tuning Risk**&**Emergent Misalignment** |
+| 26.02 | Oregon State University, Corvallis OR, USA | arxiv | [Discovering Universal Activation Directions for PII Leakage in Language Models](https://arxiv.org/abs/2602.16980) | **PII Leakage**&**Activation Directions**&**Mechanistic Interpretability** |
+| 26.02 | VILA Lab, Department of Machine Learning, MBZUAI | arxiv | [Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645) | **Black-Box Attacks**&**LVLMs**&**Adversarial Transfer** |
+| 26.02 | Beijing Academy of Artificial Intelligence | ICLR 2026 | [ALIGN ONCE, BENEFIT MULTILINGUALLY: ENFORCING MULTILINGUAL CONSISTENCY FOR LLM SAFETY ALIGNMENT](https://arxiv.org/abs/2602.16660) | **Multilingual Alignment**&**Safety Consistency**&**Resource Efficiency** |
 
 
 

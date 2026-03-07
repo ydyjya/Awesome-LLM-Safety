@@ -83,6 +83,7 @@
 | 26.01 | University of Luxembourg | arxiv | [How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test](https://arxiv.org/abs/2601.07084) | **SecureCode**&**AdversarialAudit**&**Robustness** |
 | 26.01 | Griffith University | arxiv | [Less Is More — Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models](https://arxiv.org/abs/2601.12042) | **VisionSecurity**&**TokenCompression**&**LVLMs** |
 | 26.01 | University of Cincinnati | arxiv | [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/abs/2601.12639) | **FineTuningObjectives**&**AdversarialRobustness**&**PersonaDrift** |
+| 26.02 | Technical University of Munich, Germany | arxiv | [Closing the Distribution Gap in Adversarial Training for LLMs](https://arxiv.org/abs/2602.15238) | **Adversarial Training**&**Robustness**&**Distribution Gap** |
 
 
 

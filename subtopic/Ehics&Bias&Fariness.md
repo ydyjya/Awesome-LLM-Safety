@@ -410,6 +410,12 @@
 | 26.02 | University of Illinois at Chicago | arxiv | [Context-Aware Counterfactual Data Augmentation for Gender Bias Mitigation in Language Models](https://arxiv.org/abs/2602.09590) | **Bias Mitigation**&**Counterfactual Data Augmentation**&**Gender Bias** |
 | 26.02 | Macquarie University, Sydney, Australia | EACL Findings 2026 | [Do Large Language Models Reflect Demographic Pluralism in Safety?](https://arxiv.org/abs/2602.07376) | **Safety Evaluation**&**Demographic Pluralism**&**Alignment** |
 | 26.02 | Southern University of Science and Technology | ICLR 2026 | [BIASSCOPE: TOWARDS AUTOMATED DETECTION OF BIAS IN LLM-AS-A-JUDGE EVALUATION](https://arxiv.org/abs/2602.09383) | **LLM-as-a-Judge**&**Bias Detection**&**Evaluation Robustness** |
+| 26.02 | University of Waterloo | arxiv | [From Biased Chatbots to Biased Agents: Examining Role Assignment Effects on LLM Agent Robustness](https://arxiv.org/abs/2602.12285) | **LLM Agents**&**Persona Bias**&**Robustness** |
+| 26.02 | University of California, Irvine | arxiv | [RBCorr: Response Bias Correction in Language Models](https://arxiv.org/abs/2602.12445) | **Response Bias**&**Calibration**&**LM Evaluation** |
+| 26.02 | Tulane University | arxiv | [AGENTS IN THE WILD: SAFETY, SOCIETY, AND THE ILLUSION OF SOCIALITY ON MOLTBOOK](https://arxiv.org/abs/2602.13284) | **AI Social Platform**&**Agent Safety**&**Emergent Society** |
+| 26.02 | University of Waterloo | arxiv | [Backdooring Bias in Large Language Models](https://arxiv.org/abs/2602.13427) | **Backdoor Attacks**&**Bias Manipulation**&**LLM Security** |
+| 26.02 | Shanghai AI Laboratory | arxiv | [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://arxiv.org/abs/2602.14457) | **Frontier AI Risks**&**Risk Management**&**Technical Report** |
+| 26.02 | Observe.AI | arxiv | [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970) | **Fairness Evaluation**&**Contact Center QA**&**Counterfactual Analysis** |
 
 
 

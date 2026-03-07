@@ -455,6 +455,14 @@
 | 26.02 | Department of Computer Science, Texas Tech University | arxiv | [A Behavioral Fingerprint for Large Language Models: Provenance Tracking via Refusal Vectors](https://arxiv.org/abs/2602.09434) | **Model Provenance**&**Fingerprinting**&**Refusal Vectors** |
 | 26.02 | School of Artificial Intelligence, University of Chinese Academy of Sciences | ICLR 2026 | [STOP TRACKING ME! PROACTIVE DEFENSE AGAINST ATTRIBUTE INFERENCE ATTACK IN LLMS](https://arxiv.org/abs/2602.11528) | **Privacy Defense**&**Attribute Inference**&**Anonymization** |
 | 26.02 | Department of Electrical Engineering, The Pennsylvania State University, University Park, PA 16802, USA | IEEE VR 2026 | [PRISM-XR: Empowering Privacy-Aware XR Collaboration with Multimodal Large Language Models](https://arxiv.org/abs/2602.10154) | **XR Collaboration**&**Privacy**&**Multimodal Models** |
+| 26.02 | University of Southern California | arxiv | [Differentially Private Retrieval-Augmented Generation](https://arxiv.org/abs/2602.14374) | **Differential Privacy**&**RAG**&**Privacy Preservation** |
+| 26.02 | Unknown | arxiv | [Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks](https://arxiv.org/abs/2602.16760) | **Split Inference**&**Privacy**&**Speculative Decoding** |
+| 26.02 | MATS | arxiv | [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800) | **Deanonymization**&**Privacy Risk**&**LLM Agents** |
+| 26.02 | Ritual | arxiv | [PRIVACY-PRESERVING MECHANISMS ENABLE CHEAP VERIFIABLE INFERENCE OF LLMS](https://arxiv.org/abs/2602.17223) | **Verifiable Inference**&**Privacy Preservation**&**LLM Serving** |
+| 26.02 | Shandong University, 72 Binhai Road, Jimo, Qingdao, Shandong, 250100, China | arxiv | [What Breaks Embodied AI Security: LLM Vulnerabilities, CPS Flaws, or Something Else?](https://arxiv.org/abs/2602.17345) | **Embodied AI Security**&**System-Level Risk**&**Survey** |
+| 26.02 | Carleton University | arxiv | [A Privacy by Design Framework for Large Language Model-Based Applications for Children](https://arxiv.org/abs/2602.17418) | **Privacy-by-Design**&**Children**&**LLM Applications** |
+| 26.02 | TU Berlin | arxiv | [What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data](https://arxiv.org/abs/2602.17483) | **Personal Data**&**Black-Box Auditing**&**Privacy** |
+| 26.02 | Indian Institute of Technology Jodhpur | arxiv | [Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning](https://arxiv.org/abs/2602.17546) | **Fine-Tuning Safety**&**Adaptive Regularization**&**Alignment Preservation** |
 
 
 
