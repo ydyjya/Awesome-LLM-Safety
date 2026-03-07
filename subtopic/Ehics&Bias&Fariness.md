@@ -416,6 +416,7 @@
 | 26.02 | University of Waterloo | arxiv | [Backdooring Bias in Large Language Models](https://arxiv.org/abs/2602.13427) | **Backdoor Attacks**&**Bias Manipulation**&**LLM Security** |
 | 26.02 | Shanghai AI Laboratory | arxiv | [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://arxiv.org/abs/2602.14457) | **Frontier AI Risks**&**Risk Management**&**Technical Report** |
 | 26.02 | Observe.AI | arxiv | [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970) | **Fairness Evaluation**&**Contact Center QA**&**Counterfactual Analysis** |
+| 26.02 | Northeastern University | arxiv | [Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming](https://arxiv.org/abs/2602.19948) | **mental health**&**clinical red teaming**&**AI safety** |
 
 
 

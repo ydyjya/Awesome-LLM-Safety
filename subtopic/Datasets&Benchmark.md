@@ -368,6 +368,11 @@
 | 26.02 | Independent Researcher | arxiv | [Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents](https://arxiv.org/abs/2602.16943) | **Tool-Call Safety**&**Benchmark**&**Agent Alignment** |
 | 26.02 | Oregon State University, Corvallis, OR USA | arxiv | [Fail-Closed Alignment for Large Language Models](https://arxiv.org/abs/2602.16977) | **Fail-Closed Safety**&**Refusal Robustness**&**Jailbreak Defense** |
 | 26.02 | Oracle America Inc. | EACL 2026 | [IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages](https://arxiv.org/abs/2602.16832) | **Multilingual Safety**&**Jailbreak Benchmark**&**South Asian Languages** |
+| 26.02 | Kakaobank, South Korea | arxiv | [FENCE: A Financial and Multimodal Jailbreak Detection Dataset](https://arxiv.org/abs/2602.18154) | **jailbreak detection**&**finance**&**multimodal** |
+| 26.02 | School of Computer Science, Carnegie Mellon University | arxiv | [How Well Can LLM Agents Simulate End-User Security and Privacy Attitudes and Behaviors?](https://arxiv.org/abs/2602.18464) | **user simulation**&**security privacy**&**benchmark** |
+| 26.02 | Southeast University | arxiv | [CIBER: A Comprehensive Benchmark for Security Evaluation of Code Interpreter Agents](https://arxiv.org/abs/2602.19547) | **code interpreter**&**benchmark**&**agent security** |
+| 26.02 | Max Planck Institute for Intelligent Systems, ELLIS Institute Tubingen, Tubingen AI Center | arxiv | [SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156) | **skill attack**&**prompt injection**&**agent benchmark** |
+| 26.02 | Harbin Institute of Technology, Shenzhen | arxiv | [Evaluating Proactive Risk Awareness of Large Language Models](https://arxiv.org/abs/2602.20976) | **proactive safety**&**risk awareness**&**ecology** |
 
 
 

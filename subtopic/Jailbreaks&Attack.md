@@ -957,6 +957,11 @@
 | 26.02 | School of Computing, National University of Singapore | arxiv | [ZOMBIE AGENTS: PERSISTENT CONTROL OF SELF-EVOLVING LLM AGENTS VIA SELF-REINFORCING INJECTIONS](https://arxiv.org/abs/2602.15654) | **Persistent Attacks**&**Self-Evolving Agents**&**Memory Poisoning** |
 | 26.02 | The University of Queensland, Brisbane, Australia | arxiv | [The Vulnerability of LLM Rankers to Prompt Injection Attacks](https://arxiv.org/abs/2602.16752) | **LLM Rankers**&**Prompt Injection**&**Ranking Robustness** |
 | 26.02 | Oracle America Inc. | EACL 2026 | [IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages](TODO) | **Multilingual Safety**&**Jailbreak Benchmark**&**South Asian Languages** |
+| 26.02 | School of Electrical, Computer and Energy Engineering, Arizona State University | arxiv | [TFL: Targeted Bit-Flip Attack on Large Language Model](https://arxiv.org/abs/2602.17837) | **bit-flip attack**&**fault injection**&**targeted manipulation** |
+| 26.02 | School of Computer Science, Peking University | arxiv | [AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs](https://arxiv.org/abs/2602.20720) | **indirect prompt injection**&**agentic LLM**&**adaptive attack** |
+| 26.02 | NIT Trichy, Tiruchirappalli, India | arxiv | [Analysis of LLMs Against Prompt Injection and Jailbreak Attacks](https://arxiv.org/abs/2602.22242) | **prompt injection**&**jailbreak**&**inference-time defense** |
+| 26.02 | eBay | arxiv | [SILENT EGRESS: WHEN IMPLICIT PROMPT INJECTION MAKES LLM AGENTS LEAK WITHOUT A TRACE](https://arxiv.org/abs/2602.22450) | **prompt injection**&**data exfiltration**&**network egress** |
+| 26.02 | Nanyang Technological University, Singapore | ICLR 2026 | [OBSCURE BUT EFFECTIVE: CLASSICAL CHINESE JAILBREAK PROMPT OPTIMIZATION VIA BIO-INSPIRED SEARCH](https://arxiv.org/abs/2602.22983) | **jailbreak optimization**&**classical Chinese**&**bio-inspired search** |
 
 
 

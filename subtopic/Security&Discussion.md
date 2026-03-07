@@ -385,6 +385,10 @@
 | 26.02 | State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China | arxiv | [Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective](https://arxiv.org/abs/2602.15290) | **Agentic AI**&**Wireless Security**&**Privacy** |
 | 26.02 | Applied Machine Learning Research | arxiv | [Intent Laundering: AI Safety Datasets Are Not What They Seem](https://arxiv.org/abs/2602.16729) | **Safety Datasets**&**Intent Laundering**&**Evaluation Robustness** |
 | 26.02 | Fraunhofer ISST | arxiv | [DAVE: A Policy-Enforcing LLM Spokesperson for Secure Multi-Document Data Sharing](https://arxiv.org/abs/2602.17413) | **Data Sharing**&**Policy Enforcement**&**LLM Spokesperson** |
+| 26.02 | Department of Computer Science, National University of Singapore | arxiv | [LLM-enabled Applications Require System-Level Threat Monitoring](https://arxiv.org/abs/2602.19844) | **threat monitoring**&**incident response**&**LLM systems** |
+| 26.02 | University of Technology Sydney | arxiv | [SoK: Agentic Skills — Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867) | **agentic skills**&**supply chain**&**survey** |
+| 26.02 | Amazon Web Services | arxiv | [Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291) | **failure manifold**&**MAP-Elites**&**alignment deviation** |
+| 26.02 | National University of Singapore | arxiv | [IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation](https://arxiv.org/abs/2602.22700) | **auditing**&**verifiable computation**&**API integrity** |
 
 
 

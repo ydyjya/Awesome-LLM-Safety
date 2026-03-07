@@ -769,6 +769,10 @@
 | 26.02 | University of Maryland College Park | EACL 2026 | [Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions](https://arxiv.org/abs/2602.06256) | **Model Steering**&**Inference-Time Intervention**&**Robustness** |
 | 26.02 | Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany | ECIR 2026 | [Towards Reliable Machine Translation: Scaling LLMs for Critical Error Detection and Safety](https://arxiv.org/abs/2602.11444) | **Machine Translation**&**Error Detection**&**Safety** |
 | 26.02 | King-Abdullah University of Science and Technology (KAUST), CEMSE division, Thuwal, Saudi Arabia | arxiv | [A Geometric Analysis of Small-sized Language Model Hallucinations](https://arxiv.org/abs/2602.14778) | **Hallucinations**&**Geometry Analysis**&**Small LMs** |
+| 26.02 | Department of Computer and Information Engineering, Center for Cyber Physical Systems | arxiv | [AI Hallucination from Students’ Perspective: A Thematic Analysis](https://arxiv.org/abs/2602.17671) | **AI literacy**&**hallucination**&**education** |
+| 26.02 | JPMorgan AI Research | ICLR 2026 | [NO ONE SIZE FITS ALL: QUERYBANDITS FOR LLM HALLUCINATION MITIGATION](https://arxiv.org/abs/2602.20332) | **hallucination mitigation**&**contextual bandit**&**query rewriting** |
+| 26.02 | National University of Singapore, Singapore | arxiv | [NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors](https://arxiv.org/abs/2602.22144) | **object hallucination**&**LVLM**&**training-free** |
+| 26.02 | Politecnico di Milano, Department of Electronics, Information and Bioengineering | arxiv | [Misinformation Exposure in the Chinese Web: A Cross-System Evaluation of Search Engines, LLMs, and AI Overviews](https://arxiv.org/abs/2602.22221) | **misinformation**&**search systems**&**Chinese web** |
 
 
 

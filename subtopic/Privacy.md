@@ -463,6 +463,13 @@
 | 26.02 | Carleton University | arxiv | [A Privacy by Design Framework for Large Language Model-Based Applications for Children](https://arxiv.org/abs/2602.17418) | **Privacy-by-Design**&**Children**&**LLM Applications** |
 | 26.02 | TU Berlin | arxiv | [What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data](https://arxiv.org/abs/2602.17483) | **Personal Data**&**Black-Box Auditing**&**Privacy** |
 | 26.02 | Indian Institute of Technology Jodhpur | arxiv | [Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning](https://arxiv.org/abs/2602.17546) | **Fine-Tuning Safety**&**Adaptive Regularization**&**Alignment Preservation** |
+| 26.02 | Zhejiang University | arxiv | [Watermarking LLM Agent Trajectories](https://arxiv.org/abs/2602.18700) | **watermarking**&**agent trajectory**&**copyright** |
+| 26.02 | Zhejiang University | arxiv | [KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models](https://arxiv.org/abs/2602.19275) | **unlearning**&**representation**&**knowledge removal** |
+| 26.02 | Zhejiang University | arxiv | [Talking to Yourself: Defying Forgetting in Large Language Models](https://arxiv.org/abs/2602.20162) | **catastrophic forgetting**&**self-augmentation**&**fine-tuning** |
+| 26.02 | City University of Hong Kong | arxiv | [OPTILEAK: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services](https://arxiv.org/abs/2602.20595) | **prompt leakage**&**side channel**&**reinforcement learning** |
+| 26.02 | Student Research Committee, Isfahan University of Medical Sciences, Isfahan, Iran | arxiv | [Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages](https://arxiv.org/abs/2602.21374) | **clinical NLP**&**privacy preservation**&**low-resource language** |
+| 26.02 | Department of Computer Science and Engineering, Texas A&M University | arxiv | [Layer-Targeted Multilingual Knowledge Erasure in Large Language Models](https://arxiv.org/abs/2602.22562) | **multilingual unlearning**&**layer targeting**&**knowledge erasure** |
+| 26.02 | CISPA Helmholtz Center for Information Security | arxiv | [Assessing Deanonymization Risks with Stylometry-Assisted LLM Agent](https://arxiv.org/abs/2602.23079) | **deanonymization**&**stylometry**&**privacy** |
 
 
 

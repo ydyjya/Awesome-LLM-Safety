@@ -705,6 +705,15 @@
 | 26.02 | Oregon State University, Corvallis OR, USA | arxiv | [Discovering Universal Activation Directions for PII Leakage in Language Models](https://arxiv.org/abs/2602.16980) | **PII Leakage**&**Activation Directions**&**Mechanistic Interpretability** |
 | 26.02 | VILA Lab, Department of Machine Learning, MBZUAI | arxiv | [Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645) | **Black-Box Attacks**&**LVLMs**&**Adversarial Transfer** |
 | 26.02 | Beijing Academy of Artificial Intelligence | ICLR 2026 | [ALIGN ONCE, BENEFIT MULTILINGUALLY: ENFORCING MULTILINGUAL CONSISTENCY FOR LLM SAFETY ALIGNMENT](https://arxiv.org/abs/2602.16660) | **Multilingual Alignment**&**Safety Consistency**&**Resource Efficiency** |
+| 26.02 | Nanyang Technological University, Singapore | arxiv | [Can LLM Safety Be Ensured by Constraining Parameter Regions?](https://arxiv.org/abs/2602.17696) | **safety region**&**parameter editing**&**alignment** |
+| 26.02 | University of Michigan - Ann Arbor | arxiv | [MANATEE: INFERENCE-TIME LIGHTWEIGHT DIFFUSION BASED SAFETY DEFENSE FOR LLMS](https://arxiv.org/abs/2602.18782) | **jailbreak defense**&**diffusion**&**inference-time** |
+| 26.02 | Duke University | arxiv | [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396) | **jailbreak detection**&**activation disentanglement**&**interpretability** |
+| 26.02 | Department of Computer Science, National University of Singapore | arxiv | [BARRIERSTEER: LLM Safety via Learning Barrier Steering](https://arxiv.org/abs/2602.20102) | **safety steering**&**control barrier functions**&**latent space** |
+| 26.02 | University of Virginia | arxiv | [ALIGNMENT-WEIGHTED DPO: A PRINCIPLED REASONING APPROACH TO IMPROVE SAFETY ALIGNMENT](https://arxiv.org/abs/2602.21346) | **safety alignment**&**reasoning**&**DPO** |
+| 26.02 | The Ohio State University | arxiv | [Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual](https://arxiv.org/abs/2602.22146) | **safe RLHF**&**primal-dual**&**convergence** |
+| 26.02 | National University of Singapore | arxiv | [Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.22246) | **backdoor defense**&**multimodal diffusion**&**self-purification** |
+| 26.02 | Department of Computer Science, Virginia Tech | arxiv | [CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety](https://arxiv.org/abs/2602.22557) | **policy adaptation**&**multi-agent debate**&**safety governance** |
+| 26.02 | Key Laboratory of Aerospace Information Security and Trusted Computing, Ministry of Education | arxiv | [AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification](https://arxiv.org/abs/2602.22724) | **indirect prompt injection**&**causal diagnosis**&**context purification** |
 
 
 
