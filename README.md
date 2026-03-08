@@ -218,6 +218,7 @@ I can offer you a promotional spot here for up to one month.
 | Date  |    Type    |         Title         |                              URL                              |
 |:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
 | 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
+| 25.12 | Repository |     Sentinel AI       |     [link](https://github.com/MaxwellCalkin/sentinel-ai)       |
 
 ### Other
 
