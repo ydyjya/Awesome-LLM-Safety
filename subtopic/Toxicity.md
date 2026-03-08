@@ -128,6 +128,7 @@
 | 26.01 | RMIT University | WWW 2026 | [When to Invoke: Refining LLM Fairness with Toxicity Assessment](https://arxiv.org/abs/2601.09250) | **Fairness**&**Toxicity**&**InferenceTime** |
 | 26.02 | Department of Computer Science and Engineering, IIIT Delhi | arxiv | [Do Prompts Guarantee Safety? Mitigating Toxicity from LLM Generations through Subspace Intervention](https://arxiv.org/abs/2602.06623) | **Toxicity Mitigation**&**Representation Intervention**&**Safe Generation** |
 | 26.02 | National University of Singapore, Singapore | arxiv | [VIDEOSTF: Stress-Testing Output Repetition in Video Large Language Models](https://arxiv.org/abs/2602.10639) | **VideoLLMs**&**Output Repetition**&**Stress Testing** |
+| 26.03 | Qatar University, Doha, Qatar | WWW 2026 | [Can Thinking Models Think to Detect Hateful Memes?](https://arxiv.org/abs/2603.01225) | **hateful memes**&**multimodal reasoning**&**reinforcement learning** |
 
 
 ## 💻Presentations & Talks

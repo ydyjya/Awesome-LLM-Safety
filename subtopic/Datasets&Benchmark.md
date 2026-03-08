@@ -373,6 +373,14 @@
 | 26.02 | Southeast University | arxiv | [CIBER: A Comprehensive Benchmark for Security Evaluation of Code Interpreter Agents](https://arxiv.org/abs/2602.19547) | **code interpreter**&**benchmark**&**agent security** |
 | 26.02 | Max Planck Institute for Intelligent Systems, ELLIS Institute Tubingen, Tubingen AI Center | arxiv | [SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156) | **skill attack**&**prompt injection**&**agent benchmark** |
 | 26.02 | Harbin Institute of Technology, Shenzhen | arxiv | [Evaluating Proactive Risk Awareness of Large Language Models](https://arxiv.org/abs/2602.20976) | **proactive safety**&**risk awareness**&**ecology** |
+| 26.03 | Shanghai AI Lab | arxiv | [SafeSci: Safety Evaluation of Large Language Models in Science Domains and Beyond](https://arxiv.org/abs/2603.01589) | **scientific safety**&**benchmark**&**alignment** |
+| 26.03 | UC Santa Cruz | arxiv | [ZERODAYBENCH: EVALUATING LLM AGENTS ON UNSEEN ZERO-DAY VULNERABILITIES](https://arxiv.org/abs/2603.02297) | **agents**&**zero-day**&**benchmark** |
+| 26.03 | Duke University | arxiv | [MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Foundation Models](https://arxiv.org/abs/2603.02482) | **multimodal safety**&**evaluation platform**&**benchmarking** |
+| 26.03 | Renmin University of China, China | arxiv | [TRUSTMH-BENCH: A Comprehensive Benchmark for Evaluating the Trustworthiness of Mental Health LLMs](https://arxiv.org/abs/2603.03047) | **mental health**&**trustworthiness**&**benchmark** |
+| 26.03 | Compumacy for Artificial Intelligence Solutions, Cairo, Egypt | arxiv | [SalamahBench: Toward Standardized Safety Evaluation for Arabic Language Models](https://arxiv.org/abs/2603.04410) | **Arabic LMs**&**safety benchmark**&**evaluation** |
+| 26.03 | CISPA Helmholtz Center for Information Security | arxiv | [Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks](https://arxiv.org/abs/2603.04459) | **safety benchmarks**&**code quality**&**meta-analysis** |
+| 26.03 | SCB DataX | arxiv | [THAISAFETYBENCH: ASSESSING LANGUAGE MODEL SAFETY IN THAI CULTURAL CONTEXTS](https://arxiv.org/abs/2603.04992) | **Thai safety**&**cultural context**&**benchmark** |
+| 26.03 | Mohamed bin Zayed University of Artificial Intelligence | ICLR 2026 | [JAILNEWSBENCH: MULTI-LINGUAL AND REGIONAL BENCHMARK FOR FAKE NEWS GENERATION UNDER JAILBREAK ATTACKS](https://arxiv.org/abs/2603.01291) | **fake news**&**jailbreak**&**multilingual benchmark** |
 
 
 

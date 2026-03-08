@@ -389,6 +389,7 @@
 | 26.02 | University of Technology Sydney | arxiv | [SoK: Agentic Skills — Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867) | **agentic skills**&**supply chain**&**survey** |
 | 26.02 | Amazon Web Services | arxiv | [Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291) | **failure manifold**&**MAP-Elites**&**alignment deviation** |
 | 26.02 | National University of Singapore | arxiv | [IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation](https://arxiv.org/abs/2602.22700) | **auditing**&**verifiable computation**&**API integrity** |
+| 26.03 | Shanghai Innovation Institute | arxiv | [From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions](https://arxiv.org/abs/2603.01564) | **agentic AI**&**web security**&**survey** |
 
 
 

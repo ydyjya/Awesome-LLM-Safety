@@ -417,6 +417,7 @@
 | 26.02 | Shanghai AI Laboratory | arxiv | [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report](https://arxiv.org/abs/2602.14457) | **Frontier AI Risks**&**Risk Management**&**Technical Report** |
 | 26.02 | Observe.AI | arxiv | [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970) | **Fairness Evaluation**&**Contact Center QA**&**Counterfactual Analysis** |
 | 26.02 | Northeastern University | arxiv | [Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming](https://arxiv.org/abs/2602.19948) | **mental health**&**clinical red teaming**&**AI safety** |
+| 26.03 | Scale AI | arxiv | [DEFENSIVE REFUSAL BIAS: HOW SAFETY ALIGNMENT FAILS CYBER DEFENDERS](https://arxiv.org/abs/2603.01246) | **cybersecurity**&**refusal bias**&**alignment** |
 
 
 

@@ -962,6 +962,14 @@
 | 26.02 | NIT Trichy, Tiruchirappalli, India | arxiv | [Analysis of LLMs Against Prompt Injection and Jailbreak Attacks](https://arxiv.org/abs/2602.22242) | **prompt injection**&**jailbreak**&**inference-time defense** |
 | 26.02 | eBay | arxiv | [SILENT EGRESS: WHEN IMPLICIT PROMPT INJECTION MAKES LLM AGENTS LEAK WITHOUT A TRACE](https://arxiv.org/abs/2602.22450) | **prompt injection**&**data exfiltration**&**network egress** |
 | 26.02 | Nanyang Technological University, Singapore | ICLR 2026 | [OBSCURE BUT EFFECTIVE: CLASSICAL CHINESE JAILBREAK PROMPT OPTIMIZATION VIA BIO-INSPIRED SEARCH](https://arxiv.org/abs/2602.22983) | **jailbreak optimization**&**classical Chinese**&**bio-inspired search** |
+| 26.02 | Shanghai Qi Zhi Institute, Shanghai, China | arxiv | [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](https://arxiv.org/abs/2602.24009) | **jailbreak**&**benchmarking**&**paper-to-code** |
+| 26.03 | Independent Researcher | arxiv | [Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection](https://arxiv.org/abs/2603.00164) | **prompt injection**&**unicode**&**invisible instructions** |
+| 26.03 | The City University of New York, CSI, Staten Island, NY, USA | arxiv | [Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.00172) | **multimodal RAG**&**poisoning**&**metadata** |
+| 26.03 | University of Washington | arxiv | [IGNORE ALL PREVIOUS INSTRUCTIONS: JAILBREAKING AS A DE-ESCALATORY PRACTICE](https://arxiv.org/abs/2603.01942) | **jailbreak**&**de-escalation**&**human factors** |
+| 26.03 | Dalian University of Technology, Dalian, China | arxiv | [TAO-ATTACK: TOWARD ADVANCED OPTIMIZATION-BASED JAILBREAK ATTACKS FOR LLMs](https://arxiv.org/abs/2603.03081) | **jailbreak**&**optimization**&**attack** |
+| 26.03 | Unknown | arxiv | [Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using Agents](https://arxiv.org/abs/2603.03371) | **backdoor**&**tool-using agents**&**temporal trigger** |
+| 26.03 | University of Electronic Science and Technology of China, Chengdu, China | arxiv | [When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG](https://arxiv.org/abs/2603.03919) | **RAG**&**blocking attack**&**alignment homogeneity** |
+| 26.03 | Beijing University of Posts and Telecommunications, China | ICLR 2026 | [MIDAS: MULTI-IMAGE DISPERSION AND SEMANTIC RECONSTRUCTION FOR JAILBREAKING MLLMs](https://arxiv.org/abs/2603.00565) | **multimodal jailbreak**&**multi-image**&**reasoning** |
 
 
 

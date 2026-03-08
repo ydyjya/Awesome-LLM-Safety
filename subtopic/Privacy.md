@@ -470,6 +470,15 @@
 | 26.02 | Student Research Committee, Isfahan University of Medical Sciences, Isfahan, Iran | arxiv | [Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages](https://arxiv.org/abs/2602.21374) | **clinical NLP**&**privacy preservation**&**low-resource language** |
 | 26.02 | Department of Computer Science and Engineering, Texas A&M University | arxiv | [Layer-Targeted Multilingual Knowledge Erasure in Large Language Models](https://arxiv.org/abs/2602.22562) | **multilingual unlearning**&**layer targeting**&**knowledge erasure** |
 | 26.02 | CISPA Helmholtz Center for Information Security | arxiv | [Assessing Deanonymization Risks with Stylometry-Assisted LLM Agent](https://arxiv.org/abs/2602.23079) | **deanonymization**&**stylometry**&**privacy** |
+| 26.02 | College of Computing and Data Science, Nanyang Technological University, Singapore | arxiv | [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2602.23798) | **unlearning**&**privacy**&**server-client** |
+| 26.02 | Google DeepMind | arxiv | [MT-PingEval: Evaluating Multi-Turn Collaboration with Private Information Games](https://arxiv.org/abs/2602.24188) | **multi-turn**&**collaboration**&**evaluation** |
+| 26.02 | Ubiquitous Knowledge Processing Lab (UKP Lab), Department of Computer Science, Technical University of Darmstadt and National Research Center for Applied Cybersecurity ATHENE, Germany | arxiv | [Controllable Reasoning Models Are Private Thinkers](https://arxiv.org/abs/2602.24210) | **reasoning traces**&**privacy**&**instruction following** |
+| 26.03 | Pennsylvania State University | arxiv | [A Comprehensive Evaluation of LLM Unlearning Robustness under Multi-Turn Interaction](https://arxiv.org/abs/2603.00823) | **unlearning**&**multi-turn interaction**&**robustness** |
+| 26.03 | EPFL Lausanne, Switzerland | arxiv | [Tracking Capabilities for Safer Agents](https://arxiv.org/abs/2603.00991) | **capability safety**&**type system**&**agents** |
+| 26.03 | ByteDance | arxiv | [TOWARDS PRIVACY-PRESERVING LLM INFERENCE VIA COLLABORATIVE OBFUSCATION (TECHNICAL REPORT)](https://arxiv.org/abs/2603.01499) | **privacy-preserving inference**&**obfuscation**&**industrial deployment** |
+| 26.03 | University of Iowa | arxiv | [On the Suitability of LLM-Driven Agents for Dark Pattern Audits](https://arxiv.org/abs/2603.03881) | **dark patterns**&**web agents**&**audit** |
+| 26.03 | Duke University | arxiv | [Differentially Private Multimodal In-Context Learning](https://arxiv.org/abs/2603.04894) | **differential privacy**&**multimodal**&**in-context learning** |
+| 26.03 | IBM Research | arxiv | [AgentSCOPE: Evaluating Contextual Privacy Across Agentic Workflows](https://arxiv.org/abs/2603.04902) | **agent workflows**&**privacy benchmark**&**contextual integrity** |
 
 
 
