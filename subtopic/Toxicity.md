@@ -131,6 +131,7 @@
 | 26.03 | Qatar University, Doha, Qatar | WWW 2026 | [Can Thinking Models Think to Detect Hateful Memes?](https://arxiv.org/abs/2603.01225) | **hateful memes**&**multimodal reasoning**&**reinforcement learning** |
 
 
+
 ## 💻Presentations & Talks
 
 

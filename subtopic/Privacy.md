@@ -479,6 +479,12 @@
 | 26.03 | University of Iowa | arxiv | [On the Suitability of LLM-Driven Agents for Dark Pattern Audits](https://arxiv.org/abs/2603.03881) | **dark patterns**&**web agents**&**audit** |
 | 26.03 | Duke University | arxiv | [Differentially Private Multimodal In-Context Learning](https://arxiv.org/abs/2603.04894) | **differential privacy**&**multimodal**&**in-context learning** |
 | 26.03 | IBM Research | arxiv | [AgentSCOPE: Evaluating Contextual Privacy Across Agentic Workflows](https://arxiv.org/abs/2603.04902) | **agent workflows**&**privacy benchmark**&**contextual integrity** |
+| 26.03 | Department of Computer Science, Rensselaer Polytechnic Institute, Troy, New York | arxiv | [Information-Theoretic Privacy Control for Sequential Multi-Agent LLM Systems](https://arxiv.org/abs/2603.05520) | **privacy control**&**multi-agent systems**&**information leakage** |
+| 26.03 | Technical University of Munich, Germany | arxiv | [Safer Reasoning Traces: Measuring and Mitigating Chain-of-Thought Leakage in LLMs](https://arxiv.org/abs/2603.05618) | **chain-of-thought privacy**&**PII leakage**&**gatekeeping** |
+| 26.03 | Case Western Reserve University, Cleveland, Ohio, USA | arxiv | [Quantifying Memorization and Privacy Risks in Genomic Language Models](https://arxiv.org/abs/2603.08913) | **genomic language models**&**memorization**&**privacy auditing** |
+| 26.03 | University College London | arxiv | [Cliopatra: Extracting Private Information from LLM Insights](https://arxiv.org/abs/2603.09781) | **privacy attacks**&**LLM insights**&**sensitive data leakage** |
+| 26.03 | Faculty of Engineering & Information Technology, University of Technology Sydney | arxiv | [EXPLAINABLE LLM UNLEARNING THROUGH REASONING](https://arxiv.org/abs/2603.09980) | **LLM unlearning**&**reasoning targets**&**robustness** |
+| 26.03 | TU Berlin, Berlin, Germany | arxiv | [Human-Centred LLM Privacy Audits: Findings and Frictions](https://arxiv.org/abs/2603.12094) | **privacy audits**&**human-centered auditing**&**attribute inference** |
 
 
 

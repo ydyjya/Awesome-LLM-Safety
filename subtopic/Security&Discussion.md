@@ -390,6 +390,16 @@
 | 26.02 | Amazon Web Services | arxiv | [Manifold of Failure: Behavioral Attraction Basins in Language Models](https://arxiv.org/abs/2602.22291) | **failure manifold**&**MAP-Elites**&**alignment deviation** |
 | 26.02 | National University of Singapore | arxiv | [IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation](https://arxiv.org/abs/2602.22700) | **auditing**&**verifiable computation**&**API integrity** |
 | 26.03 | Shanghai Innovation Institute | arxiv | [From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions](https://arxiv.org/abs/2603.01564) | **agentic AI**&**web security**&**survey** |
+| 26.03 | Sahara AI | arxiv | [Proof-of-Guardrail in AI Agents and What (Not) to Trust from It](https://arxiv.org/abs/2603.05786) | **agent guardrails**&**TEE attestation**&**verifiable safety** |
+| 26.03 | Beihang University | arxiv | [Evolving Deception: When Agents Evolve, Deception Wins](https://arxiv.org/abs/2603.05872) | **deceptive agents**&**self-evolution**&**alignment drift** |
+| 26.03 | Communication and Distributed Systems, RWTH Aachen University, Germany | arxiv | [Supporting Artifact Evaluation with LLMs: A Study with Published Security Research Papers](https://arxiv.org/abs/2603.06862) | **artifact evaluation**&**reproducibility**&**cybersecurity** |
+| 26.03 | Shandong University, Qingdao, Shandong, China | arxiv | [Give Them an Inch and They Will Take a Mile: Understanding and Measuring Caller Identity Confusion in MCP-Based AI Systems](https://arxiv.org/abs/2603.07473) | **MCP security**&**caller identity**&**authorization** |
+| 26.03 | Crew Scaler | arxiv | [Security Considerations for Multi-agent Systems](https://arxiv.org/abs/2603.09002) | **multi-agent systems**&**security frameworks**&**threat taxonomy** |
+| 26.03 | Institute of Information Engineering, Chinese Academy of Sciences | arxiv | [ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation](https://arxiv.org/abs/2603.09358) | **threat detection**&**provenance graphs**&**multi-agent investigation** |
+| 26.03 | Shandong University | arxiv | [Don’t Let the Claw Grip Your Hand: A Security Analysis and Defense Framework for OpenClaw](https://arxiv.org/abs/2603.10387) | **code agents**&**OpenClaw**&**human-in-the-loop defense** |
+| 26.03 | School of Interactive Computing, Georgia Institute of Technology | arxiv | [Safe and Scalable Web Agent Learning via Recreated Websites](https://arxiv.org/abs/2603.10505) | **web agents**&**synthetic environments**&**self-evolution** |
+| 26.03 | Ant Group & Tsinghua University, China | arxiv | [Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats](https://arxiv.org/abs/2603.11619) | **autonomous agents**&**OpenClaw**&**lifecycle security** |
+| 26.03 | College of Intelligent Science and Engineering, Jinan University | arxiv | [Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework](https://arxiv.org/abs/2603.11768) | **agent memory**&**governance**&**semantic drift** |
 
 
 

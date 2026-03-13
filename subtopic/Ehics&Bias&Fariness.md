@@ -418,7 +418,11 @@
 | 26.02 | Observe.AI | arxiv | [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970) | **Fairness Evaluation**&**Contact Center QA**&**Counterfactual Analysis** |
 | 26.02 | Northeastern University | arxiv | [Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming](https://arxiv.org/abs/2602.19948) | **mental health**&**clinical red teaming**&**AI safety** |
 | 26.03 | Scale AI | arxiv | [DEFENSIVE REFUSAL BIAS: HOW SAFETY ALIGNMENT FAILS CYBER DEFENDERS](https://arxiv.org/abs/2603.01246) | **cybersecurity**&**refusal bias**&**alignment** |
-
+| 26.03 | D-Lab, University of California, Berkeley, USA | arxiv | [The Fragility Of Moral Judgment In Large Language Models](https://arxiv.org/abs/2603.05651) | **moral judgment**&**robustness**&**narrative bias** |
+| 26.03 | Knight Foundation School of Computing and Information Sciences, Florida International University | arxiv | [POSITION: LLMS MUST USE FUNCTOR-BASED AND RAG-DRIVEN BIAS MITIGATION FOR FAIRNESS](https://arxiv.org/abs/2603.07368) | **fairness**&**bias mitigation**&**RAG** |
+| 26.03 | Institute of Computing and Intelligence, Harbin Institute of Technology, Shenzhen, China | arxiv | [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](https://arxiv.org/abs/2603.10351) | **multilingual evaluation**&**translationese bias**&**information bottleneck** |
+| 26.03 | Department of Finance, CUHK Business School, The Chinese University of Hong Kong | arxiv | [DATEDGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining](https://arxiv.org/abs/2603.11838) | **time-aware pretraining**&**lookahead bias**&**financial LLMs** |
+| 26.03 | Department of Language Science and Technology, Universität des Saarlandes | LREC 2026 | [Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in LLMs](https://arxiv.org/abs/2603.09434) | **commonsense reasoning**&**morality**&**narrative focus bias** |
 
 
 ## 💻Presentations & Talks
