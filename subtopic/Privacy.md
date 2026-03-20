@@ -485,6 +485,10 @@
 | 26.03 | University College London | arxiv | [Cliopatra: Extracting Private Information from LLM Insights](https://arxiv.org/abs/2603.09781) | **privacy attacks**&**LLM insights**&**sensitive data leakage** |
 | 26.03 | Faculty of Engineering & Information Technology, University of Technology Sydney | arxiv | [EXPLAINABLE LLM UNLEARNING THROUGH REASONING](https://arxiv.org/abs/2603.09980) | **LLM unlearning**&**reasoning targets**&**robustness** |
 | 26.03 | TU Berlin, Berlin, Germany | arxiv | [Human-Centred LLM Privacy Audits: Findings and Frictions](https://arxiv.org/abs/2603.12094) | **privacy audits**&**human-centered auditing**&**attribute inference** |
+| 26.03 | Beijing Electronic Science and Technology Institute, Beijing, China | arxiv | [Membership Inference for Contrastive Pre-training Models with Text-only PII Queries](https://arxiv.org/abs/2603.14222) | **Membership Inference**&**Contrastive Pre-training**&**PII Auditing** |
+| 26.03 | Department of Computer Science, City University of Hong Kong, Hong Kong | arxiv | [p2RAG: Privacy-Preserving RAG Service Supporting Arbitrary Top-k Retrieval](https://arxiv.org/abs/2603.14778) | **Privacy-Preserving RAG**&**Top-k Retrieval**&**Secret Sharing** |
+| 26.03 | Department of Electrical and Computer Engineering, New York University | arxiv | [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | **Differential Privacy**&**AI Agents**&**Privacy Leakage** |
+| 26.03 | University of Technology Sydney | arxiv | [PlanTwin: Privacy-Preserving Planning Abstractions for Cloud-Assisted LLM Agents](https://arxiv.org/abs/2603.18377) | **Planning Privacy**&**Digital Twin**&**Cloud Agents** |
 
 
 

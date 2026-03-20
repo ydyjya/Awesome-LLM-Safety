@@ -86,6 +86,8 @@
 | 26.02 | Technical University of Munich, Germany | arxiv | [Closing the Distribution Gap in Adversarial Training for LLMs](https://arxiv.org/abs/2602.15238) | **Adversarial Training**&**Robustness**&**Distribution Gap** |
 | 26.03 | Zhejiang University | arxiv | [Towards Self-Robust LLMs: Intrinsic Prompt Noise Resistance via CoIPO](https://arxiv.org/abs/2603.03314) | **prompt noise**&**robustness**&**alignment** |
 | 26.03 | University of South Florida | arxiv | [Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization](https://arxiv.org/abs/2603.04378) | **agentic robustness**&**jacobian regularization**&**minimax** |
+| 26.03 | Thomas Lord Department of Computer Science, University of Southern California | arxiv | [Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies](https://arxiv.org/abs/2603.12510) | **VLA Red-Teaming**&**Instruction Generation**&**Robot Robustness** |
+| 26.03 | Mitsubishi Electric Research Laboratories, Cambridge, MA 02139, USA | ICLR 2026 Workshop on Agents in the Wild | [Directional Embedding Smoothing for Robust Vision Language Models](https://arxiv.org/abs/2603.15259) | **Vision-Language Models**&**Jailbreak Defense**&**Embedding Smoothing** |
 
 
 

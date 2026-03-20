@@ -779,6 +779,13 @@
 | 26.03 | Trane Technologies, Davidson NC, USA | arxiv | [Toward Epistemic Stability: Engineering Consistent Procedures for Industrial LLM Hallucination Reduction](https://arxiv.org/abs/2603.10047) | **hallucination reduction**&**prompt engineering**&**industrial LLMs** |
 | 26.03 | The Beacom College of Computer and Cyber Sciences, Dakota State University, Madison, SD 57042, USA | arxiv | [ADAPTIVE ACTIVATION CANCELLATION FOR HALLUCINATION MITIGATION IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2603.10195) | **hallucination mitigation**&**inference-time intervention**&**activation cancellation** |
 | 26.03 | Large Language Model Department, Tencent, China | arxiv | [Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge](https://arxiv.org/abs/2603.11027) | **LLM-as-a-Judge**&**evaluation illusion**&**knowledge-grounded rubrics** |
+| 26.03 | Monash University | arxiv | [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](https://arxiv.org/abs/2603.13366) | **Hallucination Mitigation**&**Entropy-Aware Decoding**&**Multimodal Reasoning** |
+| 26.03 | Intuition Machines | arxiv | [The Phenomenology of Hallucinations](https://arxiv.org/abs/2603.13911) | **Hallucination Mechanism**&**Uncertainty Representation**&**Causal Intervention** |
+| 26.03 | Engineering Division, New York University Abu Dhabi, UAE | arxiv | [Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models](https://arxiv.org/abs/2603.15940) | **Vision-Language Models**&**Object Concealment**&**Hallucination-Free Attacks** |
+| 26.03 | Nanyang Technological University, Singapore | arxiv | [DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning](https://arxiv.org/abs/2603.16459) | **Hallucination Detection**&**Diffusion LLMs**&**Denoising Dynamics** |
+| 26.03 | UC Santa Cruz | arxiv | [Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation](https://arxiv.org/abs/2603.16664) | **LVLM Hallucination**&**Grounding Agent**&**Self-Refinement** |
+| 26.03 | Computational Unit, Z.H. College of Engineering & Technology, Aligarh Muslim University, India | arxiv | [Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872) | **Hallucination Mitigation**&**Tiered Retrieval**&**Verification Pipeline** |
+| 26.03 | Cleanlab | arxiv | [Real-Time Trustworthiness Scoring for LLM Structured Outputs and Data Extraction](https://arxiv.org/abs/2603.18014) | **Structured Outputs**&**Trustworthiness Scoring**&**Error Detection** |
 
 
 

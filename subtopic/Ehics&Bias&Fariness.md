@@ -423,6 +423,11 @@
 | 26.03 | Institute of Computing and Intelligence, Harbin Institute of Technology, Shenzhen, China | arxiv | [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](https://arxiv.org/abs/2603.10351) | **multilingual evaluation**&**translationese bias**&**information bottleneck** |
 | 26.03 | Department of Finance, CUHK Business School, The Chinese University of Hong Kong | arxiv | [DATEDGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining](https://arxiv.org/abs/2603.11838) | **time-aware pretraining**&**lookahead bias**&**financial LLMs** |
 | 26.03 | Department of Language Science and Technology, Universität des Saarlandes | LREC 2026 | [Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in LLMs](https://arxiv.org/abs/2603.09434) | **commonsense reasoning**&**morality**&**narrative focus bias** |
+| 26.03 | Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil | arxiv | [Widespread Gender and Pronoun Bias in Moral Judgments Across LLMs](https://arxiv.org/abs/2603.13636) | **Moral Judgment**&**Gender Bias**&**Pronoun Bias** |
+| 26.03 | Shanghai Artificial Intelligence Laboratory | arxiv | [Mechanistic Origin of Moral Indifference in Language Models](https://arxiv.org/abs/2603.15615) | **Moral Alignment**&**Latent Representations**&**Sparse Autoencoders** |
+| 26.03 | Information Systems and Modeling, Los Alamos National Laboratory, Los Alamos, New Mexico, USA | arxiv | [Prompt Programming for Cultural Bias and Alignment of Large Language Models](https://arxiv.org/abs/2603.16827) | **Cultural Alignment**&**Prompt Programming**&**DSPy** |
+| 26.03 | Department of Speech, Music and Hearing, KTH Royal Institute of Technology, Sweden | arxiv | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://arxiv.org/abs/2603.16941) | **SpeechLLMs**&**Intersectional Bias**&**Accent Fairness** |
+| 26.03 | Argonne National Laboratory, Lemont, 60439, USA | arxiv | [Toward Reliable, Safe, and Secure LLMs for Scientific Applications](https://arxiv.org/abs/2603.18235) | **Scientific LLMs**&**Safety Frameworks**&**Benchmark Generation** |
 
 
 ## 💻Presentations & Talks

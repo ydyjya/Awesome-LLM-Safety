@@ -396,6 +396,11 @@
 | 26.03 | CISPA Helmholtz Center for Information Security | arxiv | [Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks](https://arxiv.org/abs/2603.11914) | **harmful content**&**harmless tasks**&**content-level ethics** |
 | 26.03 | Renmin University of China | arxiv | [HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](https://arxiv.org/abs/2603.11975) | **household safety**&**vision-language models**&**embodied agents** |
 | 26.03 | Tsinghua University, Beijing, China | arxiv | [LABSHIELD: A Multimodal Benchmark for Safety-Critical Reasoning and Planning in Scientific Laboratories](https://arxiv.org/abs/2603.11987) | **laboratory safety**&**multimodal benchmarks**&**reasoning** |
+| 26.03 | KAIST AI | arxiv | [UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models](https://arxiv.org/abs/2603.17476) | **Multimodal Safety**&**Benchmarking**&**Unified Models** |
+| 26.03 | Oracle America Inc. | arxiv | [IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia](https://arxiv.org/abs/2603.17915) | **Multilingual Safety**&**Indic Languages**&**Safety Drift** |
+| 26.03 | Department of Computer Science, Stanford University, Stanford, CA, USA | arxiv | [TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots](https://arxiv.org/abs/2603.18008) | **Therapy Chatbots**&**Clinical Safety**&**CBT Fidelity** |
+| 26.03 | King Abdullah University of Science and Technology (KAUST), Saudi Arabia | arxiv | [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](https://arxiv.org/abs/2603.19092) | **Vision-Language Models**&**Semantic Steering**&**Multimodal Safety** |
+| 26.03 | Robotics Institute, Carnegie Mellon University | CVPR 2026 | [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](https://arxiv.org/abs/2603.15800) | **Contextual Safety**&**Self-Reflective Memory**&**Multimodal Benchmark** |
 
 
 

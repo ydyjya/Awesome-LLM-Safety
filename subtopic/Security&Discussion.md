@@ -400,6 +400,13 @@
 | 26.03 | School of Interactive Computing, Georgia Institute of Technology | arxiv | [Safe and Scalable Web Agent Learning via Recreated Websites](https://arxiv.org/abs/2603.10505) | **web agents**&**synthetic environments**&**self-evolution** |
 | 26.03 | Ant Group & Tsinghua University, China | arxiv | [Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats](https://arxiv.org/abs/2603.11619) | **autonomous agents**&**OpenClaw**&**lifecycle security** |
 | 26.03 | College of Intelligent Science and Engineering, Jinan University | arxiv | [Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework](https://arxiv.org/abs/2603.11768) | **agent memory**&**governance**&**semantic drift** |
+| 26.03 | State Key Laboratory of Complex & Critical Software Environment, Beihang University | arxiv | [Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw](https://arxiv.org/abs/2603.12644) | **Autonomous Agents**&**Threat Modeling**&**Defense Architecture** |
+| 26.03 | Unknown | arxiv | [Evaluation of Audio Language Models for Fairness, Safety, and Security](https://arxiv.org/abs/2603.13262) | **Audio LLMs**&**Safety Evaluation**&**Structural Taxonomy** |
+| 26.03 | Centre for Philosophy and AI Research, Friedrich-Alexander-University Erlangen-Nuremberg | arxiv | [Questionnaire Responses Do Not Capture the Safety of AI Agents](https://arxiv.org/abs/2603.14417) | **AI Agents**&**Safety Assessment**&**Construct Validity** |
+| 26.03 | University of Connecticut | arxiv | [Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning](https://arxiv.org/abs/2603.17174) | **Code LLMs**&**Data Poisoning**&**Vulnerability Scanning** |
+| 26.03 | Dartmouth College | arxiv | [Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196) | **Security Incident Analysis**&**RAG**&**MITRE ATTACK** |
+| 26.03 | Purdue University | arxiv | [Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety](https://arxiv.org/abs/2603.18245) | **Agent Safety**&**Benchmark Auditing**&**Tool Calls** |
+| 26.03 | University of Electronic Science and Technology of China, Chengdu, China | arxiv | [Functional Subspace Watermarking for Large Language Models](https://arxiv.org/abs/2603.18793) | **Model Watermarking**&**Functional Subspace**&**Ownership Verification** |
 
 
 
