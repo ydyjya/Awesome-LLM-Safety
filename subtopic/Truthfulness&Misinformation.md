@@ -786,6 +786,13 @@
 | 26.03 | UC Santa Cruz | arxiv | [Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation](https://arxiv.org/abs/2603.16664) | **LVLM Hallucination**&**Grounding Agent**&**Self-Refinement** |
 | 26.03 | Computational Unit, Z.H. College of Engineering & Technology, Aligarh Muslim University, India | arxiv | [Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval](https://arxiv.org/abs/2603.17872) | **Hallucination Mitigation**&**Tiered Retrieval**&**Verification Pipeline** |
 | 26.03 | Cleanlab | arxiv | [Real-Time Trustworthiness Scoring for LLM Structured Outputs and Data Extraction](https://arxiv.org/abs/2603.18014) | **Structured Outputs**&**Trustworthiness Scoring**&**Error Detection** |
+| 26.03 | Domyn Inc | arxiv | [FinReflectKG - HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems](https://arxiv.org/abs/2603.20252) | **GraphRAG**&**Hallucination detection**&**Financial QA** |
+| 26.03 | Oxford Suzhou Centre for Advanced Research, University of Oxford, Suzhou | arxiv | [Entropy Alone is Insufficient for Safe Selective Prediction in LLMs](https://arxiv.org/abs/2603.21172) | **Selective prediction**&**Uncertainty quantification**&**Hallucination mitigation** |
+| 26.03 | Hochschule der Medien Stuttgart, Stuttgart, Germany | arxiv | [Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models](https://arxiv.org/abs/2603.22214) | **LLM-as-a-judge**&**Reliability**&**Human agreement** |
+| 26.03 | Qwen Large Model Application Team, Alibaba | arxiv | [MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579) | **Hallucination detection**&**Multi-agent checking**&**RAG** |
+| 26.03 | The Hong Kong University of Science and Technology, Hong Kong, China | arxiv | [Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models](https://arxiv.org/abs/2603.25412) | **Reasoning safety**&**Real-time monitoring**&**Unsafe reasoning** |
+| 26.03 | Intelligent Game and Decision Lab, Beijing, China | AAAI 2026 | [Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration](https://arxiv.org/abs/2603.22812) | **Hallucination detection**&**Semantic entropy**&**Bayesian estimation** |
+| 26.03 | Xinjiang University, Urumqi, China | DASFAA 2026 | [LLM-MRD: LLM-Guided Multi-View Reasoning Distillation for Fake News Detection](https://arxiv.org/abs/2603.19293) | **Fake news detection**&**Reasoning distillation**&**Multimodal learning** |
 
 
 

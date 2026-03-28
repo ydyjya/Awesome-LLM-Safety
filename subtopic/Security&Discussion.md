@@ -407,6 +407,19 @@
 | 26.03 | Dartmouth College | arxiv | [Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196) | **Security Incident Analysis**&**RAG**&**MITRE ATTACK** |
 | 26.03 | Purdue University | arxiv | [Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety](https://arxiv.org/abs/2603.18245) | **Agent Safety**&**Benchmark Auditing**&**Tool Calls** |
 | 26.03 | University of Electronic Science and Technology of China, Chengdu, China | arxiv | [Functional Subspace Watermarking for Large Language Models](https://arxiv.org/abs/2603.18793) | **Model Watermarking**&**Functional Subspace**&**Ownership Verification** |
+| 26.03 | UC Santa Cruz | arxiv | [A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469) | **Agent security**&**Contextual security**&**Authorization** |
+| 26.03 | City University of Hong Kong | arxiv | [PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management](https://arxiv.org/abs/2603.19584) | **Mobile power management**&**LLM agents**&**Personalization** |
+| 26.03 | Shanghai Jiao Tong University, Shanghai, China | arxiv | [Trojan’s Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance](https://arxiv.org/abs/2603.19974) | **OpenClaw**&**Guidance injection**&**Autonomous coding agents** |
+| 26.03 | BigCommerce | arxiv | [An Agentic Multi-Agent Architecture for Cybersecurity Risk Management⋆](https://arxiv.org/abs/2603.20131) | **Cybersecurity risk**&**Multi-agent systems**&**Risk assessment** |
+| 26.03 | Lulea tekniska universitet, Sweden | arxiv | [Agentproof: Static Verification of Agent Workflow Graphs](https://arxiv.org/abs/2603.20356) | **Static verification**&**Workflow graphs**&**Temporal safety** |
+| 26.03 | Department of Computing Science, Umea University, Umea, Sweden | arxiv | [Memory poisoning and secure multi-agent systems](https://arxiv.org/abs/2603.20357) | **Memory poisoning**&**Multi-agent systems**&**Cryptographic mitigation** |
+| 26.03 | University of Washington, USA | arxiv | [AC4A: Access Control for Agents](https://arxiv.org/abs/2603.20933) | **Access control**&**Agent permissions**&**API security** |
+| 26.03 | Sun Yat-sen University | arxiv | [SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration](https://arxiv.org/abs/2603.21019) | **Skill marketplaces**&**Security auditing**&**Multi-agent collaboration** |
+| 26.03 | Department of Computer Science, New York Institute of Technology, Vancouver, BC, Canada | arxiv | [Auditing MCP Servers for Over-Privileged Tool Capabilities](https://arxiv.org/abs/2603.21641) | **MCP servers**&**Capability auditing**&**Tool privileges** |
+| 26.03 | New York Institute of Technology, Vancouver, BC, Canada | arxiv | [Are AI-assisted Development Tools Immune to Prompt Injection?](https://arxiv.org/abs/2603.21642) | **Prompt injection**&**MCP clients**&**Development tools** |
+| 26.03 | Department of Computer Science, New York Institute of Technology, Canada | arxiv | [Model Context Protocol Threat Modeling and Analyzing Vulnerabilities to Prompt Injection with Tool Poisoning](https://arxiv.org/abs/2603.22489) | **MCP security**&**Tool poisoning**&**Threat modeling** |
+| 26.03 | Beijing University of Posts and Telecommunications | arxiv | [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://arxiv.org/abs/2603.24414) | **OpenClaw security**&**Watcher middleware**&**Runtime protection** |
+| 26.03 | Department of Computer Science, Institute of Artificial Intelligence, University of Central Florida | Transactions on Machine Learning Research 2026 | [AI Security in the Foundation Model Era: A Comprehensive Survey from a Unified Perspective](https://arxiv.org/abs/2603.24857) | **Foundation model security**&**Threat taxonomy**&**Cross-modal defense** |
 
 
 

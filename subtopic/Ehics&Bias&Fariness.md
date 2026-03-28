@@ -428,6 +428,7 @@
 | 26.03 | Information Systems and Modeling, Los Alamos National Laboratory, Los Alamos, New Mexico, USA | arxiv | [Prompt Programming for Cultural Bias and Alignment of Large Language Models](https://arxiv.org/abs/2603.16827) | **Cultural Alignment**&**Prompt Programming**&**DSPy** |
 | 26.03 | Department of Speech, Music and Hearing, KTH Royal Institute of Technology, Sweden | arxiv | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://arxiv.org/abs/2603.16941) | **SpeechLLMs**&**Intersectional Bias**&**Accent Fairness** |
 | 26.03 | Argonne National Laboratory, Lemont, 60439, USA | arxiv | [Toward Reliable, Safe, and Secure LLMs for Scientific Applications](https://arxiv.org/abs/2603.18235) | **Scientific LLMs**&**Safety Frameworks**&**Benchmark Generation** |
+| 26.03 | University of Amsterdam | arxiv | [Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment](https://arxiv.org/abs/2603.23114) | **Moral judgment**&**Context sensitivity**&**Activation steering** |
 
 
 ## 💻Presentations & Talks

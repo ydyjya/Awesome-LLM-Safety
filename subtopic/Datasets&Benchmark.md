@@ -401,6 +401,9 @@
 | 26.03 | Department of Computer Science, Stanford University, Stanford, CA, USA | arxiv | [TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots](https://arxiv.org/abs/2603.18008) | **Therapy Chatbots**&**Clinical Safety**&**CBT Fidelity** |
 | 26.03 | King Abdullah University of Science and Technology (KAUST), Saudi Arabia | arxiv | [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](https://arxiv.org/abs/2603.19092) | **Vision-Language Models**&**Semantic Steering**&**Multimodal Safety** |
 | 26.03 | Robotics Institute, Carnegie Mellon University | CVPR 2026 | [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](https://arxiv.org/abs/2603.15800) | **Contextual Safety**&**Self-Reflective Memory**&**Multimodal Benchmark** |
+| 26.03 | Institute of Science Tokyo | arxiv | [JUBAKU: An Adversarial Benchmark for Exposing Culturally Grounded Stereotypes in Japanese LLMs](https://arxiv.org/abs/2603.20581) | **Social bias**&**Japanese LLMs**&**Cultural stereotypes** |
+| 26.03 | Department of Electrical, Computer and Biomedical Engineering, University of Pavia, Italy | arxiv | [SecureBreak - A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975) | **Safety dataset**&**Unsafe outputs**&**Security alignment** |
+| 26.03 | CSIRO Data61, Australia | arxiv | [Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval](https://arxiv.org/abs/2603.22717) | **Secure code generation**&**Multi-LLM ensembles**&**Static analysis** |
 
 
 

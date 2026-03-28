@@ -88,6 +88,8 @@
 | 26.03 | University of South Florida | arxiv | [Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization](https://arxiv.org/abs/2603.04378) | **agentic robustness**&**jacobian regularization**&**minimax** |
 | 26.03 | Thomas Lord Department of Computer Science, University of Southern California | arxiv | [Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies](https://arxiv.org/abs/2603.12510) | **VLA Red-Teaming**&**Instruction Generation**&**Robot Robustness** |
 | 26.03 | Mitsubishi Electric Research Laboratories, Cambridge, MA 02139, USA | ICLR 2026 Workshop on Agents in the Wild | [Directional Embedding Smoothing for Robust Vision Language Models](https://arxiv.org/abs/2603.15259) | **Vision-Language Models**&**Jailbreak Defense**&**Embedding Smoothing** |
+| 26.03 | University of Southern California | arxiv | [The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423) | **LLM agents**&**Prompt injection**&**Defense training** |
+| 26.03 | Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing, Urumqi, China | arxiv | [From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs](https://arxiv.org/abs/2603.24034) | **Speech-LLMs**&**Context bias**&**Robust ASR** |
 
 
 

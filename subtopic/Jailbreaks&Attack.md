@@ -993,6 +993,22 @@
 | 26.03 | Beijing University of Posts and Telecommunications | arxiv | [Resource Consumption Threats in Large Language Models](https://arxiv.org/abs/2603.16068) | **LLM Security**&**Resource Consumption**&**Efficiency Threats** |
 | 26.03 | Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore | arxiv | [Structured Semantic Cloaking for Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2603.16192) | **Jailbreak Attacks**&**Semantic Cloaking**&**Reasoning-Time Manipulation** |
 | 26.03 | School of Cyber Science and Engineering, Huazhong University of Science and Technology | USENIX Security 2026 | [Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs](https://arxiv.org/abs/2603.13847) | **Speech-Driven LLMs**&**Ultrasonic Jailbreaks**&**Acoustic Prompt Injection** |
+| 26.03 | School of Artificial Intelligence, Shenzhen University, China | arxiv | [Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models](https://arxiv.org/abs/2603.20122) | **Jailbreak attacks**&**Evolutionary search**&**Long-tail distributions** |
+| 26.03 | Tulane University | arxiv | [Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning](https://arxiv.org/abs/2603.20198) | **Multimodal red teaming**&**Agentic planning**&**Visual reasoning** |
+| 26.03 | UC Santa Cruz | arxiv | [ACRFence: Preventing Semantic Rollback Attacks in Agent Checkpoint-Restore](https://arxiv.org/abs/2603.20625) | **Checkpoint-restore**&**Semantic rollback**&**Tool calls** |
+| 26.03 | Lancaster University, United Kingdom | arxiv | [Is Monitoring Enough? Strategic Agent Selection For Stealthy Attack in Multi-Agent Discussions](https://arxiv.org/abs/2603.21194) | **Multi-agent discussions**&**Stealthy attacks**&**Monitoring** |
+| 26.03 | Singapore University of Technology and Design | arxiv | [Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697) | **Multimodal jailbreaks**&**Visual narratives**&**Safety evaluation** |
+| 26.03 | KAIST | arxiv | [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://arxiv.org/abs/2603.22341) | **Agent red teaming**&**Evolutionary search**&**MCP** |
+| 26.03 | Cyber Science Lab, University of Guelph, Canada | arxiv | [SoK: The Attack Surface of Agentic AI — Tools, and Autonomy](https://arxiv.org/abs/2603.22928) | **Agentic AI**&**Attack surface**&**Security taxonomy** |
+| 26.03 | Zhejiang University, Hangzhou, China | arxiv | [TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](https://arxiv.org/abs/2603.23117) | **Vision-language-action**&**Adversarial patches**&**CoT security** |
+| 26.03 | Shandong University | arxiv | [Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs](https://arxiv.org/abs/2603.23269) | **Jailbreak fuzzing**&**Token importance**&**Query efficiency** |
+| 26.03 | Deakin University | arxiv | [Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509) | **Safety collapse**&**Frontier LLMs**&**Dual-use tasks** |
+| 26.03 | China University of Geoscience Beijing | arxiv | [How Vulnerable Are Edge LLMs?](https://arxiv.org/abs/2603.23822) | **Edge LLMs**&**Knowledge extraction**&**Quantization** |
+| 26.03 | MATS | arxiv | [Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs](https://arxiv.org/abs/2603.24511) | **Autoresearch**&**Adversarial attacks**&**LLM agents** |
+| 26.03 | Technical University of Munich | arxiv | [Analysing the Safety Pitfalls of Steering Vectors](https://arxiv.org/abs/2603.24543) | **Activation steering**&**Safety audit**&**Jailbreaks** |
+| 26.03 | The Chinese University of Hong Kong, Shenzhen | arxiv | [PIDP-Attack: Combining Prompt Injection with Database Poisoning Attacks on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.25164) | **RAG poisoning**&**Prompt injection**&**Compound attacks** |
+| 26.03 | Ben-Gurion University of the Negev, Israel | arxiv | [Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models](https://arxiv.org/abs/2603.25403) | **Side-channel attacks**&**Vision-language models**&**Edge privacy** |
+| 26.03 | Algoverse AI Research | EACL SRW 2026 | [When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models](https://arxiv.org/abs/2603.19247) | **Adaptive red-teaming**&**Prompt optimization**&**Jailbreaking** |
 
 
 

@@ -489,6 +489,13 @@
 | 26.03 | Department of Computer Science, City University of Hong Kong, Hong Kong | arxiv | [p2RAG: Privacy-Preserving RAG Service Supporting Arbitrary Top-k Retrieval](https://arxiv.org/abs/2603.14778) | **Privacy-Preserving RAG**&**Top-k Retrieval**&**Secret Sharing** |
 | 26.03 | Department of Electrical and Computer Engineering, New York University | arxiv | [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | **Differential Privacy**&**AI Agents**&**Privacy Leakage** |
 | 26.03 | University of Technology Sydney | arxiv | [PlanTwin: Privacy-Preserving Planning Abstractions for Cloud-Assisted LLM Agents](https://arxiv.org/abs/2603.18377) | **Planning Privacy**&**Digital Twin**&**Cloud Agents** |
+| 26.03 | Emory University | arxiv | [Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375) | **Membership inference**&**LLM agents**&**Privacy leakage** |
+| 26.03 | University of Massachusetts Amherst | arxiv | [Investigating In-Context Privacy Learning by Integrating User-Facing Privacy Tools into Conversational Agents](https://arxiv.org/abs/2603.19416) | **Privacy learning**&**Conversational agents**&**User-facing tools** |
+| 26.03 | Korea Advanced Institute of Science and Technology | ICLR 2026 | [REDACBENCH: CAN AI ERASE YOUR SECRETS?](https://arxiv.org/abs/2603.20208) | **Redaction benchmark**&**Sensitive information**&**Policy compliance** |
+| 26.03 | School of Computer and Big Data, Minjiang University | arxiv | [CIPL: A Target-Independent Framework for Channel-Inversion Privacy Leakage in Agents](https://arxiv.org/abs/2603.22751) | **Privacy leakage**&**Channel inversion**&**Agent pipelines** |
+| 26.03 | Veradigm | arxiv | [Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data](https://arxiv.org/abs/2603.23515) | **Medical coding**&**Synthetic clinical data**&**Privacy-preserving training** |
+| 26.03 | Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, CO | arxiv | [PLACID: Privacy-preserving Large language models for Acronym Clinical Inference and Disambiguation](https://arxiv.org/abs/2603.23678) | **Clinical acronyms**&**On-device LLMs**&**Privacy preservation** |
+| 26.03 | JPMorgan AI Research | EACL 2026 | [Detecting Non-Membership in LLM Training Data via Rank Correlations](https://arxiv.org/abs/2603.22707) | **Non-membership detection**&**Rank correlations**&**Training data auditing** |
 
 
 
