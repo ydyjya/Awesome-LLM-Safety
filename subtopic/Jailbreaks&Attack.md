@@ -1009,6 +1009,7 @@
 | 26.03 | The Chinese University of Hong Kong, Shenzhen | arxiv | [PIDP-Attack: Combining Prompt Injection with Database Poisoning Attacks on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.25164) | **RAG poisoning**&**Prompt injection**&**Compound attacks** |
 | 26.03 | Ben-Gurion University of the Negev, Israel | arxiv | [Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models](https://arxiv.org/abs/2603.25403) | **Side-channel attacks**&**Vision-language models**&**Edge privacy** |
 | 26.03 | Algoverse AI Research | EACL SRW 2026 | [When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models](https://arxiv.org/abs/2603.19247) | **Adaptive red-teaming**&**Prompt optimization**&**Jailbreaking** |
+| 26.03 | Deakin University, Australia | arxiv | [Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509) | **Task-driven jailbreak**&**Cross-domain safety failure**&**Agentic attack** |
 
 
 

@@ -404,6 +404,7 @@
 | 26.03 | Institute of Science Tokyo | arxiv | [JUBAKU: An Adversarial Benchmark for Exposing Culturally Grounded Stereotypes in Japanese LLMs](https://arxiv.org/abs/2603.20581) | **Social bias**&**Japanese LLMs**&**Cultural stereotypes** |
 | 26.03 | Department of Electrical, Computer and Biomedical Engineering, University of Pavia, Italy | arxiv | [SecureBreak - A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975) | **Safety dataset**&**Unsafe outputs**&**Security alignment** |
 | 26.03 | CSIRO Data61, Australia | arxiv | [Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval](https://arxiv.org/abs/2603.22717) | **Secure code generation**&**Multi-LLM ensembles**&**Static analysis** |
+| 26.03 | Deakin University, Australia | arxiv | [Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509) | **Jailbreak Benchmark**&**Task-Driven Attack**&**Cross-Domain Safety Failure** |
 
 
 
