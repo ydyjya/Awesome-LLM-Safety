@@ -23,8 +23,8 @@ English | [中文](README_cn.md)
 
 **🧑‍💻 Our Work**
 
-We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). 
-But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
+We'''ve curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on large language model safety (llm-safety). 
+But we don'''t stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
 Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 > If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
@@ -121,6 +121,7 @@ I can offer you a promotional spot here for up to one month.
 | 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
 | 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 | 24.01 |       Tutorials        |    Awesome-LM-SSP    |                  [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)                  |
+| 26.01 |       Repository       | Awesome-Embodied-AI-Safety |        [link](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)         |
 
 ### Other
 
