@@ -429,6 +429,8 @@
 | 26.03 | Department of Speech, Music and Hearing, KTH Royal Institute of Technology, Sweden | arxiv | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://arxiv.org/abs/2603.16941) | **SpeechLLMs**&**Intersectional Bias**&**Accent Fairness** |
 | 26.03 | Argonne National Laboratory, Lemont, 60439, USA | arxiv | [Toward Reliable, Safe, and Secure LLMs for Scientific Applications](https://arxiv.org/abs/2603.18235) | **Scientific LLMs**&**Safety Frameworks**&**Benchmark Generation** |
 | 26.03 | University of Amsterdam | arxiv | [Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment](https://arxiv.org/abs/2603.23114) | **Moral judgment**&**Context sensitivity**&**Activation steering** |
+| 26.03 | George Mason University, Fairfax, Virginia, United States | arxiv | [Debiasing Large Language Models toward Social Factors in Online Behavior Analytics through Prompt Knowledge Tuning](https://arxiv.org/abs/2603.27057) | **Social attribution bias**&**Prompt knowledge tuning**&**Behavior analytics** |
+| 26.03 | Stanford University | arxiv | [Emergent Social Intelligence Risks in Generative Multi-Agent Systems](https://arxiv.org/abs/2603.27771) | **Multi-agent systems**&**Emergent risks**&**Social intelligence** |
 
 
 ## 💻Presentations & Talks

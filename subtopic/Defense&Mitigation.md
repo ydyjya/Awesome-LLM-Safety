@@ -770,6 +770,15 @@
 | 26.03 | Department of Automation, Tsinghua University, Beijing, China | arxiv | [Safe Reinforcement Learning with Preference-based Constraint Inference](https://arxiv.org/abs/2603.23565) | **Safe reinforcement learning**&**Constraint inference**&**Preference learning** |
 | 26.03 | eBay Inc | arxiv | [THE COGNITIVE FIREWALL: SECURING BROWSER-BASED AI AGENTS AGAINST INDIRECT PROMPT INJECTION VIA HYBRID EDGE-CLOUD DEFENSE∗](https://arxiv.org/abs/2603.23791) | **Browser agents**&**Indirect prompt injection**&**Hybrid defense** |
 | 26.03 | GovTech, Singapore | arxiv | [PROMPT ATTACK DETECTION WITH LLM-AS-A-JUDGE AND MIXTURE-OF-MODELS](https://arxiv.org/abs/2603.25176) | **Prompt attack detection**&**LLM-as-a-judge**&**Mixture-of-models** |
+| 26.03 | Peking University | arxiv | [Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](https://arxiv.org/abs/2603.27240) | **Vision-language safety**&**Causal discovery**&**Activation repair** |
+| 26.03 | Macquarie University | arxiv | [Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs](https://arxiv.org/abs/2603.27518) | **Over-refusal**&**Mechanistic interpretability**&**Representation subspaces** |
+| 26.03 | Knight Foundation School of Computing and Information Sciences, Florida International University | arxiv | [GUARD-SLM: Token Activation-Based Defense Against Jailbreak Attacks for Small Language Models](https://arxiv.org/abs/2603.28817) | **Jailbreak defense**&**Small language models**&**Activation analysis** |
+| 26.03 | NVIDIA | arxiv | [Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2603.30016) | **Prompt injection**&**System-level defenses**&**AI agents** |
+| 26.04 | CISPA Helmholtz Center for Information Security | arxiv | [Finding and Reactivating Post-Trained LLMs’ Hidden Safety Mechanisms](https://arxiv.org/abs/2604.00012) | **Post-training safety**&**Reasoning models**&**Safety reactivation** |
+| 26.04 | The Ohio State University | arxiv | [Robust Multimodal Safety via Conditional Decoding](https://arxiv.org/abs/2604.00310) | **Multimodal safety**&**Conditional decoding**&**Safety attention** |
+| 26.04 | Huazhong University of Science and Technology, Wuhan, 430074, China | arxiv | [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/abs/2604.00627) | **Model merging**&**Safety vulnerabilities**&**Trojan attacks** |
+| 26.04 | The Pennsylvania State University | arxiv | [AgentWatcher: A Rule-based Prompt Injection Monitor](https://arxiv.org/abs/2604.01194) | **Prompt injection**&**Rule-based monitoring**&**Causal attribution** |
+| 26.04 | Oak Ridge National Laboratory, Oak Ridge, USA | arxiv | [SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits](https://arxiv.org/abs/2604.01473) | **Jailbreak detection**&**Token-level logits**&**Lightweight guardrails** |
 
 
 

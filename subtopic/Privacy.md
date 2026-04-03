@@ -496,6 +496,12 @@
 | 26.03 | Veradigm | arxiv | [Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data](https://arxiv.org/abs/2603.23515) | **Medical coding**&**Synthetic clinical data**&**Privacy-preserving training** |
 | 26.03 | Department of Biomedical Informatics, University of Colorado Anschutz, Aurora, CO | arxiv | [PLACID: Privacy-preserving Large language models for Acronym Clinical Inference and Disambiguation](https://arxiv.org/abs/2603.23678) | **Clinical acronyms**&**On-device LLMs**&**Privacy preservation** |
 | 26.03 | JPMorgan AI Research | EACL 2026 | [Detecting Non-Membership in LLM Training Data via Rank Correlations](https://arxiv.org/abs/2603.22707) | **Non-membership detection**&**Rank correlations**&**Training data auditing** |
+| 26.03 | Nankai University | arxiv | [Not All Entities are Created Equal: A Dynamic Anonymization Framework for Privacy-Preserving Retrieval-Augmented Generation](https://arxiv.org/abs/2603.26074) | **Privacy-preserving RAG**&**Dynamic anonymization**&**Entity privacy** |
+| 26.03 | City University of Hong Kong | arxiv | [Towards Context-Aware Image Anonymization with Multi-Agent Reasoning](https://arxiv.org/abs/2603.27817) | **Image anonymization**&**Multi-agent reasoning**&**Privacy protection** |
+| 26.03 | Hornetsecurity, Hem, France | arxiv | [Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models](https://arxiv.org/abs/2603.29497) | **Privacy sensitivity**&**Knowledge distillation**&**De-identification** |
+| 26.04 | Unknown | arxiv | [Secure Forgetting: A Framework for Privacy-Driven Unlearning in Large Language Model (LLM)-Based Agents](https://arxiv.org/abs/2604.00430) | **Agent unlearning**&**Privacy preservation**&**Selective forgetting** |
+| 26.04 | The Chinese University of Hong Kong, Shenzhen | arxiv | [Do Phone-Use Agents Respect Your Privacy?](https://arxiv.org/abs/2604.00986) | **Mobile agents**&**Privacy evaluation**&**Behavior auditing** |
+| 26.04 | University of Southern California | arxiv | [No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents](https://arxiv.org/abs/2604.01350) | **Shared-state agents**&**Cross-user contamination**&**Memory safety** |
 
 
 

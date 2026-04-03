@@ -1009,6 +1009,10 @@
 | 26.03 | The Chinese University of Hong Kong, Shenzhen | arxiv | [PIDP-Attack: Combining Prompt Injection with Database Poisoning Attacks on Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.25164) | **RAG poisoning**&**Prompt injection**&**Compound attacks** |
 | 26.03 | Ben-Gurion University of the Negev, Israel | arxiv | [Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models](https://arxiv.org/abs/2603.25403) | **Side-channel attacks**&**Vision-language models**&**Edge privacy** |
 | 26.03 | Algoverse AI Research | EACL SRW 2026 | [When Prompt Optimization Becomes Jailbreaking: Adaptive Red-Teaming of Large Language Models](https://arxiv.org/abs/2603.19247) | **Adaptive red-teaming**&**Prompt optimization**&**Jailbreaking** |
+| 26.03 | Hong Kong University of Science and Technology | arxiv | [HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision-Language Models](https://arxiv.org/abs/2603.27522) | **Backdoor attacks**&**Vision-language models**&**Advertisement injection** |
+| 26.03 | Anthropic Fellows Program | arxiv | [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](https://arxiv.org/abs/2603.29038) | **Adversarial finetuning**&**Constitutional classifiers**&**Safety bypass** |
+| 26.04 | National University of Singapore | arxiv | [AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration](https://arxiv.org/abs/2604.01014) | **Membership inference**&**Agentic exploration**&**Privacy auditing** |
+| 26.03 | Google | TMLR 2026 | [Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2603.27918) | **Multimodal LLMs**&**Adversarial attacks**&**Security survey** |
 
 
 
