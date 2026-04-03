@@ -121,6 +121,7 @@ I can offer you a promotional spot here for up to one month.
 | 23.07 |       Repository       | Awesome LLM Security |               [link](https://github.com/corca-ai/awesome-llm-security)                |
 | 23.10 |       Tutorials        |  Awesome-LLM-Safety  |                 [link](https://github.com/ydyjya/Awesome-LLM-Safety)                  |
 | 24.01 |       Tutorials        |    Awesome-LM-SSP    |                  [link](https://github.com/ThuCCSLab/Awesome-LM-SSP)                  |
+| 26.01 |       Repository       | Awesome-Embodied-AI-Safety |        [link](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)         |
 
 ### Other
 
