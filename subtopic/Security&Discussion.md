@@ -431,6 +431,15 @@
 | 26.04 | University of Melbourne | arxiv | [Combating Data Laundering in LLM Training](https://arxiv.org/abs/2604.01904) | **Data laundering**&**Training data detection**&**Synthesis data reversion** |
 | 26.04 | Fudan University, China | arxiv | [From Component Manipulation to System Compromise: Understanding and Detecting Malicious MCP Servers](https://arxiv.org/abs/2604.01905) | **MCP security**&**Malicious servers**&**Behavioral deviation detection** |
 | 26.04 | University of California, Los Angeles | EACL 2026 | [Open-Domain Safety Policy Construction](https://arxiv.org/abs/2604.01354) | **Safety policy construction**&**Agentic research**&**Content moderation** |
+| 26.04 | Constellation | arxiv | [An Independent Safety Evaluation of Kimi K2.5](https://arxiv.org/abs/2604.03121) | **Bias Reduction**&**Safety Evaluation**&**Open-Weight Models** |
+| 26.04 | UC Santa Cruz | arxiv | [Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://arxiv.org/abs/2604.04759) | **Personal AI**&**Threat Taxonomy**&**Safety Evaluation** |
+| 26.04 | aKASTEL Security Research Labs, Karlsruhe Institute of Technology, Am Fasanengarten 5, 76131 Karlsruhe, Germany | arxiv | [Foundations for Agentic AI Investigations from the Forensic Analysis of OpenClaw](https://arxiv.org/abs/2604.05589) | **Threat Taxonomy**&**AI Forensics**&**OpenClaw** |
+| 26.04 | University of the Cumberlands | arxiv | [A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms](https://arxiv.org/abs/2604.05969) | **Threat Taxonomy**&**Benchmarking**&**MCP Security** |
+| 26.04 | Computer Science & Engineering, Mississippi State University | arxiv | [Attribution-Driven Explainable Intrusion Detection with Encoder-Based Large Language Models](https://arxiv.org/abs/2604.06266) | **Security Analysis**&**Intrusion Detection**&**Explainability** |
+| 26.04 | Research Institute of Trustworthy Autonomous | arxiv | [ClawLess: A Security Model of AI Agents](https://arxiv.org/abs/2604.06284) | **Clawless**&**Security**&**Model** |
+| 26.04 | Department of Earth Science and Engineering, Imperial College London, London, United Kingdom | arxiv | [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](https://arxiv.org/abs/2604.06550) | **Agent Skills**&**OpenClaw**&**Benchmarking** |
+| 26.04 | The Pennsylvania State University | arxiv | [TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation](https://arxiv.org/abs/2604.07536) | **Tool Poisoning**&**TRUSTDESC**&**Preventing** |
+| 26.04 | The Hong Kong Polytechnic University | arxiv | [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](https://arxiv.org/abs/2604.08304) | **Threat Taxonomy**&**Benchmarking**&**RAG Security** |
 
 
 

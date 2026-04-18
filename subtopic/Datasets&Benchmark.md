@@ -414,6 +414,15 @@
 | 26.04 | Carnegie Mellon University | arxiv | [AGENTSOCIALBENCH: Evaluating Privacy Risks in Human-Centered Agentic Social Networks](https://arxiv.org/abs/2604.01487) | **Privacy risks**&**Agentic social networks**&**Multi-agent coordination** |
 | 26.04 | International Institute of Information Technology, Hyderabad | arxiv | [ImplicitBBQ: Benchmarking Implicit Bias in Large Language Models through Characteristic Based Cues](https://arxiv.org/abs/2604.01925) | **Implicit bias**&**Bias benchmark**&**Characteristic cues** |
 | 26.04 | Shanghai AI Lab | arxiv | [ATBench: A Diverse and Realistic Trajectory Benchmark for Long-Horizon Agent Safety](https://arxiv.org/abs/2604.02022) | **Agent safety benchmark**&**Trajectory evaluation**&**Long-horizon risks** |
+| 26.04 | BenchFlow | arxiv | [ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces](https://arxiv.org/abs/2604.05172) | **OpenClaw**&**Benchmarking**&**Productivity Agents** |
+| 26.04 | Binjiang Institute of Zhejiang University, Hangzhou, China | arxiv | [From Retinal Evidence to Safe Decisions: RETINA-SAFE and ECRT for Hallucination Risk Triage in Medical LLMs](https://arxiv.org/abs/2604.05348) | **Hallucination**&**Benchmarking**&**Healthcare AI** |
+| 26.04 | Beijing University of Posts and Telecommunications, Beijing, China | arxiv | [DetailVerifyBench: A Benchmark for Dense Hallucination Localization in Long Image Captions](https://arxiv.org/abs/2604.05623) | **Hallucination**&**Benchmarking**&**Multimodal Safety** |
+| 26.04 | Graduate School of Data Science, Seoul National University | arxiv | [Beyond Case Law: Evaluating Structure-Aware Retrieval and Safety in Statute-Centric Legal QA](https://arxiv.org/abs/2604.06173) | **Hallucination**&**Benchmarking**&**Emotional Attacks** |
+| 26.04 | Microsoft Research | arxiv | [The Art of Building Verifiers for Computer Use Agents](https://arxiv.org/abs/2604.06240) | **Art**&**Building**&**Verifiers** |
+| 26.04 | University of Wisconsin-Madison | arxiv | [WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks](https://arxiv.org/abs/2604.06367) | **Web Agents**&**Benchmarking**&**Multimodal Safety** |
+| 26.04 | CyCraft AI Lab, Taiwan | arxiv | [TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223) | **Hallucination**&**Benchmarking**&**Prompt Injection** |
+| 26.04 | The Pennsylvania State University | ACL 2026 | [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499) | **Benchmarking**&**Prompt Injection**&**Piarena** |
+| 26.04 | Zhejiang University, 2State Key Laboratory of Internet Architecture, Tsinghua University | ACL 2026 | [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](https://arxiv.org/abs/2604.07775) | **Benchmarking**&**Aciarena**&**Unified** |
 
 
 

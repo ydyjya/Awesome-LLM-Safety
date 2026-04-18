@@ -1013,6 +1013,20 @@
 | 26.03 | Anthropic Fellows Program | arxiv | [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](https://arxiv.org/abs/2603.29038) | **Adversarial finetuning**&**Constitutional classifiers**&**Safety bypass** |
 | 26.04 | National University of Singapore | arxiv | [AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration](https://arxiv.org/abs/2604.01014) | **Membership inference**&**Agentic exploration**&**Privacy auditing** |
 | 26.03 | Google | TMLR 2026 | [Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2603.27918) | **Multimodal LLMs**&**Adversarial attacks**&**Security survey** |
+| 26.04 | Pennsylvania State University | arxiv | [Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents](https://arxiv.org/abs/2604.02623) | **Web Agents**&**Memory Poisoning**&**OpenClaw** |
+| 26.04 | Southwestern University of Finance and Economics | arxiv | [LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2604.02954) | **GraphRAG**&**Logical Attacks**&**Benchmarking** |
+| 26.04 | Griffith University | arxiv | [Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems](https://arxiv.org/abs/2604.03081) | **Agent Skills**&**Supply Chain Security**&**Coding Agents** |
+| 26.04 | Monash University | arxiv | [Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling](https://arxiv.org/abs/2604.04842) | **Healthcare AI**&**Safety Alignment**&**Do** |
+| 26.04 | State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences | arxiv | [SkillAttack: Automated Red Teaming of Agent Skills through Attack Path Refinement](https://arxiv.org/abs/2604.04989) | **Agent Skills**&**Skillattack**&**Automated** |
+| 26.04 | Computer and Information Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel | arxiv | [FreakOut-LLM: The Effect of Emotional Stimuli on Safety Alignment](https://arxiv.org/abs/2604.04992) | **Open-Weight Models**&**Jailbreak Defense**&**Safety Alignment** |
+| 26.04 | National Anti-Counterfeit Engineering Research Center, Huazhong University of Science and Technology | arxiv | [Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809) | **Backdoor Attacks**&**Multimodal Safety**&**Stealthy** |
+| 26.04 | Intuit | arxiv | [SALLIE: Safeguarding Against Latent Language & Image Exploits](https://arxiv.org/abs/2604.06247) | **Vision-Language Models**&**Ensemble Learning**&**Prompt Injection** |
+| 26.04 | National University of Defense Technology | arxiv | [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2604.06811) | **Backdoor Attacks**&**Tool Security**&**Skilltrojan** |
+| 26.04 | Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China | arxiv | [MirageBackdoor: A Stealthy Attack that Induces Think-Well-Answer-Wrong Reasoning](https://arxiv.org/abs/2604.06840) | **Backdoor Attacks**&**Miragebackdoor**&**Stealthy** |
+| 26.04 | Huazhong University of Science and Technology, China | arxiv | [RefineRAG: Word-Level Poisoning Attacks via Retriever-Guided Text Refinement](https://arxiv.org/abs/2604.07403) | **RAG Security**&**Refinerag**&**Word-Level** |
+| 26.04 | The Pennsylvania State University | arxiv | [TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation](https://arxiv.org/abs/2604.07536) | **Tool Poisoning**&**TRUSTDESC**&**Preventing** |
+| 26.04 | Independent Researcher | arxiv | [Beyond Social Pressure: Benchmarking Epistemic Attack in Large Language Models](https://arxiv.org/abs/2604.07749) | **Threat Taxonomy**&**Benchmarking**&**Safety Alignment** |
+| 26.04 | University of California, Santa Barbara | arxiv | [Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407) | **Supply Chain Security**&**Your**&**Agent** |
 
 
 
