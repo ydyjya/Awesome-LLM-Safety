@@ -130,6 +130,10 @@
 | 26.02 | National University of Singapore, Singapore | arxiv | [VIDEOSTF: Stress-Testing Output Repetition in Video Large Language Models](https://arxiv.org/abs/2602.10639) | **VideoLLMs**&**Output Repetition**&**Stress Testing** |
 | 26.03 | Qatar University, Doha, Qatar | WWW 2026 | [Can Thinking Models Think to Detect Hateful Memes?](https://arxiv.org/abs/2603.01225) | **hateful memes**&**multimodal reasoning**&**reinforcement learning** |
 | 26.03 | Centrum Wiskunde & Informatica, Amsterdam, The Netherlands | arxiv | [When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech](https://arxiv.org/abs/2603.25269) | **Hate speech**&**Check-worthiness**&**LLM-in-the-loop** |
+| 26.04 | University College London | arxiv | [Segment-Level Coherence for Robust Harmful Intent Probing in LLMs](https://arxiv.org/abs/2604.14865) | **Segment-Level Coherence**&**Language Models**&**Coherence for Robust** |
+| 26.04 | School of Data Science and Engineering, East China Normal University | ACL 2026 | [ToxiTrace: Gradient-Aligned Training for Explainable Chinese Toxicity Detection](https://arxiv.org/abs/2604.12321) | **ToxiTrace**&**Explainable Chinese Toxicity**&**Chinese Toxicity Detection** |
+| 26.04 | Department of Computer Science, University of Illinois, Urbana-Champaign, Champaign, IL 61801 | ACL 2026 | [CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602) | **CausalDetox**&**Language Model Detoxification**&**Causal Head Selection** |
+| 26.04 | University of Passau, Chair of Data Science | LREC 2026 | [Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations](https://arxiv.org/abs/2604.09625) | **Generalized Cross-Lingual Hateful**&**Cross-Lingual Hateful Language**&**Hateful Language Detection** |
 
 
 

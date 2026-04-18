@@ -511,6 +511,14 @@
 | 26.04 | Department of Computer Science and Engineering, Korea University | arxiv | [Towards Privacy-Preserving Large Language Model: Text-free Inference Through Alignment and Adaptation](https://arxiv.org/abs/2604.06831) | **Benchmarking**&**Differential Privacy**&**Healthcare AI** |
 | 26.04 | Information Sciences and Technology, The Pennsylvania State University | arxiv | [Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation](https://arxiv.org/abs/2604.07486) | **Differential Privacy**&**Synthetic Data**&**Private** |
 | 26.04 | University of Massachusetts Boston | ACL 2026 | [Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use](https://arxiv.org/abs/2604.05432) | **Backdoor Attacks**&**Tool Security**&**Your** |
+| 26.04 | Department of Computer Science, University of Massachusetts Boston, MA, USA | arxiv | [Assessing Privacy Preservation and Utility in Online Vision-Language Models](https://arxiv.org/abs/2604.09695) | **Online Vision-Language Models**&**Assessing Privacy Preservation**&**Vision Language Models** |
+| 26.04 | Shandong University | arxiv | [Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://arxiv.org/abs/2604.11259) | **Multimodal Large Language**&**GUI Agent Privacy**&**Mobile GUI Agent** |
+| 26.04 | Sperix Labs | arxiv | [LLM-Redactor: An Empirical Evaluation of Eight Techniques for Privacy-Preserving LLM Requests](https://arxiv.org/abs/2604.12064) | **LLM-Redactor**&**Privacy-Preserving LLM Requests**&**LLM Requests** |
+| 26.04 | Software and IT Engineering Department, École de Technologie Supérieure, Montreal, Quebec, Canada | arxiv | [Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference](https://arxiv.org/abs/2604.12168) | **Generative Artificial Intelligence**&**Fully Homomorphic Encryption**&**privacy preserving LLM** |
+| 26.04 | Infmedix, Co., Ltd., Seoul, Republic of Korea | arxiv | [Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System](https://arxiv.org/abs/2604.12258) | **Agentic Research Intelligence**&**Research Intelligence System**&**Clinical Agentic Research** |
+| 26.04 | King Abdullah University of Science and Technology | arxiv | [CoLA: A Choice Leakage Attack Framework to Expose Privacy Risks in Subset Training](https://arxiv.org/abs/2604.12342) | **CoLA**&**Expose Privacy Risks**&**Choice Leakage Attack** |
+| 26.04 | KT Corporation | ACL 2026 | [CURaTE: Continual Unlearning in Real Time with Ensured Preservation of LLM Knowledge](https://arxiv.org/abs/2604.14644) | **CURaTE**&**Real Time**&**Time with Ensured** |
+| 26.04 | Beihang University | ACL 2026 | [ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance](https://arxiv.org/abs/2604.12308) | **ContextLens**&**Modeling Imperfect Privacy**&**Modeling Imperfect** |
 
 
 

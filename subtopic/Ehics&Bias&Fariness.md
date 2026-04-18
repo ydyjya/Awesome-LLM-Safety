@@ -432,6 +432,8 @@
 | 26.03 | George Mason University, Fairfax, Virginia, United States | arxiv | [Debiasing Large Language Models toward Social Factors in Online Behavior Analytics through Prompt Knowledge Tuning](https://arxiv.org/abs/2603.27057) | **Social attribution bias**&**Prompt knowledge tuning**&**Behavior analytics** |
 | 26.03 | Stanford University | arxiv | [Emergent Social Intelligence Risks in Generative Multi-Agent Systems](https://arxiv.org/abs/2603.27771) | **Multi-agent systems**&**Emergent risks**&**Social intelligence** |
 | 26.04 | Worcester Polytechnic Institute, Worcester, MA, USA | arxiv | [SafeScreen: A Safety-First Screening Framework for Personalized Video Retrieval for Vulnerable Users](https://arxiv.org/abs/2604.03264) | **Agentic Reasoning**&**Explainability**&**Video Safety** |
+| 26.04 | Araya Inc. | arxiv | [PSYCHOLOGICAL CONCEPT NEURONS: CAN NEURAL CONTROL BIAS PROBING AND SHIFT GENERATION IN LLMS?](https://arxiv.org/abs/2604.11802) | **PSYCHOLOGICAL CONCEPT NEURONS**&**NEURAL CONTROL BIAS**&**NEURAL CONTROL** |
+| 26.04 | School of Information Science, Beijing Language and Culture University, Beijing, China | ACL 2026 | [SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models](https://arxiv.org/abs/2604.14672) | **SPAGBias**&**Large Language**&**Spatial Gender Bias** |
 
 
 ## 💻Presentations & Talks

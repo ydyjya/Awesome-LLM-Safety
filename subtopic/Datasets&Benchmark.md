@@ -423,6 +423,12 @@
 | 26.04 | CyCraft AI Lab, Taiwan | arxiv | [TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223) | **Hallucination**&**Benchmarking**&**Prompt Injection** |
 | 26.04 | The Pennsylvania State University | ACL 2026 | [PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499) | **Benchmarking**&**Prompt Injection**&**Piarena** |
 | 26.04 | Zhejiang University, 2State Key Laboratory of Internet Architecture, Tsinghua University | ACL 2026 | [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](https://arxiv.org/abs/2604.07775) | **Benchmarking**&**Aciarena**&**Unified** |
+| 26.04 | University of Wisconsin–Madison | arxiv | [The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents](https://arxiv.org/abs/2604.10577) | **The Blind Spot of Agent Safety**&**Expose Critical Vulnerabilities**&**Blind Spot** |
+| 26.04 | Department of Artificial Intelligence, Yonsei University | arxiv | [PAC-BENCH: Evaluating Multi-Agent Collaboration under Privacy Constraints](https://arxiv.org/abs/2604.11523) | **PAC-BENCH**&**Evaluating Multi-Agent Collaboration**&**Evaluating Multi-Agent** |
+| 26.04 | Kolega.Dev | arxiv | [RealVuln: Benchmarking Rule-Based, General-Purpose LLM, and Security-Specialized Scanners on Real-World Code](https://arxiv.org/abs/2604.13764) | **RealVuln**&**General-Purpose LLM**&**Real-World Code** |
+| 26.04 | Vulcan Research, AIFT | arxiv | [MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems](https://arxiv.org/abs/2604.13849) | **MCPThreatHive**&**Context Protocol Ecosystems**&**Model Context Protocol** |
+| 26.04 | Shanghai Artificial Intelligence Laboratory | arxiv | [Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX](https://arxiv.org/abs/2604.14858) | **Trajectory Safety Evaluation**&**Evaluation and Diagnosis**&**Safety Evaluation** |
+| 26.04 | School of Computing, National University of Singapore | IJCNN 2026 | [PilotBench: A Benchmark for General Aviation Agents with Safety Constraints](https://arxiv.org/abs/2604.08987) | **PilotBench**&**Safety Constraints**&**General Aviation Agents** |
 
 
 

@@ -440,6 +440,11 @@
 | 26.04 | Department of Earth Science and Engineering, Imperial College London, London, United Kingdom | arxiv | [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](https://arxiv.org/abs/2604.06550) | **Agent Skills**&**OpenClaw**&**Benchmarking** |
 | 26.04 | The Pennsylvania State University | arxiv | [TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation](https://arxiv.org/abs/2604.07536) | **Tool Poisoning**&**TRUSTDESC**&**Preventing** |
 | 26.04 | The Hong Kong Polytechnic University | arxiv | [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](https://arxiv.org/abs/2604.08304) | **Threat Taxonomy**&**Benchmarking**&**RAG Security** |
+| 26.04 | Arizona State University | arxiv | [Like a Hammer, It Can Build, It Can Break: Large Language Model Uses, Perceptions, and Adoption in Cybersecurity Operations on Reddit](https://arxiv.org/abs/2604.09998) | **Large Language**&**Security Operations Center**&**LLM tools** |
+| 26.04 | University of Delaware | arxiv | [Towards Personalizing Secure Programming Education with LLM-Injected Vulnerabilities](https://arxiv.org/abs/2604.13955) | **Personalizing Secure Programming**&**Secure Programming Education**&**Personalizing Secure** |
+| 26.04 | DEXAI - Icaro Lab | arxiv | [Agentic Microphysics: A Manifesto for Generative AI Safety](https://arxiv.org/abs/2604.15236) | **Agentic Microphysics**&**Manifesto for Generative**&**Manifesto** |
+| 26.04 | Chongqing University | ACL 2026 | [DEEPGUARD: Secure Code Generation via Multi-Layer Semantic Aggregation](https://arxiv.org/abs/2604.09089) | **DEEPGUARD**&**Multi-Layer Semantic Aggregation**&**Semantic Aggregation** |
+| 26.04 | New York University | FORC 2026 | [Can we Watermark Low-Entropy LLM Outputs?](https://arxiv.org/abs/2604.12051) | **Low-Entropy LLM Outputs**&**Watermark Low-Entropy LLM**&**output** |
 
 
 
