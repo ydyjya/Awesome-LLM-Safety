@@ -205,6 +205,8 @@ I can offer you a promotional spot here for up to one month.
 ---
 ## 🛡️Defenses & Mitigation
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Runtime membrane security, epistemic hygiene, self-audit, agent discovery, cognitive architecture, collective cognition. Zero dependencies.
+
 ### 📑Papers
 | Date  |    Institute    | Publication |                                                             Paper                                                             |
 |:-----:|:---------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
