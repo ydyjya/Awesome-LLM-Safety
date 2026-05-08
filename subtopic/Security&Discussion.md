@@ -445,6 +445,10 @@
 | 26.04 | DEXAI - Icaro Lab | arxiv | [Agentic Microphysics: A Manifesto for Generative AI Safety](https://arxiv.org/abs/2604.15236) | **Agentic Microphysics**&**Manifesto for Generative**&**Manifesto** |
 | 26.04 | Chongqing University | ACL 2026 | [DEEPGUARD: Secure Code Generation via Multi-Layer Semantic Aggregation](https://arxiv.org/abs/2604.09089) | **DEEPGUARD**&**Multi-Layer Semantic Aggregation**&**Semantic Aggregation** |
 | 26.04 | New York University | FORC 2026 | [Can we Watermark Low-Entropy LLM Outputs?](https://arxiv.org/abs/2604.12051) | **Low-Entropy LLM Outputs**&**Watermark Low-Entropy LLM**&**output** |
+| 26.04 | MemTensor, China | arxiv | [A Survey on the Security of Long-Term Memory in LLM Agents: Toward Mnemonic Sovereignty](https://arxiv.org/abs/2604.16548) | **Agent Memory**&**Memory Security**&**Governance** |
+| 26.04 | Tandon School of Engineering, New York University | arxiv | [Surgical Repair of Insecure Code Generation in LLMs](https://arxiv.org/abs/2604.16697) | **Code Security**&**Model Repair**&**Mechanistic Diagnosis** |
+| 26.04 | ETH Zurich | arxiv | [Using large language models for embodied planning introduces systematic safety risks](https://arxiv.org/abs/2604.18463) | **Embodied Planning**&**Robotics Safety**&**LLM Agents** |
+| 26.04 | BlueFocus Communication Group | arxiv | [Owner-Harm: A Missing Threat Model for AI Agent Safety](https://arxiv.org/abs/2604.18658) | **Agent Safety**&**Threat Model**&**Owner Harm** |
 
 
 

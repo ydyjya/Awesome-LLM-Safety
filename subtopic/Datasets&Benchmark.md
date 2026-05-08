@@ -429,6 +429,13 @@
 | 26.04 | Vulcan Research, AIFT | arxiv | [MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems](https://arxiv.org/abs/2604.13849) | **MCPThreatHive**&**Context Protocol Ecosystems**&**Model Context Protocol** |
 | 26.04 | Shanghai Artificial Intelligence Laboratory | arxiv | [Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX](https://arxiv.org/abs/2604.14858) | **Trajectory Safety Evaluation**&**Evaluation and Diagnosis**&**Safety Evaluation** |
 | 26.04 | School of Computing, National University of Singapore | IJCNN 2026 | [PilotBench: A Benchmark for General Aviation Agents with Safety Constraints](https://arxiv.org/abs/2604.08987) | **PilotBench**&**Safety Constraints**&**General Aviation Agents** |
+| 26.04 | CISPA Helmholtz Center for Information Security | arxiv | [HarmfulSkillBench: How Do Harmful Skills Weaponize Your Agents?](https://arxiv.org/abs/2604.15415) | **Agent Safety**&**Skill Ecosystem**&**Harmful Skills** |
+| 26.04 | The Hong Kong University of Science and Technology | arxiv | [Into the Gray Zone: Domain Contexts Can Blur LLM Safety Boundaries](https://arxiv.org/abs/2604.15717) | **Safety Boundary**&**Domain Context**&**Jailbreak** |
+| 26.04 | DEXAI – Icaro Lab | arxiv | [Adversarial Humanities Benchmark: Results on Stylistic Robustness in Frontier Model Safety](https://arxiv.org/abs/2604.18487) | **Frontier Models**&**Stylistic Robustness**&**Safety Benchmark** |
+| 26.04 | Korea University | arxiv | [HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human–LLM Collaborative Writing](https://arxiv.org/abs/2604.19274) | **Co-Authoring**&**Jailbreak Benchmark**&**Collaborative Writing** |
+| 26.04 | University of Michigan | arxiv | [SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models](https://arxiv.org/abs/2604.19638) | **Multimodal Planning**&**Safety Benchmark**&**Embodied AI** |
+| 26.04 | Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology | arxiv | [CyberCertBench: Evaluating LLMs in Cybersecurity Certification Knowledge](https://arxiv.org/abs/2604.20389) | **Cybersecurity**&**Certification**&**Benchmark** |
+| 26.04 | Department of Artificial Intelligence, Hanyang University | ACL 2026 | [MHSafeEval: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models](https://arxiv.org/abs/2604.17730) | **Mental Health**&**Safety Evaluation**&**Role-Aware** |
 
 
 

@@ -91,6 +91,7 @@
 | 26.03 | University of Southern California | arxiv | [The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423) | **LLM agents**&**Prompt injection**&**Defense training** |
 | 26.03 | Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing, Urumqi, China | arxiv | [From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs](https://arxiv.org/abs/2603.24034) | **Speech-LLMs**&**Context bias**&**Robust ASR** |
 | 26.04 | College of Cyber Security, Jinan University, Guangzhou 510632, China | arxiv | [DeepSeek Robustness Against Semantic-Character Dual-Space Mutated Prompt Injection](https://arxiv.org/abs/2604.12548) | **Mutated Prompt Injection**&**Semantic-Character Dual-Space Mutated**&**Dual-Space Mutated Prompt** |
+| 26.04 | EPFL | ACL 2026 | [Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks](https://arxiv.org/abs/2604.18660) | **LLM Tutors**&**Answer Leakage**&**Adversarial Students** |
 
 
 

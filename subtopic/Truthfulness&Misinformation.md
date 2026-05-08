@@ -823,6 +823,18 @@
 | 26.04 | Tsinghua University, Institute for Interdisciplinary Information Sciences | ACL 2026 | [FAITH: Factuality Alignment through Integrating Trustworthiness and Honestness](https://arxiv.org/abs/2604.10189) | **FAITH**&**Factuality Alignment**&**Integrating Trustworthiness** |
 | 26.04 | University of Modena and Reggio Emilia | ACL 2026 | [Benchmarking Deflection and Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.12033) | **Large Vision-Language Models**&**Hallucination in Large**&**Large Vision** |
 | 26.04 | Washington University in St. Louis | ACL 2026 | [CURA: Clinical Uncertainty Risk Alignment for Language Model–Based Risk Prediction](https://arxiv.org/abs/2604.14651) | **CURA**&**Based Risk Prediction**&**Uncertainty Risk Alignment** |
+| 26.04 | Hebrew University of Jerusalem | arxiv | [Why Fine-Tuning Encourages Hallucinations and How to Fix It](https://arxiv.org/abs/2604.15574) | **Hallucination**&**Fine-Tuning**&**Self-Distillation** |
+| 26.04 | Dalian University of Technology | arxiv | [HQA-VLAttack: Towards High Quality Adversarial Attack on Vision-Language Pre-Trained Models](https://arxiv.org/abs/2604.16499) | **Adversarial Attack**&**Vision-Language Models**&**Robustness** |
+| 26.04 | Harbin Institute of Technology | arxiv | [Mitigating Multimodal Hallucination via Phase-wise Self-reward](https://arxiv.org/abs/2604.17982) | **Multimodal Hallucination**&**Self-Reward**&**LVLM** |
+| 26.04 | Rutgers University | arxiv | [Where Fake Citations Are Made: Tracing Field-Level Hallucination to Specific Neurons in LLMs](https://arxiv.org/abs/2604.18880) | **Citation Hallucination**&**Neurons**&**Mechanistic Interpretability** |
+| 26.04 | School of Data Science, The Chinese University of Hong Kong, Shenzhen | arxiv | [Mind the Unseen Mass: Unmasking LLM Hallucinations via Soft-Hybrid Alphabet Estimation](https://arxiv.org/abs/2604.19162) | **Hallucination**&**Uncertainty Estimation**&**Black-Box** |
+| 26.04 | Independent Researcher | arxiv | [Do Hallucination Neurons Generalize? Evidence from Cross-Domain Transfer in LLMs](https://arxiv.org/abs/2604.19765) | **Hallucination Neurons**&**Cross-Domain Transfer**&**Mechanistic Detection** |
+| 26.04 | ISIR, Sorbonne Université | arxiv | [When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/abs/2604.21911) | **LVLM**&**Prompt-Induced Hallucination**&**Vision Grounding** |
+| 26.04 | University of Edinburgh | ACL 2026 | [Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps](https://arxiv.org/abs/2604.19565) | **SpeechLLMs**&**Hallucination Detection**&**Attention Maps** |
+| 26.04 | Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences | ACL 2026 | [MeasHalu: Mitigation of Scientific Measurement Hallucinations for Large Language Models with Enhanced Reasoning](https://arxiv.org/abs/2604.16929) | **Scientific Measurement**&**Hallucination Mitigation**&**Reasoning** |
+| 26.04 | HKUST(GZ) | ACL 2026 | [PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations](https://arxiv.org/abs/2604.16909) | **Hallucination**&**Source Memory**&**Reasoning Probe** |
+| 26.04 | Huazhong University of Science and Technology | ICASSP 2026 | [VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing](https://arxiv.org/abs/2604.19412) | **LVLM**&**Object Hallucination**&**Visual Contrastive Editing** |
+| 26.04 | Computer Science Department, University of Münster | IJCNN 2026 | [RAGognizer: Hallucination-Aware Fine-Tuning via Detection Head Integration](https://arxiv.org/abs/2604.15945) | **RAG**&**Hallucination Detection**&**Fine-Tuning** |
 
 
 

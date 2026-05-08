@@ -519,6 +519,18 @@
 | 26.04 | King Abdullah University of Science and Technology | arxiv | [CoLA: A Choice Leakage Attack Framework to Expose Privacy Risks in Subset Training](https://arxiv.org/abs/2604.12342) | **CoLA**&**Expose Privacy Risks**&**Choice Leakage Attack** |
 | 26.04 | KT Corporation | ACL 2026 | [CURaTE: Continual Unlearning in Real Time with Ensured Preservation of LLM Knowledge](https://arxiv.org/abs/2604.14644) | **CURaTE**&**Real Time**&**Time with Ensured** |
 | 26.04 | Beihang University | ACL 2026 | [ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance](https://arxiv.org/abs/2604.12308) | **ContextLens**&**Modeling Imperfect Privacy**&**Modeling Imperfect** |
+| 26.04 | Department of Electrical and Computer Engineering, University of Pittsburgh | arxiv | [Privacy-Preserving LLMs Routing](https://arxiv.org/abs/2604.15728) | **Privacy**&**LLM Routing**&**MPC** |
+| 26.04 | Halıcıoğlu Data Science Institute, UC San Diego | arxiv | [DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy](https://arxiv.org/abs/2604.15851) | **Differential Privacy**&**Benchmark**&**LLM Reasoning** |
+| 26.04 | IMT School for Advanced Studies Lucca | arxiv | [PolicyGapper: Automated Detection of Inconsistencies Between Google Play Data Safety Sections and Privacy Policies Using LLMs](https://arxiv.org/abs/2604.16128) | **Privacy Policy**&**Mobile Apps**&**LLM Auditing** |
+| 26.04 | Istanbul Technical University | arxiv | [SafeLM: Unified Privacy-Aware Optimization for Trustworthy Federated Large Language Models](https://arxiv.org/abs/2604.16606) | **Federated Learning**&**Privacy**&**Trustworthy LLMs** |
+| 26.04 | City University of Hong Kong, Hong Kong | arxiv | [CapSeal: Capability-Sealed Secret Mediation for Secure Agent Execution](https://arxiv.org/abs/2604.16762) | **Secret Management**&**Agent Security**&**Capability Control** |
+| 26.04 | ETH Zurich, Switzerland | arxiv | [Can LLMs Infer Conversational Agent Users' Personality Traits from Chat History?](https://arxiv.org/abs/2604.19785) | **Privacy**&**Personality Inference**&**Conversational Agents** |
+| 26.04 | Cornell Tech | arxiv | [Reinforcing privacy reasoning in LLMs via normative simulacra from fiction](https://arxiv.org/abs/2604.20904) | **Privacy Reasoning**&**Normative Simulacra**&**Fiction** |
+| 26.04 | The University of Chicago | arxiv | [Differentially Private Model Merging](https://arxiv.org/abs/2604.20985) | **Differential Privacy**&**Model Merging**&**Privacy Accounting** |
+| 26.04 | Microsoft AI | arxiv | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://arxiv.org/abs/2604.21571) | **Personalization**&**Privacy**&**Adapters** |
+| 26.04 | The Chinese University of Hong Kong | ACL 2026 | [Understanding Secret Leakage Risks in Code LLMs: A Tokenization Perspective](https://arxiv.org/abs/2604.17814) | **Code LLMs**&**Secret Leakage**&**Tokenization** |
+| 26.04 | Dartmouth College | ACL 2026 | [If Only My CGM Could Speak: A Privacy-Preserving Agent for Question Answering over Continuous Glucose Data](https://arxiv.org/abs/2604.17133) | **Health Privacy**&**CGM**&**Question Answering** |
+| 26.04 | Emory University | S&P 2026 | [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697) | **Extraction Risk**&**LLM APIs**&**Privacy Evaluation** |
 
 
 
