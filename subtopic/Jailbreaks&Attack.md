@@ -1076,6 +1076,23 @@
 | 26.04 | Nanjing University | arxiv | [Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors](https://arxiv.org/abs/2604.27426) | **Supply Chain**&**Code Backdoors**&**Secret Stealing** |
 | 26.04 | Johns Hopkins University | arxiv | [TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning](https://arxiv.org/abs/2604.27861) | **Decompositional Jailbreaks**&**Stateful Defense**&**Contrastive Learning** |
 | 26.04 | The Pennsylvania State University | arxiv | [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157) | **Red-Teaming**&**Prompt Injection**&**Knowledge Corruption** |
+| 26.05 | College of Cyber Security, Jinan University | arxiv | [E-MIA: Exam-Style Black-Box Membership Inference Attacks against RAG Systems](https://arxiv.org/abs/2605.00955) | **Membership Inference**&**RAG Security**&**Privacy** |
+| 26.05 | HKUST (GZ) | arxiv | [SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://arxiv.org/abs/2605.00974) | **Jailbreaking**&**Rule Evolution**&**Training-Free Attack** |
+| 26.05 | ETH Zürich | arxiv | [Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration](https://arxiv.org/abs/2605.01970) | **Agent Memory**&**Data Exfiltration**&**Prompt Injection** |
+| 26.05 | Fudan University | arxiv | [When Alignment Isn't Enough: Response-Path Attacks on LLM Agents](https://arxiv.org/abs/2605.02187) | **LLM Agents**&**Response-Path Attacks**&**Alignment** |
+| 26.05 | Universidad de Murcia | arxiv | [ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming](https://arxiv.org/abs/2605.02647) | **Evolutionary Red-Teaming**&**Conversational Priming**&**Jailbreak** |
+| 26.05 | Nanjing University | arxiv | [ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection](https://arxiv.org/abs/2605.03378) | **Prompt Injection**&**Context-Aware Defense**&**LLM Agents** |
+| 26.05 | Northeastern University | arxiv | [Exposing LLM Safety Gaps Through Mathematical Encoding: New Attacks and Systematic Analysis](https://arxiv.org/abs/2605.03441) | **Mathematical Encoding**&**Jailbreak**&**Safety Gaps** |
+| 26.05 | Nankai University | arxiv | [Misrouter: Exploiting Routing Mechanisms for Input-Only Attacks on Mixture-of-Experts LLMs](https://arxiv.org/abs/2605.04446) | **Mixture-of-Experts**&**Routing Attack**&**Input-Only** |
+| 26.05 | Wuhan University | arxiv | [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://arxiv.org/abs/2605.04700) | **Audio LLMs**&**Jailbreak**&**Gradient Optimization** |
+| 26.05 | College of Engineering and Computer Science, Marshall University | arxiv | [Chainwash: Multi-Step Rewriting Attacks on Diffusion Language Model Watermarks](https://arxiv.org/abs/2605.05503) | **Watermarking**&**Diffusion Language Models**&**Rewriting Attack** |
+| 26.05 | North Carolina State University | arxiv | [WAAA! Web Adversaries Against Agentic Browsers](https://arxiv.org/abs/2605.05509) | **Agentic Browsers**&**Web Adversaries**&**Browser Security** |
+| 26.05 | Harvard University | arxiv | [Chain of Risk: Safety Failures in Large Reasoning Models and Mitigation via Adaptive Multi-Principle Steering](https://arxiv.org/abs/2605.05678) | **Reasoning Models**&**Safety Failures**&**Multi-Principle Steering** |
+| 26.05 | East China Normal University | arxiv | [Stateful Agent Backdoor](https://arxiv.org/abs/2605.06158) | **Agent Backdoor**&**Stateful Attack**&**LLM Agents** |
+| 26.05 | CISPA Helmholtz Center for Information Security | arxiv | [Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models](https://arxiv.org/abs/2605.06423) | **Membership Inference**&**Black-Box Attack**&**LLM Privacy** |
+| 26.05 | Digital Technologies Research Centre, National Research Council Canada | ACISP 2026 | [Autonomous Adversary: Red-Teaming in the age of LLM](https://arxiv.org/abs/2605.06486) | **Autonomous Adversary**&**Red-Teaming**&**LLM Agents** |
+| 26.05 | City University of Hong Kong | ICML 2026 | [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699) | **Multimodal Toxicity**&**Red-Teaming**&**Temporal Alignment** |
+| 26.05 | Simon Fraser University | ICML 2026 | [MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety](https://arxiv.org/abs/2605.01687) | **Multi-Turn Jailbreak**&**Benchmark**&**LLM Safety** |
 
 
 

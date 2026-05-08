@@ -436,6 +436,8 @@
 | 26.04 | School of Information Science, Beijing Language and Culture University, Beijing, China | ACL 2026 | [SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models](https://arxiv.org/abs/2604.14672) | **SPAGBias**&**Large Language**&**Spatial Gender Bias** |
 | 26.04 | Politecnico di Milano | arxiv | [Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation](https://arxiv.org/abs/2604.23600) | **Gender Bias**&**Persona Conditioning**&**Multilingual LLMs** |
 | 26.04 | University of Florida | arxiv | [An Investigation of Linguistic Biases in LLM-Based Recommendations](https://arxiv.org/abs/2604.25456) | **Recommendation Systems**&**Linguistic Bias**&**LLM Fairness** |
+| 26.05 | Department of Computer Science, University of British Columbia | arxiv | [Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment](https://arxiv.org/abs/2605.01147) | **Agentic AI**&**Interaction Topology**&**Fairness** |
+| 26.05 | Elmore Family School of Electrical and Computer Engineering, Purdue University | arxiv | [The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594) | **Multimodal RAG**&**Textual Bias**&**Bias Mitigation** |
 
 
 ## 💻Presentations & Talks

@@ -438,6 +438,14 @@
 | 26.04 | Department of Artificial Intelligence, Hanyang University | ACL 2026 | [MHSafeEval: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models](https://arxiv.org/abs/2604.17730) | **Mental Health**&**Safety Evaluation**&**Role-Aware** |
 | 26.04 | Shanghai Jiao Tong University | arxiv | [OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents](https://arxiv.org/abs/2604.24348) | **OS Agents**&**Safety Evaluation**&**Robustness** |
 | 26.04 | Kyushu Institute of Technology | arxiv | [Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control](https://arxiv.org/abs/2604.26577) | **Healthcare Robotics**&**LLM Safety**&**Benchmark** |
+| 26.05 | University of Illinois Urbana-Champaign | arxiv | [ML-Bench&Guard: Policy-Grounded Multilingual Safety Benchmark and Guardrail for Large Language Models](https://arxiv.org/abs/2605.00689) | **Multilingual Safety**&**Guardrails**&**Benchmark** |
+| 26.05 | Northeastern University | arxiv | [Toward a Principled Framework for Agent Safety Measurement](https://arxiv.org/abs/2605.01644) | **Agent Safety**&**Measurement Framework**&**Evaluation** |
+| 26.05 | Swarms & AI Lab (SAIL), University of Haifa | arxiv | [MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952) | **Coding Agents**&**Compositional Vulnerability**&**Benchmark** |
+| 26.05 | Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg | arxiv | [Safety and accuracy follow different scaling laws in clinical large language models](https://arxiv.org/abs/2605.04039) | **Clinical LLMs**&**Safety Scaling**&**Accuracy** |
+| 26.05 | AIM Intelligence | arxiv | [XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity](https://arxiv.org/abs/2605.05662) | **Cross-Cultural Safety**&**Country-Grounded Benchmark**&**Cultural Sensitivity** |
+| 26.05 | Simula Metropolitan Center for Digital Engineering | arxiv | [When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](https://arxiv.org/abs/2605.06652) | **Safety Scoring**&**No Ground Truth**&**Validation** |
+| 26.05 | Tsinghua University | ACL 2026 | [LeakDojo: Decoding the Leakage Threats of RAG Systems](https://arxiv.org/abs/2605.05818) | **RAG Leakage**&**Benchmark**&**Privacy** |
+| 26.05 | Shanghai University of Finance and Economics | ACL 2026 | [FinSafetyBench: Evaluating LLM Safety in Real-World Financial Scenarios](https://arxiv.org/abs/2605.00706) | **Financial Safety**&**Benchmark**&**LLM Evaluation** |
 
 
 

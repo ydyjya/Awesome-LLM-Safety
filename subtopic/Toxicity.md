@@ -134,6 +134,7 @@
 | 26.04 | School of Data Science and Engineering, East China Normal University | ACL 2026 | [ToxiTrace: Gradient-Aligned Training for Explainable Chinese Toxicity Detection](https://arxiv.org/abs/2604.12321) | **ToxiTrace**&**Explainable Chinese Toxicity**&**Chinese Toxicity Detection** |
 | 26.04 | Department of Computer Science, University of Illinois, Urbana-Champaign, Champaign, IL 61801 | ACL 2026 | [CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602) | **CausalDetox**&**Language Model Detoxification**&**Causal Head Selection** |
 | 26.04 | University of Passau, Chair of Data Science | LREC 2026 | [Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations](https://arxiv.org/abs/2604.09625) | **Generalized Cross-Lingual Hateful**&**Cross-Lingual Hateful Language**&**Hateful Language Detection** |
+| 26.05 | Department of Computer Science, University of Arizona | arxiv | [An Evaluation of Chat Safety Moderations in Roblox](https://arxiv.org/abs/2605.04491) | **Chat Moderation**&**Roblox**&**Online Safety** |
 
 
 

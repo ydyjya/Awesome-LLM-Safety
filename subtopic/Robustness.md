@@ -94,6 +94,9 @@
 | 26.04 | EPFL | ACL 2026 | [Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks](https://arxiv.org/abs/2604.18660) | **LLM Tutors**&**Answer Leakage**&**Adversarial Students** |
 | 26.04 | Ben-Gurion University of the Negev | arxiv | [SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?](https://arxiv.org/abs/2604.25737) | **Code Editing**&**Multi-Agent**&**Reliability** |
 | 26.04 | Washington University in St. Louis | arxiv | [Low Rank Adaptation for Adversarial Perturbation](https://arxiv.org/abs/2604.27487) | **Adversarial Perturbation**&**LoRA**&**Robustness** |
+| 26.05 | Rice University | arxiv | [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.01133) | **Multi-Agent Safety**&**Embedding Defenses**&**Robustness** |
+| 26.05 | Nanjing University | arxiv | [Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges](https://arxiv.org/abs/2605.06161) | **Safety Judges**&**Policy Invariance**&**Reliability** |
+| 26.05 | Shanghai Jiao Tong University | S&P 2026 | [SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058) | **Jailbreak Robustness**&**Systematization**&**LLM Security** |
 
 
 

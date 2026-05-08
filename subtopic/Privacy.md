@@ -532,6 +532,15 @@
 | 26.04 | Dartmouth College | ACL 2026 | [If Only My CGM Could Speak: A Privacy-Preserving Agent for Question Answering over Continuous Glucose Data](https://arxiv.org/abs/2604.17133) | **Health Privacy**&**CGM**&**Question Answering** |
 | 26.04 | Emory University | S&P 2026 | [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697) | **Extraction Risk**&**LLM APIs**&**Privacy Evaluation** |
 | 26.04 | Zhejiang University | arxiv | [A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations](https://arxiv.org/abs/2604.24468) | **Split Learning**&**LLM Fine-Tuning**&**Privacy** |
+| 26.05 | UDST | arxiv | [On the Privacy of LLMs: An Ablation Study](https://arxiv.org/abs/2605.02255) | **LLM Privacy**&**Ablation Study**&**Inference Attacks** |
+| 26.05 | University of Wisconsin-Madison | arxiv | [Dependency-Aware Privacy for Multi-turn Agents](https://arxiv.org/abs/2605.03188) | **Multi-Turn Agents**&**Privacy Dependency**&**Prompt Sanitization** |
+| 26.05 | Department of Computing, Imperial College London | arxiv | [When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213) | **Confidential Computing**&**Agentic AI**&**Secrets** |
+| 26.05 | HiveTraceLab | arxiv | [GLiNER Guard: Unified Encoder Family for Production LLM Safety and Privacy](https://arxiv.org/abs/2605.05277) | **Safety Moderation**&**PII Detection**&**Encoder Guardrail** |
+| 26.05 | Georgia Institute of Technology | arxiv | [How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study](https://arxiv.org/abs/2605.05340) | **Physical Privacy**&**VLMs**&**Empirical Study** |
+| 26.05 | Zhejiang University | arxiv | [Profiling for Pennies: Unveiling the Privacy Iceberg of LLM Agents](https://arxiv.org/abs/2605.06232) | **Agent Privacy**&**Profiling**&**Data Leakage** |
+| 26.05 | CWI Amsterdam | arxiv | [PACZero: PAC-Private Fine-Tuning of Language Models via Sign Quantization](https://arxiv.org/abs/2605.06505) | **PAC Privacy**&**Fine-Tuning**&**Sign Quantization** |
+| 26.05 | Department of Computer Science, University of Maryland, College Park | arxiv | [FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning](https://arxiv.org/abs/2605.06596) | **Federated Fine-Tuning**&**Client Attribution**&**Privacy** |
+| 26.05 | Xiamen University | ICML 2026 | [Position: Embodied AI Requires a Privacy-Utility Trade-off](https://arxiv.org/abs/2605.05017) | **Embodied AI**&**Privacy-Utility Trade-off**&**SPINE** |
 
 
 

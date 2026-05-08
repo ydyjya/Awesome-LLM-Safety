@@ -843,6 +843,16 @@
 | 26.04 | School of Astronautics, Beihang University | ACL 2026 | [Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation](https://arxiv.org/abs/2604.24396) | **Visual Grounding**&**Hallucination Mitigation**&**LVLM** |
 | 26.04 | The University of Hong Kong | ACL 2026 | [FinGround: Detecting and Grounding Financial Hallucinations via Atomic Claim Verification](https://arxiv.org/abs/2604.23588) | **Financial Hallucination**&**Atomic Claims**&**Verification** |
 | 26.04 | University of Science and Technology of China | CVPR 2026 | [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.25642) | **LVLM**&**Prefill-Time Intervention**&**Hallucination** |
+| 26.05 | University of Texas San Antonio | arxiv | [LLM Ghostbusters: Surgical Hallucination Suppression via Adaptive Unlearning](https://arxiv.org/abs/2605.01047) | **Hallucination Suppression**&**Adaptive Unlearning**&**LLM Safety** |
+| 26.05 | University of International Relations | arxiv | [GEASS: Training-Free Caption Steering for Hallucination Mitigation in Vision-Language Models](https://arxiv.org/abs/2605.01733) | **VLM Hallucination**&**Caption Steering**&**Training-Free** |
+| 26.05 | Alexandra Institute | arxiv | [A multilingual hallucination benchmark: MultiWikiQHalluA](https://arxiv.org/abs/2605.02504) | **Multilingual Hallucination**&**Benchmark**&**Question Answering** |
+| 26.05 | IBM Research | arxiv | [Mitigating Misalignment Contagion by Steering with Implicit Traits](https://arxiv.org/abs/2605.02751) | **Misalignment Contagion**&**Steering**&**Implicit Traits** |
+| 26.05 | Department of Computer Science and Engineering, SEST, Jamia Hamdard | arxiv | [Not All That Is Fluent Is Factual: Investigating Hallucinations of Large Language Models in Academic Writing](https://arxiv.org/abs/2605.04171) | **Academic Writing**&**Hallucination**&**Evaluation** |
+| 26.05 | The Pennsylvania State University | arxiv | [When Relations Break: Analyzing Relation Hallucination in Vision-Language Model Under Rotation and Noise](https://arxiv.org/abs/2605.05045) | **Relation Hallucination**&**Vision-Language Models**&**Robustness** |
+| 26.05 | Oracle Corporation | arxiv | [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](https://arxiv.org/abs/2605.05103) | **Hallucination Measurement**&**Concept Fields**&**Black-Box** |
+| 26.05 | Department of Information Engineering and Computer Science, University of Trento | arxiv | [Hallucination as an Anomaly: Dynamic Intervention via Probabilistic Circuits](https://arxiv.org/abs/2605.05953) | **Hallucination**&**Anomaly Detection**&**Probabilistic Circuits** |
+| 26.05 | School of Computer Science and Technology, Tianjin University | ACL 2026 | [Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation](https://arxiv.org/abs/2605.05777) | **Black-Box Uncertainty**&**Adversarial Distillation**&**Hallucination** |
+| 26.05 | Google Research | ICML 2026 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](https://arxiv.org/abs/2605.01428) | **Hallucination**&**Metacognition**&**Uncertainty** |
 
 
 

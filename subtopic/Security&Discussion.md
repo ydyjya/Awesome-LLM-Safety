@@ -450,6 +450,8 @@
 | 26.04 | ETH Zurich | arxiv | [Using large language models for embodied planning introduces systematic safety risks](https://arxiv.org/abs/2604.18463) | **Embodied Planning**&**Robotics Safety**&**LLM Agents** |
 | 26.04 | BlueFocus Communication Group | arxiv | [Owner-Harm: A Missing Threat Model for AI Agent Safety](https://arxiv.org/abs/2604.18658) | **Agent Safety**&**Threat Model**&**Owner Harm** |
 | 26.04 | University of Oslo | arxiv | [Towards Agentic Investigation of Security Alerts](https://arxiv.org/abs/2604.25846) | **Security Alerts**&**Agentic Investigation**&**Cybersecurity** |
+| 26.05 | Fudan University | arxiv | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900) | **Embodied AI**&**Safety Survey**&**Attacks** |
+| 26.05 | Shanghai Jiao Tong University | arxiv | [ClawGuard: Out-of-Band Detection of LLM Agent Workflow Hijacking via EM Side Channel](https://arxiv.org/abs/2605.06205) | **Workflow Hijacking**&**Side Channel**&**Agent Security** |
 
 
 
