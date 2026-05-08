@@ -92,6 +92,8 @@
 | 26.03 | Joint International Research Laboratory of Silk Road Multilingual Cognitive Computing, Urumqi, China | arxiv | [From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs](https://arxiv.org/abs/2603.24034) | **Speech-LLMs**&**Context bias**&**Robust ASR** |
 | 26.04 | College of Cyber Security, Jinan University, Guangzhou 510632, China | arxiv | [DeepSeek Robustness Against Semantic-Character Dual-Space Mutated Prompt Injection](https://arxiv.org/abs/2604.12548) | **Mutated Prompt Injection**&**Semantic-Character Dual-Space Mutated**&**Dual-Space Mutated Prompt** |
 | 26.04 | EPFL | ACL 2026 | [Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks](https://arxiv.org/abs/2604.18660) | **LLM Tutors**&**Answer Leakage**&**Adversarial Students** |
+| 26.04 | Ben-Gurion University of the Negev | arxiv | [SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?](https://arxiv.org/abs/2604.25737) | **Code Editing**&**Multi-Agent**&**Reliability** |
+| 26.04 | Washington University in St. Louis | arxiv | [Low Rank Adaptation for Adversarial Perturbation](https://arxiv.org/abs/2604.27487) | **Adversarial Perturbation**&**LoRA**&**Robustness** |
 
 
 

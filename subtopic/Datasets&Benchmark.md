@@ -436,6 +436,8 @@
 | 26.04 | University of Michigan | arxiv | [SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models](https://arxiv.org/abs/2604.19638) | **Multimodal Planning**&**Safety Benchmark**&**Embodied AI** |
 | 26.04 | Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology | arxiv | [CyberCertBench: Evaluating LLMs in Cybersecurity Certification Knowledge](https://arxiv.org/abs/2604.20389) | **Cybersecurity**&**Certification**&**Benchmark** |
 | 26.04 | Department of Artificial Intelligence, Hanyang University | ACL 2026 | [MHSafeEval: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models](https://arxiv.org/abs/2604.17730) | **Mental Health**&**Safety Evaluation**&**Role-Aware** |
+| 26.04 | Shanghai Jiao Tong University | arxiv | [OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents](https://arxiv.org/abs/2604.24348) | **OS Agents**&**Safety Evaluation**&**Robustness** |
+| 26.04 | Kyushu Institute of Technology | arxiv | [Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control](https://arxiv.org/abs/2604.26577) | **Healthcare Robotics**&**LLM Safety**&**Benchmark** |
 
 
 

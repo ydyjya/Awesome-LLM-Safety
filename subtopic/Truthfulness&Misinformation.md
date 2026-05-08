@@ -835,6 +835,14 @@
 | 26.04 | HKUST(GZ) | ACL 2026 | [PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations](https://arxiv.org/abs/2604.16909) | **Hallucination**&**Source Memory**&**Reasoning Probe** |
 | 26.04 | Huazhong University of Science and Technology | ICASSP 2026 | [VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing](https://arxiv.org/abs/2604.19412) | **LVLM**&**Object Hallucination**&**Visual Contrastive Editing** |
 | 26.04 | Computer Science Department, University of Münster | IJCNN 2026 | [RAGognizer: Hallucination-Aware Fine-Tuning via Detection Head Integration](https://arxiv.org/abs/2604.15945) | **RAG**&**Hallucination Detection**&**Fine-Tuning** |
+| 26.04 | Tsinghua University | arxiv | [KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning](https://arxiv.org/abs/2604.22779) | **Hallucination**&**Knowledge Boundary**&**Reinforcement Learning** |
+| 26.04 | East China Normal University | arxiv | [DO-Bench: An Attributable Benchmark for Diagnosing Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2604.22822) | **Object Hallucination**&**Vision-Language Models**&**Benchmark** |
+| 26.04 | IIT Gandhinagar | arxiv | [SycoPhantasy: Quantifying Sycophancy and Hallucination in Small Open Weight VLMs for Vision-Language Scoring of Fantasy Characters](https://arxiv.org/abs/2604.24346) | **Sycophancy**&**VLM Hallucination**&**Fantasy Characters** |
+| 26.04 | Rochester Institute of Technology | arxiv | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | **Hallucination Detection**&**Hidden Evidence**&**Diffusion LLMs** |
+| 26.04 | Nara Institute of Science and Technology (NAIST), Japan | arxiv | [HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists](https://arxiv.org/abs/2604.26835) | **Citation Hallucination**&**Verification Toolkit**&**AI Scientists** |
+| 26.04 | School of Astronautics, Beihang University | ACL 2026 | [Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation](https://arxiv.org/abs/2604.24396) | **Visual Grounding**&**Hallucination Mitigation**&**LVLM** |
+| 26.04 | The University of Hong Kong | ACL 2026 | [FinGround: Detecting and Grounding Financial Hallucinations via Atomic Claim Verification](https://arxiv.org/abs/2604.23588) | **Financial Hallucination**&**Atomic Claims**&**Verification** |
+| 26.04 | University of Science and Technology of China | CVPR 2026 | [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.25642) | **LVLM**&**Prefill-Time Intervention**&**Hallucination** |
 
 
 

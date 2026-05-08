@@ -434,6 +434,8 @@
 | 26.04 | Worcester Polytechnic Institute, Worcester, MA, USA | arxiv | [SafeScreen: A Safety-First Screening Framework for Personalized Video Retrieval for Vulnerable Users](https://arxiv.org/abs/2604.03264) | **Agentic Reasoning**&**Explainability**&**Video Safety** |
 | 26.04 | Araya Inc. | arxiv | [PSYCHOLOGICAL CONCEPT NEURONS: CAN NEURAL CONTROL BIAS PROBING AND SHIFT GENERATION IN LLMS?](https://arxiv.org/abs/2604.11802) | **PSYCHOLOGICAL CONCEPT NEURONS**&**NEURAL CONTROL BIAS**&**NEURAL CONTROL** |
 | 26.04 | School of Information Science, Beijing Language and Culture University, Beijing, China | ACL 2026 | [SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models](https://arxiv.org/abs/2604.14672) | **SPAGBias**&**Large Language**&**Spatial Gender Bias** |
+| 26.04 | Politecnico di Milano | arxiv | [Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation](https://arxiv.org/abs/2604.23600) | **Gender Bias**&**Persona Conditioning**&**Multilingual LLMs** |
+| 26.04 | University of Florida | arxiv | [An Investigation of Linguistic Biases in LLM-Based Recommendations](https://arxiv.org/abs/2604.25456) | **Recommendation Systems**&**Linguistic Bias**&**LLM Fairness** |
 
 
 ## 💻Presentations & Talks

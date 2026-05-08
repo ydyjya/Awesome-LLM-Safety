@@ -531,6 +531,7 @@
 | 26.04 | The Chinese University of Hong Kong | ACL 2026 | [Understanding Secret Leakage Risks in Code LLMs: A Tokenization Perspective](https://arxiv.org/abs/2604.17814) | **Code LLMs**&**Secret Leakage**&**Tokenization** |
 | 26.04 | Dartmouth College | ACL 2026 | [If Only My CGM Could Speak: A Privacy-Preserving Agent for Question Answering over Continuous Glucose Data](https://arxiv.org/abs/2604.17133) | **Health Privacy**&**CGM**&**Question Answering** |
 | 26.04 | Emory University | S&P 2026 | [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697) | **Extraction Risk**&**LLM APIs**&**Privacy Evaluation** |
+| 26.04 | Zhejiang University | arxiv | [A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations](https://arxiv.org/abs/2604.24468) | **Split Learning**&**LLM Fine-Tuning**&**Privacy** |
 
 
 

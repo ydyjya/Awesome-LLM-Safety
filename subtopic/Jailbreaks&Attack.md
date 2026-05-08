@@ -1061,6 +1061,21 @@
 | 26.04 | Capital One, AI Foundations | ACL 2026 | [Adaptive Instruction Composition for Automated LLM Red-Teaming](https://arxiv.org/abs/2604.21159) | **Red-Teaming**&**Instruction Composition**&**Automation** |
 | 26.04 | University of Electronic Science and Technology of China | ACL 2026 | [Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18663) | **RAG**&**Soft Failure**&**Jamming Attacks** |
 | 26.04 | University of Central Florida, USA | ACL 2026 | [Conjunctive Prompt Attacks in Multi-Agent LLM Systems](https://arxiv.org/abs/2604.16543) | **Multi-Agent Systems**&**Prompt Attacks**&**Conjunctive Attacks** |
+| 26.04 | Responsible AI, Microsoft | arxiv | [AutoRISE: Agent-Driven Strategy Evolution for Red-Teaming Large Language Models](https://arxiv.org/abs/2604.22871) | **Red-Teaming**&**Strategy Evolution**&**LLM Safety** |
+| 26.04 | NVIDIA | arxiv | [Training a General Purpose Automated Red Teaming Model](https://arxiv.org/abs/2604.23067) | **Automated Red Teaming**&**Adversarial Goals**&**Model Training** |
+| 26.04 | ECE Department, University of Toronto | arxiv | [Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards](https://arxiv.org/abs/2604.23341) | **Smart Grid**&**Jailbreak Benchmark**&**Critical Infrastructure** |
+| 26.04 | Carnegie Mellon University | arxiv | [Jailbreaking Frontier Foundation Models Through Intention Deception](https://arxiv.org/abs/2604.24082) | **Intention Deception**&**Jailbreak**&**Foundation Models** |
+| 26.04 | Swarms & AI Lab (SAIL), University of Haifa | arxiv | [Semantic Denial of Service in LLM-controlled robots](https://arxiv.org/abs/2604.24790) | **Robotic Agents**&**Semantic DoS**&**Prompt Injection** |
+| 26.04 | School of Information Studies, McGill University | arxiv | [Adaptive Prompt Embedding Optimization for LLM Jailbreaking](https://arxiv.org/abs/2604.24983) | **Jailbreak**&**Embedding Optimization**&**White-Box Attack** |
+| 26.04 | AI Talent Hub, ITMO University | arxiv | [Cross-Lingual Jailbreak Detection via Semantic Codebooks](https://arxiv.org/abs/2604.25716) | **Cross-Lingual Safety**&**Jailbreak Detection**&**Semantic Codebooks** |
+| 26.04 | University of Michigan | arxiv | [One Word at a Time: Incremental Completion Decomposition Breaks LLM Safety](https://arxiv.org/abs/2604.25921) | **Incremental Decomposition**&**Jailbreak**&**LLM Safety** |
+| 26.04 | Responsible AI, Microsoft | arxiv | [From Prompt Risk to Response Risk: Paired Analysis of Safety Behavior of Large Language Model](https://arxiv.org/abs/2604.26052) | **Prompt Risk**&**Response Risk**&**Safety Behavior** |
+| 26.04 | CISPA | arxiv | [SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts](https://arxiv.org/abs/2604.26506) | **Review Systems**&**Hidden Prompts**&**Prompt Injection** |
+| 26.04 | UNSW Sydney | arxiv | [Membership Inference Attacks Against Video Large Language Models](https://arxiv.org/abs/2604.27002) | **Membership Inference**&**Video LLMs**&**Privacy** |
+| 26.04 | Independent Researcher | arxiv | [Indirect Prompt Injection in the Wild: An Empirical Study of Prevalence, Techniques, and Objectives](https://arxiv.org/abs/2604.27202) | **Indirect Prompt Injection**&**Web Security**&**Empirical Study** |
+| 26.04 | Nanjing University | arxiv | [Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors](https://arxiv.org/abs/2604.27426) | **Supply Chain**&**Code Backdoors**&**Secret Stealing** |
+| 26.04 | Johns Hopkins University | arxiv | [TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning](https://arxiv.org/abs/2604.27861) | **Decompositional Jailbreaks**&**Stateful Defense**&**Contrastive Learning** |
+| 26.04 | The Pennsylvania State University | arxiv | [FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157) | **Red-Teaming**&**Prompt Injection**&**Knowledge Corruption** |
 
 
 

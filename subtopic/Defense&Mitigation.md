@@ -832,6 +832,24 @@
 | 26.04 | NuSCI Research Group, Computer Science Laboratory, SRI | arxiv | [Breaking Bad: Interpretability-Based Safety Audits of State-of-the-Art LLMs](https://arxiv.org/abs/2604.20945) | **Interpretability**&**Safety Audit**&**LLM Internals** |
 | 26.04 | Aarhus University | arxiv | [MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks](https://arxiv.org/abs/2604.21477) | **MCP Security**&**Developer Pitfalls**&**Tool Servers** |
 | 26.04 | Harbin Institute of Technology | ACL 2026 | [On Safety Risks in Experience-Driven Self-Evolving Agents](https://arxiv.org/abs/2604.16968) | **Self-Evolving Agents**&**Experience Learning**&**Agent Safety** |
+| 26.04 | University of Chinese Academy of Sciences | arxiv | [RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents](https://arxiv.org/abs/2604.22888) | **Skill Poisoning**&**Agent Security**&**Internal Signals** |
+| 26.04 | Hubei University | arxiv | [UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](https://arxiv.org/abs/2604.23141) | **Unlearning**&**Social Engineering**&**Cross-Stack Defense** |
+| 26.04 | The Hong Kong University of Science and Technology | arxiv | [Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents](https://arxiv.org/abs/2604.23374) | **Information Flow**&**LLM Agents**&**Security Tracking** |
+| 26.04 | College of Information Sciences and Technology, Penn State University | arxiv | [AI Safety Training Can be Clinically Harmful](https://arxiv.org/abs/2604.23445) | **Clinical Safety**&**AI Alignment**&**Healthcare** |
+| 26.04 | Swept AI | arxiv | [Evaluation of Prompt Injection Defenses in Large Language Models](https://arxiv.org/abs/2604.23887) | **Prompt Injection**&**Defense Evaluation**&**LLM Security** |
+| 26.04 | Beihang University | arxiv | [AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization](https://arxiv.org/abs/2604.24118) | **Agent Defense**&**Prompt Injection**&**Semantic Virtualization** |
+| 26.04 | School of Cyber Science and Technology, Harbin Institute of Technology | arxiv | [Defusing the Trigger: Plug-and-Play Defense for Backdoored LLMs via Tail-Risk Intrinsic Geometric Smoothing](https://arxiv.org/abs/2604.24162) | **Backdoor Defense**&**Tail Risk**&**Geometric Smoothing** |
+| 26.04 | Singapore Management University | arxiv | [Layerwise Convergence Fingerprints for Runtime Misbehavior Detection in Large Language Models](https://arxiv.org/abs/2604.24542) | **Runtime Detection**&**Layerwise Fingerprints**&**Misbehavior** |
+| 26.04 | FIND-Lab | arxiv | [AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents](https://arxiv.org/abs/2604.24657) | **Agent Security**&**Lifecycle Defense**&**Defense-in-Depth** |
+| 26.04 | University of California, Berkeley | arxiv | [Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/abs/2604.24700) | **Trustworthy AI**&**Medical Diagnosis**&**User-Centric Safety** |
+| 26.04 | HD Korea Shipbuilding & Offshore Engineering | arxiv | [Safe-Support Q-Learning: Learning without Unsafe Exploration](https://arxiv.org/abs/2604.25379) | **Safe Reinforcement Learning**&**Q-Learning**&**Unsafe Exploration** |
+| 26.04 | National University of Defense Technology | arxiv | [SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents](https://arxiv.org/abs/2604.25562) | **Web Agents**&**Prompt Injection**&**Screenshot Detection** |
+| 26.04 | Department of Electrical and Computer Engineering, Yale University | arxiv | [Test-Time Safety Alignment](https://arxiv.org/abs/2604.26167) | **Test-Time Alignment**&**Safety**&**Inference Control** |
+| 26.04 | Grado Department of Industrial & Systems Engineering, Virginia Tech | arxiv | [CareGuardAI: Context-Aware Multi-Agent Guardrails for Clinical Safety & Hallucination Mitigation in Patient-Facing LLMs](https://arxiv.org/abs/2604.26959) | **Clinical Safety**&**Multi-Agent Guardrails**&**Hallucination Mitigation** |
+| 26.04 | Center for Data Science, New York University Shanghai | ACL 2026 | [SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs](https://arxiv.org/abs/2604.22134) | **Educational LLMs**&**Safety**&**Pedagogy** |
+| 26.04 | Graduate School of Advanced Imaging Sciences, Multimedia and Film, Chung-Ang University | ACL 2026 | [Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2604.24395) | **LVLM**&**Preference Learning**&**Hallucination Mitigation** |
+
+
 
 
 ## 💻Presentations & Talk
