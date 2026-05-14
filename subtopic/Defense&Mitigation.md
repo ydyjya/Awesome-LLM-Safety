@@ -878,6 +878,7 @@
 | Date  |   Type    |       Title        |                         URL                          |
 |:-----:|:---------:|:------------------:|:----------------------------------------------------:|
 | 23.10 | Tutorials | Awesome-LLM-Safety | [link](https://github.com/ydyjya/Awesome-LLM-Safety) |
+| 26.05 | Repository | APort Agent Guardrails | [website](https://aport.io)<br/>[examples](https://github.com/aporthq/aport-integrations) |
 
 ## 📰News & Articles
 
