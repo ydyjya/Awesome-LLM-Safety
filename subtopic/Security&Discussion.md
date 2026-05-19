@@ -452,6 +452,19 @@
 | 26.04 | University of Oslo | arxiv | [Towards Agentic Investigation of Security Alerts](https://arxiv.org/abs/2604.25846) | **Security Alerts**&**Agentic Investigation**&**Cybersecurity** |
 | 26.05 | Fudan University | arxiv | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900) | **Embodied AI**&**Safety Survey**&**Attacks** |
 | 26.05 | Shanghai Jiao Tong University | arxiv | [ClawGuard: Out-of-Band Detection of LLM Agent Workflow Hijacking via EM Side Channel](https://arxiv.org/abs/2605.06205) | **Workflow Hijacking**&**Side Channel**&**Agent Security** |
+| 26.05 | Nanjing University of Posts and Telecommunications | arxiv | [The Authorization-Execution Gap Is a Major Safety and Security Problem in Open-World Agents](https://arxiv.org/abs/2605.11003) | **LLM Agents**&**Authorization**&**Execution Safety** |
+| 26.05 | King Abdullah University of Science and Technology | arxiv | [The Granularity Mismatch in Agent Security: Argument-Level Provenance Solves Enforcement and Isolates the LLM Reasoning Bottleneck](https://arxiv.org/abs/2605.11039) | **LLM Agents**&**Provenance**&**Tool Security** |
+| 26.05 | Max Planck Institute for Security and Privacy | arxiv | [ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?](https://arxiv.org/abs/2605.11086) | **Cybersecurity**&**Exploitation**&**AI Agents** |
+| 26.05 | University of Arkansas | arxiv | [How Does Differential Privacy Affect Social Bias in LLMs? A Systematic Evaluation](https://arxiv.org/abs/2605.11195) | **Differential Privacy**&**Bias**&**Fairness** |
+| 26.05 | Wyze Labs | arxiv | [Comment and Control: Hijacking Agentic Workflows via Context-Grounded Evolution](https://arxiv.org/abs/2605.11229) | **Agentic Workflows**&**Prompt Injection**&**Workflow Hijacking** |
+| 26.05 | FAIR, Meta Superintelligence Labs | arxiv | [TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection](https://arxiv.org/abs/2605.12456) | **Watermarking**&**Provenance**&**Distillation Protection** |
+| 26.05 | Lancaster University | arxiv | [Large Language Models for Agentic NetOps and AIOps: Architectures, Evaluation, and Safety](https://arxiv.org/abs/2605.12729) | **Agentic NetOps**&**AIOps**&**Operational Safety** |
+| 26.05 | TELUS Digital Research Hub | arxiv | [Persona-Model Collapse in Emergent Misalignment](https://arxiv.org/abs/2605.12850) | **Emergent Misalignment**&**Persona Collapse**&**Fine-Tuning** |
+| 26.05 | Unknown | arxiv | [Do Skill Descriptions Tell the Truth? Detecting Undisclosed Security Behaviors in Code-Backed LLM Skills](https://arxiv.org/abs/2605.12875) | **Agent Skills**&**Security Behaviors**&**Static Analysis** |
+| 26.05 | University of California, Los Angeles | arxiv | [No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills](https://arxiv.org/abs/2605.13044) | **Agent Skills**&**Semantic Fuzzing**&**Specification Violations** |
+| 26.05 | Software and Societal Systems Department | arxiv | [Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games](https://arxiv.org/abs/2605.14283) | **Watermarking**&**Game-Playing Agents**&**Extensive-Form Games** |
+| 26.05 | Evolvent AI Research Team | arxiv | [Do Coding Agents Understand Least-Privilege Authorization?](https://arxiv.org/abs/2605.14859) | **Coding Agents**&**Least Privilege**&**Authorization** |
+| 26.05 | TU Berlin | arxiv | [Toward Securing AI Agents Like Operating Systems](https://arxiv.org/abs/2605.14932) | **AI Agents**&**Operating Systems**&**Security Architecture** |
 
 
 

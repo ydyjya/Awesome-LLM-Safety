@@ -853,6 +853,11 @@
 | 26.05 | Department of Information Engineering and Computer Science, University of Trento | arxiv | [Hallucination as an Anomaly: Dynamic Intervention via Probabilistic Circuits](https://arxiv.org/abs/2605.05953) | **Hallucination**&**Anomaly Detection**&**Probabilistic Circuits** |
 | 26.05 | School of Computer Science and Technology, Tianjin University | ACL 2026 | [Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation](https://arxiv.org/abs/2605.05777) | **Black-Box Uncertainty**&**Adversarial Distillation**&**Hallucination** |
 | 26.05 | Google Research | ICML 2026 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](https://arxiv.org/abs/2605.01428) | **Hallucination**&**Metacognition**&**Uncertainty** |
+| 26.05 | Los Alamos National Laboratory | arxiv | [Sanity Checks for Long-Form Hallucination Detection](https://arxiv.org/abs/2605.08346) | **Hallucination**&**Reasoning Traces**&**Detection** |
+| 26.05 | University of Massachusetts Amherst | arxiv | [Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection](https://arxiv.org/abs/2605.08583) | **Hallucination**&**Citation Verification**&**Multi-Agent Systems** |
+| 26.05 | Hong Kong University of Science and Technology | arxiv | [Scalable Token-Level Hallucination Detection in Large Language Models](https://arxiv.org/abs/2605.12384) | **Hallucination**&**Token-Level Detection**&**Large Language Models** |
+| 26.05 | Tsinghua University | arxiv | [Do We Really Need External Tools to Mitigate Hallucinations? SIRA: Shared-Prefix Internal Reconstruction of Attribution](https://arxiv.org/abs/2605.14621) | **Hallucination**&**Vision-Language Models**&**Contrastive Decoding** |
+| 26.05 | University of Pennsylvania | ICML 2026 | [REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](https://arxiv.org/abs/2605.12813) | **Hallucination**&**Adversarial Attacks**&**Latent Space** |
 
 
 

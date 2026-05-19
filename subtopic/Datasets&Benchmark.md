@@ -446,7 +446,21 @@
 | 26.05 | Simula Metropolitan Center for Digital Engineering | arxiv | [When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](https://arxiv.org/abs/2605.06652) | **Safety Scoring**&**No Ground Truth**&**Validation** |
 | 26.05 | Tsinghua University | ACL 2026 | [LeakDojo: Decoding the Leakage Threats of RAG Systems](https://arxiv.org/abs/2605.05818) | **RAG Leakage**&**Benchmark**&**Privacy** |
 | 26.05 | Shanghai University of Finance and Economics | ACL 2026 | [FinSafetyBench: Evaluating LLM Safety in Real-World Financial Scenarios](https://arxiv.org/abs/2605.00706) | **Financial Safety**&**Benchmark**&**LLM Evaluation** |
-
+| 26.05 | The Hong Kong Polytechnic University | arxiv | [When Routine Chats Turn Toxic: Unintended Long-Term State Poisoning in Personalized Agents](https://arxiv.org/abs/2605.06731) | **Agent Memory**&**State Poisoning**&**Personalized Agents** |
+| 26.05 | Tencent Hunyuan | arxiv | [Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents](https://arxiv.org/abs/2605.07630) | **LLM Agents**&**Phone-Use Agents**&**Safety Evaluation** |
+| 26.05 | Chung-Ang University | arxiv | [CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios](https://arxiv.org/abs/2605.07830) | **LLM Agents**&**Bias**&**Cybersecurity** |
+| 26.05 | Redwood Research | arxiv | [MonitoringBench: Semi-Automated Red-Teaming for Agent Monitoring](https://arxiv.org/abs/2605.09684) | **Red Teaming**&**Agent Monitoring**&**Coding Agents** |
+| 26.05 | Stanford University | arxiv | [CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs](https://arxiv.org/abs/2605.09823) | **Multi-Agent Systems**&**Privacy**&**Coordination** |
+| 26.05 | School of Computer Science | arxiv | [EditRisk-Bench: Benchmarking Safety Risks of Knowledge-Intensive Reasoning under Malicious Knowledge Editing](https://arxiv.org/abs/2605.10146) | **Knowledge Editing**&**Safety Risks**&**Reasoning** |
+| 26.05 | Nanjing University of Aeronautics and Astronautics | arxiv | [LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments](https://arxiv.org/abs/2605.10779) | **LLM Agents**&**Behavioral Jailbreak**&**OS Security** |
+| 26.05 | UC Berkeley | arxiv | [MT-JailBench: A Modular Benchmark for Understanding Multi-Turn Jailbreak Attacks](https://arxiv.org/abs/2605.11002) | **Jailbreak**&**Multi-Turn**&**Benchmark** |
+| 26.05 | Peking University | arxiv | [SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces](https://arxiv.org/abs/2605.12015) | **Agent Skills**&**Safety Evaluation**&**Attack Surfaces** |
+| 26.05 | University of Southern California | arxiv | [PRIVACYSIM: Evaluating LLM Simulation of User Privacy Behavior](https://arxiv.org/abs/2605.12147) | **Privacy Simulation**&**User Behavior**&**LLM Evaluation** |
+| 26.05 | University of Southern California | arxiv | [AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills](https://arxiv.org/abs/2605.13940) | **Agent Skills**&**Runtime Trust**&**Supply Chain** |
+| 26.05 | Carnegie Mellon University | arxiv | [EXPLOITBENCH: A CAPABILITY LADDER BENCHMARK FOR LLM CYBERSECURITY AGENTS](https://arxiv.org/abs/2605.14153) | **Cybersecurity Agents**&**Exploitation**&**Benchmark** |
+| 26.05 | University of California, Santa Barbara | arxiv | [Auditing Agent Harness Safety](https://arxiv.org/abs/2605.14271) | **Agent Harness**&**Safety Audit**&**Trajectory Evaluation** |
+| 26.05 | Unknown | arxiv | [The Great Pretender: A Stochasticity Problem in LLM Jailbreak](https://arxiv.org/abs/2605.14418) | **Jailbreak**&**Stochasticity**&**Evaluation** |
+| 26.05 | Unknown | arxiv | [Defenses at Odds: Measuring and Explaining Defense Conflicts in Large Language Models](https://arxiv.org/abs/2605.14514) | **Defense Conflicts**&**Sequential Deployment**&**LLM Safety** |
 
 
 

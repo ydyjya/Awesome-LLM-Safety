@@ -541,6 +541,17 @@
 | 26.05 | CWI Amsterdam | arxiv | [PACZero: PAC-Private Fine-Tuning of Language Models via Sign Quantization](https://arxiv.org/abs/2605.06505) | **PAC Privacy**&**Fine-Tuning**&**Sign Quantization** |
 | 26.05 | Department of Computer Science, University of Maryland, College Park | arxiv | [FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning](https://arxiv.org/abs/2605.06596) | **Federated Fine-Tuning**&**Client Attribution**&**Privacy** |
 | 26.05 | Xiamen University | ICML 2026 | [Position: Embodied AI Requires a Privacy-Utility Trade-off](https://arxiv.org/abs/2605.05017) | **Embodied AI**&**Privacy-Utility Trade-off**&**SPINE** |
+| 26.05 | Purdue University | arxiv | [PAAC: Privacy-Aware Agentic Device-Cloud Collaboration](https://arxiv.org/abs/2605.08646) | **Privacy**&**LLM Agents**&**Device-Cloud Collaboration** |
+| 26.05 | MemTensor (Shanghai) Technology Co., Ltd. | arxiv | [MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://arxiv.org/abs/2605.09530) | **Privacy**&**Agent Memory**&**Edge-Cloud Agents** |
+| 26.05 | Microsoft Corporation | arxiv | [Portable Agent Memory: A Protocol for Provenance-Verified Memory Transfer Across Heterogeneous LLM Agents](https://arxiv.org/abs/2605.11032) | **Agent Memory**&**Provenance**&**Interoperability** |
+| 26.05 | Department of Computer Science | arxiv | [Sequential Behavioral Watermarking for LLM Agents](https://arxiv.org/abs/2605.11036) | **Watermarking**&**LLM Agents**&**Provenance** |
+| 26.05 | University of Arkansas | arxiv | [How Does Differential Privacy Affect Social Bias in LLMs? A Systematic Evaluation](https://arxiv.org/abs/2605.11195) | **Differential Privacy**&**Bias**&**Fairness** |
+| 26.05 | Northeastern University | arxiv | [Reconstruction of Personally Identifiable Information from Supervised Finetuned Models](https://arxiv.org/abs/2605.12264) | **Privacy**&**PII Reconstruction**&**Supervised Finetuning** |
+| 26.05 | Sherpa.ai | arxiv | [Towards the Next Frontier of LLMs, Training on Private Data: A Cross-Domain Benchmark for Federated Fine-Tuning](https://arxiv.org/abs/2605.13936) | **Federated Fine-Tuning**&**Private Data**&**LLM Adaptation** |
+| 26.05 | School of Computing and Communications, Lancaster University | arxiv | [ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows](https://arxiv.org/abs/2605.14113) | **Clinical AI**&**Interpretability**&**Privacy** |
+| 26.05 | University of Florida | arxiv | [Small, Private Language Models as Teammates for Educational Assessment Design](https://arxiv.org/abs/2605.15015) | **Private Language Models**&**Education**&**Assessment Design** |
+| 26.05 | Samsung R&D Institute UK | ICASSP 2026 | [DP-LAC: Lightweight Adaptive Clipping for Differentially Private Federated Fine-Tuning of Language Models](https://arxiv.org/abs/2605.10272) | **Differential Privacy**&**Federated Learning**&**Adaptive Clipping** |
+| 26.05 | The Chinese University of Hong Kong | ICML 2026 | [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](https://arxiv.org/abs/2605.14289) | **Privacy-Preserving**&**Mixture-of-Experts**&**Proxy Selection** |
 
 
 

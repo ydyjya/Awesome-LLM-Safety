@@ -78,7 +78,7 @@
 | 25.11 | Johannes Gutenberg University Mainz / University of Colorado Boulder | arxiv | [Mitigating Label Length Bias in Large Language Models](https://arxiv.org/abs/2511.14385) | **Label Length Bias**&**Normalized Contextual Calibration**&**In-context Learning** |
 | 25.11 | NewMind AI | arxiv | [PARROT: Persuasion and Agreement Robustness Rating of Output Truth — A Sycophancy Robustness Benchmark for LLMs](https://arxiv.org/abs/2511.17220) | **Sycophancy Robustness**&**LLM Evaluation**&**Social Manipulation** |
 | 25.12 | University of Illinois Urbana-Champaign, University of Michigan | arxiv | [Cross-Lingual Prompt Steerability: Towards Accurate and Robust LLM Behavior across Languages](https://arxiv.org/abs/2512.02841) | **Cross-Lingual Prompting**&**Prompt Optimization**&**Multilingual LLMs**&**Reasoning Consistency** |
-| 25.12 | Zhejiang University, Nanyang Technological University | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
+| 25.12 | Zhejiang University, Nanyang Technological University || 26.05 | Columbia University and Google | arxiv | [Engineering Robustness into Personal Agents with the AI Workflow Store](https://arxiv.org/abs/2605.10907) | **LLM Agents**&**Robustness**&**Software Engineering** | KDD 2026 | [EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335) | **Retrieval-Augmented Generation**&**Symbolic Perturbations**&**Robustness** |
 | 25.12 | Centre for Assuring Autonomy, University of York | arxiv | [Evaluating Metrics for Safety with LLM-as-Judges](https://arxiv.org/abs/2512.15617) | **LLMJudging**&**SafetyMetrics**&**Evaluation** |
 | 26.01 | University of Luxembourg | arxiv | [How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test](https://arxiv.org/abs/2601.07084) | **SecureCode**&**AdversarialAudit**&**Robustness** |
 | 26.01 | Griffith University | arxiv | [Less Is More — Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models](https://arxiv.org/abs/2601.12042) | **VisionSecurity**&**TokenCompression**&**LVLMs** |
@@ -97,6 +97,8 @@
 | 26.05 | Rice University | arxiv | [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.01133) | **Multi-Agent Safety**&**Embedding Defenses**&**Robustness** |
 | 26.05 | Nanjing University | arxiv | [Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges](https://arxiv.org/abs/2605.06161) | **Safety Judges**&**Policy Invariance**&**Reliability** |
 | 26.05 | Shanghai Jiao Tong University | S&P 2026 | [SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058) | **Jailbreak Robustness**&**Systematization**&**LLM Security** |
+| 26.05 | Columbia University and Google | arxiv | [Engineering Robustness into Personal Agents with the AI Workflow Store](https://arxiv.org/abs/2605.10907) | **LLM Agents**&**Robustness**&**Software Engineering** |
+| 26.05 | Harbin Institute of Technology, Shenzhen | arxiv | [Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding](https://arxiv.org/abs/2605.14005) | **Speculative Decoding**&**Inference Security**&**Acceleration Collapse** |
 
 
 

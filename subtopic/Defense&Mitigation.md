@@ -866,7 +866,22 @@
 | 26.05 | School of Cyber Science and Technology, Beihang University | ICML 2026 | [SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](https://arxiv.org/abs/2605.05704) | **Agent Guardrail**&**Hierarchical Memory**&**Safety Boundary** |
 | 26.05 | Peking University | ICML 2026 | [Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection](https://arxiv.org/abs/2605.02958) | **Refusal Dynamics**&**Jailbreak Detection**&**Latent Trajectories** |
 | 26.05 | Nanjing University of Posts and Telecommunications | ICML 2026 | [Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks](https://arxiv.org/abs/2605.05995) | **Harmful Fine-Tuning**&**Safety Anchor**&**Geometric Bottleneck** |
-
+| 26.05 | Lumytics | arxiv | [Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs](https://arxiv.org/abs/2605.06669) | **Prompt Injection**&**Guardrails**&**Educational AI** |
+| 26.05 | Huazhong University of Science and Technology | arxiv | [Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions](https://arxiv.org/abs/2605.07135) | **Prompt Injection**&**GitHub Actions**&**Agentic Workflows** |
+| 26.05 | Bangladesh University of Engineering and Technology | arxiv | [MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen-TF-IDF Hybrid and Meta-Ensemble Learning](https://arxiv.org/abs/2605.07269) | **Prompt Injection**&**Multilingual**&**Ensemble Learning** |
+| 26.05 | Magellan Technology Research Institute | arxiv | [Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs](https://arxiv.org/abs/2605.07447) | **Vision-Language Models**&**Adversarial Detection**&**Sparse Autoencoders** |
+| 26.05 | Fastino Labs | arxiv | [GLiGuard: Schema-Conditioned Classification for LLM Safeguard](https://arxiv.org/abs/2605.07982) | **Guardrails**&**Content Moderation**&**Classification** |
+| 26.05 | Nanyang Technological University | arxiv | [Mitigating Many-shot Jailbreak Attacks with One Single Demonstration](https://arxiv.org/abs/2605.08277) | **Jailbreak**&**Many-Shot Attacks**&**Inference-Time Defense** |
+| 26.05 | Xidian University | arxiv | [Re-Triggering Safeguards within LLMs for Jailbreak Detection](https://arxiv.org/abs/2605.10611) | **Jailbreak**&**Detection**&**Safeguards** |
+| 26.05 | University of Kurdistan Hewler | arxiv | [AgentShield: Deception-based Compromise Detection for Tool-using LLM Agents](https://arxiv.org/abs/2605.11026) | **Prompt Injection**&**Compromise Detection**&**LLM Agents** |
+| 26.05 | Faculty of Data Science, City University of Macau | arxiv | [Safety Context Injection: Inference-Time Safety Alignment via Static Filtering and Agentic Analysis](https://arxiv.org/abs/2605.11664) | **Inference-Time Alignment**&**Safety Guardrails**&**Agentic Defense** |
+| 26.05 | Northeastern University | arxiv | [Attacks and Mitigations for Distributed Governance of Agentic AI under Byzantine Adversaries](https://arxiv.org/abs/2605.12364) | **Agentic AI Governance**&**Byzantine Adversaries**&**Access Control** |
+| 26.05 | Drone Lab, Indian Institute of Technology Mandi, India | arxiv | [BackFlush: Knowledge-Free Backdoor Detection and Elimination with Watermark Preservation in Large Language Models](https://arxiv.org/abs/2605.12529) | **Backdoor Detection**&**Watermark Preservation**&**Unlearning** |
+| 26.05 | University of Illinois Urbana-Champaign | arxiv | [CoT-Guard: Small Models for Strong Monitoring](https://arxiv.org/abs/2605.12746) | **Chain-of-Thought**&**Monitoring**&**Hidden Objectives** |
+| 26.05 | Department of Computer Science | arxiv | [Adaptive Steering and Remasking for Safe Generation in Diffusion Language Models](https://arxiv.org/abs/2605.13043) | **Diffusion Language Models**&**Safe Generation**&**Inference-Time Defense** |
+| 26.05 | City University of Hong Kong | arxiv | [Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution](https://arxiv.org/abs/2605.13411) | **Lifelong Safety**&**Attack-Defense Co-Evolution**&**Model-Agnostic Defense** |
+| 26.05 | Google Cloud AI Research | arxiv | [LiSA: Lifelong Safety Adaptation via Conservative Policy Induction](https://arxiv.org/abs/2605.14454) | **Lifelong Safety**&**Policy Induction**&**AI Agents** |
+| 26.05 | National University of Singapore | arxiv | [WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections](https://arxiv.org/abs/2605.15030) | **Web Agents**&**Prompt Injection**&**Robust Defense** |
 
 
 
