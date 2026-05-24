@@ -168,6 +168,7 @@ I can offer you a promotional spot here for up to one month.
 | 23.07 | Repository | llm-hallucination-survey | [link](https://github.com/HillZhang1999/llm-hallucination-survey) |
 | 23.10 | Repository |  LLM-Factuality-Survey   |   [link](https://github.com/wangcunxiang/LLM-Factuality-Survey)   |
 | 23.10 | Tutorials  |    Awesome-LLM-Safety    |       [link](https://github.com/ydyjya/Awesome-LLM-Safety)        |
+| 26.05 |  Article   | The AI Slop Intelligence Dashboard Problem | [link](https://labs.jamessawyer.co.uk/ai-slop-intelligence-dashboards/) |
 
 ### Other
 
