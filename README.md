@@ -244,6 +244,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+- Guardrail Evaluation - [guard-eval-harness](https://github.com/Virtue-Research/guard-eval-harness)
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
