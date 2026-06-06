@@ -223,6 +223,8 @@ I can offer you a promotional spot here for up to one month.
 
 👉[Latest&Comprehensive Defenses Paper](./subtopic/Defense&Mitigation)
 
+- **[loopguard](https://github.com/Charbelto/loopguard)**: A lightweight, zero-dependency Python framework-agnostic loop prevention and agentic guardrails engine with LangChain, LangGraph, and LlamaIndex integrations. [![GitHub stars](https://img.shields.io/github/stars/Charbelto/loopguard?style=social)](https://github.com/Charbelto/loopguard)
+
 
 --- 
 ## 💯Datasets & Benchmark
