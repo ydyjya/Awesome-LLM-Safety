@@ -124,6 +124,7 @@ I can offer you a promotional spot here for up to one month.
 
 ### Other
 
+- [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard): Open-source AI red teaming platform by Tencent Zhuque Lab. Scans Agent Skills (tool poisoning, data exfiltration), MCP servers (command injection, SSRF), AI infrastructure (50+ components, 1200+ CVEs), and evaluates LLM jailbreak resistance. Black Hat Europe 2025 Arsenal. MIT license.
 👉[Latest&Comprehensive Security Paper](.//subtopic/Security&Discussion.md)
 
 ---
