@@ -270,3 +270,8 @@ I can offer you a promotional spot here for up to one month.
 [![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
 
 **[⬆ Back to ToC](#table-of-contents)**
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) - 304 paired prompts for safety, values, bias, politics. [Overview](https://heliumtrades.com/benchmarks/)
