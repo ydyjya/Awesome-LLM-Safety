@@ -244,6 +244,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+- Bias / cue-swap consistency — [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) — 304 paired prompts; measures flip rate when one cue (name, label, topic) is swapped. Complements BBQ/TruthfulQA with deterministic pairs.
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
