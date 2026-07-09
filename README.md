@@ -270,3 +270,8 @@ I can offer you a promotional spot here for up to one month.
 [![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
 
 **[⬆ Back to ToC](#table-of-contents)**
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & **epistemic calibration** on recent (2025–2026) science summaries. Scores confidence with strictly proper (Brier) scoring and separates critique skill from calibrated truthfulness. [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Essay: skill ≠ truth](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/EPISTEMICS.md) · [Report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)
