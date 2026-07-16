@@ -197,6 +197,7 @@ I can offer you a promotional spot here for up to one month.
 | 24.09 |        Repo        |                      awesome_LLM-harmful-fine-tuning-papers                       | [link](https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers) |
 | 12.10 |        Resource    |                      Jailbreak Commuinities                                       | [link](https://repello.ai/blog/top-11-ai-jailbreak-communities-to-explore) |
 | 12.10 |        Article    |                      Jailbreak Techniques and Safeguards                           | [link](https://repello.ai/blog/understanding-ai-jailbreaking-techniques-and-safeguards-against-prompt-exploits) |
+| 26.07 |        Tool       |                      Redcells - Automated adversarial testing platform for LLMs     | [link](https://redcells.net) |
 
 ### Other
 
