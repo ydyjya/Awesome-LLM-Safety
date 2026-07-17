@@ -529,6 +529,7 @@
 | 26.07 | The Pennsylvania State University | arxiv | [PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement](https://arxiv.org/abs/2607.02897) | **multimodal unlearning**&**privacy preservation**&**benchmarking** |
 | 26.07 | dreadnode, USA | arxiv | [ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents](https://arxiv.org/abs/2607.07774) | **agent safety**&**scope enforcement**&**LLM monitoring** |
 | 26.07 | LASR Labs | arxiv | [Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring](https://arxiv.org/abs/2607.08066) | **CoT monitoring**&**persuasion attacks**&**AI oversight** |
+| 26.07 | Independent Researcher | preprint | [Measuring the Defenders: A Layer-Aware, Framework-Mapped Benchmark for Model Context Protocol Security Proxies](https://doi.org/10.6084/m9.figshare.32978657) | **MCP security**&**defense benchmark**&**framework crosswalk** |
 
 
 
