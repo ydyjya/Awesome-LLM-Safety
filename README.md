@@ -218,6 +218,7 @@ I can offer you a promotional spot here for up to one month.
 | Date  |    Type    |         Title         |                              URL                              |
 |:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
 | 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
+| 26.03 |    Tool    |       ClawSec         |     [link](https://clawsec.cc)      |
 
 ### Other
 
