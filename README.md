@@ -218,6 +218,7 @@ I can offer you a promotional spot here for up to one month.
 | Date  |    Type    |         Title         |                              URL                              |
 |:-----:|:----------:|:---------------------:|:-------------------------------------------------------------:|
 | 23.10 | Tutorials  |  Awesome-LLM-Safety   |     [link](https://github.com/ydyjya/Awesome-LLM-Safety)      |
+| 26.08 | Article | How Agent Failures Cascade | [Loop & Retry](https://loopandretry.surge.sh/posts/how-agent-failures-cascade/?ref=awesome-llm-safety) |
 
 ### Other
 
