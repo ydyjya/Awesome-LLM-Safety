@@ -235,6 +235,6 @@
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.dera.page/#ydyjya/Awesome-LLM-Safety&Date)
 
 **[⬆ 回到顶部](#table-of-contents)**
