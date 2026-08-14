@@ -267,6 +267,6 @@ I can offer you a promotional spot here for up to one month.
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.com/#ydyjya/Awesome-LLM-Safety&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ydyjya/Awesome-LLM-Safety&type=Date)](https://star-history.dera.page/#ydyjya/Awesome-LLM-Safety&Date)
 
 **[⬆ Back to ToC](#table-of-contents)**
