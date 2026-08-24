@@ -209,6 +209,7 @@ I can offer you a promotional spot here for up to one month.
 | Date  |    Institute    | Publication |                                                             Paper                                                             |
 |:-----:|:---------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|
 | 21.07 | Google Research |   ACL2022   |            [Deduplicating Training Data Makes Language Models Better](https://aclanthology.org/2022.acl-long.577/)            |
+| 26.08 |    HEOSSI     |   arxiv   | [Withholding the Completing Chunk: Exact Release-Boundary Equivalence for Production Streaming Guardrails](https://arxiv.org/abs/2608.10279) |
 | 22.04 |    Anthropic    |    arxiv    | [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) |
 
 
