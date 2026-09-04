@@ -530,6 +530,7 @@
 | 26.07 | dreadnode, USA | arxiv | [ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents](https://arxiv.org/abs/2607.07774) | **agent safety**&**scope enforcement**&**LLM monitoring** |
 | 26.07 | LASR Labs | arxiv | [Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring](https://arxiv.org/abs/2607.08066) | **CoT monitoring**&**persuasion attacks**&**AI oversight** |
 
+| 26.08 | TRACE AI Labs | preprint | [PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing) | **Compliance Benchmark**&**Enterprise AI Assistants**&**Pressure Testing** |
 
 
 ## 📚Resource
