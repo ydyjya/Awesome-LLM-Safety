@@ -244,6 +244,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+- BFSI Adversarial Safety - [FinProof dataset](https://huggingface.co/datasets/Zytra/finproof-bench) — 11,474 labeled prompts for banking/financial AI guardrail evaluation (MCP tool poisoning, RAG poisoning, indirect injection, agentic attacks); mapped to RBI, EU AI Act Art.9, DPDP Act 2023 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7464798) [[site]](https://finproof.ai/agent-siege)
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
