@@ -244,6 +244,7 @@ I can offer you a promotional spot here for up to one month.
 ### 📚Resource📚
 - Toxicity - [RealToxicityPrompts datasets](https://toxicdegeneration.allenai.org/)
 - Truthfulness - [TruthfulQA datasets](https://github.com/sylinrl/TruthfulQA)
+- Multi-turn guardrail erosion, verbatim logs - [The Architecture of Failure: A Disclosure, with Logs](https://huggingface.co/datasets/jonprice0/architecture-of-failure)
 
 ### Other
 👉[Latest&Comprehensive datasets & Benchmark Paper](./subtopic/Datasets&Benchmark.md)
